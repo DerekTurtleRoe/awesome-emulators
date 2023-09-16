@@ -20,7 +20,7 @@ Legend:
 ### Now onto the list! 😄
 
 ## Video game console emulators
-* Atari 2600
+#### Atari 2600
 	- [A26](https://www.zophar.net/a2600/a26.html)
 	- [Gopher2600](https://github.com/JetSetIlly/Gopher2600)
 	- [javatari](https://github.com/ppeccin/javatari.js)
@@ -34,13 +34,13 @@ Legend:
 	- [Virtual 2600](https://www.zophar.net/a2600/virtual-2600.html)
 	- [Virtual VCS](https://www.zophar.net/a2600/virtual-vcs.html)
 	- [z26](https://www.zophar.net/a2600/z26.html)
-* Atari 5200
+#### Atari 5200
 	- [A5200DS](https://github.com/wavemotion-dave/A5200DS/)
 	- [Jum52](https://www.zophar.net/a5200/jum52.html)
 	- ⭐ [kat5200](https://kat5200.jillybunch.com/)
 	- [Rainbow](https://web.archive.org/web/20120914030219/http://www.chrislam.co.uk/rainbow-atari-8bit-emulator.htm)
 	- [Virtual Super System (VSS)](http://atarihq.com/danb/a5200.shtml#emulator)
-* Atari 7800
+#### Atari 7800
 	- [A7800](https://github.com/7800-devtools/a7800)
 	- [A7800DS](https://github.com/wavemotion-dave/A7800DS/)
 	- [BupSystem](http://tailchao.com/BupSystem)
@@ -48,20 +48,20 @@ Legend:
 	- ⭐ [ProSystem](https://gstanton.github.io/ProSystem1_3/)
 	- [V7800](https://atarihq.com/danb/a7800.shtml#emulators)
 	- [Wii7800](https://github.com/raz0red/wii7800)
-* Atari Jaguar/Jaguar CD
+#### Atari Jaguar/Jaguar CD
 	- ⭐ [BigPEmu](https://www.richwhitehouse.com/jaguar/)
 	- [Jaggy](https://www.zophar.net/jaguar/jaggy.html)
 	- [Jagulator](https://www.zophar.net/jaguar/jagulator.html)
 	- [Project Tempest](http://pt.emuunlim.com/)
 	- [Tempest 2000 emulator/T2K](https://www.zophar.net/jaguar/t2k.html)
 	- ⭐ [Virtual Jaguar](https://www.icculus.org/virtualjaguar/)
-* Commodore Amiga CD32
+#### Commodore Amiga CD32
 	- [Akiko](https://www.zophar.net/amiga/akiko.html)
-* LaserDisc systems
+#### LaserDisc systems
 	- ⭐ [DAPHNE](http://www.daphne-emu.com/site3/index_hi.php)
 	- ⭐ [SINGE](https://kangaroopunch.com/software/singe)
 	- ⭐ [Dirk Simple](https://github.com/icculus/DirkSimple)
-* Sony PlayStation 1
+#### Sony PlayStation 1
 	- [AndriPSX](https://www.emulator-zone.com/doc.php/psx/andripsx.html)
 	- [Avocado](https://github.com/JaCzekanski/Avocado)
 	- [Bleem!](https://wikiless.org/wiki/Bleem!?lang=en)
@@ -81,7 +81,7 @@ Legend:
 	- [Rustation-NG (fork of the above?)](https://gitlab.com/flio/rustation-ng)
 	- [SSSPSX](https://www.emulator-zone.com/doc.php/psx/ssspsx.html)
 	- * [Xebra](http://drhell.web.fc2.com/ps1/)
-* Sony PlayStation 2
+#### Sony PlayStation 2
 	- [AetherSX2](https://www.aethersx2.com/archive/)
 	- [DobieStation](https://github.com/PSI-Rockin/DobieStation)
 	- [hpsx64](https://sourceforge.net/projects/hpsx64/)
@@ -90,12 +90,12 @@ Legend:
 	- ⭐ [PCSX2](https://pcsx2.net/)
 	- ⭐ [Play!](https://purei.org/)
 	- [PS2emu](https://www.emulator-zone.com/doc.php/ps2/ps2emu.html)
-* Sony PlayStation 3
+#### Sony PlayStation 3
 	- [Nucleus](https://github.com/AlexAltea/nucleus)
 	- [PS3F](https://web.archive.org/web/20161029044210/http://www.geocities.jp/mj3kj8o5/ps3f/index.html)
 	- ⭐ [RPCS3](https://rpcs3.net/)
 	- [Short Waves](https://wololo.net/downloads/index.php/download/8128)
-* Sony PlayStation 4
+#### Sony PlayStation 4
 	- ⭐ [fpPS4](https://github.com/red-prig/fpPS4)
 	- [GPCS4](https://github.com/Inori/GPCS4)
 	- ⭐ [Kyty](https://github.com/InoriRus/Kyty)
@@ -103,9 +103,9 @@ Legend:
 	- [Orbital](https://github.com/AlexAltea/orbital)
 	- [PS4Delta](https://github.com/Force67/ps4delta)
 	- [Spine](https://github.com/devofspine/spine)
-* Sony PlayStation 5
+#### Sony PlayStation 5
 	- ⭐ [Kyty](https://github.com/InoriRus/Kyty)
-* Nintendo Entertainment System
+#### Nintendo Entertainment System
 	- [ANESE](https://github.com/daniel5151/ANESE)
 	- ⭐ [FCEUX](https://fceux.com/web/home.html)
 	- [HDNes](https://github.com/mkwong98/HDNes)
@@ -120,7 +120,7 @@ Legend:
 	- [QuickNES](https://github.com/kode54/QuickNES)
 	- [RockNES](http://rocknes.web.fc2.com/)
 	- [VirtuaNES](http://virtuanes.s1.xrea.com/)
-* Super Nintendo Entertainment System
+#### Super Nintendo Entertainment System
 	- ⭐ [bsnes](https://github.com/bsnes-emu/bsnes)
 	- ⭐ [bsnes+](https://github.com/devinacker/bsnes-plus)
 	- [bsnes-classic](https://github.com/sharknnth/bsnes-classic/)
@@ -133,10 +133,10 @@ Legend:
 	- ⭐ [SNES9x](https://github.com/snes9xgit/snes9x)
 	- [SNESGT](http://gigo.retrogames.com/)
 	- [ZSNES - A historic emulator, and it is undergoing a huge rewrite for a new release eventually™](http://zsnes.com/)
-* Nintendo 64
+#### Nintendo 64
 	- [1964](https://www.emulation64.com/files/info/197/1964.html/)
 	- [1964.js](https://github.com/schibo/1964js)
-	- * [1964-GEPD](https://github.com/Graslu/1964GEPD)
+	- ⭐[1964-GEPD](https://github.com/Graslu/1964GEPD)
 	- [Apollo](http://www.apollo64.com/)
 	- [Blade64](http://blade64.emuunlim.com/)
 	- [CEN64](https://github.com/tj90241/cen64)
@@ -186,7 +186,7 @@ Legend:
 	- [UltraHLE 2064](https://www.zophar.net/n64/ultrahle-2064.html)
 	- [Wii64](https://code.google.com/archive/p/mupen64gc/)
 	- [Wii64-PS3](https://github.com/emukidid/wii64-ps3)
-* Nintendo GameCube
+#### Nintendo GameCube
 	- ⭐ [Dolphin](https://dolphin-emu.org/)
 	- [Dolwin](https://www.emulation64.com/files/info/86/dolwin.html/)
 	- [GCEmu](https://sourceforge.net/projects/gcemu-project/)
@@ -195,14 +195,14 @@ Legend:
 	- [Pureikyubu](https://github.com/emu-russia/pureikyubu)
 	- [SuperGCube](https://www.zophar.net/gc/supergcube.html)
 	- [WhineCube](http://whinecube.emulation64.com/)
-* Nintendo Wii
+#### Nintendo Wii
 	- ⭐ [Dolphin](https://dolphin-emu.org/)
 	- [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka)
-* Nintendo Wii U
+#### Nintendo Wii U
 	- ⭐ [Cemu](https://cemu.info/)
 	- [Decaf](https://github.com/decaf-emu/decaf-emu)
 	- [Kinnay](https://github.com/kinnay/Wii-U-Firmware-Emulator)
-* Nintendo Switch
+#### Nintendo Switch
 	- [CageTheUnicorn](https://github.com/reswitched/CageTheUnicorn)
 	- [Mephisto](https://github.com/reswitched/Mephisto)
 	- [NSEmu](https://github.com/RKX1209/nsemu)
@@ -211,18 +211,19 @@ Legend:
 	- [Skyline](https://skyline-emu.one/)
 	- [Strato](https://github.com/strato-emu/strato)
 	- ⭐ [Yuzu](https://yuzu-emu.org/)
-* Sega Master System
+#### Sega Master System
 	- [FreezeSMS](http://freezesms.emuunlim.com/index.html)
 	- [SMSPLUS](https://github.com/0ldsk00l/smsplus)
-* Sega Genesis/Megadrive and 32X/Sega CD
+#### Sega Genesis/Megadrive and 32X/Sega CD
 	- [Ages](https://www.emulator-zone.com/doc.php/genesis/ages.html)
 	- ⭐ [BlastEm](https://www.retrodev.com/blastem/)
 	- [DGen](https://dgen.sourceforge.net/)
+	- [Exodus](https://www.exodusemulator.com/)
 	- [Gens](https://www.emulator-zone.com/doc.php/genesis/gens.html)
 	- [Gens Plus!](https://www.emulator-zone.com/doc.php/genesis/gens_plus.html)
 	- [HazeMD](https://www.emulator-zone.com/doc.php/genesis/hazemd.html)
 	- [RetroDrive](https://www.emulator-zone.com/doc.php/genesis/retrodrive.html)
-* Sega Saturn
+#### Sega Saturn
 	- [A-SATURN](https://www.zophar.net/saturn/a-saturn.html)
 	- [Cassini](https://www.zophar.net/saturn/cassini.html)
 	- [GiriGiri](https://www.zophar.net/saturn/girigiri.html)
@@ -241,7 +242,7 @@ Legend:
 	- [UltraSat](https://www.zophar.net/saturn/ultrasat.html)
 	- ⭐ [Yaba Sanshiro 2 (formerly uoYabause)](https://www.uoyabause.org/)
 	- ⭐ [Yabause](http://yabause.org/)
-* Sega Dreamcast
+#### Sega Dreamcast
 	- [castingDreams](https://github.com/javaemus/castingDreams)
 	- [Chankast](https://www.zophar.net/dreamcast/chankast.html)
 	- [DEmul](http://demul.emulation64.com/)
@@ -259,12 +260,12 @@ Legend:
 	- [Reicast](https://github.com/skmp/reicast-emulator)
 	- [Swirly](https://swirly.sourceforge.net/)
 	- [washDC (formerly WashingtonDC)](https://gitlab.com/washemu/washdc)
-* Sega Dreamcast VMU
+#### Sega Dreamcast VMU
 	- [DirectVMS](https://www.zophar.net/vms/directvms.html)
 	- [DreamVMU](https://web.archive.org/web/20040415081512/http://xega.emucamp.com/)
 	- ⭐ [ElysianVMU](http://evmu.elysianshadows.com/)
 	- ⭐ [SoftVMS](https://mc.pp.se/dc/sw.html)
-* Microsoft Xbox
+#### Microsoft Xbox
 	- [Cxbx](https://github.com/Echelon9/cxbx-shogun)
 	- ⭐ [Cxbx-Reloaded](https://cxbx-reloaded.co.uk/)
 	- [Dxbx](http://sourceforge.net/projects/dxbx)
@@ -273,14 +274,14 @@ Legend:
 	- ⭐ [Xemu](https://xemu.app/)
 	- [Xeon](https://www.emulator-zone.com/doc.php/xbox/xeon.html)
 	- [Xenoborg](https://xenoborg-emu.blogspot.com/) - [Source here](https://code.google.com/archive/p/xenoborg/)
-* Microsoft Xbox 360
+#### Microsoft Xbox 360
 	- [cs360emu](https://github.com/soywiz-archive/cs360emu)
 	- ⭐ [Xenia](https://xenia.jp)
-* Microsoft Xbox One
+#### Microsoft Xbox One
 	- ❗ There are currently no emulators for this system, please watch out for potential scams and malicious downloads claiming this to be true!
-* Microsoft Xbox Series
+#### Microsoft Xbox Series
 	- ❗ There are currently no emulators for this system, please watch out for potential scams and malicious downloads claiming this to be true!
-* NEC PC-Engine/TurboGrafx-16/CD/SuperGrafx
+#### NEC PC-Engine/TurboGrafx-16/CD/SuperGrafx
 	- [ePCEngine](http://takeda-toshiya.my.coocan.jp/)
 	- ⭐ [Hu-Go!](https://zeograd.com/)
 	- 💲 [MagicEngine](http://www.magicengine.com/)
@@ -288,7 +289,7 @@ Legend:
 	- ⭐ [Ootake](http://www.ouma.jp/ootake)
 	- ⭐ [pcejin](https://github.com/TASVideos/pcejin)
 	- [Turbo Engine](http://aamirm.hacking-cult.org/www/turbo.html)
-* SNK Neo Geo AES/CD
+#### SNK Neo Geo AES/CD
 	- [Gekko](https://www.zophar.net/ngeo/gekko.html)
 	- [GnGeo](https://www.berlios.de/software/gngeo/)
 	- [Kawaks](https://cps2shock.emu-france.info/)
@@ -300,25 +301,25 @@ Legend:
 	- [NeoCD/SDL](http://pacifi3d.retrogames.com/neocdsdl/)
 	- [NeoRAINE](https://www.zophar.net/ngcd/neoraine.html)
 	- ⭐ [RAINE](https://github.com/zelurker/raine)
-* Pong consoles
-	- [Pong Consoles Simulation](https://github.com/ThomasVisvader/Pong)
-* Philips CD-i
+#### Pong consoles
+	- [Pong Consoles Simulation (not an emulator)](https://github.com/ThomasVisvader/Pong)
+#### Philips CD-i
 	- [CD-iCE](https://www.zophar.net/cd-i/cd-ice.html)
 	- ⭐ [CD-i Emulator](http://www.cdiemu.org/)
 	- ⭐ [CeDImu](https://github.com/Stovent/CeDImu)
 	- [Same CDi](https://docs.libretro.com/library/same_cdi/)
 	- [TinyCDi](https://www.aep-emu.de/Emus-file-emus_detail-id-1440)
-* Panasonic 3DO Interactive Multiplayer
+#### Panasonic 3DO Interactive Multiplayer
 	- [3d'oh](https://code.google.com/p/3doh/)
 	- ⭐ [4DO](https://sourceforge.net/projects/fourdo)
 	- [FreeDO](https://www.freedo.org/)
-* Panasonic 3DO M2
+#### Panasonic 3DO M2
 	- There are currently no emulators for this system.
-* Gemei A330
+#### Gemei A330
 	- [Gemei A330 libretro core](https://github.com/minexew/GA330-libretro)
-* Apple Pippin
+#### Apple Pippin
 	- See Apple computers for SheepShaver
-* Mattel Intellivision
+#### Mattel Intellivision
 	- [Bliss](https://github.com/jeremiah-sypult/BlissEmu)
 	- [Bliss32](https://www.arcadeathome.com/ivision.phtml?H)
 	- [BlissX](https://www.arcadeathome.com/ivision.phtml?H)
@@ -334,7 +335,7 @@ Legend:
 	- [FreeIntv](https://github.com/libretro/FreeIntv)
 	- [Nostalgia](https://www.intellivision.us/intvgames/nostalgia/nostalgia.php)
 	- [Xanadu](https://www.arcadeathome.com/ivision.phtml?H)
-* Coleco ColecoVision
+#### Coleco ColecoVision
 	- [Bee](https://web.archive.org/web/20180903061210/http://thebeehive.ws/download/)
 	- [ColecoDS](https://github.com/wavemotion-dave/ColecoDS)
 	- [ColEm](https://fms.komkon.org/ColEm/)
@@ -342,11 +343,9 @@ Legend:
 	- [CULT](https://www.zophar.net/coleco/cult.html)
 	- [Mugrat](https://www.bannister.org/software/mugrat.htm)
 	- [Virtual ColecoVision (AKA Colem97)](https://www.zophar.net/coleco/virtual-colecovision.html)
-* Watara SuperVision
-	- [Wataroo](http://tailchao.com/Wataroo/index.php)
 
 ## Handheld game console emulators
-* Nintendo Game Boy/Game Boy Color
+#### Nintendo Game Boy/Game Boy Color
 	- ⭐ [BGB](http://bgb.bircd.org/)
 	- ⭐ [Gambatte](https://sourceforge.net/projects/gambatte)
 	- [GameRoy](https://github.com/Rodrigodd/gameroy)
@@ -360,7 +359,7 @@ Legend:
 	- ⭐ [SameBoy](https://sameboy.github.io/)
 	- [TGB Dual](https://github.com/libertyernie/tgbdual_L)
 	- [VGB (AKA Virtual GameBoy)](https://fms.komkon.org/VGB/)
-* Nintendo Game Boy Advance
+#### Nintendo Game Boy Advance
 	- ⭐ [GiiBiiAdvance](https://github.com/AntonioND/giibiiadvance)
 	- ⭐ [mGBA](https://mgba.io/)
 	- ⭐ [NanoBoyAdvance](https://github.com/nba-emu/NanoBoyAdvance)
@@ -369,13 +368,13 @@ Legend:
 	- ❗ [VBALink](https://www.zophar.net/gba/vbalink.html) - *WARNING: This emulator is no longer maintained and has security issues. This is here for completeness, but please exercise caution when using it.*
 	- [VGBA (AKA Virtual GameBoyAdvance)](https://fms.komkon.org/VGBA/)
 	- ❗ [Visual Boy Advance](https://sourceforge.net/projects/vba) - *WARNING: This emulator is no longer maintained and has security issues. This is here for completeness, but please exercise caution when using it.*
-* Nintendo Game And Watch (MAME has some of these emulated)
+#### Nintendo Game And Watch (MAME has some of these emulated)
 	- [Handheld Quake simulations](http://www.emulator3000.org/hq.htm)
 	- [lcdgames simulations](http://bdrgames.nl/lcdgames/)
 	- ⭐ [Madrigal simulations](http://www.madrigaldesign.it/sim/index.php)
 	- [Pica Pic simulations (requires Adobe Flash)](http://pica-pic.com/)
 	- [RetroFab simulations](https://itizso.itch.io/retrofab)
-* Nintendo Virtual Boy
+#### Nintendo Virtual Boy
 	- [Planet Virtual Boy emulator (AKA PVBEmu)](https://git.virtual-boy.com/PVB/pvbemu)
 	- [r3Ddragon](https://github.com/mrdanielps/r3Ddragon)
 	- [Reality Boy (formerly VBEmu98)](http://www.goliathindustries.com/vb/)
@@ -385,12 +384,12 @@ Legend:
 	- ⭐ [VBjin-ovr](https://github.com/braindx/vbjin-ovr)
 	- [ViBE](https://www.bannister.org/software/vibe.htm)
 	- [Virtual-E](https://www.zophar.net/vboy/virtual-e.html)
-* Pokemon Mini
+#### Pokemon Mini
 	- [minimon](https://www.sublab.net/projects/minimon/)
 	- [PokeKaMini](http://www.emu-france.com/?wpfb_dl=2298)
 	- [PokeMini](https://sourceforge.net/projects/pokemini)
 	- [PokemonMiniX](https://www.pokemon-mini.net/tools/pokemonminix/)
-* Nintendo DS
+#### Nintendo DS
 	- [CorgiDS](https://github.com/PSI-Rockin/CorgiDS)
 	- [DeeS](https://github.com/DeeSEmu/DeeS)
 	- ⭐ [DeSmuME](https://desmume.org/)
@@ -409,7 +408,7 @@ Legend:
 	- [NeonDS](https://www.emulator-zone.com/doc.php/nds/neonds.html)
 	- ⭐ [no$GBA](http://problemkaputt.de/gba.htm)
 	- [NooDS](https://github.com/Hydr8gon/NooDS)
-* Nintendo 3DS
+#### Nintendo 3DS
 	- [3dmoo](https://github.com/plutooo/3dmoo)
 	- ⭐ [Citra](https://citra-emu.org/)
 	- [Corgi3DS](https://github.com/PSI-Rockin/Corgi3DS)
@@ -417,15 +416,15 @@ Legend:
 	- ❎ [Mikage](https://mikage.app/)
 	- [Panda3DS](https://github.com/wheremyfoodat/Panda3DS)
 	- [TronDS](http://trondsemu.byethost15.com/)
-* Game Park GP32
+#### Game Park GP32
 	- [GeePee32](https://www.zophar.net/gp32/geepee32.html)
-* Atari Lynx
+#### Atari Lynx
 	- ⭐ [Felix](https://github.com/laoo/Felix/)
 	- ⭐ [Handy](http://sourceforge.net/projects/handy/)
-* Sega Game Gear
+#### Sega Game Gear
 	- [Gearsystem](https://github.com/drhelius/Gearsystem/)
 	- [MasterGear](https://fms.komkon.org/MG/)
-* Sony PlayStation Portable
+#### Sony PlayStation Portable
 	- [cspspemu](https://github.com/cspspemu/cspspemu)
 	- ⭐ [JPCSP](https://jpcsp.org/)
 	- [jspspemu](https://jspspemu.soywiz.com/)
@@ -437,14 +436,14 @@ Legend:
 	- [pspemu](https://github.com/soywiz-archive/pspemu)
 	- [pspplayer](https://code.google.com/archive/p/pspplayer/)
 	- [Sam](https://www.zophar.net/psp/sam.html)
-* Sony PocketStation
+#### Sony PocketStation
 	- [PK201](http://drhell.web.fc2.com/pocket/index.html)
 	- [PKEmu](https://www.zophar.net/pocketstation/pkemu.html)
 	- [pockystation](https://github.com/simias/pockystation)
-* Sony PlayStation Vita
+#### Sony PlayStation Vita
 	- ⭐ [Vita3K](https://vita3k.org/)
 	- [vitaemu](https://github.com/soywiz-archive/vitaemu)
-* Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch
+#### Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch
 	- [Cygne](http://cygne.emuunlim.com/)
 	- [MiracleMage](https://www.zophar.net/ws/miraclemage.html)
 	- [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan)
@@ -452,7 +451,7 @@ Legend:
 	- [StoicGoose](https://github.com/xdanieldzd/StoicGoose/releases)
 	- [WonderScott](https://www.zophar.net/ws/wonderscott.html)
 	- [WSCamp](https://www.zophar.net/ws/wscamp.html)
-* SNK Neo Geo Pocket/Color
+#### SNK Neo Geo Pocket/Color
 	- [BeNeoPocott (NeoPocott ported to BeOS)](https://www.zophar.net/beos/ngpocket/beneopocott.html)
 	- [Koyote](https://www.zophar.net/ngpocket/koyote.html)
 	- [NeoPop-SDL](https://github.com/nih-at/NeoPop-SDL)
@@ -460,16 +459,20 @@ Legend:
 	- [NeoGPC](https://code.google.com/p/neogpc/)
 	- [NeoPocott](http://neopocott.emuunlim.com/index.html)
 	- [NGPocket](https://www.zophar.net/ngpocket/ngpocket.html)
+#### Watara SuperVision
+	- [Potator (legacy)](https://www.zophar.net/wsvision/potator.html)
+	- [Potator (SDL2 fork)](https://github.com/infval/potator)
+	- [Wataroo](http://tailchao.com/Wataroo/index.php)
 
 ## Phones/PDAs/other mobile devices, etc.
-* Apple iOS
+#### Apple iOS/iPod
 	- [Clicky](https://github.com/daniel5151/clicky)
 	- [qemu-ipod-nano](https://github.com/lemonjesus/qemu-ipod-nano)
 	- [qemu-ios](https://github.com/devos50/qemu-ios/tree/ipod_touch_1g)
 	- ⭐ [touchHLE](https://touchhle.org/)
 	- [unidbg](https://github.com/zhkl0228/unidbg)
 	- [xnu-qemu-arm64](https://github.com/alephsecurity/xnu-qemu-arm64)
-* Google Android
+#### Google Android
 	- ⭐ [Anbox](https://anbox.io/)
 	- ⭐ [Android SDK](https://developer.android.com/studio/)
 	- ⭐ [Android x86](https://www.android-x86.org/)
@@ -480,15 +483,15 @@ Legend:
 	- * [Plarium Play](https://plarium.com/)
 	- ⭐ [Waydroid](https://waydro.id/)
 	- ⭐ [Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/)
-* N-Gage
+#### N-Gage
 	- ⭐ [EKLA21](https://github.com/EKA2L1/EKA2L1/)
 	- [Engemu](https://github.com/mrRosset/Engemu)
 	- [NGEmu](https://github.com/NGEmu/NGEmu)
-* BREW
+#### BREW
 	- [Melange](https://gitlab.com/usernameak/brewemulator)
-* Mophun
+#### Mophun
 	- [MoRePhun](https://github.com/Luca1991/MoRePhun)
-* Java
+#### Java
 	- ⭐ [FreeJ2ME](https://github.com/hex007/freej2me/)
 	- ⭐ [J2ME-Loader](https://github.com/nikita36078/J2ME-Loader/)
 	- [JL-Mod (fork of J2ME-Loader)](https://github.com/woesss/JL-Mod/)
@@ -501,16 +504,16 @@ Legend:
 	- ⭐ [SquirrelJME](https://squirreljme.cc/)
 
 ## Computer emulators
-* Acorn computers
-* Amstrad computers
-* DOS emulators
+#### Acorn computers
+#### Amstrad computers
+#### DOS emulators
 	- [DOSBox](http://www.dosbox.com/)
 	- [DOSBox Enhanced Community Edition](https://yesterplay.net/dosboxece/)
 	- [DOSBox-Pure](https://github.com/schellingb/dosbox-pure/)
 	- [DOSBox-Staging](https://dosbox-staging.github.io/)
 	- [DOSBox-Turbo](https://play.google.com/store/apps/details?id=com.fishstix.dosbox)
 	- ⭐ [DOSBox-X](https://github.com/joncampbell123/dosbox-x/)
-* x86 emulators
+#### x86 emulators
 	- ⭐ [86Box](https://github.com/86Box/86Box/)
 	- [Bochs](https://sourceforge.net/projects/bochs/)
 	- [FEX Emu](https://github.com/FEX-Emu/FEX)
@@ -521,7 +524,7 @@ Legend:
 	- [UniPCEmu (formerly x86EMU](https://superfury.itch.io/unipcemu)
 	- [VARCem](https://www.varcem.com/)
 	- [Winlator](https://github.com/brunodev85/winlator)
-* Apple computers
+#### Apple computers
 	- [Agat](http://sourceforge.net/projects/agatemulator/)
 	- [Apple II Oasis](https://www.zophar.net/apple2/apple-ii-oasis.html)
 	- [Apple2000e (Apple II/IIe emulator for Amiga)](http://www.emucamp.com/apple_ii.html)
@@ -548,8 +551,8 @@ Legend:
 	- [Virtu](https://github.com/digital-jellyfish/Virtu)
 	- [vMac](http://www.leb.net/vmac/)
 	- [WORM](https://www.zophar.net/mac1/worm.html)
-* Coleco computers
-* Commodore computers
+#### Coleco computers
+#### Commodore computers
 	- [C64S](http://www.ccs64.com/)
 	- [CCS64](https://www.zophar.net/c64/ccs64.html)
 	- [Come Back 64](https://www.zophar.net/c64/come-back-64.html)
@@ -565,12 +568,12 @@ Legend:
 	- [VB64](http://vb64.emuunlim.com/)
 	- ⭐ [VICE](https://vice-emu.sourceforge.io/)
 	- [Win64](https://www.zophar.net/c64/win64.html)
-* Commodore Amiga computers
+#### Commodore Amiga computers/Commodore Amiga CD32
 	- [FS-UAE](https://fs-uae.net/)
 	- [UAE](https://www.zophar.net/amiga/uae.html)
 	- [WinFellow](https://petschau.github.io/WinFellow/)
 	- ⭐ [WinUAE](https://www.winuae.net/)
-* Atari computers
+#### Atari computers
 	- [ARAnyM](https://aranym.github.io/)
 	- [Castaway](https://sourceforge.net/projects/castaway)
 	- [FAST](http://fast.emuunlim.com/download.html)
@@ -582,12 +585,12 @@ Legend:
 	- [SainT](http://leonard.oxg.free.fr/SainT/saint.html)
 	- [Steem](http://steem.atari.st/)
 	- [Steem SSE](https://sourceforge.net/projects/steemsse/)
-* Sinclair computers
+#### Sinclair computers
 	- [EightyOne](https://sourceforge.net/projects/eightyone-sinclair-emulator/)
-* Sinclair ZX Spectrum series computers
+#### Sinclair ZX Spectrum series computers
 	- [Speccy](https://fms.komkon.org/Speccy/)
-* NEC computers
-* MSX computers
+#### NEC computers
+#### MSX computers
 	- ⭐ [blueMSX](http://bluemsx.msxblue.com/index.htm)
 	- [BrMSX](https://www.zophar.net/msx/brmsx.html)
 	- [CJS MSX Emulator](https://www.zophar.net/msx/cjs-msx-emulator.html)
@@ -606,19 +609,19 @@ Legend:
 	- [Virtual MSX](https://www.zophar.net/msx/virtual-msx.html)
 	- [WOOM!](https://www.zophar.net/msx/woom-.html)
 	- [Zodiac](http://sourceforge.net/projects/zodiac/)
-* Sharp computers
-* Virtualization solutions
+#### Sharp computers
+#### Virtualization solutions
 	- ⭐ [VirtualBox](https://www.virtualbox.org/)
 	- ⭐ [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/)
 	- ⭐ [VMWare](https://www.vmware.com/)
-* Interpreters
+#### Interpreters
 	- * [DreamMM](https://aarongiles.com/dreamm/)
 	- * [ResidualVM](https://github.com/residualvm/residualvm)
 	- * [ScummVM](https://www.scummvm.org/)
 
 ## Calculator emulators
-* Texas Instruments
-* TI-83 / TI-84 series
+#### Texas Instruments
+#### TI-83 / TI-84 series
 	- [AlmostTI](https://fms.komkon.org/ATI85/)
 	- [Wabbitemu](https://github.com/sputt/wabbitemu)
 	- [TilEm](http://lpg.ticalc.org/prj_tilem/)
@@ -626,12 +629,12 @@ Legend:
 	- 💲 (requires purchasing a calculator) - [TI SmartView for the TI-84+](https://education.ti.com/en/software/details/en/FFEA90EE7F9B4C24A6EC427622C77D09/sda-ti-smartview-ti-84-plus)
 	- 💲 (requires purchasing a calculator) - [TI SmartView CE for TI-84+ family](https://education.ti.com/en/software/details/en/BE8220257AA241148986628D6EE332E5/ti-smartview-ce-for-ti-84-plus-family)
 	- [jsTIfied](https://www.cemetech.net/projects/jstified)
-* TI-89 series
+#### TI-89 series
 	- [TiEmu](https://sourceforge.net/projects/gtktiemu/)
 	- [Virtual TI-89](https://home.adelphi.edu/~mo17502/VirtualTi89.html)
 	- [Graph 89](https://play.google.com/store/apps/details?id=com.Bisha.TI89Emu)
 	- [TI89-Simulator](https://ti89-simulator.com/)
-* TI-Nspire
+#### TI-Nspire
 	- [Firebird](https://github.com/nspire-emus/firebird/)
 	- [kArmTI](https://www.omnimaga.org/ti-nspire-projects/karmti-ti-nspire-emulator-with-skin-16585/345/)
 	- [nspire_emu](https://github.com/masanchez5000/nspire_emu)
@@ -653,7 +656,7 @@ Legend:
 	- [TIGraph](https://www.ticalc.org/programming/emulators/software.html)
 	- [Virtual 86](https://www.ticalc.org/programming/emulators/software.html)
 	- [Virtual TI](https://www.ticalc.org/programming/emulators/software.html)
-* Hewlett Packard monochrome calculators
+#### Hewlett Packard monochrome calculators
 	- [Emu48](https://hp.giesselink.com/emu48.htm)
 	- [Emu28](https://hp.giesselink.com/emu28.htm)
 	- [Alucin](https://www.hpcalc.org/details/3674)
@@ -662,13 +665,13 @@ Legend:
 	- [Droid48](https://play.google.com/store/apps/details?id=org.ab.x48)
 	- [Power48](https://palmdb.net/app/power48)
 	- [PSPX48](https://www.brewology.com/downloads/download.php?id=5142&mcid=1)
-* Hewlett Packard Prime calculators
+#### Hewlett Packard Prime calculators
 	- [HP Prime Virtual Calculator Emulator](https://www.hpcalc.org/details/8939)
 	- [HP Prime Graphing Calculator App (free)](https://www.microsoft.com/store/productId/9NCL1WWGMSSM)
 	- [HP Prime Graphing Calculator App (paid)](https://www.microsoft.com/store/productId/9NBLGGH5XSL5)
 	- [HP Prime Graphing Calculator App (free for Android)](https://play.google.com/store/apps/details?id=com.hp.primecalculator.free)
 	- [HP Prime Graphing Calculator App (paid for Android)](https://play.google.com/store/apps/details?id=com.hp.primecalculator)
-* Hewlett Packard scientific and financial calculators
+#### Hewlett Packard scientific and financial calculators
 	- [Emu28](https://hp.giesselink.com/emu28.htm)
 	- [Free42](https://thomasokken.com/free42/)
 	- [HP SmartCalc 300s Emulator](https://www.educalc.net/page/2336453/)
@@ -677,19 +680,19 @@ Legend:
 	- [HP 12C emulator (not official)](https://www.hpcalc.org/details/4345)
 	- [awp34s](https://github.com/odkq/awp34s)
 	- [WP34S-4NS](https://github.com/zephray/WP34S-4NS)
-* Other HP calculator resources
+#### Other HP calculator resources
 	- [HPCalc HP-48 emulators](https://www.hpcalc.org/hp48/pc/emulators/)
 	- [HPCalc HP-49 emulators](https://www.hpcalc.org/hp49/pc/emulators/)
-* Casio calculators
+#### Casio calculators
 	- [PB-1000 Emulator](https://web.archive.org/web/20210602185841/http://www.pisi.com.pl/piotr433/pb1000ee.htm)
 	- [PB-2000C Emulator](https://web.archive.org/web/20210602211836/http://www.pisi.com.pl/piotr433/pb2000ee.htm)
 	- [fx-8000G Emulator](https://web.archive.org/web/20210614152627/http://pisi.com.pl/piotr433/fx8000ee.htm)
 	- [fx-7500G Emulator](https://web.archive.org/web/20210601194704/http://www.pisi.com.pl/piotr433/fx7500ee.htm)
 	- 💲 [ClassPad emulators](https://classpad.net/intl/features/)
 	- 💲 [Official emulators for most Casio calculators](https://edu.casio.com/softwarelicense/index.php)
-* Sharp calculators
+#### Sharp calculators
 	- [Official Sharp resources](http://www.sharp-calculators.com/en/id/127-downloads#software)
-* Elektronika calculators
+#### Elektronika calculators
 	- [Calculators 3000](http://www.emulator3000.org/c3.htm)
 	- [MK-90 Emulator](https://web.archive.org/web/20210601061619/http://www.pisi.com.pl/piotr433/mk90emue.htm)
 	- [MK-85 Emulator](https://web.archive.org/web/20220208142602/http://www.pisi.com.pl/piotr433/mk85emue.htm)
@@ -699,16 +702,16 @@ Legend:
 
 ## Other miscellaneous emulators:
 
-* Adobe Flash emulators
+#### Adobe Flash emulators
 	- * [Ruffle](https://github.com/ruffle-rs/ruffle)
 	- [Gnash](https://github.com/strk/gnash)
 	- [Lightspark](https://github.com/lightspark/lightspark)
 	
-* RPG Maker emulators/interpreters
+#### RPG Maker emulators/interpreters
 	- * [EasyRPG](https://easyrpg.org/)
 	- * [JoiPlay](http://joiplay.cyou/)
 
-* Nuon emulators
+#### Nuon emulators
 	- * [Nuance](https://sourceforge.net/projects/nuance-nuon-emulator/)
 	- * [NuanceResurrection](https://github.com/andkrau/NuanceResurrection)
 	- * [NuonEm (No download link currently)](https://www.nuon-dome.com/download.html)
