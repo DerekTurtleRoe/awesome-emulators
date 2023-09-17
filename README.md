@@ -102,6 +102,7 @@ Legend:
 - [Obliteration](https://github.com/obhq/obliteration)
 - [Orbital](https://github.com/AlexAltea/orbital)
 - [PS4Delta](https://github.com/Force67/ps4delta)
+- [RPCSX](https://github.com/RPCSX/rpcsx)
 - [Spine](https://github.com/devofspine/spine)
 #### Sony PlayStation 5
 - ⭐ [Kyty](https://github.com/InoriRus/Kyty)
