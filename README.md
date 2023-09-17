@@ -481,11 +481,11 @@ Legend:
 - ⭐ [Anbox](https://anbox.io/)
 - ⭐ [Android SDK](https://developer.android.com/studio/)
 - ⭐ [Android x86](https://www.android-x86.org/)
-- * [BlueStacks](https://www.bluestacks.com/)
-- * [GameLoop](https://www.gameloop.com/)
-- * [Google Play Games](https://play.google.com/googleplaygames)
-- * [NoxPlayer](https://www.bignox.com/)
-- * [Plarium Play](https://plarium.com/)
+- [BlueStacks](https://www.bluestacks.com/)
+- [GameLoop](https://www.gameloop.com/)
+- [Google Play Games](https://play.google.com/googleplaygames)
+- [NoxPlayer](https://www.bignox.com/)
+- [Plarium Play](https://plarium.com/)
 - ⭐ [Waydroid](https://waydro.id/)
 - ⭐ [Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/)
 #### N-Gage
@@ -926,9 +926,9 @@ If you'd like to support me in any way, all of my links are available here:
 
 Here are some related projects I work on:
 
-[Awesome Preservation](https://github.com/derekturtleroe)
-[N64DB](https://github.com/derekturtleroe)
-[N64-PD-ROMs](https://github.com/derekturtleroe)
+- [Awesome Preservation (will be released soon)](https://github.com/derekturtleroe)
+- [N64DB (released in the future)](https://github.com/derekturtleroe)
+- [N64-PD-ROMs (a collection of homebrew and freely available ROMs for N64)](https://github.com/derekturtleroe/n64-pd-roms)
 
 ## Disclaimer
 
