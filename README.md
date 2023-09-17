@@ -97,6 +97,7 @@ Legend:
 - [Short Waves](https://wololo.net/downloads/index.php/download/8128)
 #### Sony PlayStation 4
 - ⭐ [fpPS4](https://github.com/red-prig/fpPS4)
+- [GUI for fpPS4](https://github.com/KimieStar/TL_Installer_Prototype/)
 - [GPCS4](https://github.com/Inori/GPCS4)
 - ⭐ [Kyty](https://github.com/InoriRus/Kyty)
 - [Obliteration](https://github.com/obhq/obliteration)
