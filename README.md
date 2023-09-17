@@ -80,7 +80,7 @@ Legend:
 - [Rustation](https://github.com/simias/rustation)
 - [Rustation-NG (fork of the above?)](https://gitlab.com/flio/rustation-ng)
 - [SSSPSX](https://www.emulator-zone.com/doc.php/psx/ssspsx.html)
-- * [Xebra](http://drhell.web.fc2.com/ps1/)
+- ⭐ [Xebra](http://drhell.web.fc2.com/ps1/)
 #### Sony PlayStation 2
 - [AetherSX2](https://www.aethersx2.com/archive/)
 - [DobieStation](https://github.com/PSI-Rockin/DobieStation)
@@ -557,6 +557,7 @@ Legend:
 - ⭐ [Mini vMac](https://www.gryphel.com/c/minivmac/index.html)
 - [PCE](http://www.hampa.ch/pce/pce-macplus.html)
 - [PearPC](https://github.com/sebastianbiallas/pearpc)
+- [REINETTE II PLUS DOT PY](https://github.com/ArthurFerreira2/reinette-II-plus-dot-py)
 - ⭐ [SheepShaver](https://www.emaculation.com/doku.php/sheepshaver)
 - [SoftMac XP](http://www.emulators.com/)
 - [POM1](http://pom1.sourceforge.net/)
@@ -601,7 +602,35 @@ Legend:
 - [EightyOne](https://sourceforge.net/projects/eightyone-sinclair-emulator/)
 #### Sinclair ZX Spectrum series computers
 - [Speccy](https://fms.komkon.org/Speccy/)
-#### NEC computers
+#### NEC 6000 computers
+- [PC6001VX](http://eighttails.seesaa.net/)
+- [PC6001V](http://papicom.net/p6v/index.html)
+- [PC6001VW](http://p6ers.net/bernie/develop/pc6001vw3.html)
+- [yaPC-6001](http://takeda-toshiya.my.coocan.jp/pc6001/index.html)
+#### NEC 8800 computers
+- [ePC-8001](http://takeda-toshiya.my.coocan.jp/pc9801/index.html)
+- [ePC8801MA Kai SE (website is currently down)](http://nenecchi.kirara.st/)
+- [Excite88](http://web.archive.org/web/20170104164557/www.e-maybe.com/98lab/p-c88-emulator)
+- [M88](http://retropc.net/cisc/m88/)
+- [M88 for OS/2](https://web.archive.org/web/20190210175903/www.geocities.co.jp/SiliconValley-SanJose/2457/m88/m88.html)
+- [P88SR](http://www1.plala.or.jp/aoto/pc88emu.htm)
+- [pc8801ma](http://nenecchi.kirara.st/)
+- [PC88EM](http://www.hi-ho.ne.jp/hideaki-i/n_on_mac/n-index.html)
+- [PC88WIN](http://web.archive.org/web/20070930154607/home.highway.ne.jp/soltin/pc88win.html)
+- [QUASI88](https://www.eonet.ne.jp/~showtime/quasi88)
+- [W88](http://www.cug.net/~anonB/w88)
+- [XM8](http://retropc.net/pi)
+- [X88000](http://www.cug.net/~manuke/x88000.html)
+#### NEC 9800 computers
+- [Anex86](https://web.archive.org/web/20100323104752/http://hp.vector.co.jp:80/authors/VA015680/ax/axindex2.htm)
+- [ePC-9801](http://takeda-toshiya.my.coocan.jp/)
+- [J98](http://akiyuki.boy.jp/android)
+- [Neko Project II](http://www.yui.ne.jp/np2)
+- [NP2kai](https://github.com/AZO234/NP2kai)
+- [Neko Project 21/W](https://simk98.github.io/np21w/)
+- [QEMU/9821](http://takeda-toshiya.my.coocan.jp/qemu/index.html)
+- [SL9821](http://www.satotomi.com/sl9821/sl9821_dl.html)
+- [Xnp2](https://github.com/nonakap/xnp2)
 #### MSX computers
 - ⭐ [blueMSX](http://bluemsx.msxblue.com/index.htm)
 - [BrMSX](https://www.zophar.net/msx/brmsx.html)
@@ -621,7 +650,7 @@ Legend:
 - [Virtual MSX](https://www.zophar.net/msx/virtual-msx.html)
 - [WOOM!](https://www.zophar.net/msx/woom-.html)
 - [Zodiac](http://sourceforge.net/projects/zodiac/)
-#### Sharp computers
+#### Sharp X1 computers
 #### Sharp 68K computers
 - [EX68](http://www.ksky.ne.jp/~yamama/emul)
 - [px68k](https://github.com/hissorii/px68k)
