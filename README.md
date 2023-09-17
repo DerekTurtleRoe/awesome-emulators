@@ -103,6 +103,7 @@ Legend:
 - [Orbital](https://github.com/AlexAltea/orbital)
 - [PS4Delta](https://github.com/Force67/ps4delta)
 - [RPCSX](https://github.com/RPCSX/rpcsx)
+- [shadPS4](https://github.com/georgemoralis/shadPS4)
 - [Spine](https://github.com/devofspine/spine)
 #### Sony PlayStation 5
 - ⭐ [Kyty](https://github.com/InoriRus/Kyty)
