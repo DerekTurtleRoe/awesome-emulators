@@ -2,7 +2,7 @@
 
 ### A list of all the emulators for a particular system. Includes honorable and historical mentions as well!
 
-This list will always in heavy development, but consider everything a work-in-progress until there is a tagged release!
+This list will always be in heavy development, but consider everything a work-in-progress until there is a tagged release!
 
 ***Note: Recommendations (⭐) are made purely based off of my subjective opinion. I try to pick emulators that provide a good combination of accuracy, performance, features, and compatibility. If you don't like one, please check out others, as they may work better for your needs!***
 
@@ -112,6 +112,8 @@ Legend:
 - [iNES](https://fms.komkon.org/iNES/)
 - [Jnes](http://www.jabosoft.com/categories/jnes)
 - [MetalNES](https://github.com/iaddis/metalnes)
+- ⭐ [Mesen](https://github.com/SourMesen/Mesen)
+- ⭐ [Mesen-X](https://github.com/NovaSquirrel/Mesen-X)
 - ⭐ [Nestopia Undead Edition](http://0ldsk00l.ca/nestopia/)
 - [nemulator](http://nemulator.com/)
 - [NESticle](https://github.com/athros/NESticle)
@@ -128,6 +130,8 @@ Legend:
 - [bsnes-mt](https://github.com/Marat-Tanalin/bsnes-mt)
 - [CATSFC](https://github.com/ShadauxCat/CATSFC)
 - [lsnes](https://github.com/rodamaral/lsnes)
+- [Mesen-S](https://github.com/SourMesen/Mesen-S)
+- [Mesen-SX](https://github.com/NovaSquirrel/Mesen-SX)
 - [NO$SNS](https://problemkaputt.de/sns.htm)
 - ❗ Silhouette - Silhouette was an unofficial port of SNES96 (by an anonymous developer), which was an early version of what would become SNES9x. The README states it is a Nintendo-developed emulator, but this has been proven to be false. You can download it [here](http://www.zophar.net/download_file/816) to try it for yourself.
 - ⭐ [SNES9x](https://github.com/snes9xgit/snes9x)
@@ -618,14 +622,24 @@ Legend:
 - [WOOM!](https://www.zophar.net/msx/woom-.html)
 - [Zodiac](http://sourceforge.net/projects/zodiac/)
 #### Sharp computers
+#### Sharp 68K computers
+- [EX68](http://www.ksky.ne.jp/~yamama/emul)
+- [px68k](https://github.com/hissorii/px68k)
+- [Win68k](http://retropc.net/usalin/)
+- [Win68k patched in English with some performance tweaks](https://mijet.eludevisibility.org/files/WinX68kHighSpeed_V095_Eng.zip)
+- [XM6](http://web.archive.org/web/20100718143624/http://ytanaka.vicp.net/x680x0/xm6.html)
+- [XM6 Pro 68K](http://mijet.eludevisibility.org/XM6%20Pro-68k/XM6%20Pro-68k.html)
+- [XM6 TypeG](http://retropc.net/gimons/emulators/xm6_typeg_333L20_20220717.zip)
+- [XM6i](http://www.pastel-flower.jp/~isaki/XM6i/archive/XM6i-0.55-win32.zip)
+- [XEiJ](https://stdkmd.net/xeij/)
 #### Virtualization solutions
 - ⭐ [VirtualBox](https://www.virtualbox.org/)
 - ⭐ [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/)
 - ⭐ [VMWare](https://www.vmware.com/)
 #### Interpreters
-- * [DreamMM](https://aarongiles.com/dreamm/)
-- * [ResidualVM](https://github.com/residualvm/residualvm)
-- * [ScummVM](https://www.scummvm.org/)
+- ⭐ [DreamMM](https://aarongiles.com/dreamm/)
+- ⭐ [ResidualVM](https://github.com/residualvm/residualvm)
+- ⭐ [ScummVM](https://www.scummvm.org/)
 
 ## Calculator emulators
 #### Texas Instruments
@@ -759,9 +773,7 @@ Legend:
 * ⭐ [Atari++](http://xl-project.com/)
 * [Atari800](https://atari800.github.io/)
 * [Atari800Win-PLus](https://github.com/Jaskier/Atari800Win-PLus)
-* ⭐ [Mesen](https://github.com/SourMesen/Mesen)
-* ⭐ [Mesen-X](https://github.com/NovaSquirrel/Mesen-X)
-* ⭐ [Mesen2 (continuation of Mesen project)](https://github.com/SourMesen/Mesen2)
+* ⭐ [Mesen (continuation of Mesen project)](https://github.com/SourMesen/Mesen2)
 * [Emulicious](https://emulicious.net/)
 * ⭐ [No$GBA](https://problemkaputt.de/gba.htm)
 * ⭐ [GBE+](https://github.com/shonumi/gbe-plus)
