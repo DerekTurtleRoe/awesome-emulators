@@ -14,6 +14,7 @@ Legend:
 * ❗ = Warning
 * 💲 = Requires payment, either to use the emulator or to unlock specific features
 * ❎ = Not released currently
+* 💉 = Useful debugger tools or documentations for homebrew developers
 
 ### For more information about this project, how you can contribute, frequently asked questions, and more, please go to the end of this document.
 
@@ -25,7 +26,7 @@ Legend:
 - [Gopher2600](https://github.com/JetSetIlly/Gopher2600)
 - [javatari](https://github.com/ppeccin/javatari.js)
 - [javatari (older version)](https://github.com/ppeccin/javatari)
-- [no$2k6](https://problemkaputt.de/2k6.htm)
+- [NO$2K6](https://problemkaputt.de/2k6.htm)
 - [PC Atari Emulator (PCAE)](https://pcae.vg-network.com/)
 - [pyTari](https://sourceforge.net/projects/pytari/)
 - ⭐ [Stella](https://stella-emu.github.io/)
@@ -67,10 +68,10 @@ Legend:
 - [Bleem!](https://wikiless.org/wiki/Bleem!?lang=en)
 - [ChonkyStation](https://github.com/liuk7071/ChonkyStation)
 - [Connectix VGS](https://wikiless.org/wiki/Connectix_Virtual_Game_Station?lang=en)
-- ⭐ [DuckStation](https://github.com/stenzek/duckstation)
+- ⭐💉 [DuckStation](https://github.com/stenzek/duckstation)
 - [ePSXe](https://www.epsxe.com/)
 - [hpsx64](https://sourceforge.net/projects/hpsx64/)
-- [No$PSX](https://problemkaputt.de/psx.htm)
+- 💉 [NO$PSX](https://problemkaputt.de/psx.htm)
 - [PCSX](https://www.emulator-zone.com/doc.php/psx/pcsx.html)
 - [PCSX-Reloaded](https://github.com/iCatButler/pcsxr)
 - ⭐ [PCSX-Redux](https://github.com/grumpycoders/pcsx-redux)
@@ -115,12 +116,13 @@ Legend:
 - [iNES](https://fms.komkon.org/iNES/)
 - [Jnes](http://www.jabosoft.com/categories/jnes)
 - [MetalNES](https://github.com/iaddis/metalnes)
-- ⭐ [Mesen](https://github.com/SourMesen/Mesen)
-- ⭐ [Mesen-X](https://github.com/NovaSquirrel/Mesen-X)
+- ⭐💉 [Mesen](https://github.com/SourMesen/Mesen)
+- ⭐💉 [Mesen-X](https://github.com/NovaSquirrel/Mesen-X)
 - ⭐ [Nestopia Undead Edition](http://0ldsk00l.ca/nestopia/)
 - [nemulator](http://nemulator.com/)
 - [NESticle](https://github.com/athros/NESticle)
 - [Nintendulator](https://www.qmtpro.com/~nes/nintendulator/)
+- 💉 [NO$NES](https://problemkaputt.de/nes.htm)
 - ⭐ [puNES](https://github.com/punesemu/puNES)
 - [QuickNES](https://github.com/kode54/QuickNES)
 - [RockNES](http://rocknes.web.fc2.com/)
@@ -135,7 +137,7 @@ Legend:
 - [lsnes](https://github.com/rodamaral/lsnes)
 - [Mesen-S](https://github.com/SourMesen/Mesen-S)
 - [Mesen-SX](https://github.com/NovaSquirrel/Mesen-SX)
-- [NO$SNS](https://problemkaputt.de/sns.htm)
+- 💉 [NO$SNS](https://problemkaputt.de/sns.htm)
 - ❗ Silhouette - Silhouette was an unofficial port of SNES96 (by an anonymous developer), which was an early version of what would become SNES9x. The README states it is a Nintendo-developed emulator, but this has been proven to be false. You can download it [here](http://www.zophar.net/download_file/816) to try it for yourself.
 - ⭐ [SNES9x](https://github.com/snes9xgit/snes9x)
 - [SNESGT](http://gigo.retrogames.com/)
@@ -174,7 +176,7 @@ Legend:
 - [Pagan](https://www.zophar.net/n64/Pagan.html)
 - [Parallel Launcher (GUI for both RetroArch N64 cores)](https://parallel-launcher.ca/)
 - [PC64](https://www.zophar.net/n64/pc64.html)
-- ⭐ [Project64](https://www.pj64-emu.com/)
+- ⭐💉 [Project64](https://www.pj64-emu.com/)
 - [Project Unreality](https://www.zophar.net/n64/project-unreality.html)
 - [r64emu](https://github.com/rasky/r64emu)
 - [RealityEmu](https://github.com/Dudejoe870/RealityEmu)
@@ -195,7 +197,7 @@ Legend:
 - [Wii64](https://code.google.com/archive/p/mupen64gc/)
 - [Wii64-PS3](https://github.com/emukidid/wii64-ps3)
 #### Nintendo GameCube
-- ⭐ [Dolphin](https://dolphin-emu.org/)
+- ⭐💉 [Dolphin](https://dolphin-emu.org/)
 - [Dolwin](https://www.emulation64.com/files/info/86/dolwin.html/)
 - [GCEmu](https://sourceforge.net/projects/gcemu-project/)
 - [Gcube](https://www.zophar.net/gc/gcube.html)
@@ -204,7 +206,7 @@ Legend:
 - [SuperGCube](https://www.zophar.net/gc/supergcube.html)
 - [WhineCube](http://whinecube.emulation64.com/)
 #### Nintendo Wii
-- ⭐ [Dolphin](https://dolphin-emu.org/)
+- ⭐💉 [Dolphin](https://dolphin-emu.org/)
 - [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka)
 #### Nintendo Wii U
 - ⭐ [Cemu](https://cemu.info/)
@@ -282,11 +284,14 @@ Legend:
 - ⭐ [Xemu](https://xemu.app/)
 - [Xeon](https://www.emulator-zone.com/doc.php/xbox/xeon.html)
 - [Xenoborg](https://xenoborg-emu.blogspot.com/) - [Source here](https://code.google.com/archive/p/xenoborg/)
+- Xbox Backward Compatibility (some titles don't work)
 #### Microsoft Xbox 360
 - [cs360emu](https://github.com/soywiz-archive/cs360emu)
 - ⭐ [Xenia](https://xenia.jp)
+- Xbox Backward Compatibility (some titles don't work)
 #### Microsoft Xbox One
-- ❗ There are currently no emulators for this system, please watch out for potential scams and malicious downloads claiming this to be true!
+- Xbox Backward Compatibility (some titles don't work)
+- ❗ There are currently no unnoficial emulators for this system, please watch out for potential scams and malicious downloads claiming this to be true!
 #### Microsoft Xbox Series
 - ❗ There are currently no emulators for this system, please watch out for potential scams and malicious downloads claiming this to be true!
 #### NEC PC-Engine/TurboGrafx-16/CD/SuperGrafx
@@ -364,6 +369,7 @@ Legend:
 - [Hu-Boy](https://www.chrismcovell.com/huboy.html)
 - [KiGB](http://kigb.emuunlim.com/)
 - [MetroBoy](https://github.com/aappleby/MetroBoy)
+- ❎💉 [NO$GMB](https://problemkaputt.de/gmb.htm)
 - ⭐ [SameBoy](https://sameboy.github.io/)
 - [TGB Dual](https://github.com/libertyernie/tgbdual_L)
 - [VGB (AKA Virtual GameBoy)](https://fms.komkon.org/VGB/)
@@ -371,6 +377,7 @@ Legend:
 - ⭐ [GiiBiiAdvance](https://github.com/AntonioND/giibiiadvance)
 - ⭐ [mGBA](https://mgba.io/)
 - ⭐ [NanoBoyAdvance](https://github.com/nba-emu/NanoBoyAdvance)
+- 💉 [NO$GBA](https://problemkaputt.de/gba.htm)
 - ⭐ [SkyEmu](https://github.com/skylersaleh/SkyEmu)
 - ⭐ [VBA-M](https://vba-m.com/)
 - ❗ [VBALink](https://www.zophar.net/gba/vbalink.html) - *WARNING: This emulator is no longer maintained and has security issues. This is here for completeness, but please exercise caution when using it.*
@@ -409,12 +416,13 @@ Legend:
 - [Dualis](https://dualis.1emu.net/)
 - [Dust](https://github.com/kelpsyberry/dust)
 - [DuoS](https://ds-duos.blogspot.com/)
+- ensata (official emulator for licensed developers)
 - [iDeaS](https://www.emulator-zone.com/doc.php/nds/ideas.html)
 - [medusa](https://mgba.io/downloads.html)
 - ⭐ [melonDS](https://melonds.kuribo64.net/)
 - [ndsemu](https://github.com/rasky/ndsemu)
 - [NeonDS](https://www.emulator-zone.com/doc.php/nds/neonds.html)
-- ⭐ [no$GBA](http://problemkaputt.de/gba.htm)
+- ⭐💉 [NO$GBA](http://problemkaputt.de/gba.htm)
 - [NooDS](https://github.com/Hydr8gon/NooDS)
 #### Nintendo 3DS
 - [3dmoo](https://github.com/plutooo/3dmoo)
@@ -422,6 +430,7 @@ Legend:
 - [Corgi3DS](https://github.com/PSI-Rockin/Corgi3DS)
 - [LemonLime](https://github.com/ItsKaitlyn03/LemonLime/)
 - ❎ [Mikage](https://mikage.app/)
+- ❎💉 [NO$GBA](https://problemkaputt.de/gba.htm) - The 3DS functionality is still being implemented, not ready for use
 - [Panda3DS](https://github.com/wheremyfoodat/Panda3DS)
 - [TronDS](http://trondsemu.byethost15.com/)
 #### Game Park GP32
@@ -445,6 +454,7 @@ Legend:
 - [pspplayer](https://code.google.com/archive/p/pspplayer/)
 - [Sam](https://www.zophar.net/psp/sam.html)
 #### Sony PocketStation
+- 💉 [NO$GBA](https://problemkaputt.de/gba.htm)
 - [PK201](http://drhell.web.fc2.com/pocket/index.html)
 - [PKEmu](https://www.zophar.net/pocketstation/pkemu.html)
 - [pockystation](https://github.com/simias/pockystation)
@@ -518,6 +528,7 @@ Legend:
 - [b2](https://github.com/tom-seddon/b2)
 - [model-b](http://modelb.bbcmicro.com/)
 #### Amstrad computers
+- [NO$CPC](https://problemkaputt.de/cpc.htm)
 - [WinAPE](https://www.winape.net/)
 #### DOS emulators
 - [DOSBox](http://www.dosbox.com/)
@@ -579,7 +590,7 @@ Legend:
 - [Hyper64](https://blog.rosseaux.net/page/de36e305f981b056e3b9e12da02e3987/hyper64)
 - [JSwing C64](https://sourceforge.net/projects/jmec64/)
 - [micro64](https://blog.rosseaux.net/page/986c1ab5667d2dfa6ef552e6dd42fe27/micro64)
-- [no$c64](http://problemkaputt.de/c64.htm)
+- 💉 [NO$C64](http://problemkaputt.de/c64.htm)
 - [PC64](http://www.zimmers.net/anonftp/pub/cbm/crossplatform/emulators/msdos/pc64/PC64-en.html)
 - [VB64](http://vb64.emuunlim.com/)
 - ⭐ [VICE](https://vice-emu.sourceforge.io/)
@@ -644,7 +655,7 @@ Legend:
 - [MSX Emulator for Atari ST](https://www.zophar.net/msx/msx-emulator.html)
 - [MSXPLAYer](https://www.zophar.net/msx/msxplayer.html)
 - [NLMSX](http://nlmsx.generation-msx.nl/)
-- [no$msx](http://problemkaputt.de/msx.htm)
+- 💉 [NO$MSX](http://problemkaputt.de/msx.htm)
 - [openMSX](https://github.com/openMSX/openMSX/)
 - [ParaMSX](https://www.zophar.net/msx/paramsx.html)
 - [Power MSX](https://www.zophar.net/msx/power-msx.html)
@@ -654,6 +665,7 @@ Legend:
 - [WOOM!](https://www.zophar.net/msx/woom-.html)
 - [Zodiac](http://sourceforge.net/projects/zodiac/)
 #### Sharp X1 computers
+- [eX1](http://takeda-toshiya.my.coocan.jp/common/index.html)
 #### Sharp 68K computers
 - [EX68](http://www.ksky.ne.jp/~yamama/emul)
 - [px68k](https://github.com/hissorii/px68k)
@@ -805,9 +817,9 @@ Legend:
 * ⭐ [Atari++](http://xl-project.com/)
 * [Atari800](https://atari800.github.io/)
 * [Atari800Win-PLus](https://github.com/Jaskier/Atari800Win-PLus)
-* ⭐ [Mesen (continuation of Mesen project)](https://github.com/SourMesen/Mesen2)
+* ⭐💉 [Mesen (continuation of Mesen project)](https://github.com/SourMesen/Mesen2)
 * [Emulicious](https://emulicious.net/)
-* ⭐ [No$GBA](https://problemkaputt.de/gba.htm)
+* ⭐💉 [NO$GBA](https://problemkaputt.de/gba.htm)
 * ⭐ [GBE+](https://github.com/shonumi/gbe-plus)
 * [Kega Fusion](https://www.carpeludum.com/kega-fusion/)
 * [Pantheon](https://bostjan-grandovec.si/Content/Pantheon.htm)
