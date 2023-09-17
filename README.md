@@ -144,6 +144,7 @@ Legend:
 - [Corn](https://www.zophar.net/n64/Corn.html)
 - [DaedalusX64](https://github.com/DaedalusX64/daedalus)
 - [Daedalus-lkb](http://daedalus-lkb.sourceforge.net/)
+- [dgb-n64](https://github.com/Dillonb/n64)
 - [DotN64](https://github.com/Nabile-Rahmani/DotN64)
 - [Dream64](https://www.zophar.net/n64/dream64.html)
 - [Drop64](https://github.com/damouse/Drop64)
@@ -207,7 +208,7 @@ Legend:
 - [Mephisto](https://github.com/reswitched/Mephisto)
 - [NSEmu](https://github.com/RKX1209/nsemu)
 - ❎ NXEmu (not released yet)
-- ⭐ [RyuJinx](https://ryujinx.org/)
+- ⭐ [Ryujinx](https://ryujinx.org/)
 - [Skyline](https://skyline-emu.one/)
 - [Strato](https://github.com/strato-emu/strato)
 - ⭐ [Yuzu](https://yuzu-emu.org/)
@@ -241,7 +242,7 @@ Legend:
 - [SSF](https://github.com/shimazzz/SEGASaturnEmulator-SSF)
 - [UltraSat](https://www.zophar.net/saturn/ultrasat.html)
 - ⭐ [Yaba Sanshiro 2 (formerly uoYabause)](https://www.uoyabause.org/)
-- ⭐ [Yabause](http://yabause.org/)
+- ⭐ [Yabause](https://segaretro.org/Yabause)
 #### Sega Dreamcast
 - [castingDreams](https://github.com/javaemus/castingDreams)
 - [Chankast](https://www.zophar.net/dreamcast/chankast.html)
@@ -348,7 +349,7 @@ Legend:
 #### Nintendo Game Boy/Game Boy Color
 - ⭐ [BGB](http://bgb.bircd.org/)
 - ⭐ [Gambatte](https://sourceforge.net/projects/gambatte)
-- [GameRoy](https://github.com/Rodrigodd/gameroy)
+- [GameRoy (only Game Boy)](https://github.com/Rodrigodd/gameroy)
 - [GBCC](https://gbcc.dev/)
 - [Gearboy](https://github.com/drhelius/Gearboy)
 - [hdmg](https://git.sr.ht/~sircmpwn/hdmg)
@@ -505,7 +506,12 @@ Legend:
 
 ## Computer emulators
 #### Acorn computers
+- [BeebEm](https://github.com/CommanderCoder/BeebEm)
+- [b-em](https://github.com/stardot/b-em)
+- [b2](https://github.com/tom-seddon/b2)
+- [model-b](http://modelb.bbcmicro.com/)
 #### Amstrad computers
+- [WinAPE](https://www.winape.net/)
 #### DOS emulators
 - [DOSBox](http://www.dosbox.com/)
 - [DOSBox Enhanced Community Edition](https://yesterplay.net/dosboxece/)
@@ -517,6 +523,7 @@ Legend:
 - ⭐ [86Box](https://github.com/86Box/86Box/)
 - [Bochs](https://sourceforge.net/projects/bochs/)
 - [FEX Emu](https://github.com/FEX-Emu/FEX)
+- [MartyPC](https://github.com/dbalsom/martypc)
 - [PC.js](https://github.com/jeffpar/pcjs)
 - [PCBox](https://github.com/PCBox/PCBox/)
 - ⭐ [PCem](https://github.com/sarah-walker-pcem/pcem/)
@@ -540,6 +547,7 @@ Legend:
 - [IDLE](https://idle-lisa-emu.sourceforge.net/)
 - [KEGS32](https://www.zophar.net/apple2/kegs32.html)
 - [LisaEm](http://lisa.sunder.net/)
+- [LisaEm (fork with some small additions)](https://github.com/arcanebyte/lisaem)
 - [macintosh.js](https://github.com/felixrieseberg/macintosh.js)
 - [microm8](https://paleotronic.com/software/microm8/)
 - ⭐ [Mini vMac](https://www.gryphel.com/c/minivmac/index.html)
@@ -732,6 +740,8 @@ Legend:
 * [Viva Nonno](https://vivanonno.vg-network.com/)
 * [Callus95](http://caesar.logiqx.com/php/emulator.php?id=callus95)
 * [Callus95 (patch)](https://cps2shock.emu-france.info/cls95p/)
+* [Nebula](https://www.emulator-zone.com/doc.php/arcade/nebula.html#google_vignette)
+* [Mjolnir](http://emu.kulichki.net/arcade/mjolnir/)
 
 ## Pinball machine emulators
 * [PinMAME](https://github.com/vpinball/pinmame/)
@@ -739,8 +749,8 @@ Legend:
 * [Future Pinball (direct link to latest installer)](http://members.iinet.net.au/~cleathley/downloads/FuturePinballSetup_v1.9.1.20101231.exe)
 
 ## Multi-system emulators
-* ⭐ [Ares](https://ares-emu.net/)
-* ⭐ [Higan](https://github.com/higan-emu/higan)
+* ⭐ [ares](https://ares-emu.net/)
+* ⭐ [higan](https://github.com/higan-emu/higan)
 * ⭐ [RetroArch](https://www.retroarch.com/)
 * [OpenEmu](https://openemu.org/)
 * ⭐ [BizHawk](https://tasvideos.org/BizHawk)
@@ -749,7 +759,9 @@ Legend:
 * ⭐ [Atari++](http://xl-project.com/)
 * [Atari800](https://atari800.github.io/)
 * [Atari800Win-PLus](https://github.com/Jaskier/Atari800Win-PLus)
-* ⭐ [Mesen](https://mesen.ca/)
+* ⭐ [Mesen](https://github.com/SourMesen/Mesen)
+* ⭐ [Mesen-X](https://github.com/NovaSquirrel/Mesen-X)
+* ⭐ [Mesen2 (continuation of Mesen project)](https://github.com/SourMesen/Mesen2)
 * [Emulicious](https://emulicious.net/)
 * ⭐ [No$GBA](https://problemkaputt.de/gba.htm)
 * ⭐ [GBE+](https://github.com/shonumi/gbe-plus)
@@ -814,6 +826,8 @@ Legend:
 
 ## Emulation frontends for Android
 * [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid)
+* [Daijishou](https://github.com/TapiocaFox/Daijishou)
+* [Dig](https://play.google.com/store/apps/details?id=com.digdroid.alman.dig&hl=en_US&gl=US)
 
 ## 👨‍💻 Contributing
 
