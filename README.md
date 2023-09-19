@@ -531,6 +531,9 @@ Legend:
 #### x86 emulators
 - ⭐ [86Box](https://github.com/86Box/86Box/)
 - [Bochs](https://sourceforge.net/projects/bochs/)
+- [Box86](https://github.com/ptitSeb/box86)
+- [Box64](https://github.com/ptitSeb/box64)
+- [Box64Droid](https://github.com/Ilya114/Box64Droid)
 - [FEX Emu](https://github.com/FEX-Emu/FEX)
 - [MartyPC](https://github.com/dbalsom/martypc)
 - [PC.js](https://github.com/jeffpar/pcjs)
