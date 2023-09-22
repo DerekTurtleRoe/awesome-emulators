@@ -833,6 +833,7 @@ Legend:
 * [vdmgr](http://vdmgr.g2.xrea.com/download.html)
 * [DICE](http://sourceforge.net/projects/dice/)
 * [Z64K](https://z64k.com/)
+* [Hydra](https://github.com/hydra-emu/hydra)
 
 ## Emulation operating systems for computers
 * [Batocera](https://batocera.org/)
