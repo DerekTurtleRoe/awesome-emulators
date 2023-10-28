@@ -490,36 +490,39 @@ This list will always be kept as complete and up-to-date as possible, but please
 ## Chip-8 and related system emulators/interpreters
 | Emulator | FOSS | License | Paid | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
+| [cheap8](https://github.com/iliasizmaylov/cheap8) | Yes? | Source available | No | No | No | Chip-8 |
+| [Chip 8 Emulator](https://github.com/sarbajitsaha/Chip-8-Emulator) | Yes | GNU GPLv3+ | No | No | ? | Chip-8 |
+| [Chip-3DS](http://www.mediafire.com/?y94yjhzf70fsfsi) | No | Proprietary | No | No | ? | Chip-8 |
+| [Chip8 Emulator (PS4)](https://www.psxhax.com/threads/chip-8-emulator-poc-for-ps4-hen-4-05-pkg-arrives-via-darbness.4422) | No | Proprietary | No | No (no longer available) | No | Chip-8 |
+| [Chip8 Emulator (PSP)](https://www.brewology.com/downloads/download.php?id=4077&mcid=1) | No | Proprietary | No | No | ? | Chip-8 |
+| [Chip-8 Emulator](https://github.com/alexanderdickson/Chip-8-Emulator) | Yes | MIT license | No | No | ? | Chip-8 |
+| [Chip-8 Emulator](https://github.com/LakshyAAAgrawal/chip8emu/) | Yes | Apache 2.0 | No | No | ? | Chip-8 |
+| [Chip8 To SMD](http://pscd.ru/games/smd/csmd/8767-chip8-to-smd.html) | No | Proprietary | No | No | Yes | Chip-8 |
+| [Chip8.js](https://github.com/taniarascia/chip8) | Yes | MIT license | No | No | Yes | Chip-8 |
 | [CHIP-8](https://github.com/danirod/chip8) | Yes | GNU GPLv3 | No | No | ? | Chip-8 |
 | [Chip8](https://github.com/fenexomega/chip8) | Yes | GNU GPLv2 | No | No | ? | Chip-8 |
 | [chip8](https://github.com/stevensona/chip8) | Yes | MIT license | No | No | ? | Chip-8 |
-| [Chip-8 Emulator](https://github.com/LakshyAAAgrawal/chip8emu/) | Yes | Apache 2.0 | No | No | ? | Chip-8 |
-| [CHIP-8z](https://github.com/IridescentRose/CHIP-8z) | Yes | AGPLv3 | No | Yes | ? | Chip-8 |
-| [chip8swemu](https://github.com/AlfonsoJLuna/chip8swemu/) | Yes | MIT license | No | Yes | ? | Chip-8 |
-| [iPhone-Chip-8-Emulator](https://github.com/drhelius/iPhone-Chip-8-Emulator/) | Yes? | CC BY-NC-SA 3.0 (not a source code license) | No | No | No | Chip-8 |
-| [chip8me](https://www.zophar.net/consoles/nds/chip8/chip8me.html) | Yes | Unknown source code ([link](https://web.archive.org/web/20090503150744/http://etk.scener.org/index.php?op=showproject&st=36) broken) | No | No | No | Chip-8 |
-| [DrChip8](https://www.zophar.net/consoles/gameboy/chip8/drchip-8.html) | No? | Proprietary | No | No | ? | Chip-8 |
-| [CHIP8-Emulator-WiiU](https://github.com/xhp-creations/CHIP8-Emulator-WiiU/) | Yes? | Source available | No | No | ? | Chip-8 |
-| [CHIP8-Emulator-WiiU (original)](https://github.com/rw-r-r-0644/CHIP8-Emulator-WiiU) | Yes | Source available | No | No | ? | Chip-8 |
-| [Chippy](https://www.zophar.net/consoles/wii/chip8/chippy.html) | Yes? | Proprietary, fork of a fork but no source that I can find | No | No | ? | Chip-8 |
-| [Chip-n64](https://github.com/joshiggins/chip8-n64/) | Yes? | Source available | No | No | Yes | Chip-8 |
-| [PsChip8](https://github.com/dhustkoder/pschip8/) | Yes? | Source available | No | No | Yes | Chip-8 |
-| [Super-Chip8X](https://github.com/Ersanio/Super-Chip8x/) | Yes? | Source available | No | No | Yes | Chip-8 |
-| [Chip8 To SMD](http://pscd.ru/games/smd/csmd/8767-chip8-to-smd.html) | No | Proprietary | No | No | Yes | Chip-8 |
-| [GB-8](https://github.com/Hacktix/GB-8/) | Yes | MIT license | No | No | Yes | Chip-8 |
-| [Chip8-NX](https://github.com/Marice/CHIP8-NX/) | Yes? | Source available | No | No | ? | Chip-8 |
-| [Chip-3DS](http://www.mediafire.com/?y94yjhzf70fsfsi) | No | Proprietary | No | No | ? | Chip-8 |
-| [Chip8 Emulator (PS4)](https://www.psxhax.com/threads/chip-8-emulator-poc-for-ps4-hen-4-05-pkg-arrives-via-darbness.4422) | No | Proprietary | No | No (no longer available) | No | Chip-8 |
-| [PSPChip8](https://gbatemp.net/download/pspchip8.28298/) |  |  |  |  |  |  |
-| [Chip8 Emulator (PSP)](https://www.brewology.com/downloads/download.php?id=4077&mcid=1) | No | Proprietary | No | No | ? | Chip-8 |
-| [DreamChip (PSP Chip8 emulator)](https://www.brewology.com/downloads/download.php?id=11017&mcid=1) | No | Proprietary | No | No | ? | Chip-8 |
 | [chip8-3do](https://github.com/gameblabla/chip8-3do) | Yes | MIT license | No | No | ? | Chip-8 |
-| [Chip8.js](https://github.com/taniarascia/chip8) | Yes | MIT license | No | No | Yes | Chip-8 |
-| [cheap8](https://github.com/iliasizmaylov/cheap8) | Yes? | Source available | No | No | No | Chip-8 |
-| [Chip 8 Emulator](https://github.com/sarbajitsaha/Chip-8-Emulator) | Yes | GNU GPLv3+ | No | No | ? | Chip-8 |
 | [CHIP-8-Emulator](https://github.com/JamesGriffin/CHIP-8-Emulator) | Yes | GNU GPLv2 | No | No | ? | Chip-8 |
-| [Chip-8 Emulator](https://github.com/alexanderdickson/Chip-8-Emulator) | Yes | MIT license | No | No | ? | Chip-8 |
+| [CHIP8-Emulator-WiiU (original)](https://github.com/rw-r-r-0644/CHIP8-Emulator-WiiU) | Yes | Source available | No | No | ? | Chip-8 |
+| [CHIP8-Emulator-WiiU](https://github.com/xhp-creations/CHIP8-Emulator-WiiU/) | Yes? | Source available | No | No | ? | Chip-8 |
+| [chip8me](https://www.zophar.net/consoles/nds/chip8/chip8me.html) | Yes | Unknown source code ([link](https://web.archive.org/web/20090503150744/http://etk.scener.org/index.php?op=showproject&st=36) broken) | No | No | No | Chip-8 |
+| [Chip8-NX](https://github.com/Marice/CHIP8-NX/) | Yes? | Source available | No | No | ? | Chip-8 |
+| [chip-8-raku](https://github.com/vushu/chip-8-raku) | Yes | Artistic 2.0 license | No | Yes | ? | Chip-8 |
+| [chip8swemu](https://github.com/AlfonsoJLuna/chip8swemu/) | Yes | MIT license | No | Yes | ? | Chip-8 |
+| [CHIP-8z](https://github.com/IridescentRose/CHIP-8z) | Yes | AGPLv3 | No | Yes | ? | Chip-8 |
 | [Chipfinity](https://play.google.com/store/apps/details?id=com.esc861.chip8) | No | Proprietary | No | No | Yes | Chip-8 |
+| [Chip-n64](https://github.com/joshiggins/chip8-n64/) | Yes? | Source available | No | No | Yes | Chip-8 |
+| [Chippy](https://www.zophar.net/consoles/wii/chip8/chippy.html) | Yes? | Proprietary, fork of a fork but no source that I can find | No | No | ? | Chip-8 |
+| [DrChip8](https://www.zophar.net/consoles/gameboy/chip8/drchip-8.html) | No? | Proprietary | No | No | ? | Chip-8 |
+| [DreamChip (PSP Chip8 emulator)](https://www.brewology.com/downloads/download.php?id=11017&mcid=1) | No | Proprietary | No | No | ? | Chip-8 |
+| [GB-8](https://github.com/Hacktix/GB-8/) | Yes | MIT license | No | No | Yes | Chip-8 |
+| [iPhone-Chip-8-Emulator](https://github.com/drhelius/iPhone-Chip-8-Emulator/) | Yes? | CC BY-NC-SA 3.0 (not a source code license) | No | No | No | Chip-8 |
+| [OCTACHIP](https://github.com/kochius/OCTACHIP) | Yes | MIT license | No | Yes | ? | Chip-8 |
+| [PsChip8](https://github.com/dhustkoder/pschip8/) | Yes? | Source available | No | No | Yes | Chip-8 |
+| [PSPChip8](https://gbatemp.net/download/pspchip8.28298/) |  |  |  |  |  |  |
+| [R8](https://github.com/CarlosEduardoL/R8) | Yes | MIT license | No | Yes | ? | Chip-8 |
+| [Super-Chip8X](https://github.com/Ersanio/Super-Chip8x/) | Yes? | Source available | No | No | Yes | Chip-8 |
 
 ## COSMAC VIP/RCA Studio II/Telmac 1800
 
