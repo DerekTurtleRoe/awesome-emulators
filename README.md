@@ -207,7 +207,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 | [Fake64](https://www.zophar.net/linux/n64/fake64.html) | Yes | GNU GPLv2 | No | No | No | Nintendo 64 |
 | [gopher64](https://github.com/gopher64/gopher64) | Yes | GNU GPLv3 | No | Yes | ? | Nintendo 64 |
 | [Jario64](https://www.zophar.net/java/n64/jario64.html) | Yes | GNU GPLv3 | No | No | No | Nintendo 64 |
-| [Kaizen (previously Gadolinium)](https://github.com/SimoneN64/Kaizen) | Yes? | Source available | No | Yes | Yes | Nintendo 64 |
+| [Kaizen (previously Gadolinium)](https://github.com/SimoneN64/Kaizen) | Yes | 3-clause BSD license | No | Yes | Yes | Nintendo 64 |
 | [Larper64 (website is down and the developer was anonymous, so only a backup Google Drive link exists)](https://drive.google.com/file/d/1IWyw5UG9Uf24KG0zrcXSFoOmcQoHWmyc/view) | No | Proprietary | No | No | No | Nintendo 64 |
 | [Mupen64](http://mupen64.emulation64.com/) | Yes | GNU GPLv2 | No | No | No | Nintendo 64 |
 | [Mupen64Plus](https://github.com/mupen64plus) | Yes | GNU GPLv2 | No | Yes | Yes | Nintendo 64 |
