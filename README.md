@@ -1244,7 +1244,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 | Emulator | FOSS | License | Free | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
 | [ares](https://ares-emu.net/) | :green_book: | ISC license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Emulated systems](https://ares-emu.net/compatibility) |
-| [byuu]() | :green_book: | ISC license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Prototype of ares |
+| [byuu](https://web.archive.org/web/20200717154940/github.com/byuu/byuu) | :green_book: | ISC license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Prototype of ares |
 | [higan](https://github.com/higan-emu/higan) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :x: | :heavy_check_mark: | [Emulated systems](https://github.com/higan-emu/higan) |
 | [RetroArch](https://www.retroarch.com/) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [List of cores](https://docs.libretro.com/meta/core-list/) |
 | [OpenEmu](https://openemu.org/) | :orange_book: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [List of supported systems](https://github.com/OpenEmu/OpenEmu/wiki#supported-systems) |
