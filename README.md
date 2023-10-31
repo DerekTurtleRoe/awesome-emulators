@@ -1434,7 +1434,7 @@ Here are some related projects I work on:
 
 I am not sponsored, affiliated, endorsed, paid, or otherwise financially (or by any other means) compensated by any group, person, company, or corporation for this list. The GitHub sponsors and other links above are purely if you want to support myself and is entirely optional.
 
-All copyrights and trademarks are owned by their respective rights holders. I do not claim to be the license holder or owner of any copyrights, patents, or trademarks. I am not a lawyer and I don't want one. Please don't sue me, I have :x: money, etc etc etc.
+All copyrights and trademarks are owned by their respective rights holders. I do not claim to be the license holder or owner of any copyrights, patents, or trademarks. I am not a lawyer and I don't want one. Please don't sue me, I have no money, etc etc etc.
 
 ## 📃 License
 
