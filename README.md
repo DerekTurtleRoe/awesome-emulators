@@ -158,8 +158,8 @@ This list will always be kept as complete and up-to-date as possible, but please
 | [KindNES](https://github.com/henryksloan/kind-nes) | :orange_book: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Entertainment System/Famicom |
 | [MacFCEU](https://sourceforge.net/projects/macfceu/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x: | Nintendo Entertainment System/Famicom |
 | [MetalNES](https://github.com/iaddis/metalnes) | :green_book: | MIT license | :heavy_check_mark: | :heavy_minus_sign: | :x: | Nintendo Entertainment System/Famicom |
-| [Mesen](https://github.com/SourMesen/Mesen) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x: | Nintendo Entertainment System/Famicom |
-| [Mesen-X](https://github.com/NovaSquirrel/Mesen-X) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x: | Nintendo Entertainment System/Famicom |
+| [Mesen](https://github.com/SourMesen/Mesen) [deprecated in favor of Mesen](https://github.com/SourMesen/Mesen2) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x: | Nintendo Entertainment System/Famicom |
+| [Mesen-X](https://github.com/NovaSquirrel/Mesen-X) [deprecated in favor of Mesen](https://github.com/SourMesen/Mesen2) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x: | Nintendo Entertainment System/Famicom |
 | [Nestopia](https://sourceforge.net/projects/nestopia/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x: | Nintendo Entertainment System/Famicom |
 | [Nestopia Undead Edition](https://github.com/0ldsk00l/nestopia) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Entertainment System/Famicom |
 | [nemulator](http://nemulator.com/) | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :x: | Nintendo Entertainment System/Famicom, Game Boy, Sega Game Gear, Sega Master System |
@@ -184,8 +184,8 @@ This list will always be kept as complete and up-to-date as possible, but please
 | [bsnes-mt](https://github.com/Marat-Tanalin/bsnes-mt) | :green_book: | GNU GPLv3+ | :heavy_check_mark: | :x: | :heavy_check_mark: | Super Nintendo Entertainment System/Super Famicom |
 | [CATSFC](https://github.com/ShadauxCat/CATSFC) | :green_book: | GNU GPLv2+ | :heavy_check_mark: | :x: | :x: | Super Nintendo Entertainment System/Super Famicom |
 | [lsnes](https://github.com/rodamaral/lsnes) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :x: | :x: | Super Nintendo Entertainment System/Super Famicom |
-| [Mesen-S](https://github.com/SourMesen/Mesen-S) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :x: | :heavy_check_mark: | Super Nintendo Entertainment System/Super Famicom |
-| [Mesen-SX](https://github.com/NovaSquirrel/Mesen-SX) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :x: | :heavy_check_mark: | Super Nintendo Entertainment System/Super Famicom |
+| [Mesen-S](https://github.com/SourMesen/Mesen-S) [deprecated in favor of Mesen](https://github.com/SourMesen/Mesen2) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :x: | :heavy_check_mark: | Super Nintendo Entertainment System/Super Famicom |
+| [Mesen-SX](https://github.com/NovaSquirrel/Mesen-SX) [deprecated in favor of Mesen](https://github.com/SourMesen/Mesen2) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :x: | :heavy_check_mark: | Super Nintendo Entertainment System/Super Famicom |
 | [NO$SNS](https://problemkaputt.github.io/) | :closed_book: | Proprietary | :heavy_check_mark: | :x: | :heavy_check_mark: | Super Nintendo Entertainment System/Super Famicom |
 | Silhouette was an unofficial port of SNES96 (by an anonymous developer), which was an early version of what would eventually become SNES9x. The README states it is a Nintendo-developed emulator, but this has been proven to be false. You can download it [here](http://www.zophar.net/download_file/816) to try it for yourself. | :closed_book: | Proprietary | :heavy_check_mark: | :x: | :x: | Super Nintendo Entertainment System/Super Famicom |
 | [SNES9x](https://github.com/snes9xgit/snes9x) | :heavy_minus_sign: | Custom license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Super Nintendo Entertainment System/Super Famicom |
@@ -1244,6 +1244,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 | Emulator | FOSS | License | Free | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
 | [ares](https://ares-emu.net/) | :green_book: | ISC license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Emulated systems](https://ares-emu.net/compatibility) |
+| [byuu]() | :green_book: | ISC license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Prototype of ares |
 | [higan](https://github.com/higan-emu/higan) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :x: | :heavy_check_mark: | [Emulated systems](https://github.com/higan-emu/higan) |
 | [RetroArch](https://www.retroarch.com/) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [List of cores](https://docs.libretro.com/meta/core-list/) |
 | [OpenEmu](https://openemu.org/) | :orange_book: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [List of supported systems](https://github.com/OpenEmu/OpenEmu/wiki#supported-systems) |
