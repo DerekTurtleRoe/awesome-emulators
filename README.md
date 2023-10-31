@@ -1426,4 +1426,4 @@ All copyrights and trademarks are owned by their respective rights holders. I do
 
 ## 📃 License
 
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+This work is licensed under Attribution-NonCommercial-ShareAlike 4.0 International. To view a copy of this license, visit [the Creative Commons website](https://creativecommons.org/licenses/by-nc-sa/4.0/).
