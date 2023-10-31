@@ -859,6 +859,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 | [Basilisk II (community fork with updates)](https://github.com/kanjitalk755/macemu/) | Yes | GNU GPLv2 | No | Yes | Yes | Apple computers |
 | [Dapple](http://sourceforge.net/projects/dapple/) | Yes | GNU GPLv2 | No | No | No | Apple computers |
 | [Dapple II](http://sourceforge.net/projects/dapple/) | Yes | GNU GPLv2 | No | No | No | Apple computers |
+| [dingusppc](https://github.com/dingusdev/dingusppc) | Yes | GNU GPLv3 | No | Yes | ? | Apple computers |
 | [Emmac](https://www.emaculation.com/doku.php/emmac) | No? | No license supplied, all documentation is in another language | No | No | ? | Apple computers |
 | [Executor](https://www.zophar.net/mac1/executor.html) | No | Proprietary | Yes (was discontinued and the dev released "free keys") | No | No | Apple computers |
 | [Fusion](https://www.zophar.net/mac1/fusion.html) | No | Proprietary | Yes | No | No | Apple computers |
