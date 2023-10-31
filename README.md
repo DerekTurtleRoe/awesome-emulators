@@ -111,7 +111,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 ## Sony PlayStation 2
 | Emulator | FOSS | License | Free | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
-| [AetherSX2](https://www.aethersx2.com/archive/) | :closed_book: | Proprietary | :heavy_check_mark: | :x: | :x: | Sony PlayStation 2 |
+| [AetherSX2](https://www.aethersx2.com/archive/) | :orange_book: | Partially | :heavy_check_mark: | :x: | :x: | Sony PlayStation 2 |
 | [DobieStation](https://github.com/PSI-Rockin/DobieStation) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :x: | :x: | Sony PlayStation 2 |
 | [hpsx64](https://sourceforge.net/projects/hpsx64/) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :x: | Sony PlayStation 2 |
 | [NeutrinoSX2](https://www.emulator-zone.com/doc.php/ps2/neutrinosx2.html) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x: | Sony PlayStation 2 |
@@ -119,6 +119,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 | [PCSX2](https://pcsx2.net/) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 2 |
 | [Play!](https://purei.org/) | :green_book: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 2 |
 | [PS2emu](https://www.emulator-zone.com/doc.php/ps2/ps2emu.html) | :closed_book: | Proprietary | :heavy_check_mark: | :x: | :x: | Sony PlayStation 2 |
+| [PurpleSX2](https://github.com/MrPurple666/AetherSX2) | :orange_book: | Partially | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 2 |
 
 ## Sony PlayStation 3
 | Emulator | FOSS | License | Free | Active | Recommended | Emulated systems |
@@ -234,6 +235,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 | [Parallel Launcher (GUI for both RetroArch N64 cores)](https://parallel-launcher.ca/) | :green_book: | GNU GPLv3+ | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo 64 |
 | [PC64](https://www.zophar.net/n64/pc64.html) | :orange_book: | "Under the laws of GNU" | :heavy_check_mark: | :x: | :x: | Nintendo 64 |
 | [Project64](https://www.pj64-emu.com/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo 64 |
+| [Project64 Legacy](http://project64.emulation64.com/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo 64 |
 | [Project Unreality](https://www.zophar.net/n64/project-unreality.html) | :orange_book: | Source available | :heavy_check_mark: | :x: | :x: | Nintendo 64 |
 | [r64emu](https://github.com/rasky/r64emu) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo 64 |
 | [RealityEmu](https://github.com/Dudejoe870/RealityEmu) | :green_book: | UNLICENSE | :heavy_check_mark: | :x: | :x: | Nintendo 64 |
