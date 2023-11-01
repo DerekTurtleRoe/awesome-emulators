@@ -113,6 +113,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 |---|---|---|---|---|---|---|
 | [AetherSX2](https://www.aethersx2.com/archive/) | :orange_book: | Partially | :heavy_check_mark: | :x: | :x: | Sony PlayStation 2 |
 | [DobieStation](https://github.com/PSI-Rockin/DobieStation) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :x: | :x: | Sony PlayStation 2 |
+| [Emotional](https://github.com/google0101-ryan/Emotional) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :x: | Sony PlayStation 2 |
 | [hpsx64](https://sourceforge.net/projects/hpsx64/) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :x: | Sony PlayStation 2 |
 | [NeutrinoSX2](https://www.emulator-zone.com/doc.php/ps2/neutrinosx2.html) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x: | Sony PlayStation 2 |
 | [orbum](https://github.com/hch12907/orbum) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :x: | :x: | Sony PlayStation 2 |
