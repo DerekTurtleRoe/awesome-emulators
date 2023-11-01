@@ -168,6 +168,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 | [NESticle](https://github.com/athros/NESticle) | :closed_book: | Proprietary, source available, source code leaked | :heavy_check_mark: | :x: | :x: | Nintendo Entertainment System/Famicom |
 | [Nintendulator](https://www.qmtpro.com/~nes/nintendulator/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Entertainment System/Famicom |
 | [NO$NES](https://problemkaputt.github.io/) | :closed_book: | Proprietary | :heavy_check_mark: | :x: | :heavy_check_mark: | Nintendo Entertainment System/Famicom |
+| [Pinky](https://github.com/koute/pinky) | :green_book: | Apache 2.0 and MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Entertainment System/Famicom |
 | [Potatis](https://github.com/henrikpersson/potatis) | :green_book: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Entertainment System/Famicom |
 | [puNES](https://github.com/punesemu/puNES) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Entertainment System/Famicom |
 | [QuickNES](https://github.com/kode54/QuickNES) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x: | Nintendo Entertainment System/Famicom |
