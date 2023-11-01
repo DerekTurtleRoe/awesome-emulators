@@ -489,6 +489,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 | [jzIntvImGui](https://github.com/jenergy/jzIntvImGui) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :heavy_minus_sign: | Mattel Intellivision |
 | [FreeIntv](https://github.com/libretro/FreeIntv) | :green_book: | GNU GPLv2+ | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Mattel Intellivision |
 | [Nostalgia](https://www.intellivision.us/intvgames/nostalgia/nostalgia.php) | :closed_book: | Proprietary | :heavy_check_mark: | :x: | :heavy_check_mark: | Mattel Intellivision |
+| [NINTV](https://github.com/wavemotion-dave/NINTV-DS) | :green_book: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Mattel Intellivision |
 | [Xanadu](https://www.arcadeathome.com/ivision.phtml?H) | :closed_book: | Proprietary | :heavy_check_mark: | :x: | :heavy_minus_sign: | Mattel Intellivision |
 
 ## Coleco ColecoVision
