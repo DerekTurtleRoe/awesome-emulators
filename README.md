@@ -151,6 +151,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 ## Nintendo Entertainment System/Famicom
 | Emulator | FOSS | License | Free | Active | Recommended | Emulated systems |
 |---|---|---|---|---|---|---|
+| [3dSen](http://www.geodstudio.net/) | :closed_book: | Proprietary | :x: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Entertainment System/Famicom |
 | [ANESE](https://github.com/daniel5151/ANESE) | :green_book: | MIT license | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Nintendo Entertainment System/Famicom |
 | [FCEUX](https://fceux.com/web/home.html) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Entertainment System/Famicom |
 | [FakeNES](https://sourceforge.net/projects/fakenes/) | :green_book: | zlib license | :heavy_check_mark: | :x: | :x: | Nintendo Entertainment System/Famicom |
