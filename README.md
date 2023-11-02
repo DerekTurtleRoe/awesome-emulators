@@ -13,20 +13,20 @@ This list will always be kept as complete and up-to-date as possible, but please
 ### Now onto the list! 😄
 
 ## Legend
-| Name | Icon | Meaning |
-|---|---|---|
-| Green Book    | :green_book:              | Open-Source Project |
-| Orange Book   | :orange_book:             | Partically Open-Source or Disputed |
-| Red Book      | :closed_book:             | Closed-Source Proprietary |
-| Computer      | :computer:                | Windows OS Support |
-| Apple         | :apple:                   | Mac OS Support
-| Penguin       | :penguin:                 | Linux OS Support
-| Imp           | :imp:                     | BSD OS Support
-| Floppy Disk   | :floppy_disk:             | DOS OS Support
-| Globe         | :globe_with_meridians:    | Web-Based
-| Trophy        | :trophy:                  | Native Retroachievements Support
-| Crown         | :crown:                   | Most Recommended
-| Bullseye      | :dart:                    | High Accuracy
+| Name        | Icon                   | Meaning                            |
+|-------------|------------------------|------------------------------------|
+| Green Book  | :green_book:           | Open-Source Project                |
+| Orange Book | :orange_book:          | Partically Open-Source or Disputed |
+| Red Book    | :closed_book:          | Closed-Source Proprietary          |
+| Computer    | :computer:             | Windows OS Support                 |
+| Apple       | :apple:                | Mac OS Support                     |
+| Penguin     | :penguin:              | Linux OS Support                   |
+| Imp         | :imp:                  | BSD OS Support                     |
+| Floppy Disk | :floppy_disk:          | DOS OS Support                     |
+| Globe       | :globe_with_meridians: | Web-Based                          |
+| Trophy      | :trophy:               | Native Retroachievements Support   |
+| Crown       | :crown:                | Most Recommended                   |
+| Bullseye    | :dart:                 | High Accuracy                      |
 
 
 ## Video game console emulators
