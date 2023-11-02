@@ -15,9 +15,18 @@ This list will always be kept as complete and up-to-date as possible, but please
 ## Legend
 | Name | Icon | Meaning |
 |---|---|---|
-| Green Book | :green_book: | Open-Source Project |
-| Orange Book | :orange_book: | Partically Open-Source or Disputed |
-| Red Book | :closed_book: | Closed-Source Proprietary |
+| Green Book    | :green_book:              | Open-Source Project |
+| Orange Book   | :orange_book:             | Partically Open-Source or Disputed |
+| Red Book      | :closed_book:             | Closed-Source Proprietary |
+| Computer      | :computer:                | Windows OS Support |
+| Apple         | :apple:                   | Mac OS Support
+| Penguin       | :penguin:                 | Linux OS Support
+| Imp           | :imp:                     | BSD OS Support
+| Floppy Disk   | :floppy_disk:             | DOS OS Support
+| Globe         | :globe_with_meridians:    | Web-Based
+| Trophy        | :trophy:                  | Native Retroachievements Support
+| Crown         | :crown:                   | Most Recommended
+| Bullseye      | :dart:                    | High Accuracy
 
 
 ## Video game console emulators
@@ -25,19 +34,19 @@ This list will always be kept as complete and up-to-date as possible, but please
 ## Atari 2600
 | Emulator | FOSS | License | Free | Active | Recommended | Emulated systems | Platform |
 |---|---|---|---|---|---|---|---|
-| [A26](https://www.zophar.net/a2600/a26.html) | :orange_book: | Source available | :heavy_check_mark: | :x: | :x:| Atari 2600 | ![DOS](images/platform/24px-Icon_DOS.png) |
-| [Gopher2600](https://github.com/JetSetIlly/Gopher2600) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign:| Atari 2600 | ![Windows](images/platform/24px-Icon_Windows.png) ![Linux](images/platform/20px-Icon_Linux_Head.png) |
-| [javatari](https://github.com/ppeccin/javatari.js) | :green_book: | AGPLv3 | :heavy_check_mark: | :heavy_check_mark: | :x:| Atari 2600 | ![Web](images/platform/24px-Icon_Web.png) |
-| [javatari (older version)](https://github.com/ppeccin/javatari) | :green_book: | AGPLv3 | :heavy_check_mark: | :x: | :x:| Atari 2600 | ![Web](images/platform/24px-Icon_Web.png)  |
-| [NO$2K6](https://problemkaputt.github.io/) | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| Atari 2600 | ![Windows](images/platform/24px-Icon_Windows.png) ![DOS](images/platform/24px-Icon_DOS.png) |
-| [PC Atari Emulator (PCAE)](https://pcae.vg-network.com/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x:| Atari 2600 | ![Windows](images/platform/24px-Icon_Windows.png) ![DOS](images/platform/24px-Icon_DOS.png)  |
-| [pyTari](https://sourceforge.net/projects/pytari/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x:| Atari 2600 |  |
-| [Stella](https://stella-emu.github.io/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| Atari 2600 | ![Windows](images/platform/24px-Icon_Windows.png) ![MAC](images/platform/20px-1998_apple_logo.png) ![Linux](images/platform/20px-Icon_Linux_Head.png) ![BSD](images/platform/21px-Icon_FreeBSD.png) |
-| [Stellarator](https://github.com/dpiponi/Stellarator) | :green_book: | 3-clause BSD | :heavy_check_mark: | :x: | :x:| Atari 2600 | ![Windows](images/platform/24px-Icon_Windows.png) ![MAC](images/platform/20px-1998_apple_logo.png) ![Linux](images/platform/20px-Icon_Linux_Head.png) ![BSD](images/platform/21px-Icon_FreeBSD.png) |
-| [VCS 2600](https://www.zophar.net/a2600/vcs-2600.html) | :closed_book: | Proprietary | :heavy_check_mark: | :x: | :x:| Atari 2600 | ![Windows](images/platform/24px-Icon_Windows.png) |
-| [Virtual 2600](https://www.zophar.net/a2600/virtual-2600.html) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x:| Atari 2600 | ![DOS](images/platform/24px-Icon_DOS.png)  |
-| [Virtual VCS](https://www.zophar.net/a2600/virtual-vcs.html) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x:| Atari 2600 | ![Windows](images/platform/24px-Icon_Windows.png) |
-| [z26](https://www.zophar.net/a2600/z26.html) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :heavy_check_mark:| Atari 2600 | ![Windows](images/platform/24px-Icon_Windows.png) ![MAC](images/platform/20px-1998_apple_logo.png) ![Linux](images/platform/20px-Icon_Linux_Head.png) ![BSD](images/platform/21px-Icon_FreeBSD.png) ![DOS](images/platform/24px-Icon_DOS.png) |
+| [A26](https://www.zophar.net/a2600/a26.html) | :orange_book: | Source available | :heavy_check_mark: | :x: | :x:| Atari 2600 | :floppy_disk: |
+| [Gopher2600](https://github.com/JetSetIlly/Gopher2600) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign:| Atari 2600 | :computer: :penguin: |
+| [javatari](https://github.com/ppeccin/javatari.js) | :green_book: | AGPLv3 | :heavy_check_mark: | :heavy_check_mark: | :x:| Atari 2600 | :globe_with_meridians: |
+| [javatari (older version)](https://github.com/ppeccin/javatari) | :green_book: | AGPLv3 | :heavy_check_mark: | :x: | :x:| Atari 2600 | :globe_with_meridians:  |
+| [NO$2K6](https://problemkaputt.github.io/) | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| Atari 2600 | :computer: :floppy_disk: |
+| [PC Atari Emulator (PCAE)](https://pcae.vg-network.com/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x:| Atari 2600 | :computer: :floppy_disk:  |
+| [pyTari](https://sourceforge.net/projects/pytari/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x:| Atari 2600 | :snake: |
+| [Stella](https://stella-emu.github.io/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:| Atari 2600 | :computer: :apple: :penguin: :imp: |
+| [Stellarator](https://github.com/dpiponi/Stellarator) | :green_book: | 3-clause BSD | :heavy_check_mark: | :x: | :x:| Atari 2600 | :computer: :apple: :penguin: :imp: |
+| [VCS 2600](https://www.zophar.net/a2600/vcs-2600.html) | :closed_book: | Proprietary | :heavy_check_mark: | :x: | :x:| Atari 2600 | :computer: |
+| [Virtual 2600](https://www.zophar.net/a2600/virtual-2600.html) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x:| Atari 2600 | :floppy_disk:  |
+| [Virtual VCS](https://www.zophar.net/a2600/virtual-vcs.html) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x:| Atari 2600 | :computer: |
+| [z26](https://www.zophar.net/a2600/z26.html) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :heavy_check_mark:| Atari 2600 | :computer: :apple: :penguin: :imp: :floppy_disk: |
 
 ## Atari 5200
 | Emulator | FOSS | License | Free | Active | Recommended | Emulated systems | Platform |
