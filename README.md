@@ -550,6 +550,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 | [BGB](http://bgb.bircd.org/) | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Game Boy, Nintendo Game Boy Color, Nintendo Super Game Boy |
 | [Boycott](https://www.zophar.net/gb/boycott.html) | :closed_book: | Proprietary | :heavy_check_mark: | :x: | :x: | Nintendo Game Boy, Nintendo Game Boy Color |
 | [Gambatte](https://sourceforge.net/projects/gambatte) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :heavy_check_mark: | Nintendo Game Boy, Nintendo Game Boy Color |
+| [Game-Boy-DOS](https://github.com/GaelCathelin/Game-Boy-DOS) | :orange_book: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Game Boy |
 | [GameRoy](https://github.com/Rodrigodd/gameroy) | :green_book: | Dual-licensed under the MIT license and the Apache 2.0 license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Game Boy |
 | [GBCC](https://gbcc.dev/) | :green_book: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Game Boy, Nintendo Game Boy Color |
 | [GoBC](https://github.com/duysqubix/gobc) | :orange_book: | Source available, license is blank | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Game Boy |
