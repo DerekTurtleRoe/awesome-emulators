@@ -13,20 +13,24 @@ This list will always be kept as complete and up-to-date as possible, but please
 ### Now onto the list! 😄
 
 ## Legend
+
+### Source Availability 
 | Name        | Icon                   | Meaning                            |
 |-------------|------------------------|------------------------------------|
-| Green Book  | :green_book:           | Open-Source Project                |
-| Orange Book | :orange_book:          | Partically Open-Source or Disputed |
-| Red Book    | :closed_book:          | Closed-Source Proprietary          |
-| Computer    | :computer:             | Windows OS Support                 |
-| Apple       | :apple:                | Mac OS Support                     |
-| Penguin     | :penguin:              | Linux OS Support                   |
-| Imp         | :imp:                  | BSD OS Support                     |
-| Floppy Disk | :floppy_disk:          | DOS OS Support                     |
-| Globe       | :globe_with_meridians: | Web-Based                          |
-| Trophy      | :trophy:               | Native Retroachievements Support   |
-| Crown       | :crown:                | Most Recommended                   |
-| Bullseye    | :dart:                 | High Accuracy                      |
+| Green book  | :green_book:           | Open-source project                |
+| Orange Book | :orange_book:          | Partically open-Source or disputed |
+| Red book    | :closed_book:          | Closed-source/proprietary          |
+
+### Platform Support
+| Name        | Icon                   | Meaning                            |
+|-------------|------------------------|------------------------------------|
+| Computer    | :computer:             | Runs on Windows                    |
+| Apple       | :apple:                | Runs on macOS                      |
+| Penguin     | :penguin:              | Runs on Linux                      |
+| Imp         | :imp:                  | Runs on BSD                        |
+| Floppy Disk | :floppy_disk:          | Runs on DOS                        |
+| Globe       | :globe_with_meridians: | Runs on the web                    |
+
 
 
 ## Video game console emulators
