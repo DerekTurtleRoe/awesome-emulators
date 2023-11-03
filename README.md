@@ -652,7 +652,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 | [Citra](https://citra-emu.org/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo 3DS |
 | [Corgi3DS](https://github.com/PSI-Rockin/Corgi3DS) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :x: | :x: | Nintendo 3DS |
 | [LemonLime](https://github.com/ItsKaitlyn03/LemonLime/) | :orange_book: | Source available | :heavy_check_mark: | :x: | :x: | Nintendo 3DS |
-| [Mikage (unreleased so far)](https://mikage.app/) | :closed_book: | N/A | :heavy_check_mark: | :x: | :x: | None, yet |
+| [Mikage (not yet released)](https://mikage.app/) | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | Nintendo 3DS |
 | [Panda3DS](https://github.com/wheremyfoodat/Panda3DS) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo 3DS |
 | [TronDS](http://trondsemu.byethost15.com/) | :closed_book: | Proprietary | :heavy_check_mark: | :x: | :x: | Nintendo 3DS |
 
