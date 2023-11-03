@@ -18,7 +18,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 | Name        | Icon                   | Meaning                            |
 |-------------|------------------------|------------------------------------|
 | Green book  | :green_book:           | Open-source project                |
-| Orange Book | :orange_book:          | Partically open-Source or disputed |
+| Orange book | :orange_book:          | Partically open-Source or disputed |
 | Red book    | :closed_book:          | Closed-source/proprietary          |
 
 ### Platform Support
