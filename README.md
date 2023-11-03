@@ -219,7 +219,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 | [Dream64](https://www.zophar.net/n64/dream64.html) | :closed_book: | Proprietary | :heavy_check_mark: | :x: | :x: | Nintendo 64 |
 | [Drop64](https://github.com/damouse/Drop64) | :green_book: | MIT license | :heavy_check_mark: | :x: | :x: | Nintendo 64 |
 | [Fake64](https://www.zophar.net/linux/n64/fake64.html) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x: | :x: | Nintendo 64 |
-| [gopher64](https://github.com/gopher64/gopher64) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo 64 |
+| [gopher64](https://github.com/gopher64/gopher64) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo 64 |
 | [Jario64](https://www.zophar.net/java/n64/jario64.html) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :x: | :x: | Nintendo 64 |
 | [Kaizen (previously Gadolinium)](https://github.com/SimoneN64/Kaizen) | :green_book: | 3-clause BSD license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo 64 |
 | [Larper64 (website is down and the developer was anonymous, so only a backup Google Drive link exists)](https://drive.google.com/file/d/1IWyw5UG9Uf24KG0zrcXSFoOmcQoHWmyc/view) | :closed_book: | Proprietary | :heavy_check_mark: | :x: | :x: | Nintendo 64 |
