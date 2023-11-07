@@ -32,143 +32,143 @@ Legend:
 
 ## Table of Contents
 
-1. Awesome Emulators
-    1. Source Availability
-    2. Platform Support
-    3. Video game console emulators
-    4. Atari 2600
-    5. Atari 5200
-    6. Atari 7800
-    7. Atari Jaguar/Jaguar CD
-    8. Commodore Amiga CD32
-    9. LaserDisc systems
-    10. Sony PlayStation 1
-    11. Sony PlayStation 2
-    12. Sony PlayStation 3
-    13. Sony PlayStation 4
-    14. Sony PlayStation 5
-    15. Nintendo Entertainment System/Famicom
-    16. Super Nintendo Entertainment System/Super Famicom
-    17. Nintendo 64
-    18. Nintendo GameCube
-    19. Nintendo Wii
-    20. Nintendo Wii U
-    21. Nintendo Switch
-    22. Sega Master System
-    23. Sega Genesis/Megadrive and 32X/Sega CD
-    24. Sega Saturn
-    25. Sega Dreamcast
-    26. Sega Dreamcast VMU
-    27. Microsoft Xbox
-    28. Microsoft Xbox 360
-    29. Microsoft Xbox One
-    30. Microsoft Xbox Series
-    31. NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx
-    32. SNK Neo Geo AES/MVS/Neo Geo CD
-    33. Pong consoles
-    34. Magnavox Odyssey 2
-    35. Philips CD-i
-    36. Panasonic 3DO Interactive Multiplayer
-    37. Panasonic 3DO M2
-    38. Gemei A330
-    39. Apple/Bandai Pippin
-    40. Mattel Intellivision
-    41. Coleco ColecoVision
-    42. Chip-8 and related system emulators/interpreters
-    43. COSMAC VIP/RCA Studio II/Telmac 1800
-    44. Handheld game console emulators
-    45. Nintendo Game Boy/Game Boy Color
-    46. Nintendo Game Boy Advance
-    47. Nintendo Game And Watch simulators
-    48. Nintendo Virtual Boy
-    49. Pokemon Mini
-    50. Nintendo DS
-    51. Nintendo 3DS
-    52. Game Park GP32
-    53. Atari Lynx
-    54. Sega Game Gear
-    55. Sony PlayStation Portable
-    56. Sony PocketStation
-    57. Sony PlayStation Vita
-    58. Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch
-    59. SNK Neo Geo Pocket/Color
-    60. Watara SuperVision
-    61. Phones/PDAs/other mobile devices, etc.
-    62. Apple iOS/iPod
-    63. Google Android
-    64. N-Gage
-    65. BREW
-    66. Mophun
-    67. Java
-    68. Palm devices
-    69. Computer emulators
-    70. Acorn Atom computers
-    71. Acorn BBC Micro computers
-    72. Acorn Electron computers
-    73. Acorn Archimedes computers
-    74. Amstrad CPC computers
-    75. DOS emulators
-    76. x86 emulators
-    77. System/370, ESA/390, z/Architecture
-    78. Apple computers
-    79. NeXT computers
-    80. Oberon RISC machine
-    81. SIMH simulators
-    82. Coleco computers
-    83. Commodore computers
-    84. Commodore Amiga computers/Commodore Amiga CD32
-    85. Atari 400/800 and ST computers
-    86. Sinclair ZX81 computers
-    87. Sinclair ZX Spectrum computers
-    88. NEC 6000 computers
-    89. NEC 8800 computers
-    90. NEC 9800 computers
-    91. MSX computers
-    92. Sharp X1 computers
-    93. Sharp X68000 computers
-    94. Virtualization solutions
-    95. Interpreters
-    96. Calculator emulators
-    97. Texas Instruments
-    98. TI-81 series
-    99. TI-83 / TI-84 series
-    100. TI-85 and TI-86 series
-    101. TI-89 series
-    102. TI-90 series
-    103. Misc TI calculator emulators
-    104. TI-Nspire
-    105. Hewlett Packard monochrome calculators
-    106. Hewlett Packard Prime calculators
-    107. Hewlett Packard scientific and financial calculators
-    108. Other HP calculator resources
-    109. Casio calculators
-    110. Sharp calculators
-    111. Elektronika calculators
-    112. Other miscellaneous emulators and projects:
-    113. Adobe Flash emulators
-    114. Game engine emulators/interpreters
-    115. Nuon emulators
-    116. Steam emulators (emulate Steamworks or Steam functionality so you can play offline or via LAN)
-    117. Arcade machine emulators
-    118. Pinball machine emulators
-    119. Multi-system emulators
-    120. Emulation operating systems for computers
-    121. Emulation operating systems for single board computers
-    122. Emulation frontends and launchers for Windows/Linux
-    123. Emulation frontends for Android
-    124. Emulation scripts for setting up multiple emulators
-    125. Game collection managers
-    126. 👨‍💻 Contributing
-    127. 💬 Support
-    128. 🙏 Special Thanks
-    129. ❓ FAQ
-        1. Where can I download games?
-        2. Can you give me personal help with emulator setup, dumping games and software, or other things?
-    130. 🐢 Author
-    131. 🔗 Links
-    132. Related projects
-    133. Disclaimer
-    134. 📃 License
+1. [Awesome Emulators](https://github.com/DerekTurtleRoe/awesome-emulators#awesome-emulators)
+    1. [Source Availability](https://github.com/DerekTurtleRoe/awesome-emulators#source-availability)
+    2. [Platform Support](https://github.com/DerekTurtleRoe/awesome-emulators#platform-support)
+    3. [Video game console emulators](https://github.com/DerekTurtleRoe/awesome-emulators#video-game-console-emulators)
+    4. [Atari 2600](https://github.com/DerekTurtleRoe/awesome-emulators#atari-2600)
+    5. [Atari 5200](https://github.com/DerekTurtleRoe/awesome-emulators#atari-5200)
+    6. [Atari 7800](https://github.com/DerekTurtleRoe/awesome-emulators#atari-7800)
+    7. [Atari Jaguar/Jaguar CD](https://github.com/DerekTurtleRoe/awesome-emulators#atari-jaguarjaguar-cd)
+    8. [Commodore Amiga CD32](https://github.com/DerekTurtleRoe/awesome-emulators#commodore-amiga-cd32)
+    9. [LaserDisc systems](https://github.com/DerekTurtleRoe/awesome-emulators#laserdisc-systems)
+    10. [Sony PlayStation 1](https://github.com/DerekTurtleRoe/awesome-emulators#sony-playstation-1)
+    11. [Sony PlayStation 2](https://github.com/DerekTurtleRoe/awesome-emulators#sony-playstation-2)
+    12. [Sony PlayStation 3](https://github.com/DerekTurtleRoe/awesome-emulators#sony-playstation-3)
+    13. [Sony PlayStation 4](https://github.com/DerekTurtleRoe/awesome-emulators#sony-playstation-4)
+    14. [Sony PlayStation 5](https://github.com/DerekTurtleRoe/awesome-emulators#sony-playstation-5)
+    15. [Nintendo Entertainment System/Famicom](https://github.com/DerekTurtleRoe/awesome-emulators#nintendo-entertainment-systemfamicom)
+    16. [Super Nintendo Entertainment System/Super Famicom](https://github.com/DerekTurtleRoe/awesome-emulators#super-nintendo-entertainment-systemsuper-famicom)
+    17. [Nintendo 64](https://github.com/DerekTurtleRoe/awesome-emulators#nintendo-64)
+    18. [Nintendo GameCube](https://github.com/DerekTurtleRoe/awesome-emulators#nintendo-gamecube)
+    19. [Nintendo Wii](https://github.com/DerekTurtleRoe/awesome-emulators#nintendo-wii)
+    20. [Nintendo Wii U](https://github.com/DerekTurtleRoe/awesome-emulators#nintendo-wii-u)
+    21. [Nintendo Switch](https://github.com/DerekTurtleRoe/awesome-emulators#nintendo-switch)
+    22. [Sega Master System](https://github.com/DerekTurtleRoe/awesome-emulators#sega-master-system)
+    23. [Sega Genesis/Megadrive and 32X/Sega CD](https://github.com/DerekTurtleRoe/awesome-emulators#sega-genesismegadrive-and-32xsega-cd)
+    24. [Sega Saturn](https://github.com/DerekTurtleRoe/awesome-emulators#sega-saturn)
+    25. [Sega Dreamcast](https://github.com/DerekTurtleRoe/awesome-emulators#sega-dreamcast)
+    26. [Sega Dreamcast VMU](https://github.com/DerekTurtleRoe/awesome-emulators#sega-dreamcast-vmu)
+    27. [Microsoft Xbox](https://github.com/DerekTurtleRoe/awesome-emulators#microsoft-xbox)
+    28. [Microsoft Xbox 360](https://github.com/DerekTurtleRoe/awesome-emulators#microsoft-xbox-360)
+    29. [Microsoft Xbox One](https://github.com/DerekTurtleRoe/awesome-emulators#microsoft-xbox-one)
+    30. [Microsoft Xbox Series](https://github.com/DerekTurtleRoe/awesome-emulators#microsoft-xbox-series)
+    31. [NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx](https://github.com/DerekTurtleRoe/awesome-emulators#nec-pc-engineturbografx-16cd-romturbografx-cdsupergrafx)
+    32. [SNK Neo Geo AES/MVS/Neo Geo CD](https://github.com/DerekTurtleRoe/awesome-emulators#snk-neo-geo-aesmvsneo-geo-cd)
+    33. [Pong consoles](https://github.com/DerekTurtleRoe/awesome-emulators#pong-consoles)
+    34. [Magnavox Odyssey 2](https://github.com/DerekTurtleRoe/awesome-emulators#magnavox-odyssey-2)
+    35. [Philips CD-i](https://github.com/DerekTurtleRoe/awesome-emulators#philips-cd-i)
+    36. [Panasonic 3DO Interactive Multiplayer](https://github.com/DerekTurtleRoe/awesome-emulators#panasonic-3do-interactive-multiplayer)
+    37. [Panasonic 3DO M2](https://github.com/DerekTurtleRoe/awesome-emulators#panasonic-3do-m2)
+    38. [Gemei A330](https://github.com/DerekTurtleRoe/awesome-emulators#gemei-a330)
+    39. [Apple/Bandai Pippin](https://github.com/DerekTurtleRoe/awesome-emulators#applebandai-pippin)
+    40. [Mattel Intellivision](https://github.com/DerekTurtleRoe/awesome-emulators#mattel-intellivision)
+    41. [Coleco ColecoVision](https://github.com/DerekTurtleRoe/awesome-emulators#coleco-colecovision)
+    42. [Chip-8 and related system emulators/interpreters](https://github.com/DerekTurtleRoe/awesome-emulators#chip-8-and-related-system-emulatorsinterpreters)
+    43. [COSMAC VIP/RCA Studio II/Telmac 1800](https://github.com/DerekTurtleRoe/awesome-emulators#cosmac-viprca-studio-iitelmac-1800)
+    44. [Handheld game console emulators](https://github.com/DerekTurtleRoe/awesome-emulators#handheld-game-console-emulators)
+    45. [Nintendo Game Boy/Game Boy Color](https://github.com/DerekTurtleRoe/awesome-emulators#nintendo-game-boygame-boy-color)
+    46. [Nintendo Game Boy Advance](https://github.com/DerekTurtleRoe/awesome-emulators#nintendo-game-boy-advance)
+    47. [Nintendo Game And Watch simulators](https://github.com/DerekTurtleRoe/awesome-emulators#nintendo-game-and-watch-simulators)
+    48. [Nintendo Virtual Boy](https://github.com/DerekTurtleRoe/awesome-emulators#nintendo-virtual-boy)
+    49. [Pokemon Mini](https://github.com/DerekTurtleRoe/awesome-emulators#pokemon-mini)
+    50. [Nintendo DS](https://github.com/DerekTurtleRoe/awesome-emulators#nintendo-ds)
+    51. [Nintendo 3DS](https://github.com/DerekTurtleRoe/awesome-emulators#nintendo-3ds)
+    52. [Game Park GP32](https://github.com/DerekTurtleRoe/awesome-emulators#game-park-gp32)
+    53. [Atari Lynx](https://github.com/DerekTurtleRoe/awesome-emulators#atari-lynx)
+    54. [Sega Game Gear](https://github.com/DerekTurtleRoe/awesome-emulators#sega-game-gear)
+    55. [Sony PlayStation Portable](https://github.com/DerekTurtleRoe/awesome-emulators#sony-playstation-portable)
+    56. [Sony PocketStation](https://github.com/DerekTurtleRoe/awesome-emulators#sony-pocketstation)
+    57. [Sony PlayStation Vita](https://github.com/DerekTurtleRoe/awesome-emulators#sony-playstation-vita)
+    58. [Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch](https://github.com/DerekTurtleRoe/awesome-emulators#bandai-wonderswanwonderswan-colorswancrystalwonderwitch)
+    59. [SNK Neo Geo Pocket/Color](https://github.com/DerekTurtleRoe/awesome-emulators#snk-neo-geo-pocketcolor)
+    60. [Watara SuperVision](https://github.com/DerekTurtleRoe/awesome-emulators#watara-supervision)
+    61. [Phones/PDAs/other mobile devices, etc.](https://github.com/DerekTurtleRoe/awesome-emulators#phonespdasother-mobile-devices-etc)
+    62. [Apple iOS/iPod](https://github.com/DerekTurtleRoe/awesome-emulators#apple-iosipod)
+    63. [Google Android](https://github.com/DerekTurtleRoe/awesome-emulators#google-android)
+    64. [N-Gage](https://github.com/DerekTurtleRoe/awesome-emulators#n-gage)
+    65. [BREW](https://github.com/DerekTurtleRoe/awesome-emulators#brew)
+    66. [Mophun](https://github.com/DerekTurtleRoe/awesome-emulators#mophun)
+    67. [Java](https://github.com/DerekTurtleRoe/awesome-emulators#java)
+    68. [Palm devices](https://github.com/DerekTurtleRoe/awesome-emulators#palm-devices)
+    69. [Computer emulators](https://github.com/DerekTurtleRoe/awesome-emulators#computer-emulators)
+    70. [Acorn Atom computers](https://github.com/DerekTurtleRoe/awesome-emulators#acorn-atom-computers)
+    71. [Acorn BBC Micro computers](https://github.com/DerekTurtleRoe/awesome-emulators#acorn-bbc-micro-computers)
+    72. [Acorn Electron computers](https://github.com/DerekTurtleRoe/awesome-emulators#acorn-electron-computers)
+    73. [Acorn Archimedes computers](https://github.com/DerekTurtleRoe/awesome-emulators#acorn-archimedes-computers)
+    74. [Amstrad CPC computers](https://github.com/DerekTurtleRoe/awesome-emulators#amstrad-cpc-computers)
+    75. [DOS emulators](https://github.com/DerekTurtleRoe/awesome-emulators#dos-emulators)
+    76. [x86 emulators](https://github.com/DerekTurtleRoe/awesome-emulators#x86-emulators)
+    77. [System/370, ESA/390, z/Architecture](https://github.com/DerekTurtleRoe/awesome-emulators#system370-esa390-zarchitecture)
+    78. [Apple computers](https://github.com/DerekTurtleRoe/awesome-emulators#apple-computers)
+    79. [NeXT computers](https://github.com/DerekTurtleRoe/awesome-emulators#next-computers)
+    80. [Oberon RISC machine](https://github.com/DerekTurtleRoe/awesome-emulators#oberon-risc-machine)
+    81. [SIMH simulators](https://github.com/DerekTurtleRoe/awesome-emulators#simh-simulators)
+    82. [Coleco computers](https://github.com/DerekTurtleRoe/awesome-emulators#coleco-computers)
+    83. [Commodore computers](https://github.com/DerekTurtleRoe/awesome-emulators#commodore-computers)
+    84. [Commodore Amiga computers/Commodore Amiga CD32](https://github.com/DerekTurtleRoe/awesome-emulators#commodore-amiga-computerscommodore-amiga-cd32)
+    85. [Atari 400/800 and ST computers](https://github.com/DerekTurtleRoe/awesome-emulators#atari-400800-and-st-computers)
+    86. [Sinclair ZX81 computers](https://github.com/DerekTurtleRoe/awesome-emulators#sinclair-zx81-computers)
+    87. [Sinclair ZX Spectrum computers](https://github.com/DerekTurtleRoe/awesome-emulators#sinclair-zx-spectrum-computers)
+    88. [NEC 6000 computers](https://github.com/DerekTurtleRoe/awesome-emulators#nec-6000-computers)
+    89. [NEC 8800 computers](https://github.com/DerekTurtleRoe/awesome-emulators#nec-8800-computers)
+    90. [NEC 9800 computers](https://github.com/DerekTurtleRoe/awesome-emulators#nec-9800-computers)
+    91. [MSX computers](https://github.com/DerekTurtleRoe/awesome-emulators#msx-computers)
+    92. [Sharp X1 computers](https://github.com/DerekTurtleRoe/awesome-emulators#sharp-x1-computers)
+    93. [Sharp X68000 computers](https://github.com/DerekTurtleRoe/awesome-emulators#sharp-x68000-computers)
+    94. [Virtualization solutions](https://github.com/DerekTurtleRoe/awesome-emulators#virtualization-solutions)
+    95. [Interpreters](https://github.com/DerekTurtleRoe/awesome-emulators#interpreters)
+    96. [Calculator emulators](https://github.com/DerekTurtleRoe/awesome-emulators#calculator-emulators)
+    97. [Texas Instruments](https://github.com/DerekTurtleRoe/awesome-emulators#texas-instruments)
+    98. [TI-81 series](https://github.com/DerekTurtleRoe/awesome-emulators#ti-81-series)
+    99. [TI-83 / TI-84 series](https://github.com/DerekTurtleRoe/awesome-emulators#ti-83--ti-84-series)
+    100. [TI-85 and TI-86 series](https://github.com/DerekTurtleRoe/awesome-emulators#ti-85-and-ti-86-series)
+    101. [TI-89 series](https://github.com/DerekTurtleRoe/awesome-emulators#ti-89-series)
+    102. [TI-90 series](https://github.com/DerekTurtleRoe/awesome-emulators#ti-90-series)
+    103. [Misc TI calculator emulators](https://github.com/DerekTurtleRoe/awesome-emulators#misc-ti-calculator-emulators)
+    104. [TI-Nspire](https://github.com/DerekTurtleRoe/awesome-emulators#ti-nspire)
+    105. [Hewlett Packard monochrome calculators](https://github.com/DerekTurtleRoe/awesome-emulators#hewlett-packard-monochrome-calculators)
+    106. [Hewlett Packard Prime calculators](https://github.com/DerekTurtleRoe/awesome-emulators#hewlett-packard-prime-calculators)
+    107. [Hewlett Packard scientific and financial calculators](https://github.com/DerekTurtleRoe/awesome-emulators#hewlett-packard-scientific-and-financial-calculators)
+    108. [Other HP calculator resources](https://github.com/DerekTurtleRoe/awesome-emulators#other-hp-calculator-resources)
+    109. [Casio calculators](https://github.com/DerekTurtleRoe/awesome-emulators#casio-calculators)
+    110. [Sharp calculators](https://github.com/DerekTurtleRoe/awesome-emulators#sharp-calculators)
+    111. [Elektronika calculators](https://github.com/DerekTurtleRoe/awesome-emulators#elektronika-calculators)
+    112. [Other miscellaneous emulators and projects:](https://github.com/DerekTurtleRoe/awesome-emulators#other-miscellaneous-emulators-and-projects)
+    113. [Adobe Flash emulators](https://github.com/DerekTurtleRoe/awesome-emulators#adobe-flash-emulators)
+    114. [Game engine emulators/interpreters](https://github.com/DerekTurtleRoe/awesome-emulators#game-engine-emulatorsinterpreters)
+    115. [Nuon emulators](https://github.com/DerekTurtleRoe/awesome-emulators#nuon-emulators)
+    116. [Steam emulators (emulate Steamworks or Steam functionality so you can play offline or via LAN)](https://github.com/DerekTurtleRoe/awesome-emulators#steam-emulators-emulate-steamworks-or-steam-functionality-so-you-can-play-offline-or-via-lan)
+    117. [Arcade machine emulators](https://github.com/DerekTurtleRoe/awesome-emulators#arcade-machine-emulators)
+    118. [Pinball machine emulators](https://github.com/DerekTurtleRoe/awesome-emulators#pinball-machine-emulators)
+    119. [Multi-system emulators](https://github.com/DerekTurtleRoe/awesome-emulators#multi-system-emulators)
+    120. [Emulation operating systems for computers](https://github.com/DerekTurtleRoe/awesome-emulators#emulation-operating-systems-for-computers)
+    121. [Emulation operating systems for single board computers](https://github.com/DerekTurtleRoe/awesome-emulators#emulation-operating-systems-for-single-board-computers)
+    122. [Emulation frontends and launchers for Windows/Linux](https://github.com/DerekTurtleRoe/awesome-emulators#emulation-frontends-and-launchers-for-windowslinux)
+    123. [Emulation frontends for Android](https://github.com/DerekTurtleRoe/awesome-emulators#emulation-frontends-for-android)
+    124. [Emulation scripts for setting up multiple emulators](https://github.com/DerekTurtleRoe/awesome-emulators#emulation-scripts-for-setting-up-multiple-emulators)
+    125. [Game collection managers](https://github.com/DerekTurtleRoe/awesome-emulators#game-collection-managers)
+    126. [👨‍💻 Contributing](https://github.com/DerekTurtleRoe/awesome-emulators#-contributing)
+    127. [💬 Support](https://github.com/DerekTurtleRoe/awesome-emulators#-support)
+    128. [🙏 Special Thanks](https://github.com/DerekTurtleRoe/awesome-emulators#-special-thanks)
+    129. [❓ FAQ](https://github.com/DerekTurtleRoe/awesome-emulators#-faq)
+        1. [Where can I download games?](https://github.com/DerekTurtleRoe/awesome-emulators#where-can-i-download-games)
+        2. [Can you give me personal help with emulator setup, dumping games and software, or other things?](https://github.com/DerekTurtleRoe/awesome-emulators#can-you-give-me-personal-help-with-emulator-setup-dumping-games-and-software-or-other-things)
+    130. [🐢 Author](https://github.com/DerekTurtleRoe/awesome-emulators#-author)
+    131. [🔗 Links](https://github.com/DerekTurtleRoe/awesome-emulators#-links)
+    132. [Related projects](https://github.com/DerekTurtleRoe/awesome-emulators#related-projects)
+    133. [Disclaimer](https://github.com/DerekTurtleRoe/awesome-emulators#disclaimer)
+    134. [📃 License](https://github.com/DerekTurtleRoe/awesome-emulators#-license)
 
 ## Video game console emulators
 
