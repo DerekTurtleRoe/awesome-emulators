@@ -148,7 +148,7 @@ Legend:
     113. [Adobe Flash emulators](https://github.com/DerekTurtleRoe/awesome-emulators#adobe-flash-emulators)
     114. [Game engine emulators/interpreters](https://github.com/DerekTurtleRoe/awesome-emulators#game-engine-emulatorsinterpreters)
     115. [Nuon emulators](https://github.com/DerekTurtleRoe/awesome-emulators#nuon-emulators)
-    116. [Game client emulators)](https://github.com/DerekTurtleRoe/awesome-emulators#game-client-emulators)
+    116. [Steam emulators (emulate Steamworks or Steam functionality so you can play offline or via LAN)](https://github.com/DerekTurtleRoe/awesome-emulators#steam-emulators-emulate-steamworks-or-steam-functionality-so-you-can-play-offline-or-via-lan)
     117. [Arcade machine emulators](https://github.com/DerekTurtleRoe/awesome-emulators#arcade-machine-emulators)
     118. [Pinball machine emulators](https://github.com/DerekTurtleRoe/awesome-emulators#pinball-machine-emulators)
     119. [Multi-system emulators](https://github.com/DerekTurtleRoe/awesome-emulators#multi-system-emulators)
@@ -1391,6 +1391,7 @@ Legend:
 | [Callus95 (patch)](https://cps2shock.emu-france.info/cls95p/)                              | :closed_book: | Proprietary                        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Capcom CPS1 hardware                                        |          |
 | [Nebula](https://www.emulator-zone.com/doc.php/arcade/nebula.html)                         | :closed_book: | Proprietary                        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Neo Geo AES, CPS1/2, Konami, PolyGameMaster arcade hardware |          |
 | [Mjolnir](http://emu.kulichki.net/arcade/mjolnir/)                                         | :orange_book: | Possibly MIT or MAME license?      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Namco System 21, System 22, and Super System 22 hardware    |          |
+| [pfeMAME](https://sourceforge.net/projects/pfemame/files/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Multiple arcade systems |  |
 
 ## Pinball machine emulators
 | Emulator                                                                                                                                    | FOSS          | License                               | Free               | Active             | Recommended        | Emulated systems                                               | Platform |
