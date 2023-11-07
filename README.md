@@ -124,7 +124,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 
 ## Sony PlayStation 2
 | Emulator                                                                  | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems   | Platform |
-|---------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|--------------------|
+|---------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|--------------------|---|
 | [AetherSX2](https://www.aethersx2.com/archive/)                           | :orange_book: | Partially   | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 2 |  |
 | [DobieStation](https://github.com/PSI-Rockin/DobieStation)                | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 2 |  |
 | [Emotional](https://github.com/google0101-ryan/Emotional)                 | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :x:                | Sony PlayStation 2 |  |
