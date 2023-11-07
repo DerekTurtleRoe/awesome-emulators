@@ -148,7 +148,7 @@ Legend:
     113. [Adobe Flash emulators](https://github.com/DerekTurtleRoe/awesome-emulators#adobe-flash-emulators)
     114. [Game engine emulators/interpreters](https://github.com/DerekTurtleRoe/awesome-emulators#game-engine-emulatorsinterpreters)
     115. [Nuon emulators](https://github.com/DerekTurtleRoe/awesome-emulators#nuon-emulators)
-    116. [Steam emulators (emulate Steamworks or Steam functionality so you can play offline or via LAN)](https://github.com/DerekTurtleRoe/awesome-emulators#steam-emulators-emulate-steamworks-or-steam-functionality-so-you-can-play-offline-or-via-lan)
+    116. [Game client emulators)](https://github.com/DerekTurtleRoe/awesome-emulators#game-client-emulators)
     117. [Arcade machine emulators](https://github.com/DerekTurtleRoe/awesome-emulators#arcade-machine-emulators)
     118. [Pinball machine emulators](https://github.com/DerekTurtleRoe/awesome-emulators#pinball-machine-emulators)
     119. [Multi-system emulators](https://github.com/DerekTurtleRoe/awesome-emulators#multi-system-emulators)
