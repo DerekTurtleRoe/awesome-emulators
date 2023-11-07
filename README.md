@@ -981,6 +981,7 @@ Legend:
 | [DOSBox-Staging](https://dosbox-staging.github.io/)                               | :green_book:  | GNU GPLv2                                                                         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | DOS              |          |
 | [DOSBox-Turbo](https://play.google.com/store/apps/details?id=com.fishstix.dosbox) | :orange_book: | It should have source available due to being based on DOSBox, but I can't find it | :x:                | :heavy_minus_sign: | :x:                | DOS              |          |
 | [DOSBox-X](https://github.com/joncampbell123/dosbox-x/)                           | :green_book:  | GNU GPLv2                                                                         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | DOS              |          |
+| [em-dosbox](https://github.com/dreamlayers/em-dosbox) | :green_book:  | GNU GPLv2                                                                         | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | DOS              |          |
 
 ## x86 emulators
 | Emulator                                                               | FOSS           | License                                                                     | Free               | Active             | Recommended        | Emulated systems                      | Platform |
