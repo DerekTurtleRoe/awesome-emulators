@@ -1,27 +1,25 @@
 # Awesome Emulators
 
-### A list of all the emulators for a particular system. Includes honorable and historical mentions as well!
+A list of all the emulators for a particular system. Includes honorable and historical mentions as well!
 
 This list will always be kept as complete and up-to-date as possible, but please open an issue if you have any questions/comments/concerns.
 
 ***Official websites and links to the authors will always be used if possible, otherwise mirrors may be used if they are available.***
 
-***Quick note: the recommended column asks the question "is there a use case for this emulator besides for historical or archival reasons?" If the answer is yes, it only means there is a reason to use the emulator in current year. It doesn't necessarily mean you should use it to just play video games necessarily, it could be useful for debugging/development, it might have exclusive features, or it might be relevant for some other reason.***
+***Quick note: the recommended column is purely subjective and I only use it as a means of answering the question "should/could/would you use it?" or "is there a viable use case or reason for this emulator to be used instead of another?" Please ask yourself what you are using the emulator for and then make an educated decision based on your own research and  needs.***
 
-### For more information about this project, how you can contribute, frequently asked questions, and more, please go to the end of this document.
+Now onto the list! 😄
 
-### Now onto the list! 😄
+Legend:
 
-## Legend
-
-### Source Availability 
+## Source Availability
 | Name        | Icon                   | Meaning                            |
 |-------------|------------------------|------------------------------------|
 | Green book  | :green_book:           | Open-source project                |
 | Orange book | :orange_book:          | Partically open-Source or disputed |
 | Red book    | :closed_book:          | Closed-source/proprietary          |
 
-### Platform Support
+## Platform Support
 | Name        | Icon                   | Meaning                            |
 |-------------|------------------------|------------------------------------|
 | Computer    | :computer:             | Runs on Windows                    |
@@ -32,9 +30,148 @@ This list will always be kept as complete and up-to-date as possible, but please
 | Globe       | :globe_with_meridians: | Runs on the web                    |
 
 
+## Table of Contents
+
+1. Awesome Emulators
+    1. Source Availability
+    2. Platform Support
+    3. Video game console emulators
+    4. Atari 2600
+    5. Atari 5200
+    6. Atari 7800
+    7. Atari Jaguar/Jaguar CD
+    8. Commodore Amiga CD32
+    9. LaserDisc systems
+    10. Sony PlayStation 1
+    11. Sony PlayStation 2
+    12. Sony PlayStation 3
+    13. Sony PlayStation 4
+    14. Sony PlayStation 5
+    15. Nintendo Entertainment System/Famicom
+    16. Super Nintendo Entertainment System/Super Famicom
+    17. Nintendo 64
+    18. Nintendo GameCube
+    19. Nintendo Wii
+    20. Nintendo Wii U
+    21. Nintendo Switch
+    22. Sega Master System
+    23. Sega Genesis/Megadrive and 32X/Sega CD
+    24. Sega Saturn
+    25. Sega Dreamcast
+    26. Sega Dreamcast VMU
+    27. Microsoft Xbox
+    28. Microsoft Xbox 360
+    29. Microsoft Xbox One
+    30. Microsoft Xbox Series
+    31. NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx
+    32. SNK Neo Geo AES/MVS/Neo Geo CD
+    33. Pong consoles
+    34. Magnavox Odyssey 2
+    35. Philips CD-i
+    36. Panasonic 3DO Interactive Multiplayer
+    37. Panasonic 3DO M2
+    38. Gemei A330
+    39. Apple/Bandai Pippin
+    40. Mattel Intellivision
+    41. Coleco ColecoVision
+    42. Chip-8 and related system emulators/interpreters
+    43. COSMAC VIP/RCA Studio II/Telmac 1800
+    44. Handheld game console emulators
+    45. Nintendo Game Boy/Game Boy Color
+    46. Nintendo Game Boy Advance
+    47. Nintendo Game And Watch simulators
+    48. Nintendo Virtual Boy
+    49. Pokemon Mini
+    50. Nintendo DS
+    51. Nintendo 3DS
+    52. Game Park GP32
+    53. Atari Lynx
+    54. Sega Game Gear
+    55. Sony PlayStation Portable
+    56. Sony PocketStation
+    57. Sony PlayStation Vita
+    58. Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch
+    59. SNK Neo Geo Pocket/Color
+    60. Watara SuperVision
+    61. Phones/PDAs/other mobile devices, etc.
+    62. Apple iOS/iPod
+    63. Google Android
+    64. N-Gage
+    65. BREW
+    66. Mophun
+    67. Java
+    68. Palm devices
+    69. Computer emulators
+    70. Acorn Atom computers
+    71. Acorn BBC Micro computers
+    72. Acorn Electron computers
+    73. Acorn Archimedes computers
+    74. Amstrad CPC computers
+    75. DOS emulators
+    76. x86 emulators
+    77. System/370, ESA/390, z/Architecture
+    78. Apple computers
+    79. NeXT computers
+    80. Oberon RISC machine
+    81. SIMH simulators
+    82. Coleco computers
+    83. Commodore computers
+    84. Commodore Amiga computers/Commodore Amiga CD32
+    85. Atari 400/800 and ST computers
+    86. Sinclair ZX81 computers
+    87. Sinclair ZX Spectrum computers
+    88. NEC 6000 computers
+    89. NEC 8800 computers
+    90. NEC 9800 computers
+    91. MSX computers
+    92. Sharp X1 computers
+    93. Sharp X68000 computers
+    94. Virtualization solutions
+    95. Interpreters
+    96. Calculator emulators
+    97. Texas Instruments
+    98. TI-81 series
+    99. TI-83 / TI-84 series
+    100. TI-85 and TI-86 series
+    101. TI-89 series
+    102. TI-90 series
+    103. Misc TI calculator emulators
+    104. TI-Nspire
+    105. Hewlett Packard monochrome calculators
+    106. Hewlett Packard Prime calculators
+    107. Hewlett Packard scientific and financial calculators
+    108. Other HP calculator resources
+    109. Casio calculators
+    110. Sharp calculators
+    111. Elektronika calculators
+    112. Other miscellaneous emulators and projects:
+    113. Adobe Flash emulators
+    114. Game engine emulators/interpreters
+    115. Nuon emulators
+    116. Steam emulators (emulate Steamworks or Steam functionality so you can play offline or via LAN)
+    117. Arcade machine emulators
+    118. Pinball machine emulators
+    119. Multi-system emulators
+    120. Emulation operating systems for computers
+    121. Emulation operating systems for single board computers
+    122. Emulation frontends and launchers for Windows/Linux
+    123. Emulation frontends for Android
+    124. Emulation scripts for setting up multiple emulators
+    125. Game collection managers
+    126. 👨‍💻 Contributing
+    127. 💬 Support
+    128. 🙏 Special Thanks
+    129. ❓ FAQ
+        1. Where can I download games?
+        2. Can you give me personal help with emulator setup, dumping games and software, or other things?
+    130. 🐢 Author
+    131. 🔗 Links
+    132. Related projects
+    133. Disclaimer
+    134. 📃 License
 
 ## Video game console emulators
----
+
 ## Atari 2600
 | Emulator                                                        | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform                           |
 |-----------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|------------------------------------|
@@ -105,7 +242,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 | [DuckStation](https://github.com/stenzek/duckstation)                                                    | :green_book:  | GNU GPLv3        | :heavy_check_mark:       | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation                                  |          |
 | [ePSXe](https://www.epsxe.com/)                                                                          | :closed_book: | Proprietary      | No, Free Android version | :heavy_check_mark: | :x:                | Sony PlayStation                                  |          |
 | [hpsx64](https://sourceforge.net/projects/hpsx64/)                                                       | :green_book:  | GNU GPLv3        | :heavy_check_mark:       | :heavy_check_mark: | :x:                | Sony PlayStation, Sony PlayStation 2              |          |
-| [Mango](https://github.com/official-antique/Mango)                                                       | :green_book:  | GNU GPLv3        | :heavy_check_mark:       | :heavy_minus_sign: | :x:                | Sony PlayStation                                  |          |
+| [Mango (link is down)](https://github.com/official-antique/Mango)                                                       | :green_book:  | GNU GPLv3        | :heavy_check_mark:       | :heavy_minus_sign: | :x:                | Sony PlayStation                                  |          |
 | [NO$PSX](https://problemkaputt.github.io/)                                                               | :closed_book: | Proprietary      | :heavy_check_mark:       | :heavy_minus_sign: | :heavy_check_mark: | Sony PlayStation                                  |          |
 | [PCSX](https://www.emulator-zone.com/doc.php/psx/pcsx.html)                                              | :green_book:  | GNU GPLv2        | :heavy_check_mark:       | :x:                | :x:                | Sony PlayStation                                  |          |
 | [PCSX-df](https://sourceforge.net/projects/pcsx-df/)                                                     | :green_book:  | GNU GPLv2        | :heavy_check_mark:       | :x:                | :x:                | Sony PlayStation                                  |          |
@@ -675,7 +812,7 @@ This list will always be kept as complete and up-to-date as possible, but please
 |-------------------------------------------------------|---------------|-------------|--------------------|--------|--------------------|------------------|----------|
 | [GeePee32](https://www.zophar.net/gp32/geepee32.html) | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Game Park GP32   |          |
 
-### Atari Lynx
+## Atari Lynx
 | Emulator                                        | FOSS         | License      | Free               | Active             | Recommended        | Emulated systems | Platform |
 |-------------------------------------------------|--------------|--------------|--------------------|--------------------|--------------------|------------------|----------|
 | [Felix](https://github.com/laoo/Felix/)         | :green_book: | MIT license  | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari Lynx       |          |
