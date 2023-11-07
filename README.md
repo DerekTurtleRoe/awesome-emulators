@@ -1356,8 +1356,8 @@ Legend:
 | [NuanceResurrection](https://github.com/andkrau/NuanceResurrection)            | :green_book:  | 3-clause BSD                              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nuon             |          |
 | [NuonEm (No download link currently)](https://www.nuon-dome.com/download.html) | :orange_book: | No license/source available at the moment | :heavy_check_mark: | :x:                | :x:                | Nuon             |          |
 
-## Steam emulators (emulate Steamworks or Steam functionality so you can play offline or via LAN)
-*Disclaimer: These tools are listed for preservation of games that are either No longer playable without them or incredibly difficult to get playable via their original downloads or media, these tools are **__not__** meant for enabling piracy or otherwise illegal means.*
+## Game client emulators
+*Disclaimer: These tools are listed for preservation of games that are either no longer playable without them or incredibly difficult to get playable via their original downloads or media, these tools are **__not__** listed for enabling piracy or otherwise illegal means.*
 
 | Emulator                                                                                             | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
 |------------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
