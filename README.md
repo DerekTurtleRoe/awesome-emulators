@@ -181,7 +181,7 @@ Legend:
 | [javatari (older version)](https://github.com/ppeccin/javatari) | :green_book:  | AGPLv3           | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :globe_with_meridians:             |
 | [NO$2K6](https://problemkaputt.github.io/)                      | :closed_book: | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari 2600       | :computer: :floppy_disk:           |
 | [PC Atari Emulator (PCAE)](https://pcae.vg-network.com/)        | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer: :floppy_disk:           |
-| [pyTari](https://sourceforge.net/projects/pytari/)              | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer: :apple: :penguin: :imp:                            |
+| [pyTari](https://sourceforge.net/projects/pytari/)              | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer: :apple: :penguin: :imp: |
 | [Stella](https://stella-emu.github.io/)                         | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari 2600       | :computer: :apple: :penguin: :imp: |
 | [Stellarator](https://github.com/dpiponi/Stellarator)           | :green_book:  | 3-clause BSD     | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer: :apple: :penguin: :imp: |
 | [VCS 2600](https://www.zophar.net/a2600/vcs-2600.html)          | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer:                         |
@@ -190,13 +190,13 @@ Legend:
 
 
 ## Atari 5200
-| Emulator                                                                                                        | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems                  | Platform |
-|-----------------------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-----------------------------------|----------|
-| [A5200DS](https://github.com/wavemotion-dave/A5200DS/)                                                          | :orange_book: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Atari 5200                        |          |
-| [Jum52](https://www.zophar.net/a5200/jum52.html)                                                                | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari 5200                        |          |
-| [kat5200](https://kat5200.jillybunch.com/)                                                                      | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari 5200, Atari 8-bit computers |          |
-| [Rainbow](https://web.archive.org/web/20120914030219/http://www.chrislam.co.uk/rainbow-atari-8bit-emulator.htm) | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari 5200, Atari 8-bit computers |          |
-| [Virtual Super System (VSS)](http://atarihq.com/danb/a5200.shtml#emulator)                                      | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari 5200                        |          |
+| Emulator                                                                                                        | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems                  | Platform                      |
+|-----------------------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-----------------------------------|-------------------------------|
+| [A5200DS](https://github.com/wavemotion-dave/A5200DS/)                                                          | :orange_book: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Atari 5200                        | Nintendo DS                   |
+| [Jum52](https://www.zophar.net/a5200/jum52.html)                                                                | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari 5200                        | :computer:                    |
+| [kat5200](https://kat5200.jillybunch.com/)                                                                      | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari 5200, Atari 8-bit computers | :computer: :apple: :penguin:  |
+| [Rainbow](https://web.archive.org/web/20120914030219/http://www.chrislam.co.uk/rainbow-atari-8bit-emulator.htm) | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari 5200, Atari 8-bit computers | :computer: :apple:            |
+| [Virtual Super System (VSS)](http://atarihq.com/danb/a5200.shtml#emulator)                                      | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari 5200                        | :floppy_disk:                 |
 
 
 ## Atari 7800
