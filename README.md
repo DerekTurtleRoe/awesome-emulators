@@ -16,7 +16,7 @@ Legend:
 | Name        | Icon                   | Meaning                            |
 |-------------|------------------------|------------------------------------|
 | Green book  | :green_book:           | Open-source project                |
-| Orange book | :orange_book:          | Partically open-Source or disputed |
+| Orange book | :orange_book:          | Partially open-source or disputed  |
 | Red book    | :closed_book:          | Closed-source/proprietary          |
 
 ## Platform Support
