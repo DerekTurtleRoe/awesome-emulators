@@ -200,15 +200,15 @@ Legend:
 
 
 ## Atari 7800
-| Emulator                                                | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems | Platform |
-|---------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|------------------|----------|
-| [A7800](https://github.com/7800-devtools/a7800)         | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Atari 7800       |          |
-| [A7800DS](https://github.com/wavemotion-dave/A7800DS/)  | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Atari 7800       |          |
-| [BupSystem](http://tailchao.com/BupSystem)              | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Atari 7800       |          |
-| [EMU7800](https://www.zophar.net/a7800/emu7800.html)    | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Atari 7800       |          |
-| [ProSystem](https://github.com/gstanton/ProSystem1_3)   | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari 7800       |          |
-| [V7800](https://atarihq.com/danb/a7800.shtml#emulators) | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Atari 7800       |          |
-| [Wii7800](https://github.com/raz0red/wii7800)           | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Atari 7800       |          |
+| Emulator                                                | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems | Platform                       |
+|---------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|------------------|--------------------------------|
+| [A7800](https://github.com/7800-devtools/a7800)         | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Atari 7800       | :computer: :apple: :penguin:   |
+| [A7800DS](https://github.com/wavemotion-dave/A7800DS/)  | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Atari 7800       | Nintendo DS                    |
+| [BupSystem](http://tailchao.com/BupSystem)              | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Atari 7800       | :computer:                     |
+| [EMU7800](https://www.zophar.net/a7800/emu7800.html)    | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Atari 7800       | :computer:                     |
+| [ProSystem](https://github.com/gstanton/ProSystem1_3)   | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari 7800       | :computer:                     |
+| [V7800](https://atarihq.com/danb/a7800.shtml#emulators) | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Atari 7800       | :computer:                     |
+| [Wii7800](https://github.com/raz0red/wii7800)           | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Atari 7800       | Nintendo Wii                   |
 
 ## Atari Jaguar/Jaguar CD
 | Emulator                                                  | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems              | Platform |
