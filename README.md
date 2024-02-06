@@ -220,16 +220,16 @@ Legend:
 | [Virtual Jaguar](https://www.icculus.org/virtualjaguar/)  | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD | :computer: :apple: :penguin: |
 
 ## Commodore Amiga CD32
-| Emulator                                         | FOSS          | License     | Free | Active | Recommended | Emulated systems     | Platform |
-|--------------------------------------------------|---------------|-------------|------|--------|-------------|----------------------|----------|
-| [Akiko](https://www.zophar.net/amiga/akiko.html) | :closed_book: | Proprietary | :x:  | :x:    | :x:         | Commodore Amiga CD32 |          |
+| Emulator                                         | FOSS          | License     | Free | Active | Recommended | Emulated systems     | Platform   |
+|--------------------------------------------------|---------------|-------------|------|--------|-------------|----------------------|------------|
+| [Akiko](https://www.zophar.net/amiga/akiko.html) | :closed_book: | Proprietary | :x:  | :x:    | :x:         | Commodore Amiga CD32 | :computer: |
 
 ## LaserDisc systems
-| Emulator                                               | FOSS         | License      | Free               | Active             | Recommended        | Emulated systems                    | Platform |
-|--------------------------------------------------------|--------------|--------------|--------------------|--------------------|--------------------|-------------------------------------|----------|
-| [DAPHNE](http://www.daphne-emu.com/site3/index_hi.php) | :green_book: | GNU GPLv2    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | LaserDisc arcade software           |          |
-| [Dirk Simple](https://github.com/icculus/DirkSimple)   | :green_book: | zlib license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Dragon's Lair LaserDisc arcade game |          |
-| [SINGE](https://kangaroopunch.com/software/singe)      | :green_book: | GNU GPLv2    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | LaserDisc arcade software           |          |
+| Emulator                                               | FOSS         | License      | Free               | Active             | Recommended        | Emulated systems                    | Platform   |
+|--------------------------------------------------------|--------------|--------------|--------------------|--------------------|--------------------|-------------------------------------|------------|
+| [DAPHNE](http://www.daphne-emu.com/site3/index_hi.php) | :green_book: | GNU GPLv2    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | LaserDisc arcade software           | :computer: |
+| [Dirk Simple](https://github.com/icculus/DirkSimple)   | :green_book: | zlib license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Dragon's Lair LaserDisc arcade game | :computer: |
+| [SINGE](https://kangaroopunch.com/software/singe)      | :green_book: | GNU GPLv2    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | LaserDisc arcade software           | :computer: |
 
 ## Sony PlayStation 1
 | Emulator                                                                                                 | FOSS          | License          | Free                     | Active             | Recommended        | Emulated systems                                  | Platform |
