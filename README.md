@@ -260,18 +260,18 @@ Legend:
 | [Xebra](http://drhell.web.fc2.com/ps1/)                                                                  | :closed_book: | Proprietary      | :heavy_check_mark:       | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation, Sony PocketStation (with PK201) | :computer:                   |
 
 ## Sony PlayStation 2
-| Emulator                                                                  | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems   | Platform |
-|---------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|--------------------|---|
-| [AetherSX2](https://www.aethersx2.com/archive/)                           | :orange_book: | Partially   | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 2 |  |
-| [DobieStation](https://github.com/PSI-Rockin/DobieStation)                | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 2 |  |
-| [Emotional](https://github.com/google0101-ryan/Emotional)                 | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :x:                | Sony PlayStation 2 |  |
-| [hpsx64](https://sourceforge.net/projects/hpsx64/)                        | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :x:                | Sony PlayStation 2 |  |
-| [NeutrinoSX2](https://www.emulator-zone.com/doc.php/ps2/neutrinosx2.html) | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 2 |  |
-| [orbum](https://github.com/hch12907/orbum)                                | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 2 |  |
-| [PCSX2](https://pcsx2.net/)                                               | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 2 |  |
-| [Play!](https://purei.org/)                                               | :green_book:  | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 2 |  |
-| [PS2emu](https://www.emulator-zone.com/doc.php/ps2/ps2emu.html)           | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 2 |  |
-| [PurpleSX2](https://github.com/MrPurple666/AetherSX2)                     | :orange_book: | Partially   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 2 |  |
+| Emulator                                                                  | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems   | Platform                     |
+|---------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|--------------------|------------------------------|
+| [AetherSX2](https://www.aethersx2.com/archive/)                           | :orange_book: | Partially   | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 2 | Android                      |
+| [DobieStation](https://github.com/PSI-Rockin/DobieStation)                | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 2 | :computer: :apple: :penguin: |
+| [Emotional](https://github.com/google0101-ryan/Emotional)                 | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :x:                | Sony PlayStation 2 | :computer: :penguin:         |
+| [hpsx64](https://sourceforge.net/projects/hpsx64/)                        | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :x:                | Sony PlayStation 2 | :computer:                   |
+| [NeutrinoSX2](https://www.emulator-zone.com/doc.php/ps2/neutrinosx2.html) | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 2 | :computer:                   |
+| [orbum](https://github.com/hch12907/orbum)                                | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 2 | :computer: :penguin:         |
+| [PCSX2](https://pcsx2.net/)                                               | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 2 | :computer: :apple: :penguin: |
+| [Play!](https://purei.org/)                                               | :green_book:  | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 2 | :computer: :apple: :penguin: |
+| [PS2emu](https://www.emulator-zone.com/doc.php/ps2/ps2emu.html)           | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 2 | :computer:                   |
+| [PurpleSX2](https://github.com/MrPurple666/AetherSX2)                     | :orange_book: | Partially   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 2 | Android                      |
 
 ## Sony PlayStation 3
 | Emulator                                                                                            | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems   | Platform |
