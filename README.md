@@ -274,12 +274,12 @@ Legend:
 | [PurpleSX2](https://github.com/MrPurple666/AetherSX2)                     | :orange_book: | Partially   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 2 | Android                      |
 
 ## Sony PlayStation 3
-| Emulator                                                                                            | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems   | Platform |
-|-----------------------------------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|--------------------|----------|
-| [Nucleus](https://github.com/AlexAltea/nucleus)                                                     | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 3 |          |
-| [PS3F](https://web.archive.org/web/20161029044210/http://www.geocities.jp/mj3kj8o5/ps3f/index.html) | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 3 |          |
-| [RPCS3](https://rpcs3.net/)                                                                         | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 3 |          |
-| [Short Waves](https://wololo.net/downloads/index.php/download/8128)                                 | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 3 |          |
+| Emulator                                                                                            | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems   | Platform                                 |
+|-----------------------------------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|--------------------|------------------------------------------|
+| [Nucleus](https://github.com/AlexAltea/nucleus)                                                     | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 3 | :computer: :apple: :penguin: Android iOS |
+| [PS3F](https://web.archive.org/web/20161029044210/http://www.geocities.jp/mj3kj8o5/ps3f/index.html) | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 3 | :computer:                               |
+| [RPCS3](https://rpcs3.net/)                                                                         | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 3 | :computer: :apple: :penguin: :imp:       |
+| [Short Waves](https://wololo.net/downloads/index.php/download/8128)                                 | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 3 | :computer:                               |
 
 ## Sony PlayStation 4
 | Emulator                                                                                                      | FOSS          | License                     | Free               | Active             | Recommended        | Emulated systems                       | Platform |
