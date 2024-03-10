@@ -433,11 +433,11 @@ Legend:
 | [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin:          |
 
 ## Nintendo Wii U
-| Emulator                                                    | FOSS         | License     | Free               | Active             | Recommended        | Emulated systems | Platform |
-|-------------------------------------------------------------|--------------|-------------|--------------------|--------------------|--------------------|------------------|----------|
-| [Cemu](https://cemu.info/)                                  | :green_book: | MPLv2       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   |          |
-| [Decaf](https://github.com/decaf-emu/decaf-emu)             | :green_book: | GNU GPLv3+  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   |          |
-| [Kinnay](https://github.com/kinnay/Wii-U-Firmware-Emulator) | :green_book: | MIT license | :heavy_check_mark: | :x:                | :x:                | Nintendo Wii U   |          |
+| Emulator                                                    | FOSS         | License     | Free               | Active             | Recommended        | Emulated systems | Platform                             |
+|-------------------------------------------------------------|--------------|-------------|--------------------|--------------------|--------------------|------------------|--------------------------------------|
+| [Cemu](https://cemu.info/)                                  | :green_book: | MPLv2       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   | :computer: :apple: :penguin:         |
+| [Decaf](https://github.com/decaf-emu/decaf-emu)             | :green_book: | GNU GPLv3+  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   | :computer: :apple: :penguin:         |
+| [Kinnay](https://github.com/kinnay/Wii-U-Firmware-Emulator) | :green_book: | MIT license | :heavy_check_mark: | :x:                | :x:                | Nintendo Wii U   | :penguin:                            |
 
 ## Nintendo Switch
 | Emulator                                                       | FOSS         | License     | Free               | Active             | Recommended        | Emulated systems | Platform |
