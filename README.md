@@ -440,21 +440,21 @@ Legend:
 | [Kinnay](https://github.com/kinnay/Wii-U-Firmware-Emulator) | :green_book: | MIT license | :heavy_check_mark: | :x:                | :x:                | Nintendo Wii U   | :penguin:                            |
 
 ## Nintendo Switch
-| Emulator                                                       | FOSS         | License     | Free               | Active             | Recommended        | Emulated systems | Platform |
-|----------------------------------------------------------------|--------------|-------------|--------------------|--------------------|--------------------|------------------|----------|
-| [CageTheUnicorn](https://github.com/reswitched/CageTheUnicorn) | :green_book: | ISC license | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  |          |
-| [Mephisto](https://github.com/reswitched/Mephisto)             | :green_book: | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  |          |
-| [NSEmu](https://github.com/RKX1209/nsemu)                      | :green_book: | GNU GPLv3   | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  |          |
-| [Ryujinx](https://ryujinx.org/)                                | :green_book: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Switch  |          |
-| [Skyline](https://skyline-emu.one/)                            | :green_book: | MPLv2       | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Switch  |          |
-| [Strato](https://github.com/strato-emu/strato)                 | :green_book: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  |          |
-| [Yuzu](https://yuzu-emu.org/)                                  | :green_book: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Switch  |          |
+| Emulator                                                                                                  | FOSS         | License     | Free               | Active             | Recommended        | Emulated systems | Platform                             |
+|-----------------------------------------------------------------------------------------------------------|--------------|-------------|--------------------|--------------------|--------------------|------------------|--------------------------------------|
+| [CageTheUnicorn](https://github.com/reswitched/CageTheUnicorn)                                            | :green_book: | ISC license | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
+| [Mephisto](https://github.com/reswitched/Mephisto)                                                        | :green_book: | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
+| [NSEmu](https://github.com/RKX1209/nsemu)                                                                 | :green_book: | GNU GPLv3   | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :penguin:                            |
+| [Ryujinx](https://ryujinx.org/)                                                                           | :green_book: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Switch  | :computer: :apple: :penguin:         |
+| [Skyline](https://skyline-emu.one/)                                                                       | :green_book: | MPLv2       | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Switch  | Android                              |
+| [Strato](https://github.com/strato-emu/strato)                                                            | :green_book: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | Android                              |
+| [Yuzu](https://web.archive.org/web/20240229075408/https://yuzu-emu.org/)                                  | :green_book: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: Android         |
 
 ## Sega Master System
-| Emulator                                              | FOSS          | License              | Free               | Active | Recommended        | Emulated systems                                                                              | Platform |
-|-------------------------------------------------------|---------------|----------------------|--------------------|--------|--------------------|-----------------------------------------------------------------------------------------------|----------|
-| [FreezeSMS](http://freezesms.emuunlim.com/index.html) | :closed_book: | Proprietary          | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sega Master System, Nintendo Entertainment System, Sega Game Gear, Sega SG-1000, ColecoVision |          |
-| [SMSPLUS](https://github.com/0ldsk00l/smsplus)        | :green_book:  | 3-clause BSD license | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sega Master System, Sega Game Gear                                                            |          |
+| Emulator                                              | FOSS          | License              | Free               | Active | Recommended        | Emulated systems                                                                              | Platform                            |
+|-------------------------------------------------------|---------------|----------------------|--------------------|--------|--------------------|-----------------------------------------------------------------------------------------------|-------------------------------------|
+| [FreezeSMS](http://freezesms.emuunlim.com/index.html) | :closed_book: | Proprietary          | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sega Master System, Nintendo Entertainment System, Sega Game Gear, Sega SG-1000, ColecoVision | :computer:                          |
+| [SMSPLUS](https://github.com/0ldsk00l/smsplus)        | :green_book:  | 3-clause BSD license | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sega Master System, Sega Game Gear                                                            | :computer: :apple: :penguin: :imp:  |
 
 ## Sega Genesis/Megadrive and 32X/Sega CD
 | Emulator                                                                    | FOSS          | License                  | Free               | Active             | Recommended        | Emulated systems                                                                       | Platform |
