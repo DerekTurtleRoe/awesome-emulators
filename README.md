@@ -448,7 +448,8 @@ Legend:
 | [Ryujinx](https://ryujinx.org/)                                                                           | :green_book: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Switch  | :computer: :apple: :penguin:         |
 | [Skyline](https://skyline-emu.one/)                                                                       | :green_book: | MPLv2       | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Switch  | Android                              |
 | [Strato](https://github.com/strato-emu/strato)                                                            | :green_book: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | Android                              |
-| [Yuzu](https://web.archive.org/web/20240229075408/https://yuzu-emu.org/)                                  | :green_book: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: Android         |
+| [Yuzu](https://web.archive.org/web/20240229075408/https://yuzu-emu.org/)                                  | :green_book: | GNU GPLv3   | :heavy_check_mark: | :x: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: Android         |
+| [Suyu](https://gitlab.com/suyu-emu/suyu)                                  | :green_book: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: Android         |
 
 ## Sega Master System
 | Emulator                                              | FOSS          | License              | Free               | Active | Recommended        | Emulated systems                                                                              | Platform                            |
