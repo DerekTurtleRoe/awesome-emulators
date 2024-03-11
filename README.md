@@ -70,22 +70,22 @@ Legend:
             2. [Microsoft Xbox 360](#microsoft-xbox-360)
             3. [Microsoft Xbox One](#microsoft-xbox-one)
             4. [Microsoft Xbox Series](#microsoft-xbox-series)
-        28. [NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx](#nec-pc-engineturbografx-16cd-romturbografx-cdsupergrafx)
-        29. [SNK Neo Geo AES/MVS/Neo Geo CD](#snk-neo-geo-aesmvsneo-geo-cd)
-        30. [Pong consoles](#pong-consoles)
-        31. [Magnavox Odyssey 2](#magnavox-odyssey-2)
-        32. [Philips CD-i](#philips-cd-i)
-        8. [Panasonic](#panasonic)
+        8. [NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx](#)
+        9. [SNK Neo Geo AES/MVS/Neo Geo CD](#snk-neo-geo-aesmvsneo-geo-cd)
+        10. [Pong consoles](#pong-consoles)
+        11. [Magnavox Odyssey 2](#magnavox-odyssey-2)
+        12. [Philips CD-i](#philips-cd-i)
+        13. [Panasonic](#panasonic)
             1. [Panasonic 3DO Interactive Multiplayer](#panasonic-3do-interactive-multiplayer)
             2. [Panasonic 3DO M2](#panasonic-3do-m2)
-        35. [Gemei A330](#gemei-a330)
-        36. [Apple/Bandai Pippin](#applebandai-pippin)
-        37. [Mattel Intellivision](#mattel-intellivision)
-        38. [Coleco ColecoVision](#coleco-colecovision)
-        39. [Chip-8 and related system emulators/interpreters](#chip-8-and-related-system-emulatorsinterpreters)
-        40. [COSMAC VIP/RCA Studio II/Telmac 1800](#cosmac-viprca-studio-iitelmac-1800)
+        14. [Gemei A330](#gemei-a330)
+        15. [Apple/Bandai Pippin](#applebandai-pippin)
+        16. [Mattel Intellivision](#mattel-intellivision)
+        17. [Coleco ColecoVision](#coleco-colecovision)
+        18. [Chip-8 and related system emulators/interpreters](#chip-8-and-related-system-emulatorsinterpreters)
+        19. [COSMAC VIP/RCA Studio II/Telmac 1800](#cosmac-viprca-studio-iitelmac-1800)
     5. [Handheld game console emulators](#handheld-game-console-emulators)
-        1. [Nintendo](#nintendo-handheld)
+        1. [Nintendo](#nintendo-handhelds)
             1. [Nintendo Game Boy/Game Boy Color](#nintendo-game-boygame-boy-color)
             2. [Nintendo Game Boy Advance](#nintendo-game-boy-advance)
             3. [Nintendo Game And Watch simulators](#nintendo-game-and-watch-simulators)
@@ -93,92 +93,99 @@ Legend:
             5. [Pokemon Mini](#pokemon-mini)
             6. [Nintendo DS](#nintendo-ds)
             7. [Nintendo 3DS](#nintendo-3ds)
-        49. [Game Park GP32](#game-park-gp32)
-        50. [Atari Lynx](#atari-lynx)
-        51. [Sega Game Gear](#sega-game-gear)
-        52. [Sony PlayStation Portable](#sony-playstation-portable)
-        53. [Sony PocketStation](#sony-pocketstation)
-        54. [Sony PlayStation Vita](#sony-playstation-vita)
-        55. [Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch](#bandai-wonderswanwonderswan-colorswancrystalwonderwitch)
-        56. [SNK Neo Geo Pocket/Color](#snk-neo-geo-pocketcolor)
-        57. [Watara SuperVision](#watara-supervision)
-        58. [Phones/PDAs/other mobile devices, etc.](#phonespdasother-mobile-devices-etc)
-        59. [Apple iOS/iPod](#apple-iosipod)
-        60. [Google Android](#google-android)
-        61. [N-Gage](#n-gage)
-        62. [BREW](#brew)
-        63. [Mophun](#mophun)
-        64. [Java](#java)
-        65. [Palm devices](#palm-devices)
-        66. [Computer emulators](#computer-emulators)
-        67. [Acorn Atom computers](#acorn-atom-computers)
-        68. [Acorn BBC Micro computers](#acorn-bbc-micro-computers)
-        69. [Acorn Electron computers](#acorn-electron-computers)
-        70. [Acorn Archimedes computers](#acorn-archimedes-computers)
-        71. [Amstrad CPC computers](#amstrad-cpc-computers)
-        72. [DOS emulators](#dos-emulators)
-        73. [x86 emulators](#x86-emulators)
-        74. [System/370, ESA/390, z/Architecture](#system370-esa390-zarchitecture)
-        75. [Apple computers](#apple-computers)
-        76. [NeXT computers](#next-computers)
-        77. [Oberon RISC machine](#oberon-risc-machine)
-        78. [SIMH simulators](#simh-simulators)
-        79. [Coleco computers](#coleco-computers)
-        80. [Commodore computers](#commodore-computers)
-        81. [Commodore Amiga computers/Commodore Amiga CD32](#commodore-amiga-computerscommodore-amiga-cd32)
-        82. [Atari 400/800 and ST computers](#atari-400800-and-st-computers)
-        83. [Sinclair ZX81 computers](#sinclair-zx81-computers)
-        84. [Sinclair ZX Spectrum computers](#sinclair-zx-spectrum-computers)
-        85. [NEC 6000 computers](#nec-6000-computers)
-        86. [NEC 8800 computers](#nec-8800-computers)
-        87. [NEC 9800 computers](#nec-9800-computers)
-        88. [MSX computers](#msx-computers)
-        89. [Sharp X1 computers](#sharp-x1-computers)
-        90. [Sharp X68000 computers](#sharp-x68000-computers)
-        91. [Virtualization solutions](#virtualization-solutions)
-        92. [Interpreters](#interpreters)
-        93. [Calculator emulators](#calculator-emulators)
-        94. [Texas Instruments](#texas-instruments)
-        95. [TI-81 series](#ti-81-series)
-        96. [TI-83 / TI-84 series](#ti-83--ti-84-series)
-        97. [TI-85 and TI-86 series](#ti-85-and-ti-86-series)
-        98. [TI-89 series](#ti-89-series)
-        99. [TI-90 series](#ti-90-series)
-        100. [Misc TI calculator emulators](#misc-ti-calculator-emulators)
-        101. [TI-Nspire](#ti-nspire)
-        102. [Hewlett Packard monochrome calculators](#hewlett-packard-monochrome-calculators)
-        103. [Hewlett Packard Prime calculators](#hewlett-packard-prime-calculators)
-        104. [Hewlett Packard scientific and financial calculators](#hewlett-packard-scientific-and-financial-calculators)
-        105. [Other HP calculator resources](#other-hp-calculator-resources)
-        106. [Casio calculators](#casio-calculators)
-        107. [Sharp calculators](#sharp-calculators)
-        108. [Elektronika calculators](#elektronika-calculators)
-        109. [Other miscellaneous emulators and projects:](#other-miscellaneous-emulators-and-projects)
-        110. [Adobe Flash emulators](#adobe-flash-emulators)
-        111. [Game engine emulators/interpreters](#game-engine-emulatorsinterpreters)
-        112. [Nuon emulators](#nuon-emulators)
-        113. [Game client emulators)](#game-client-emulators)
-        114. [Arcade machine emulators](#arcade-machine-emulators)
-        115. [Pinball machine emulators](#pinball-machine-emulators)
-        116. [Multi-system emulators](#multi-system-emulators)
-    5. [Emulation platforms](#emulation-platforms)
+        2. [Game Park GP32](#game-park-gp32)
+        3. [Atari Lynx](#atari-lynx)
+        4. [Sega Game Gear](#sega-game-gear)
+        5. [Sony](#sony-handhelds)
+            1. [Sony PlayStation Portable](#sony-playstation-portable)
+            2. [Sony PocketStation](#sony-pocketstation)
+            3. [Sony PlayStation Vita](#sony-playstation-vita)
+        6. [Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch](#bandai-wonderswanwonderswan-colorswancrystalwonderwitch)
+        7. [SNK Neo Geo Pocket/Color](#snk-neo-geo-pocketcolor)
+        8. [Watara SuperVision](#watara-supervision)
+    6. [Phones/PDAs/other mobile devices, etc.](#phonespdasother-mobile-devices-etc)
+        1. [Apple iOS/iPod](#apple-iosipod)
+        2. [Google Android](#google-android)
+        3. [N-Gage](#n-gage)
+        4. [BREW](#brew)
+        5. [Mophun](#mophun)
+        6. [Java](#java)
+        7. [Palm devices](#palm-devices)
+    7. [Computer emulators](#computer-emulators)
+        1. [Acorn](#acorn)
+            1. [Acorn Atom computers](#acorn-atom-computers)
+            2. [Acorn BBC Micro computers](#acorn-bbc-micro-computers)
+            3. [Acorn Electron computers](#acorn-electron-computers)
+            4. [Acorn Archimedes computers](#acorn-archimedes-computers)
+        2. [Amstrad CPC computers](#amstrad-cpc-computers)
+        3. [DOS emulators](#dos-emulators)
+        4. [x86 emulators](#x86-emulators)
+        5. [System/370, ESA/390, z/Architecture](#system370-esa390-zarchitecture)
+        6. [Apple computers](#apple-computers)
+        7. [NeXT computers](#next-computers)
+        8. [Oberon RISC machine](#oberon-risc-machine)
+        9. [SIMH simulators](#simh-simulators)
+        10. [Coleco computers](#coleco-computers)
+        11. [Commodore](#commodore)
+            1. [Commodore computers](#commodore-computers)
+            2. [Commodore Amiga computers/Commodore Amiga CD32](#commodore-amiga-computerscommodore-amiga-cd32)
+        12. [Atari 400/800 and ST computers](#atari-400800-and-st-computers)
+        13. [Sinclair](#sinclair)
+            1. [Sinclair ZX81 computers](#sinclair-zx81-computers)
+            2. [Sinclair ZX Spectrum computers](#sinclair-zx-spectrum-computers)
+        14. [NEC](#nec)
+            1. [NEC 6000 computers](#nec-6000-computers)
+            2. [NEC 8800 computers](#nec-8800-computers)
+            3. [NEC 9800 computers](#nec-9800-computers)
+        15. [MSX computers](#msx-computers)
+        16. [Sharp](sharp)
+            1. [Sharp X1 computers](#sharp-x1-computers)
+            2. [Sharp X68000 computers](#sharp-x68000-computers)
+        17. [Virtualization solutions](#virtualization-solutions)
+        18. [Interpreters](#interpreters)
+    8. [Calculator emulators](#calculator-emulators)
+        1. [Texas Instruments](#texas-instruments)
+            1. [TI-81 series](#ti-81-series)
+            2. [TI-83 / TI-84 series](#ti-83--ti-84-series)
+            3. [TI-85 and TI-86 series](#ti-85-and-ti-86-series)
+            4. [TI-89 series](#ti-89-series)
+            5. [TI-90 series](#ti-90-series)
+            6. [Misc TI calculator emulators](#misc-ti-calculator-emulators)
+            7. [TI-Nspire](#ti-nspire)
+        2. [Hewlett Packard](#hewlett-packard)
+            1. [Hewlett Packard monochrome calculators](#hewlett-packard-monochrome-calculators)
+            2. [Hewlett Packard Prime calculators](#hewlett-packard-prime-calculators)
+            3. [Hewlett Packard scientific and financial calculators](#hewlett-packard-scientific-and-financial-calculators)
+            4. [Other HP calculator resources](#other-hp-calculator-resources)
+        3. [Casio calculators](#casio-calculators)
+        4. [Sharp calculators](#sharp-calculators)
+        5. [Elektronika calculators](#elektronika-calculators)
+    9. [Other miscellaneous emulators and projects:](#other-miscellaneous-emulators-and-projects)
+        1. [Adobe Flash emulators](#adobe-flash-emulators)
+        2. [Game engine emulators/interpreters](#game-engine-emulatorsinterpreters)
+        3. [Nuon emulators](#nuon-emulators)
+        4. [Game client emulators)](#game-client-emulators)
+        5. [Arcade machine emulators](#arcade-machine-emulators)
+        6. [Pinball machine emulators](#pinball-machine-emulators)
+        7. [Multi-system emulators](#multi-system-emulators)
+    10. [Emulation platforms](#emulation-platforms)
         1. [Emulation operating systems for computers](#emulation-operating-systems-for-computers)
         2. [Emulation operating systems for single board computers](#emulation-operating-systems-for-single-board-computers)
         3. [Emulation frontends and launchers for Windows/Linux](#emulation-frontends-and-launchers-for-windowslinux)
         4. [Emulation frontends for Android](#emulation-frontends-for-android)
         5. [Emulation scripts for setting up multiple emulators](#emulation-scripts-for-setting-up-multiple-emulators)
         6. [Game collection managers](#game-collection-managers)
-    6. [👨‍💻 Contributing](#-contributing)
-    7. [💬 Support](#-support)
-    8. [🙏 Special Thanks](#-special-thanks)
-    9. [❓ FAQ](#-faq)
+    11. [👨‍💻 Contributing](#-contributing)
+    12. [💬 Support](#-support)
+    13. [🙏 Special Thanks](#-special-thanks)
+    14. [❓ FAQ](#-faq)
         1. [Where can I download games?](#where-can-i-download-games)
         2. [Can you give me personal help with emulator setup, dumping games and software, or other things?](#can-you-give-me-personal-help-with-emulator-setup-dumping-games-and-software-or-other-things)
-    10. [🐢 Author](#-author)
-    11. [🔗 Links](#-links)
-    12. [Related projects](#related-projects)
-    13. [Disclaimer](#disclaimer)
-    14. [📃 License](#-license)
+    15. [🐢 Author](#-author)
+    16. [🔗 Links](#-links)
+    17. [Related projects](#related-projects)
+    18. [Disclaimer](#disclaimer)
+    19. [📃 License](#-license)
 
 ## Home Game Console Emulators
 
@@ -233,7 +240,7 @@ Legend:
 | [Project Tempest](http://pt.emuunlim.com/)                | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  | :computer:                   |
 | [Virtual Jaguar](https://www.icculus.org/virtualjaguar/)  | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD | :computer: :apple: :penguin: |
 
-### Commodore Amiga CD32
+#### Commodore Amiga CD32
 
 | Emulator                                         | FOSS          | License     | Free | Active | Recommended | Emulated systems     | Platform   |
 |--------------------------------------------------|---------------|-------------|------|--------|-------------|----------------------|------------|
@@ -322,6 +329,8 @@ Legend:
 |------------------------------------------|--------------|-------------|--------------------|--------------------|-------------|--------------------|------------|
 | [Kyty](https://github.com/InoriRus/Kyty) | :green_book: | MIT license | :heavy_check_mark: | :heavy_minus_sign: | :x:         | Sony PlayStation 5 | :computer: |
 
+### Nintendo
+
 #### Nintendo Entertainment System/Famicom
 
 | Emulator                                                                                                                 | FOSS          | License                                           | Free               | Active             | Recommended        | Emulated systems                                                                    | Platform                                                    |
@@ -375,6 +384,7 @@ Legend:
 | [ZSNES - A historic emulator, and it is undergoing a huge rewrite for a new release eventually™](http://zsnes.com/)                                                                                                                                                                                                                  | :green_book:       | GNU GPLv2            | :heavy_check_mark: | :heavy_check_mark: | :x:                | Super Nintendo Entertainment System/Super Famicom | :computer: :floppy_disk: :penguin: |
 
 <<<<<<< HEAD
+
 #### Nintendo 64
 
 | Emulator                                                                                                                                                                        | FOSS          | License                                                                                           | Free               | Active             | Recommended        | Emulated systems | Platform |
@@ -506,7 +516,9 @@ Legend:
 | [RetroDrive](https://www.emulator-zone.com/doc.php/genesis/retrodrive.html) | :closed_book: | Proprietary              | :heavy_check_mark: | :x:                | :x:                | Sega Genesis/Megadrive, Sega 32X                                                       |          |
 | [TrueLMAO](https://github.com/kirjavascript/trueLMAO)                       | :green_book:  | MIT license              | :heavy_check_mark: | :heavy_check_mark: | :x:                | Sega Genesis/Megadrive                                                                 |          |
 =======
+
 ## Nintendo 64
+
 | Emulator                                                                                                                                                                        | FOSS          | License                                                                                           | Free               | Active             | Recommended        | Emulated systems | Platform                                                    |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------|--------------------|--------------------|--------------------|------------------|-------------------------------------------------------------|
 | [1964](https://www.emulation64.com/files/info/197/1964.html/)                                                                                                                   | :green_book:  | GNU GPLv2                                                                                         | :heavy_check_mark: | :x:                | :x:                | Nintendo 64      | :computer:                                                  |
@@ -572,6 +584,7 @@ Legend:
 | [Wii64-PS3](https://github.com/emukidid/wii64-ps3)                                                                                                                              | :orange_book: | Should be GNU GPLv3, but no license present in the repository                                     | :x:                | :x:                | :heavy_minus_sign: | Nintendo 64      | Sony PlayStation 3                                          |
 
 ## Nintendo GameCube
+
 | Emulator                                                         | FOSS          | License           | Free               | Active             | Recommended        | Emulated systems                | Platform                                 |
 |------------------------------------------------------------------|---------------|-------------------|--------------------|--------------------|--------------------|---------------------------------|------------------------------------------|
 | [Dolphin](https://dolphin-emu.org/)                              | :green_book:  | GNU GPLv3         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin: Android     |
@@ -584,12 +597,14 @@ Legend:
 | [WhineCube](http://whinecube.emulation64.com/)                   | :green_book:  | GNU GPLv2         | :heavy_check_mark: | :x:                | :x:                | Nintendo GameCube               | :computer:                               |
 
 ## Nintendo Wii
+
 | Emulator                                                | FOSS         | License   | Free               | Active             | Recommended        | Emulated systems                | Platform                              |
 |---------------------------------------------------------|--------------|-----------|--------------------|--------------------|--------------------|---------------------------------|---------------------------------------|
 | [Dolphin](https://dolphin-emu.org/)                     | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin: Android  |
 | [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin:          |
 
 ## Nintendo Wii U
+
 | Emulator                                                    | FOSS         | License     | Free               | Active             | Recommended        | Emulated systems | Platform                             |
 |-------------------------------------------------------------|--------------|-------------|--------------------|--------------------|--------------------|------------------|--------------------------------------|
 | [Cemu](https://cemu.info/)                                  | :green_book: | MPLv2       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   | :computer: :apple: :penguin:         |
@@ -597,6 +612,7 @@ Legend:
 | [Kinnay](https://github.com/kinnay/Wii-U-Firmware-Emulator) | :green_book: | MIT license | :heavy_check_mark: | :x:                | :x:                | Nintendo Wii U   | :penguin:                            |
 
 ## Nintendo Switch
+
 | Emulator                                                                                                  | FOSS         | License     | Free               | Active             | Recommended        | Emulated systems | Platform                             |
 |-----------------------------------------------------------------------------------------------------------|--------------|-------------|--------------------|--------------------|--------------------|------------------|--------------------------------------|
 | [CageTheUnicorn](https://github.com/reswitched/CageTheUnicorn)                                            | :green_book: | ISC license | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
@@ -608,12 +624,14 @@ Legend:
 | [Yuzu](https://web.archive.org/web/20240229075408/https://yuzu-emu.org/)                                  | :green_book: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: Android         |
 
 ## Sega Master System
+
 | Emulator                                              | FOSS          | License              | Free               | Active | Recommended        | Emulated systems                                                                              | Platform                            |
 |-------------------------------------------------------|---------------|----------------------|--------------------|--------|--------------------|-----------------------------------------------------------------------------------------------|-------------------------------------|
 | [FreezeSMS](http://freezesms.emuunlim.com/index.html) | :closed_book: | Proprietary          | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sega Master System, Nintendo Entertainment System, Sega Game Gear, Sega SG-1000, ColecoVision | :computer:                          |
 | [SMSPLUS](https://github.com/0ldsk00l/smsplus)        | :green_book:  | 3-clause BSD license | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sega Master System, Sega Game Gear                                                            | :computer: :apple: :penguin: :imp:  |
 
 ## Sega Genesis/Megadrive and 32X/Sega CD
+
 | Emulator                                                                    | FOSS          | License                  | Free               | Active             | Recommended        | Emulated systems                                                                       | Platform                                                                            |
 |-----------------------------------------------------------------------------|---------------|--------------------------|--------------------|--------------------|--------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
 | [Ages](https://www.emulator-zone.com/doc.php/genesis/ages.html)             | :closed_book: | Proprietary              | :heavy_check_mark: | :x:                | :x:                | Sega Genesis/Megadrive, Sega CD, Sega 32X, Sega Master System, Sega Game Gear          | :computer:                                                                          |
@@ -876,7 +894,7 @@ Legend:
 
 ## Handheld game console emulators
 
-### Nintendo Handheld
+### Nintendo Handhelds
 
 #### Nintendo Game Boy/Game Boy Color
 
@@ -1018,6 +1036,8 @@ Legend:
 | [Gearsystem](https://github.com/drhelius/Gearsystem/) | :green_book:  | GNU GPLv3                                                  | :heavy_check_mark:          | :heavy_check_mark: | :heavy_check_mark: | Sega Mark III/Sega Master System, Sega Game Gear, Sega SG-1000, Othello Multivision        |          |
 | [MasterGear](https://fms.komkon.org/MG/)              | :closed_book: | Proprietary, developer says you can contact him for source | No, Android version is Paid | :heavy_check_mark: | :heavy_check_mark: | Sega Mark III/Sega Master System, Sega Game Gear, Sega SG-1000, Sega SC-3000, Sega SF-7000 |          |
 
+### Sony Handhelds
+
 #### Sony PlayStation Portable
 
 | Emulator                                                            | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems          | Platform |
@@ -1084,9 +1104,7 @@ Legend:
 | [Potator (SDL2 fork)](https://github.com/infval/potator)         | :orange_book: | The original license was only source available, so this should technically be the same, but the license in the repo is Unlicense | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Watara SuperVision |          |
 | [Wataroo](http://tailchao.com/Wataroo/index.php)                 | :closed_book: | Proprietary                                                                                                                      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Watara SuperVision |          |
 
-### Phones/PDAs/other mobile devices, etc
-
----
+## Phones/PDAs/other mobile devices, etc
 
 ### Apple iOS/iPod
 
@@ -1157,11 +1175,13 @@ Legend:
 | [CloudpilotEmu](https://github.com/cloudpilot-emu/cloudpilot-emu) | :green_book:  | GNU GPLv3                                                            | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | [Multiple devices](https://github.com/cloudpilot-emu/cloudpilot-emu#emulated-devices) |          |
 | [Mu](https://github.com/meepingsnesroms/Mu)                       | :orange_book: | Creative Commons Attribution-NonCommercial 3.0 United States License | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Palm OS                                                                               |          |
 
-### Computer emulators
+## Computer emulators
 
-### Acorn Atom computers
+### Acorn
 
-### Acorn BBC Micro computers
+#### Acorn computers
+
+#### Acorn BBC Micro computers
 
 | Emulator                                                            | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
 |---------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
@@ -1171,9 +1191,9 @@ Legend:
 | [b2](https://github.com/tom-seddon/b2)                              | :green_book:  | GNU GPLv3        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Acorn BBC Micro  |          |
 | [model-b](http://modelb.bbcmicro.com/)                              | :orange_book: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Acorn BBC Micro  |          |
 
-### Acorn Electron computers
+#### Acorn Electron computers
 
-### Acorn Archimedes computers
+#### Acorn Archimedes computers
 
 ### Amstrad CPC computers
 
@@ -1285,7 +1305,9 @@ Legend:
 
 ### Coleco computers
 
-### Commodore computers
+### Commodore
+
+#### Commodore computers
 
 | Emulator                                                                                       | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems                                                                                             | Platform |
 |------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|--------------------------------------------------------------------------------------------------------------|----------|
@@ -1304,7 +1326,7 @@ Legend:
 | [VICE](https://vice-emu.sourceforge.io/)                                                       | :green_book:  | GNU GPLv2+       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Commodore PET, Commodore VIC20, Commodore PLUS4, Commodore CBM, Commodore 64, Commodore 64DTV, Commodore 128 |          |
 | [Win64](https://www.zophar.net/c64/win64.html)                                                 | :closed_book: | Proprietary      | :x:                | :x:                | :x:                | Commodore 64                                                                                                 |          |
 
-### Commodore Amiga computers/Commodore Amiga CD32
+#### Commodore Amiga computers/Commodore Amiga CD32
 
 | Emulator                                           | FOSS         | License   | Free               | Active             | Recommended        | Emulated systems                      | Platform |
 |----------------------------------------------------|--------------|-----------|--------------------|--------------------|--------------------|---------------------------------------|----------|
@@ -1331,20 +1353,24 @@ Legend:
 | [Steem](http://steem.atari.st/)                            | :green_book:  | GNU GPLv3        | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari computers  |          |
 | [Steem SSE](https://sourceforge.net/projects/steemsse/)    | :green_book:  | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  |          |
 
-### Sinclair ZX81 computers
+### Sinclair
+
+#### Sinclair ZX81 computers
 
 | Emulator                                                                   | FOSS         | License   | Free               | Active             | Recommended        | Emulated systems | Platform |
 |----------------------------------------------------------------------------|--------------|-----------|--------------------|--------------------|--------------------|------------------|----------|
 | [EightyOne](https://sourceforge.net/projects/eightyone-sinclair-emulator/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX81    |          |
 
-### Sinclair ZX Spectrum computers
+#### Sinclair ZX Spectrum computers
 
 | Emulator                                   | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems     | Platform |
 |--------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|----------------------|----------|
 | [Speccy](https://fms.komkon.org/Speccy/)   | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum |          |
 | [ZXPoly](https://github.com/raydac/zxpoly) | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum |          |
 
-### NEC 6000 computers
+### NEC
+
+#### NEC 6000 computers
 
 | Emulator                                                   | FOSS          | License                                            | Free               | Active             | Recommended        | Emulated systems   | Platform |
 |------------------------------------------------------------|---------------|----------------------------------------------------|--------------------|--------------------|--------------------|--------------------|----------|
@@ -1352,7 +1378,7 @@ Legend:
 | [PC6001V](http://papicom.net/p6v/index.html)               | :green_book:  | LGPLv2.1                                           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC 6000 computers |          |
 | [PC6001VW](http://p6ers.net/bernie/develop/pc6001vw3.html) | :orange_book: | I couldn't find the source, but should be LGPLv2.1 | :heavy_check_mark: | :heavy_check_mark: | :x:                | NEC 6000 computers |          |
 
-### NEC 8800 computers
+#### NEC 8800 computers
 
 | Emulator                                                                                                               | FOSS          | License                                                                                   | Free               | Active             | Recommended        | Emulated systems   | Platform |
 |------------------------------------------------------------------------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------|--------------------|--------------------|--------------------|--------------------|----------|
@@ -1369,7 +1395,7 @@ Legend:
 | [XM8](http://retropc.net/pi)                                                                                           | :green_book:  | GNU GPLv2                                                                                 | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | NEC 8800 computers |          |
 | [X88000](http://www.cug.net/~manuke/x88000.html)                                                                       | :orange_book: | Referred to as "Public Domain Software (PDS)"                                             | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | NEC 8800 computers |          |
 
-### NEC 9800 computers
+#### NEC 9800 computers
 
 | Emulator                                                | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems   | Platform |
 |---------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|--------------------|----------|
@@ -1440,18 +1466,18 @@ Legend:
 | [ResidualVM](https://github.com/residualvm/residualvm) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :x:                | :x:                | [Supported games](https://github.com/residualvm/residualvm#21-which-games-does-residualvm-support) |  |
 | [ScummVM](https://www.scummvm.org/)                    | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Supported games](https://www.scummvm.org/compatibility/)                                          |  |
 
-### Calculator emulators
+## Calculator emulators
 
 ### Texas Instruments
 
-### TI-81 series
+#### TI-81 series
 
 | Emulator                                                             | FOSS          | License     | Free               | Active | Recommended        | Emulated systems | Platform |
 |----------------------------------------------------------------------|---------------|-------------|--------------------|--------|--------------------|------------------|----------|
 | [Mac-81](https://www.ticalc.org/programming/emulators/software.html) | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-81            |          |
 | [PC-81](https://www.ticalc.org/programming/emulators/software.html)  | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-81            |          |
 
-### TI-83 / TI-84 series
+#### TI-83 / TI-84 series
 
 | Emulator                                                                                                                                                    | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems                                          | Platform |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-----------------------------------------------------------|----------|
@@ -1466,7 +1492,7 @@ Legend:
 | [Wabbitemu](https://github.com/sputt/wabbitemu)                                                                                                             | :green_book:  | MIT license      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Z80 TI calculator models                                  |          |
 | [EMU83](https://www.ticalc.org/programming/emulators/software.html)                                                                                         | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI-83                                                     |          |
 
-### TI-85 and TI-86 series
+#### TI-85 and TI-86 series
 
 | Emulator                                                                                                         | FOSS          | License     | Free               | Active | Recommended        | Emulated systems | Platform |
 |------------------------------------------------------------------------------------------------------------------|---------------|-------------|--------------------|--------|--------------------|------------------|----------|
@@ -1478,7 +1504,7 @@ Legend:
 | [TIGraph](https://www.ticalc.org/programming/emulators/software.html)                                            | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-85            |          |
 | [Virtual 86](https://www.ticalc.org/programming/emulators/software.html)                                         | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-86            |          |
 
-### TI-89 series
+#### TI-89 series
 
 | Emulator                                                                    | FOSS          | License       | Free               | Active             | Recommended        | Emulated systems    | Platform |
 |-----------------------------------------------------------------------------|---------------|---------------|--------------------|--------------------|--------------------|---------------------|----------|
@@ -1487,7 +1513,7 @@ Legend:
 | [Graph 89](https://play.google.com/store/apps/details?id=com.Bisha.TI89Emu) | :closed_book: | Proprietary   | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | TI-89               |          |
 | [TI89-Simulator](https://ti89-simulator.com/)                               | :closed_book: | Proprietary   | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | TI-89               |          |
 
-### TI-90 series
+#### TI-90 series
 
 | Emulator                                                               | FOSS          | License     | Free               | Active | Recommended        | Emulated systems | Platform |
 |------------------------------------------------------------------------|---------------|-------------|--------------------|--------|--------------------|------------------|----------|
@@ -1503,7 +1529,7 @@ Legend:
 | [TiEmu](http://lpg.ticalc.org/prj_tiemu/)                                    | :orange_book: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI89, TI89 Titanium, TI92, TI92+, V200PLT                                      |          |
 | [Virtual TI](https://www.ticalc.org/programming/emulators/software.html)     | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-82, TI-83, TI-83 Plus, TI-85, TI-86, TI-89, TI-92, TI-92 II, and TI-92 Plus |          |
 
-### TI-Nspire
+#### TI-Nspire
 
 | Emulator                                                                                             | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
 |------------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
@@ -1511,7 +1537,9 @@ Legend:
 | [kArmTI](https://www.omnimaga.org/ti-nspire-projects/karmti-ti-nspire-emulator-with-skin-16585/345/) | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI-Nspire        |          |
 | [nspire_emu](https://github.com/masanchez5000/nspire_emu)                                            | :green_book:  | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI-Nspire        |          |
 
-### Hewlett Packard monochrome calculators
+### Hewlett Packard
+
+#### Hewlett Packard monochrome calculators
 
 | Emulator                                                                  | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems          | Platform |
 |---------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|---------------------------|----------|
@@ -1524,7 +1552,7 @@ Legend:
 | [Power48](https://palmdb.net/app/power48)                                 | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | HP 48sx, 48gx, and 49g    |          |
 | [PSPX48](https://www.brewology.com/downloads/download.php?id=5142&mcid=1) | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_check_mark: | HP48                      |          |
 
-### Hewlett Packard Prime calculators
+#### Hewlett Packard Prime calculators
 
 | Emulator                                                                                                                         | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems     | Platform |
 |----------------------------------------------------------------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|----------------------|----------|
@@ -1534,7 +1562,7 @@ Legend:
 | [HP Prime Graphing Calculator App (free for Android)](https://play.google.com/store/apps/details?id=com.hp.primecalculator.free) | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | HP Prime calculators |          |
 | [HP Prime Graphing Calculator App (paid for Android)](https://play.google.com/store/apps/details?id=com.hp.primecalculator)      | :closed_book: | Proprietary | :x:                | :heavy_minus_sign: | :heavy_minus_sign: | HP Prime calculators |          |
 
-### Hewlett Packard scientific and financial calculators
+#### Hewlett Packard scientific and financial calculators
 
 | Emulator                                                              | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems  | Platform |
 |-----------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-------------------|----------|
@@ -1547,7 +1575,7 @@ Legend:
 | [awp34s](https://github.com/odkq/awp34s)                              | :green_book:  | GNU GPLv3        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | WP-34S            |          |
 | [WP34S-4NS](https://github.com/zephray/WP34S-4NS)                     | :orange_book: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | WP-34S            |          |
 
-### Other HP calculator resources
+#### Other HP calculator resources
 
 | Emulator                                           | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems        | Platform |
 |----------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-------------------------|----------|
@@ -1581,7 +1609,7 @@ Legend:
 | [eMKatic](https://sourceforge.net/projects/emkatic/)                                                                                         | :green_book:  | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | B3-34, MK-52, MK-61                                             |          |
 | [MK 61/54](https://github.com/cax/pmk-android)                                                                                               | :green_book:  | GNU GPLv3        | :heavy_check_mark: | :x:                | :heavy_check_mark: | Electronika MK-61 and MK-54                                     |          |
 
-### Other miscellaneous emulators and projects
+## Other miscellaneous emulators and projects
 
 ### Adobe Flash emulators
 
