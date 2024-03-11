@@ -37,55 +37,62 @@ Legend:
     1. [Source Availability](#source-availability)
     2. [Platform Support](#platform-support)
     3. [Table of Contents](#table-of-contents)
-    4. [List of Emulated Systems](#list-of-emulated-systems)
-        1. [Atari 2600](#atari-2600)
-        2. [Atari 5200](#atari-5200)
-        3. [Atari 7800](#atari-7800)
-        4. [Atari Jaguar/Jaguar CD](#atari-jaguarjaguar-cd)
-        5. [Commodore Amiga CD32](#commodore-amiga-cd32)
-        6. [LaserDisc systems](#laserdisc-systems)
-        7. [Sony PlayStation 1](#sony-playstation-1)
-        8. [Sony PlayStation 2](#sony-playstation-2)
-        9. [Sony PlayStation 3](#sony-playstation-3)
-        10. [Sony PlayStation 4](#sony-playstation-4)
-        11. [Sony PlayStation 5](#sony-playstation-5)
-        12. [Nintendo Entertainment System/Famicom](#nintendo-entertainment-systemfamicom)
-        13. [Super Nintendo Entertainment System/Super Famicom](#super-nintendo-entertainment-systemsuper-famicom)
-        14. [Nintendo 64](#nintendo-64)
-        15. [Nintendo GameCube](#nintendo-gamecube)
-        16. [Nintendo Wii](#nintendo-wii)
-        17. [Nintendo Wii U](#nintendo-wii-u)
-        18. [Nintendo Switch](#nintendo-switch)
-        19. [Sega Master System](#sega-master-system)
-        20. [Sega Genesis/Megadrive and 32X/Sega CD](#sega-genesismegadrive-and-32xsega-cd)
-        21. [Sega Saturn](#sega-saturn)
-        22. [Sega Dreamcast](#sega-dreamcast)
-        23. [Sega Dreamcast VMU](#sega-dreamcast-vmu)
-        24. [Microsoft Xbox](#microsoft-xbox)
-        25. [Microsoft Xbox 360](#microsoft-xbox-360)
-        26. [Microsoft Xbox One](#microsoft-xbox-one)
-        27. [Microsoft Xbox Series](#microsoft-xbox-series)
+    4. [Home Game Console Emulators](#home-game-console-emulators)
+        1. [Atari](#atari)
+            1. [Atari 2600](#atari-2600)
+            2. [Atari 5200](#atari-5200)
+            3. [Atari 7800](#atari-7800)
+            4. [Atari Jaguar/Jaguar CD](#atari-jaguarjaguar-cd)
+        2. [Commodore Amiga CD32](#commodore-amiga-cd32)
+        3. [LaserDisc systems](#laserdisc-systems)
+        4. [Sony](#sony)
+            1. [Sony PlayStation 1](#sony-playstation-1)
+            2. [Sony PlayStation 2](#sony-playstation-2)
+            3. [Sony PlayStation 3](#sony-playstation-3)
+            4. [Sony PlayStation 4](#sony-playstation-4)
+            5. [Sony PlayStation 5](#sony-playstation-5)
+        5. [Nintendo](#nintendo)
+            1. [Nintendo Entertainment System/Famicom](#nintendo-entertainment-systemfamicom)
+            2. [Super Nintendo Entertainment System/Super Famicom](#super-nintendo-entertainment-systemsuper-famicom)
+            3. [Nintendo 64](#nintendo-64)
+            4. [Nintendo GameCube](#nintendo-gamecube)
+            5. [Nintendo Wii](#nintendo-wii)
+            6. [Nintendo Wii U](#nintendo-wii-u)
+            7. [Nintendo Switch](#nintendo-switch)
+        6. [Sega](#sega)
+            1. [Sega Master System](#sega-master-system)
+            2. [Sega Genesis/Megadrive and 32X/Sega CD](#sega-genesismegadrive-and-32xsega-cd)
+            3. [Sega Saturn](#sega-saturn)
+            4. [Sega Dreamcast](#sega-dreamcast)
+            5. [Sega Dreamcast VMU](#sega-dreamcast-vmu)
+        7. [Microsoft](#microsoft)
+            1. [Microsoft Xbox](#microsoft-xbox)
+            2. [Microsoft Xbox 360](#microsoft-xbox-360)
+            3. [Microsoft Xbox One](#microsoft-xbox-one)
+            4. [Microsoft Xbox Series](#microsoft-xbox-series)
         28. [NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx](#nec-pc-engineturbografx-16cd-romturbografx-cdsupergrafx)
         29. [SNK Neo Geo AES/MVS/Neo Geo CD](#snk-neo-geo-aesmvsneo-geo-cd)
         30. [Pong consoles](#pong-consoles)
         31. [Magnavox Odyssey 2](#magnavox-odyssey-2)
         32. [Philips CD-i](#philips-cd-i)
-        33. [Panasonic 3DO Interactive Multiplayer](#panasonic-3do-interactive-multiplayer)
-        34. [Panasonic 3DO M2](#panasonic-3do-m2)
+        8. [Panasonic](#panasonic)
+            1. [Panasonic 3DO Interactive Multiplayer](#panasonic-3do-interactive-multiplayer)
+            2. [Panasonic 3DO M2](#panasonic-3do-m2)
         35. [Gemei A330](#gemei-a330)
         36. [Apple/Bandai Pippin](#applebandai-pippin)
         37. [Mattel Intellivision](#mattel-intellivision)
         38. [Coleco ColecoVision](#coleco-colecovision)
         39. [Chip-8 and related system emulators/interpreters](#chip-8-and-related-system-emulatorsinterpreters)
         40. [COSMAC VIP/RCA Studio II/Telmac 1800](#cosmac-viprca-studio-iitelmac-1800)
-        41. [Handheld game console emulators](#handheld-game-console-emulators)
-        42. [Nintendo Game Boy/Game Boy Color](#nintendo-game-boygame-boy-color)
-        43. [Nintendo Game Boy Advance](#nintendo-game-boy-advance)
-        44. [Nintendo Game And Watch simulators](#nintendo-game-and-watch-simulators)
-        45. [Nintendo Virtual Boy](#nintendo-virtual-boy)
-        46. [Pokemon Mini](#pokemon-mini)
-        47. [Nintendo DS](#nintendo-ds)
-        48. [Nintendo 3DS](#nintendo-3ds)
+    5. [Handheld game console emulators](#handheld-game-console-emulators)
+        1. [Nintendo](#nintendo-handheld)
+            1. [Nintendo Game Boy/Game Boy Color](#nintendo-game-boygame-boy-color)
+            2. [Nintendo Game Boy Advance](#nintendo-game-boy-advance)
+            3. [Nintendo Game And Watch simulators](#nintendo-game-and-watch-simulators)
+            4. [Nintendo Virtual Boy](#nintendo-virtual-boy)
+            5. [Pokemon Mini](#pokemon-mini)
+            6. [Nintendo DS](#nintendo-ds)
+            7. [Nintendo 3DS](#nintendo-3ds)
         49. [Game Park GP32](#game-park-gp32)
         50. [Atari Lynx](#atari-lynx)
         51. [Sega Game Gear](#sega-game-gear)
@@ -173,9 +180,11 @@ Legend:
     13. [Disclaimer](#disclaimer)
     14. [📃 License](#-license)
 
-## List of Emulated Systems
+## Home Game Console Emulators
 
-### Atari 2600
+### Atari
+
+#### Atari 2600
 
 | Emulator                                                        | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform                           |
 |-----------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|------------------------------------|
@@ -192,7 +201,7 @@ Legend:
 | [Virtual 2600](https://www.zophar.net/a2600/virtual-2600.html)  | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :floppy_disk:                      |
 | [Virtual VCS](https://www.zophar.net/a2600/virtual-vcs.html)    | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer:                         |
 
-### Atari 5200
+#### Atari 5200
 
 | Emulator                                                                                                        | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems                  | Platform                      |
 |-----------------------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-----------------------------------|-------------------------------|
@@ -202,7 +211,7 @@ Legend:
 | [Rainbow](https://web.archive.org/web/20120914030219/http://www.chrislam.co.uk/rainbow-atari-8bit-emulator.htm) | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari 5200, Atari 8-bit computers | :computer: :apple:            |
 | [Virtual Super System (VSS)](http://atarihq.com/danb/a5200.shtml#emulator)                                      | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari 5200                        | :floppy_disk:                 |
 
-### Atari 7800
+#### Atari 7800
 
 | Emulator                                                | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems | Platform                       |
 |---------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|------------------|--------------------------------|
@@ -214,7 +223,7 @@ Legend:
 | [V7800](https://atarihq.com/danb/a7800.shtml#emulators) | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Atari 7800       | :computer:                     |
 | [Wii7800](https://github.com/raz0red/wii7800)           | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Atari 7800       | Nintendo Wii                   |
 
-### Atari Jaguar/Jaguar CD
+#### Atari Jaguar/Jaguar CD
 
 | Emulator                                                  | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems              | Platform                     |
 |-----------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-------------------------------|------------------------------|
@@ -238,7 +247,9 @@ Legend:
 | [Dirk Simple](https://github.com/icculus/DirkSimple)   | :green_book: | zlib license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Dragon's Lair LaserDisc arcade game | :computer: |
 | [SINGE](https://kangaroopunch.com/software/singe)      | :green_book: | GNU GPLv2    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | LaserDisc arcade software           | :computer: |
 
-### Sony PlayStation 1
+### Sony
+
+#### Sony PlayStation 1
 
 | Emulator                                                                                                 | FOSS          | License          | Free                     | Active             | Recommended        | Emulated systems                                  | Platform                     |
 |----------------------------------------------------------------------------------------------------------|---------------|------------------|--------------------------|--------------------|--------------------|---------------------------------------------------|------------------------------|
@@ -267,7 +278,7 @@ Legend:
 | [SSSPSX](https://www.emulator-zone.com/doc.php/psx/ssspsx.html)                                          | :closed_book: | Proprietary      | :heavy_check_mark:       | :x:                | :x:                | Sony PlayStation                                  | :computer:                   |
 | [Xebra](http://drhell.web.fc2.com/ps1/)                                                                  | :closed_book: | Proprietary      | :heavy_check_mark:       | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation, Sony PocketStation (with PK201) | :computer:                   |
 
-### Sony PlayStation 2
+#### Sony PlayStation 2
 
 | Emulator                                                                  | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems   | Platform                     |
 |---------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|--------------------|------------------------------|
@@ -282,7 +293,7 @@ Legend:
 | [PS2emu](https://www.emulator-zone.com/doc.php/ps2/ps2emu.html)           | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 2 | :computer:                   |
 | [PurpleSX2](https://github.com/MrPurple666/AetherSX2)                     | :orange_book: | Partially   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 2 | Android                      |
 
-### Sony PlayStation 3
+#### Sony PlayStation 3
 
 | Emulator                                                                                            | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems   | Platform                                 |
 |-----------------------------------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|--------------------|------------------------------------------|
@@ -291,7 +302,7 @@ Legend:
 | [RPCS3](https://rpcs3.net/)                                                                         | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 3 | :computer: :apple: :penguin: :imp:       |
 | [Short Waves](https://wololo.net/downloads/index.php/download/8128)                                 | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 3 | :computer:                               |
 
-### Sony PlayStation 4
+#### Sony PlayStation 4
 
 | Emulator                                                                                                      | FOSS          | License                     | Free               | Active             | Recommended        | Emulated systems                       | Platform                             |
 |---------------------------------------------------------------------------------------------------------------|---------------|-----------------------------|--------------------|--------------------|--------------------|----------------------------------------|--------------------------------------|
@@ -305,13 +316,13 @@ Legend:
 | [shadPS4](https://github.com/georgemoralis/shadPS4)                                                           | :green_book:  | GNU GPLv2                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation 4                     | :computer: :penguin:                 |
 | [Spine](https://github.com/devofspine/spine)                                                                  | :closed_book: | Proprietary                 | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 4                     | :computer:                           |
 
-### Sony PlayStation 5
+#### Sony PlayStation 5
 
 | Emulator                                 | FOSS         | License     | Free               | Active             | Recommended | Emulated systems   | Platform   |
 |------------------------------------------|--------------|-------------|--------------------|--------------------|-------------|--------------------|------------|
 | [Kyty](https://github.com/InoriRus/Kyty) | :green_book: | MIT license | :heavy_check_mark: | :heavy_minus_sign: | :x:         | Sony PlayStation 5 | :computer: |
 
-### Nintendo Entertainment System/Famicom
+#### Nintendo Entertainment System/Famicom
 
 | Emulator                                                                                                                 | FOSS          | License                                           | Free               | Active             | Recommended        | Emulated systems                                                                    | Platform                                                    |
 |--------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------|--------------------|--------------------|--------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------|
@@ -364,7 +375,7 @@ Legend:
 | [ZSNES - A historic emulator, and it is undergoing a huge rewrite for a new release eventually™](http://zsnes.com/)                                                                                                                                                                                                                  | :green_book:       | GNU GPLv2            | :heavy_check_mark: | :heavy_check_mark: | :x:                | Super Nintendo Entertainment System/Super Famicom | :computer: :floppy_disk: :penguin: |
 
 <<<<<<< HEAD
-### Nintendo 64
+#### Nintendo 64
 
 | Emulator                                                                                                                                                                        | FOSS          | License                                                                                           | Free               | Active             | Recommended        | Emulated systems | Platform |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|---------------------------------------------------------------------------------------------------|--------------------|--------------------|--------------------|------------------|---|
@@ -429,7 +440,7 @@ Legend:
 | [Wii64](https://code.google.com/archive/p/mupen64gc/)                                                                                                                           | :green_book:  | GNU GPLv3                                                                                         | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo 64      |  |
 | [Wii64-PS3](https://github.com/emukidid/wii64-ps3)                                                                                                                              | :orange_book: | Should be GNU GPLv3, but no license present in the repository                                     | :x:                | :x:                | :heavy_minus_sign: | Nintendo 64      |  |
 
-### Nintendo GameCube
+#### Nintendo GameCube
 
 | Emulator                                                         | FOSS          | License           | Free               | Active             | Recommended        | Emulated systems                | Platform |
 |------------------------------------------------------------------|---------------|-------------------|--------------------|--------------------|--------------------|---------------------------------|----------|
@@ -442,14 +453,14 @@ Legend:
 | [SuperGCube](https://www.zophar.net/gc/supergcube.html)          | :green_book:  | GNU GPLv2         | :heavy_check_mark: | :x:                | :x:                | Nintendo GameCube               |          |
 | [WhineCube](http://whinecube.emulation64.com/)                   | :green_book:  | GNU GPLv2         | :heavy_check_mark: | :x:                | :x:                | Nintendo GameCube               |          |
 
-### Nintendo Wii
+#### Nintendo Wii
 
 | Emulator                                                | FOSS         | License   | Free               | Active             | Recommended        | Emulated systems                | Platform |
 |---------------------------------------------------------|--------------|-----------|--------------------|--------------------|--------------------|---------------------------------|----------|
 | [Dolphin](https://dolphin-emu.org/)                     | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii |          |
 | [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii |          |
 
-### Nintendo Wii U
+#### Nintendo Wii U
 
 | Emulator                                                    | FOSS         | License     | Free               | Active             | Recommended        | Emulated systems | Platform |
 |-------------------------------------------------------------|--------------|-------------|--------------------|--------------------|--------------------|------------------|----------|
@@ -457,7 +468,7 @@ Legend:
 | [Decaf](https://github.com/decaf-emu/decaf-emu)             | :green_book: | GNU GPLv3+  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   |          |
 | [Kinnay](https://github.com/kinnay/Wii-U-Firmware-Emulator) | :green_book: | MIT license | :heavy_check_mark: | :x:                | :x:                | Nintendo Wii U   |          |
 
-### Nintendo Switch
+#### Nintendo Switch
 
 | Emulator                                                       | FOSS         | License     | Free               | Active             | Recommended        | Emulated systems | Platform |
 |----------------------------------------------------------------|--------------|-------------|--------------------|--------------------|--------------------|------------------|----------|
@@ -469,14 +480,16 @@ Legend:
 | [Strato](https://github.com/strato-emu/strato)                 | :green_book: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  |          |
 | [Yuzu](https://yuzu-emu.org/)                                  | :green_book: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Switch  |          |
 
-### Sega Master System
+### Sega
+
+#### Sega Master System
 
 | Emulator                                              | FOSS          | License              | Free               | Active | Recommended        | Emulated systems                                                                              | Platform |
 |-------------------------------------------------------|---------------|----------------------|--------------------|--------|--------------------|-----------------------------------------------------------------------------------------------|----------|
 | [FreezeSMS](http://freezesms.emuunlim.com/index.html) | :closed_book: | Proprietary          | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sega Master System, Nintendo Entertainment System, Sega Game Gear, Sega SG-1000, ColecoVision |          |
 | [SMSPLUS](https://github.com/0ldsk00l/smsplus)        | :green_book:  | 3-clause BSD license | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sega Master System, Sega Game Gear                                                            |          |
 
-### Sega Genesis/Megadrive and 32X/Sega CD
+#### Sega Genesis/Megadrive and 32X/Sega CD
 
 | Emulator                                                                    | FOSS          | License                  | Free               | Active             | Recommended        | Emulated systems                                                                       | Platform |
 |-----------------------------------------------------------------------------|---------------|--------------------------|--------------------|--------------------|--------------------|----------------------------------------------------------------------------------------|----------|
@@ -617,7 +630,7 @@ Legend:
 | [TrueLMAO](https://github.com/kirjavascript/trueLMAO)                       | :green_book:  | MIT license              | :heavy_check_mark: | :heavy_check_mark: | :x:                | Sega Genesis/Megadrive                                                                 |  :computer: :penguin: :globe_with_meridians:                                        |
 >>>>>>> 1f8228bf18a1774c55a201bdc3a7b2695235610c
 
-### Sega Saturn
+#### Sega Saturn
 
 | Emulator                                                                                       | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
 |------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
@@ -640,7 +653,7 @@ Legend:
 | [Yaba Sanshiro 2 (formerly uoYabause)](https://www.uoyabause.org/)                             | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sega Saturn      |          |
 | [Yabause](https://segaretro.org/Yabause)                                                       | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_check_mark: | Sega Saturn      |          |
 
-### Sega Dreamcast
+#### Sega Dreamcast
 
 | Emulator                                                                                                    | FOSS          | License              | Free               | Active             | Recommended        | Emulated systems | Platform |
 |-------------------------------------------------------------------------------------------------------------|---------------|----------------------|--------------------|--------------------|--------------------|------------------|----------|
@@ -665,7 +678,7 @@ Legend:
 | [Swirly](https://sourceforge.net/projects/swirly/)                                                          | :green_book:  | GNU GPLv2            | :heavy_check_mark: | :x:                | :x:                | Sega Dreamcast   |          |
 | [washDC (formerly WashingtonDC)](https://gitlab.com/washemu/washdc)                                         | :green_book:  | GNU GPLv3+           | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Sega Dreamcast   |          |
 
-### Sega Dreamcast VMU
+#### Sega Dreamcast VMU
 
 | Emulator                                                                        | FOSS          | License          | Free               | Active | Recommended        | Emulated systems   | Platform |
 |---------------------------------------------------------------------------------|---------------|------------------|--------------------|--------|--------------------|--------------------|----------|
@@ -674,7 +687,9 @@ Legend:
 | [ElysianVMU](http://evmu.elysianshadows.com/)                                   | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :heavy_check_mark: | Sega Dreamcast VMU |          |
 | [SoftVMS](https://mc.pp.se/dc/sw.html)                                          | :orange_book: | Source available | :heavy_check_mark: | :x:    | :x:                | Sega Dreamcast VMU |          |
 
-### Microsoft Xbox
+### Microsoft
+
+#### Microsoft Xbox
 
 | Emulator                                                                                                    | FOSS          | License              | Free               | Active             | Recommended        | Emulated systems | Platform |
 |-------------------------------------------------------------------------------------------------------------|---------------|----------------------|--------------------|--------------------|--------------------|------------------|----------|
@@ -688,20 +703,20 @@ Legend:
 | [Xeon](https://www.emulator-zone.com/doc.php/xbox/xeon.html)                                                | :closed_book: | Proprietary          | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   |          |
 | [Xenoborg](https://xenoborg-emu.blogspot.com/) - [Source here](https://code.google.com/archive/p/xenoborg/) | :green_book:  | GNU GPLv3            | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   |          |
 
-### Microsoft Xbox 360
+#### Microsoft Xbox 360
 
 | Emulator                                               | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems   | Platform |
 |--------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|--------------------|----------|
 | [cs360emu](https://github.com/soywiz-archive/cs360emu) | :orange_book: | Source available | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox 360 |          |
 | [Xenia](https://xenia.jp)                              | :green_book:  | MIT license      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox 360 |          |
 
-### Microsoft Xbox One
+#### Microsoft Xbox One
 
 | Emulator                                             | FOSS | License | Free | Active | Recommended | Emulated systems | Platform |
 |------------------------------------------------------|------|---------|------|--------|-------------|------------------|----------|
 | There are currently :x: emulators for this system 😔 | N/A  | N/A     | N/A  | N/A    | N/A         | N/A              |          |
 
-### Microsoft Xbox Series
+#### Microsoft Xbox Series
 
 | Emulator                                             | FOSS | License | Free | Active | Recommended | Emulated systems | Platform |
 |------------------------------------------------------|------|---------|------|--------|-------------|------------------|----------|
@@ -757,7 +772,9 @@ Legend:
 | [Same CDi](https://docs.libretro.com/library/same_cdi/)         | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Philips CD-i     |          |
 | [TinyCDi](https://www.aep-emu.de/Emus-file-emus_detail-id-1440) | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Philips CD-i     |          |
 
-### Panasonic 3DO Interactive Multiplayer
+### Panasonic
+
+#### Panasonic 3DO Interactive Multiplayer
 
 | Emulator                                       | FOSS          | License     | Free               | Active | Recommended        | Emulated systems | Platform |
 |------------------------------------------------|---------------|-------------|--------------------|--------|--------------------|------------------|----------|
@@ -765,7 +782,7 @@ Legend:
 | [4DO](https://sourceforge.net/projects/fourdo) | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Panasonic 3DO    |          |
 | [FreeDO](https://www.freedo.org/)              | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Panasonic 3DO    |          |
 
-### Panasonic 3DO M2
+#### Panasonic 3DO M2
 
 | Emulator                                             | FOSS | License | Free | Active | Recommended | Emulated systems | Platform |
 |------------------------------------------------------|------|---------|------|--------|-------------|------------------|----------|
@@ -857,11 +874,11 @@ Legend:
 
 ### COSMAC VIP/RCA Studio II/Telmac 1800
 
-### Handheld game console emulators
+## Handheld game console emulators
 
----
+### Nintendo Handheld
 
-### Nintendo Game Boy/Game Boy Color
+#### Nintendo Game Boy/Game Boy Color
 
 | Emulator                                                  | FOSS          | License                                                        | Free               | Active             | Recommendation     | Emulated systems                                                        | Platform |
 |-----------------------------------------------------------|---------------|----------------------------------------------------------------|--------------------|--------------------|--------------------|-------------------------------------------------------------------------|---|
@@ -886,7 +903,7 @@ Legend:
 | [VGB (AKA Virtual Game Boy)](https://fms.komkon.org/VGB/) | :closed_book: | Proprietary                                                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Game Boy, Nintendo Game Boy Color, and Nintendo Super Game Boy |  |
 | [Wzonka-Lad](https://www.villehelin.com/wzonka-lad.html)  | :green_book:  | GNU GPLv2                                                      | :heavy_check_mark: | :x:                | :heavy_check_mark: | Nintendo Game Boy                                                       |  |
 
-### Nintendo Game Boy Advance
+#### Nintendo Game Boy Advance
 
 - :exclamation: = *WARNING: This emulator is no longer maintained and has security vulnerabilities. This is here for completeness, but use alternatives or at the bare minimum please exercise caution when using these emulators.*
 
@@ -904,7 +921,7 @@ Legend:
 | [VGBA (AKA Virtual Game Boy Advance)](https://fms.komkon.org/VGBA/)              | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :x:                | Nintendo Game Boy Advance                                             |          |
 | :exclamation: [Visual Boy Advance](https://sourceforge.net/projects/vba)         | :green_book:  | GNU GPLv2+  | :heavy_check_mark: | :x:                | :x:                | Nintendo Game Boy, Nintendo Game Boy Color, Nintendo Game Boy Advance |          |
 
-### Nintendo Game And Watch simulators
+#### Nintendo Game And Watch simulators
 
 | Simulator                                                                    | FOSS          | License               | Free               | Active             | Recommended        | Simulated systems                      | Platform |
 |------------------------------------------------------------------------------|---------------|-----------------------|--------------------|--------------------|--------------------|----------------------------------------|---|
@@ -914,7 +931,7 @@ Legend:
 | [Pica Pic simulations (requires Adobe Flash emulator)](http://pica-pic.com/) | :closed_book: | Proprietary           | :heavy_check_mark: | :x:                | :x:                | Various handheld systems               |  |
 | [RetroFab simulations](https://itizso.itch.io/retrofab)                      | :closed_book: | Proprietary           | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Various handhelds and tabletop systems |  |
 
-### Nintendo Virtual Boy
+#### Nintendo Virtual Boy
 
 | Emulator                                                                                                                      | FOSS          | License                                                        | Free               | Active             | Recommended        | Emulated systems     | Platform |
 |-------------------------------------------------------------------------------------------------------------------------------|---------------|----------------------------------------------------------------|--------------------|--------------------|--------------------|----------------------|----------|
@@ -944,7 +961,7 @@ Legend:
 | [PokeMini](https://sourceforge.net/projects/pokemini)            | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Pokemon Mini     |          |
 | [PokemonMiniX](https://www.pokemon-mini.net/tools/pokemonminix/) | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Pokemon Mini     |          |
 
-### Nintendo DS
+#### Nintendo DS
 
 | Emulator                                                                           | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
 |------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
@@ -969,7 +986,7 @@ Legend:
 | [NooDS](https://github.com/Hydr8gon/NooDS)                                         | :green_book:  | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo DS      |          |
 | [NooDS-Launcher](https://github.com/BlackSheepBoy69/NooDS-Launcher-Vita-)          | :green_book:  | GNU GPLv3        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Nintendo DS      |          |
 
-### Nintendo 3DS
+#### Nintendo 3DS
 
 | Emulator                                                | FOSS               | License            | Free               | Active             | Recommended        | Emulated systems | Platform |
 |---------------------------------------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|------------------|---|
@@ -987,21 +1004,21 @@ Legend:
 |-------------------------------------------------------|---------------|-------------|--------------------|--------|--------------------|------------------|----------|
 | [GeePee32](https://www.zophar.net/gp32/geepee32.html) | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Game Park GP32   |          |
 
-### Atari Lynx
+#### Atari Lynx
 
 | Emulator                                        | FOSS         | License      | Free               | Active             | Recommended        | Emulated systems | Platform |
 |-------------------------------------------------|--------------|--------------|--------------------|--------------------|--------------------|------------------|----------|
 | [Felix](https://github.com/laoo/Felix/)         | :green_book: | MIT license  | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari Lynx       |          |
 | [Handy](http://sourceforge.net/projects/handy/) | :green_book: | zlib license | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari Lynx       |          |
 
-### Sega Game Gear
+#### Sega Game Gear
 
 | Emulator                                              | FOSS          | License                                                    | Free                        | Active             | Recommended        | Emulated systems                                                                           | Platform |
 |-------------------------------------------------------|---------------|------------------------------------------------------------|-----------------------------|--------------------|--------------------|--------------------------------------------------------------------------------------------|----------|
 | [Gearsystem](https://github.com/drhelius/Gearsystem/) | :green_book:  | GNU GPLv3                                                  | :heavy_check_mark:          | :heavy_check_mark: | :heavy_check_mark: | Sega Mark III/Sega Master System, Sega Game Gear, Sega SG-1000, Othello Multivision        |          |
 | [MasterGear](https://fms.komkon.org/MG/)              | :closed_book: | Proprietary, developer says you can contact him for source | No, Android version is Paid | :heavy_check_mark: | :heavy_check_mark: | Sega Mark III/Sega Master System, Sega Game Gear, Sega SG-1000, Sega SC-3000, Sega SF-7000 |          |
 
-### Sony PlayStation Portable
+#### Sony PlayStation Portable
 
 | Emulator                                                            | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems          | Platform |
 |---------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|---------------------------|----------|
@@ -1018,7 +1035,7 @@ Legend:
 | [pspplayer](https://code.google.com/archive/p/pspplayer/)           | :green_book:  | GNU LGPLv2       | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Portable |          |
 | [Sam](https://www.zophar.net/psp/sam.html)                          | :orange_book: | Source available | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Portable |          |
 
-### Sony PocketStation
+#### Sony PocketStation
 
 | Emulator                                                 | FOSS          | License          | Free               | Active | Recommended        | Emulated systems   | Platform |
 |----------------------------------------------------------|---------------|------------------|--------------------|--------|--------------------|--------------------|----------|
@@ -1026,7 +1043,7 @@ Legend:
 | [PKEmu](https://www.zophar.net/pocketstation/pkemu.html) | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation |          |
 | [pockystation](https://github.com/simias/pockystation)   | :orange_book: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation |          |
 
-### Sony PlayStation Vita
+#### Sony PlayStation Vita
 
 | Emulator                                             | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems      | Platform |
 |------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-----------------------|----------|
@@ -1297,7 +1314,7 @@ Legend:
 | [WinFellow](https://github.com/petschau/WinFellow) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Commodore Amiga                       |          |
 | [WinUAE](https://www.winuae.net/)                  | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Commodore Amiga, Commodore Amiga CD32 |          |
 
-### Atari 400/800 and ST computers
+#### Atari 400/800 and ST computers
 
 | Emulator                                                   | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
 |------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
