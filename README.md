@@ -662,11 +662,11 @@ Legend:
 
 #### Panasonic 3DO Interactive Multiplayer
 
-| Emulator                                       | FOSS          | License     | Free               | Active | Recommended        | Emulated systems | Platform |
-|------------------------------------------------|---------------|-------------|--------------------|--------|--------------------|------------------|----------|
-| [3d'oh](https://code.google.com/p/3doh/)       | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Panasonic 3DO    |          |
-| [4DO](https://sourceforge.net/projects/fourdo) | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Panasonic 3DO    |          |
-| [FreeDO](https://www.freedo.org/)              | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Panasonic 3DO    |          |
+| Emulator                                       | FOSS          | License     | Free               | Active | Recommended        | Emulated systems | Platform             |
+|------------------------------------------------|---------------|-------------|--------------------|--------|--------------------|------------------|----------------------|
+| [3d'oh](https://code.google.com/p/3doh/)       | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Panasonic 3DO    | :penguin:            |
+| [4DO](https://sourceforge.net/projects/fourdo) | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Panasonic 3DO    | :computer:           |
+| [FreeDO](https://www.freedo.org/)              | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Panasonic 3DO    | :computer: :apple:   |
 
 #### Panasonic 3DO M2
 
