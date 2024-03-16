@@ -577,17 +577,17 @@ Legend:
 
 #### Microsoft Xbox
 
-| Emulator                                                                                                    | FOSS          | License              | Free               | Active             | Recommended        | Emulated systems | Platform |
-|-------------------------------------------------------------------------------------------------------------|---------------|----------------------|--------------------|--------------------|--------------------|------------------|----------|
-| [Cxbx](https://github.com/Echelon9/cxbx-shogun)                                                             | :green_book:  | GNU GPLv2            | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   |          |
-| [Cxbx-Reloaded](https://cxbx-reloaded.co.uk/)                                                               | :green_book:  | GNU GPLv2            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox   |          |
-| [Dxbx](http://sourceforge.net/projects/dxbx)                                                                | :green_book:  | GNU GPLv2            | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   |          |
-| [OpenXBOX](https://github.com/mborgerson/OpenXBOX/tree/master)                                              | :orange_book: | Source available     | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   |          |
-| [StrikeBox](https://github.com/StrikerX3/StrikeBox)                                                         | :green_book:  | 2-clause BSD license | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   |          |
-| [XQEMU](https://github.com/xqemu/xqemu)                                                                     | :green_book:  | GNU GPLv2            | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Microsoft Xbox   |          |
-| [Xemu](https://xemu.app/)                                                                                   | :green_book:  | GNU GPLv2            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox   |          |
-| [Xeon](https://www.emulator-zone.com/doc.php/xbox/xeon.html)                                                | :closed_book: | Proprietary          | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   |          |
-| [Xenoborg](https://xenoborg-emu.blogspot.com/) - [Source here](https://code.google.com/archive/p/xenoborg/) | :green_book:  | GNU GPLv3            | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   |          |
+| Emulator                                                                                                    | FOSS          | License              | Free               | Active             | Recommended        | Emulated systems | Platform                            |
+|-------------------------------------------------------------------------------------------------------------|---------------|----------------------|--------------------|--------------------|--------------------|------------------|-------------------------------------|
+| [Cxbx](https://github.com/Echelon9/cxbx-shogun)                                                             | :green_book:  | GNU GPLv2            | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   | :computer: :penguin:                |
+| [Cxbx-Reloaded](https://cxbx-reloaded.co.uk/)                                                               | :green_book:  | GNU GPLv2            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox   | :computer:                          |
+| [Dxbx](http://sourceforge.net/projects/dxbx)                                                                | :green_book:  | GNU GPLv2            | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   | :computer:                          |
+| [OpenXBOX](https://github.com/mborgerson/OpenXBOX/tree/master)                                              | :orange_book: | Source available     | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   | :computer: :penguin:                |
+| [StrikeBox](https://github.com/StrikerX3/StrikeBox)                                                         | :green_book:  | 2-clause BSD license | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   | :computer: :penguin:                |
+| [XQEMU](https://github.com/xqemu/xqemu)                                                                     | :green_book:  | GNU GPLv2            | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Microsoft Xbox   | :computer: :apple: :penguin:        |
+| [Xemu](https://xemu.app/)                                                                                   | :green_book:  | GNU GPLv2            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox   | :computer: :apple: :penguin:        |
+| [Xeon](https://www.emulator-zone.com/doc.php/xbox/xeon.html)                                                | :closed_book: | Proprietary          | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   | :computer:                          |
+| [Xenoborg](https://xenoborg-emu.blogspot.com/) - [Source here](https://code.google.com/archive/p/xenoborg/) | :green_book:  | GNU GPLv3            | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   | :computer:                          |
 
 #### Microsoft Xbox 360
 
