@@ -676,9 +676,9 @@ Legend:
 
 ### Gemei A330
 
-| Emulator                                                              | FOSS          | License          | Free               | Active | Recommended        | Emulated systems | Platform |
-|-----------------------------------------------------------------------|---------------|------------------|--------------------|--------|--------------------|------------------|----------|
-| [Gemei A330 libretro core](https://github.com/minexew/GA330-libretro) | :orange_book: | Source available | :heavy_check_mark: | :x:    | :heavy_check_mark: | Gemei A330       |          |
+| Emulator                                                              | FOSS          | License          | Free               | Active | Recommended        | Emulated systems | Platform                      |
+|-----------------------------------------------------------------------|---------------|------------------|--------------------|--------|--------------------|------------------|-------------------------------|
+| [Gemei A330 libretro core](https://github.com/minexew/GA330-libretro) | :orange_book: | Source available | :heavy_check_mark: | :x:    | :heavy_check_mark: | Gemei A330       | :computer: :apple: :penguin:  |
 
 ### Apple/Bandai Pippin
 
