@@ -682,10 +682,10 @@ Legend:
 
 ### Apple/Bandai Pippin
 
-| Emulator                                                                          | FOSS         | License   | Free               | Active             | Recommendation     | Emulated systems    | Platform |
-|-----------------------------------------------------------------------------------|--------------|-----------|--------------------|--------------------|--------------------|---------------------|---|
-| [SheepShaver](https://github.com/cebix/macemu)                                    | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Apple/Bandai Pippin |  |
-| [SheepShaver (community maintained fork)](https://github.com/kanjitalk755/macemu) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Apple/Bandai Pippin |  |
+| Emulator                                                                          | FOSS         | License   | Free               | Active             | Recommendation     | Emulated systems    | Platform                            |
+|-----------------------------------------------------------------------------------|--------------|-----------|--------------------|--------------------|--------------------|---------------------|-------------------------------------|
+| [SheepShaver](https://github.com/cebix/macemu)                                    | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Apple/Bandai Pippin | :computer: :apple: :penguin: :imp:  |
+| [SheepShaver (community maintained fork)](https://github.com/kanjitalk755/macemu) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Apple/Bandai Pippin | :computer: :apple: :penguin: :imp:  |
 
 ### Mattel Intellivision
 
