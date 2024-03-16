@@ -622,19 +622,19 @@ Legend:
 
 ### SNK Neo Geo AES/MVS/Neo Geo CD
 
-| Emulator                                                                    | FOSS          | License          | Free               | Active | Recommended        | Emulated systems            | Platform |
-|-----------------------------------------------------------------------------|---------------|------------------|--------------------|--------|--------------------|-----------------------------|----------|
-| [Gekko](https://www.zophar.net/ngeo/gekko.html)                             | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :x:                | SNK Neo Geo AES             |          |
-| [GnGeo](https://github.com/linuxlinks/gngeo)                                | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:    | :x:                | SNK Neo Geo AES             |          |
-| [Kawaks](https://cps2shock.emu-france.info/download.html)                   | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :x:                | Neo Geo AES, CPS-2          |          |
-| [Neo-RAGEx](https://www.zophar.net/ngeo/neo-ragex.html)                     | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :x:                | Neo Geo AES                 |          |
-| [NeoDanji](https://www.zophar.net/ngeo/neodanji.html)                       | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :x:                | Neo Geo AES                 |          |
-| [NEOGem](https://www.zophar.net/ngeo/neogem.html)                           | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :x:                | Neo Geo AES                 |          |
-| ['NeoGeo CD Emulator'](https://www.zophar.net/ngeo/neogeo-cd-emulator.html) | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :x:                | Neo Geo CD                  |          |
-| [NeoCD](https://www.zophar.net/ngeo/neocd.html)                             | :orange_book: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Neo Geo CD                  |          |
-| [NeoCD/SDL](http://pacifi3d.retrogames.com/neocdsdl/)                       | :orange_book: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Neo Geo CD                  |          |
-| [NeoRAINE](https://www.zophar.net/ngcd/neoraine.html)                       | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Neo Geo AES/MVS, Neo Geo CD |          |
-| [RAINE](https://github.com/zelurker/raine)                                  | :orange_book: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Neo Geo AES/MVS, Neo Geo CD |          |
+| Emulator                                                                    | FOSS          | License          | Free               | Active | Recommended        | Emulated systems            | Platform                                                  |
+|-----------------------------------------------------------------------------|---------------|------------------|--------------------|--------|--------------------|-----------------------------|-----------------------------------------------------------|
+| [Gekko](https://www.zophar.net/ngeo/gekko.html)                             | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :x:                | SNK Neo Geo AES             | :computer:                                                |
+| [GnGeo](https://github.com/linuxlinks/gngeo)                                | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:    | :x:                | SNK Neo Geo AES             | :penguin:                                                 |
+| [Kawaks](https://cps2shock.emu-france.info/download.html)                   | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :x:                | Neo Geo AES, CPS-2          | :computer:                                                |
+| [Neo-RAGEx](https://www.zophar.net/ngeo/neo-ragex.html)                     | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :x:                | Neo Geo AES                 | :computer: :floppy_disk:                                  |
+| [NeoDanji](https://www.zophar.net/ngeo/neodanji.html)                       | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :x:                | Neo Geo AES                 | :floppy_disk:                                             |
+| [NEOGem](https://www.zophar.net/ngeo/neogem.html)                           | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :x:                | Neo Geo AES                 | :computer: :floppy_disk:                                  |
+| ['NeoGeo CD Emulator'](https://www.zophar.net/ngeo/neogeo-cd-emulator.html) | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :x:                | Neo Geo CD                  | :computer:                                                |
+| [NeoCD](https://www.zophar.net/ngeo/neocd.html)                             | :orange_book: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Neo Geo CD                  | :computer:                                                |
+| [NeoCD/SDL](http://pacifi3d.retrogames.com/neocdsdl/)                       | :orange_book: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Neo Geo CD                  | :computer: :penguin: Dreamcast Sony PlayStation 2 Xbox    |
+| [NeoRAINE](https://www.zophar.net/ngcd/neoraine.html)                       | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Neo Geo AES/MVS, Neo Geo CD | :computer:                                                |
+| [RAINE](https://github.com/zelurker/raine)                                  | :orange_book: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Neo Geo AES/MVS, Neo Geo CD | :computer: :penguin: :imp:                                |
 
 ### Pong consoles
 
