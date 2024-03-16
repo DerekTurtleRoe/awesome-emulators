@@ -650,13 +650,13 @@ Legend:
 
 ### Philips CD-i
 
-| Emulator                                                        | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
-|-----------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
-| [CD-iCE](https://www.zophar.net/cd-i/cd-ice.html)               | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Philips CD-i     |          |
-| [CD-i Emulator](http://www.cdiemu.org/)                         | :closed_book: | Proprietary      | :x:                | :heavy_minus_sign: | :heavy_check_mark: | Philips CD-i     |          |
-| [CeDImu](https://github.com/Stovent/CeDImu)                     | :orange_book: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Philips CD-i     |          |
-| [Same CDi](https://docs.libretro.com/library/same_cdi/)         | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Philips CD-i     |          |
-| [TinyCDi](https://www.aep-emu.de/Emus-file-emus_detail-id-1440) | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Philips CD-i     |          |
+| Emulator                                                        | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform                       |
+|-----------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|--------------------------------|
+| [CD-iCE](https://www.zophar.net/cd-i/cd-ice.html)               | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Philips CD-i     | :computer:                     |
+| [CD-i Emulator](http://www.cdiemu.org/)                         | :closed_book: | Proprietary      | :x:                | :heavy_minus_sign: | :heavy_check_mark: | Philips CD-i     | :computer:                     |
+| [CeDImu](https://github.com/Stovent/CeDImu)                     | :orange_book: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Philips CD-i     | :computer: :apple: :penguin:   |
+| [Same CDi](https://docs.libretro.com/library/same_cdi/)         | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Philips CD-i     | :computer: :apple: :penguin:   |
+| [TinyCDi](https://www.aep-emu.de/Emus-file-emus_detail-id-1440) | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Philips CD-i     | :computer:                     |
 
 ### Panasonic
 
