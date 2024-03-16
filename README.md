@@ -591,10 +591,10 @@ Legend:
 
 #### Microsoft Xbox 360
 
-| Emulator                                               | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems   | Platform |
-|--------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|--------------------|----------|
-| [cs360emu](https://github.com/soywiz-archive/cs360emu) | :orange_book: | Source available | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox 360 |          |
-| [Xenia](https://xenia.jp)                              | :green_book:  | MIT license      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox 360 |          |
+| Emulator                                               | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems   | Platform   |
+|--------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|--------------------|------------|
+| [cs360emu](https://github.com/soywiz-archive/cs360emu) | :orange_book: | Source available | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox 360 | :computer: |
+| [Xenia](https://xenia.jp)                              | :green_book:  | MIT license      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox 360 | :computer: |
 
 #### Microsoft Xbox One
 
