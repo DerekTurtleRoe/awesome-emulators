@@ -808,6 +808,7 @@ Legend:
 | :exclamation: [Visual Boy Advance](https://sourceforge.net/projects/vba)         | :green_book:  | GNU GPLv2+  | :heavy_check_mark: | :x:                | :x:                | Nintendo Game Boy, Nintendo Game Boy Color, Nintendo Game Boy Advance |          |
 | [My Boy!](https://play.google.com/store/apps/details?id=com.fastemulator.gba)    | :closed_book:  | Proprietary  | :x: | :x:                | :x:                | Nintendo Game Boy Advance |          |
 | [My Boy! Lite](https://play.google.com/store/apps/details?id=com.fastemulator.gbafree) | :closed_book:  | Proprietary  | :heavy_check_mark: | :x:                | :x:                | Nintendo Game Boy Advance |          |
+| Pizza Boy Pro (Removed from Google playstore by the developer.)                   | :closed_book:  | Proprietary  | :heavy_check_mark: | :x:                | :x:                | Nintendo Game Boy Color, Nintendo Game Boy Advance |          |
 
 #### Nintendo Game And Watch simulators
 
