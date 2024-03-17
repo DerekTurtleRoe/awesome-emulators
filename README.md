@@ -31,7 +31,7 @@ Legend:
 | Floppy Disk | :floppy_disk:          | Runs on DOS                        |
 | Globe       | :globe_with_meridians: | Runs on the web                    |
 | Android     | :robot:                | Runs on Android                    |
-| iOS         | :apple:                | Runs on iOS                        |
+| iOS         | :iphone:               | Runs on iOS                        |
 
 ## Table of Contents
 
