@@ -28,10 +28,10 @@ Legend:
 | Apple       | :apple:                | Runs on macOS                      |
 | Penguin     | :penguin:              | Runs on Linux                      |
 | Imp         | :imp:                  | Runs on BSD                        |
-| Floppy Disk | :floppy_disk:          | Runs on DOS                        |
+| Robot       | :robot:                | Runs on Android                    |
+| iPhone      | :iphone:               | Runs on iOS                        |
 | Globe       | :globe_with_meridians: | Runs on the web                    |
-| Android     | :robot:                | Runs on Android                    |
-| iOS         | :iphone:               | Runs on iOS                        |
+| Floppy Disk | :floppy_disk:          | Runs on DOS                        |
 
 ## Table of Contents
 
