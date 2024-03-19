@@ -691,24 +691,24 @@ Legend:
 
 ### Mattel Intellivision
 
-| Emulator                                                                    | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems     | Platform |
-|-----------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|----------------------|------------------|
-| [Bliss](https://github.com/jeremiah-sypult/BlissEmu)                        | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: |
-| [Bliss32](https://www.arcadeathome.com/ivision.phtml?H)                     | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: |
-| [BlissX](https://www.arcadeathome.com/ivision.phtml?H)                      | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: :apple: :penguin: :imp: |
-| [BlissJ Web](https://www.arcadeathome.com/ivision.phtml?H)                  | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :globe_with_meridians: |
-| [BlissJ Java](https://www.arcadeathome.com/ivision.phtml?H)                 | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: :apple: :penguin: :imp: |
-| [BlissJX](https://www.arcadeathome.com/ivision.phtml?H)                     | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: :apple: :penguin: :imp: |
-| [gtk-jzintv](https://sourceforge.net/projects/gtk-jzintv/)                  | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :penguin: :imp: |
-| [IntvDOS](https://www.arcadeathome.com/ivision.phtml?H)                     | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Mattel Intellivision | :floppy_disk: |
-| [IntvWin](https://www.arcadeathome.com/ivision.phtml?H)                     | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: |
-| [jzIntv](https://intellivision.us/intvgames/jzintv/jzintv.php)              | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: |
-| [jzintvGUI](http://www.intellivision.us/intvgames/jzintv/jzintv.php)        | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: |
+| Emulator                                                                    | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems     | Platform                                             |
+|-----------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|----------------------|------------------------------------------------------|
+| [Bliss](https://github.com/jeremiah-sypult/BlissEmu)                        | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer:                                           |
+| [Bliss32](https://www.arcadeathome.com/ivision.phtml?H)                     | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer:                                           |
+| [BlissX](https://www.arcadeathome.com/ivision.phtml?H)                      | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: :apple: :penguin: :imp:                   |
+| [BlissJ Web](https://www.arcadeathome.com/ivision.phtml?H)                  | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :globe_with_meridians:                               |
+| [BlissJ Java](https://www.arcadeathome.com/ivision.phtml?H)                 | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: :apple: :penguin: :imp:                   |
+| [BlissJX](https://www.arcadeathome.com/ivision.phtml?H)                     | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: :apple: :penguin: :imp:                   |
+| [gtk-jzintv](https://sourceforge.net/projects/gtk-jzintv/)                  | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :penguin: :imp:                                      |
+| [IntvDOS](https://www.arcadeathome.com/ivision.phtml?H)                     | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Mattel Intellivision | :floppy_disk:                                        |
+| [IntvWin](https://www.arcadeathome.com/ivision.phtml?H)                     | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer:                                           |
+| [jzIntv](https://intellivision.us/intvgames/jzintv/jzintv.php)              | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer:                                           |
+| [jzintvGUI](http://www.intellivision.us/intvgames/jzintv/jzintv.php)        | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer:                                           |
 | [jzIntvImGui](https://github.com/jenergy/jzIntvImGui)                       | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: :apple: :penguin: :robot: Nintendo Switch |
-| [FreeIntv](https://github.com/libretro/FreeIntv)                            | :green_book:  | GNU GPLv2+  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Mattel Intellivision | :computer: :apple: :penguin: |
-| [Nostalgia](https://www.intellivision.us/intvgames/nostalgia/nostalgia.php) | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :heavy_check_mark: | Mattel Intellivision | :computer: |
-| [NINTV](https://github.com/wavemotion-dave/NINTV-DS)                        | :green_book:  | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Mattel Intellivision | Nintendo DS |
-| [Xanadu](https://www.arcadeathome.com/ivision.phtml?H)                      | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: |
+| [FreeIntv](https://github.com/libretro/FreeIntv)                            | :green_book:  | GNU GPLv2+  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Mattel Intellivision | :computer: :apple: :penguin:                         |
+| [Nostalgia](https://www.intellivision.us/intvgames/nostalgia/nostalgia.php) | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :heavy_check_mark: | Mattel Intellivision | :computer:                                           |
+| [NINTV](https://github.com/wavemotion-dave/NINTV-DS)                        | :green_book:  | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Mattel Intellivision | Nintendo DS                                          |
+| [Xanadu](https://www.arcadeathome.com/ivision.phtml?H)                      | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer:                                           |
 
 ### Coleco ColecoVision
 
