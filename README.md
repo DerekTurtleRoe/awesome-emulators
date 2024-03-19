@@ -712,15 +712,15 @@ Legend:
 
 ### Coleco ColecoVision
 
-| Emulator                                                                                                    | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems    | Platform |
-|-------------------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|---------------------|----------|
-| [Bee](https://web.archive.org/web/20180903061210/http://thebeehive.ws/download/)                            | :green_book:  | GNU LGPLv2       | :heavy_check_mark: | :x:                | :x:                | Coleco ColecoVision |          |  |
-| [ColEm](https://fms.komkon.org/ColEm/)                                                                      | :closed_book: | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Coleco ColecoVision |          |  |
-| [CoolCV](http://atariage.com/forums/topic/240800-coolcv-emulator-for-mac-os-x-linux-windows-and-raspberry/) | :closed_book: | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Coleco ColecoVision |          |  |
-| [CULT](https://www.zophar.net/coleco/cult.html)                                                             | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Coleco ColecoVision |          |  |
-| [Mugrat](https://www.bannister.org/software/mugrat.htm)                                                     | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Coleco ColecoVision |          |  |
-| [Virtual ColecoVision (AKA Colem97)](https://www.zophar.net/coleco/virtual-colecovision.html)               | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Coleco ColecoVision |          |  |
-| [ColecoDS](https://github.com/wavemotion-dave/ColecoDS)                                                     | :orange_book: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Coleco ColecoVision |          |  |
+| Emulator                                                                                                    | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems    | Platform                                          |
+|-------------------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|---------------------|---------------------------------------------------|
+| [Bee](https://web.archive.org/web/20180903061210/http://thebeehive.ws/download/)                            | :green_book:  | GNU LGPLv2       | :heavy_check_mark: | :x:                | :x:                | Coleco ColecoVision | :computer: :apple: :penguin:                      |
+| [ColEm](https://fms.komkon.org/ColEm/)                                                                      | :closed_book: | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Coleco ColecoVision | :computer: :penguin: :robot: Nintendo Wii         |
+| [CoolCV](http://atariage.com/forums/topic/240800-coolcv-emulator-for-mac-os-x-linux-windows-and-raspberry/) | :closed_book: | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Coleco ColecoVision | :computer: :apple: :penguin:                      |
+| [CULT](https://www.zophar.net/coleco/cult.html)                                                             | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Coleco ColecoVision | :computer:                                        |
+| [Mugrat](https://www.bannister.org/software/mugrat.htm)                                                     | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Coleco ColecoVision | :apple:                                           |
+| [Virtual ColecoVision (AKA Colem97)](https://www.zophar.net/coleco/virtual-colecovision.html)               | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Coleco ColecoVision | :computer:                                        |
+| [ColecoDS](https://github.com/wavemotion-dave/ColecoDS)                                                     | :orange_book: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Coleco ColecoVision | Nintendo DS                                       |
 
 ### Chip-8 and related system emulators/interpreters
 
