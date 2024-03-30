@@ -72,7 +72,7 @@ Legend:
             2. [Microsoft Xbox 360](#microsoft-xbox-360)
             3. [Microsoft Xbox One](#microsoft-xbox-one)
             4. [Microsoft Xbox Series](#microsoft-xbox-series)
-        8. [NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx](#)
+        8. [NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx](#nec-pc-engineturbografx-16cd-romturbografx-cdsupergrafx)
         9. [SNK Neo Geo AES/MVS/Neo Geo CD](#snk-neo-geo-aesmvsneo-geo-cd)
         10. [Pong consoles](#pong-consoles)
         11. [Magnavox Odyssey 2](#magnavox-odyssey-2)
@@ -384,7 +384,6 @@ Legend:
 | [SNEeSe](https://sourceforge.net/projects/sneese/)                                                                                                                                                                                                                                                                                   | :heavy_minus_sign: | Artistic License 2.0 | :heavy_check_mark: | :x:                | :x:                | Super Nintendo Entertainment System/Super Famicom | :computer: :penguin: :imp: :floppy_disk:  |
 | [SNESGT](http://gigo.retrogames.com/)                                                                                                                                                                                                                                                                                                | :closed_book:      | Proprietary          | :heavy_check_mark: | :x:                | :x:                | Super Nintendo Entertainment System/Super Famicom | :computer: |
 | [ZSNES - A historic emulator, and it is undergoing a huge rewrite for a new release eventually™](http://zsnes.com/)                                                                                                                                                                                                                  | :green_book:       | GNU GPLv2            | :heavy_check_mark: | :heavy_check_mark: | :x:                | Super Nintendo Entertainment System/Super Famicom | :computer: :floppy_disk: :penguin: |
-
 
 #### Nintendo 64
 
@@ -761,6 +760,7 @@ Legend:
 | [Super-Chip8X](https://github.com/Ersanio/Super-Chip8x/)                                                                  | :orange_book: | Source available                                                                                                                     | :heavy_check_mark: | :x:                       | :heavy_check_mark: | Chip-8           |          |
 
 ### COSMAC VIP/RCA Studio II/Telmac 1800
+
 See multi-emulators section for "Emma 02 emulator"
 
 ## Handheld game console emulators
