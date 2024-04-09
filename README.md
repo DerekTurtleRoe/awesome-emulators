@@ -849,10 +849,10 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                                         | FOSS          | License     | Free               | Active | Recommended        | Emulated systems | Platform |
 |------------------------------------------------------------------|---------------|-------------|--------------------|--------|--------------------|------------------|----------|
-| [minimon](https://www.sublab.net/projects/minimon/)              | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Pokemon Mini     |          |
-| [PokeKaMini](http://www.emu-france.com/?wpfb_dl=2298)            | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Pokemon Mini     |          |
-| [PokeMini](https://sourceforge.net/projects/pokemini)            | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Pokemon Mini     |          |
-| [PokemonMiniX](https://www.pokemon-mini.net/tools/pokemonminix/) | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Pokemon Mini     |          |
+| [minimon](https://www.sublab.net/projects/minimon/)              | :green_book:  | GNU GPLv2   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Pokemon Mini     | :computer:         |
+| [PokeKaMini](http://www.emu-france.com/?wpfb_dl=2298)            | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Pokemon Mini     | :computer:         |
+| [PokeMini](https://sourceforge.net/projects/pokemini)            | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Pokemon Mini     | :computer: :penguin: Nintendo DS Sony PlayStation Portable Sega Dreamcast         |
+| [PokemonMiniX](https://www.pokemon-mini.net/tools/pokemonminix/) | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Pokemon Mini     | Microsoft Xbox         |
 
 #### Nintendo DS
 
