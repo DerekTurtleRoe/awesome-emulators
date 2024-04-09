@@ -818,11 +818,11 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Simulator                                                                    | FOSS          | License               | Free               | Active             | Recommended        | Simulated systems                      | Platform |
 |------------------------------------------------------------------------------|---------------|-----------------------|--------------------|--------------------|--------------------|----------------------------------------|---|
-| [Handheld Quake simulations](http://www.emulator3000.org/hq.htm)             | :closed_book: | Proprietary           | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Various handheld systems               |  |
-| [lcdgames simulations](https://github.com/BdR76/lcdgame.js)                  | :orange_book: | Source available      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Various handheld systems               |  |
-| [Madrigal simulations](http://www.madrigaldesign.it/sim/index.php)           | :orange_book: | Some source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Various handheld systems               |  |
-| [Pica Pic simulations (requires Adobe Flash emulator)](http://pica-pic.com/) | :closed_book: | Proprietary           | :heavy_check_mark: | :x:                | :x:                | Various handheld systems               |  |
-| [RetroFab simulations](https://itizso.itch.io/retrofab)                      | :closed_book: | Proprietary           | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Various handhelds and tabletop systems |  |
+| [Handheld Quake simulations](http://www.emulator3000.org/hq.htm)             | :closed_book: | Proprietary           | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Various handheld systems               | :computer: :penguin: |
+| [lcdgames simulations](https://github.com/BdR76/lcdgame.js)                  | :orange_book: | Source available      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Various handheld systems               | :globe_with_meridians: |
+| [Madrigal simulations](http://www.madrigaldesign.it/sim/index.php)           | :orange_book: | Some source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Various handheld systems               | :computer: :penguin: Sony PlayStation Portable Sony PlayStation Vita Nintendo Switch Microsoft Xbox |
+| [Pica Pic simulations (requires Adobe Flash emulator)](http://pica-pic.com/) | :closed_book: | Proprietary           | :heavy_check_mark: | :x:                | :x:                | Various handheld systems               | Adobe Flash (requires an emulator to run) |
+| [RetroFab simulations](https://itizso.itch.io/retrofab)                      | :closed_book: | Proprietary           | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Various handhelds and tabletop systems | :globe_with_meridians: |
 
 #### Nintendo Virtual Boy
 
