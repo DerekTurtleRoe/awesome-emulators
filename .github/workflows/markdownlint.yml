@@ -1,0 +1,6 @@
+---
+name: MarkdownLint mdl Action
+uses: actionshub/markdownlint@v2.1.2
+with: null
+path: null
+filesToIgnoreRegex: null
