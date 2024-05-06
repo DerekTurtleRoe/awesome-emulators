@@ -1,7 +1,5 @@
 # Awesome Emulators
 
-[![Super-Linter](https://github.com/DerekTurtleRoe/awesome-emulators/actions/workflows/superlinter.yml/badge.svg)](https://github.com/DerekTurtleRoe/awesome-emulators/actions/workflows/superlinter.yml)
-
 A list of all the emulators for a particular system. Includes honorable and historical mentions as well!
 
 This list will always be kept as complete and up-to-date as possible, but please open an issue if you have any questions/comments/concerns.
