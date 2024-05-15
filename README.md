@@ -895,7 +895,7 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                              | FOSS          | License     | Free               | Active | Recommended        | Emulated systems | Platform |
 |-------------------------------------------------------|---------------|-------------|--------------------|--------|--------------------|------------------|----------|
-| [GeePee32](https://www.zophar.net/gp32/geepee32.html) | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Game Park GP32   |          |
+| [GeePee32](https://www.zophar.net/gp32/geepee32.html) | :closed_book: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Game Park GP32   | :computer:         |
 
 #### Atari Lynx
 
