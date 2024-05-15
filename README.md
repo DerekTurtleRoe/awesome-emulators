@@ -901,8 +901,8 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                        | FOSS         | License      | Free               | Active             | Recommended        | Emulated systems | Platform |
 |-------------------------------------------------|--------------|--------------|--------------------|--------------------|--------------------|------------------|----------|
-| [Felix](https://github.com/laoo/Felix/)         | :green_book: | MIT license  | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari Lynx       |          |
-| [Handy](http://sourceforge.net/projects/handy/) | :green_book: | zlib license | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari Lynx       |          |
+| [Felix](https://github.com/laoo/Felix/)         | :green_book: | MIT license  | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari Lynx       | :computer:         |
+| [Handy](http://sourceforge.net/projects/handy/) | :green_book: | zlib license | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari Lynx       | :computer: :apple: :penguin: :imp: :robot:         |
 
 #### Sega Game Gear
 
