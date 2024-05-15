@@ -934,16 +934,16 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                                 | FOSS          | License          | Free               | Active | Recommended        | Emulated systems   | Platform |
 |----------------------------------------------------------|---------------|------------------|--------------------|--------|--------------------|--------------------|----------|
-| [PK201](http://drhell.web.fc2.com/pocket/index.html)     | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation |          |
-| [PKEmu](https://www.zophar.net/pocketstation/pkemu.html) | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation |          |
-| [pockystation](https://github.com/simias/pockystation)   | :orange_book: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation |          |
+| [PK201](http://drhell.web.fc2.com/pocket/index.html) - [Android version](https://play.google.com/store/apps/details?id=com.dokutajigokusai.pk201)    | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation | :computer: :robot:         |
+| [PKEmu](https://www.zophar.net/pocketstation/pkemu.html) | :closed_book: | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation | :computer:         |
+| [pockystation](https://github.com/simias/pockystation)   | :orange_book: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation | :computer: :apple: :penguin:         |
 
 #### Sony PlayStation Vita
 
 | Emulator                                             | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems      | Platform |
 |------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-----------------------|----------|
-| [Vita3K](https://vita3k.org/)                        | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation Vita |          |
-| [vitaemu](https://github.com/soywiz-archive/vitaemu) | :orange_book: | Source available | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Vita |          |
+| [Vita3K](https://vita3k.org/)                        | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation Vita | :computer: :apple: :penguin: :robot:         |
+| [vitaemu](https://github.com/soywiz-archive/vitaemu) | :orange_book: | Source available | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Vita | :robot:         |
 
 ### Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch
 
