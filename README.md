@@ -883,13 +883,13 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                                | FOSS               | License            | Free               | Active             | Recommended        | Emulated systems | Platform |
 |---------------------------------------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|------------------|---|
-| [3dmoo](https://github.com/plutooo/3dmoo)               | :orange_book:      | Source available   | :heavy_check_mark: | :x:                | :x:                | Nintendo 3DS     |  |
-| [Citra](https://citra-emu.org/)                         | :green_book:       | GNU GPLv2          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo 3DS     |  |
-| [Corgi3DS](https://github.com/PSI-Rockin/Corgi3DS)      | :green_book:       | GNU GPLv3          | :heavy_check_mark: | :x:                | :x:                | Nintendo 3DS     |  |
-| [LemonLime](https://github.com/ItsKaitlyn03/LemonLime/) | :orange_book:      | Source available   | :heavy_check_mark: | :x:                | :x:                | Nintendo 3DS     |  |
-| [Mikage (not yet released)](https://mikage.app/)        | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | Nintendo 3DS     |  |
-| [Panda3DS](https://github.com/wheremyfoodat/Panda3DS)   | :green_book:       | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo 3DS     |  |
-| [TronDS](http://trondsemu.byethost15.com/)              | :closed_book:      | Proprietary        | :heavy_check_mark: | :x:                | :x:                | Nintendo 3DS     |  |
+| [3dmoo](https://github.com/plutooo/3dmoo)               | :orange_book:      | Source available   | :heavy_check_mark: | :x:                | :x:                | Nintendo 3DS     | :computer: :penguin: |
+| [Citra](https://citra-emu.org/)                         | :green_book:       | GNU GPLv2          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo 3DS     | :computer: :apple: :penguin: |
+| [Corgi3DS](https://github.com/PSI-Rockin/Corgi3DS)      | :green_book:       | GNU GPLv3          | :heavy_check_mark: | :x:                | :x:                | Nintendo 3DS     | :computer: :apple: :penguin: |
+| [LemonLime](https://github.com/ItsKaitlyn03/LemonLime/) | :orange_book:      | Source available   | :heavy_check_mark: | :x:                | :x:                | Nintendo 3DS     | :computer: |
+| [Mikage (not yet released)](https://mikage.app/)        | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | Nintendo 3DS     | :heavy_minus_sign: |
+| [Panda3DS](https://github.com/wheremyfoodat/Panda3DS)   | :green_book:       | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo 3DS     | :computer: :apple: :penguin: |
+| [TronDS](http://trondsemu.byethost15.com/)              | :closed_book:      | Proprietary        | :heavy_check_mark: | :x:                | :x:                | Nintendo 3DS     | :computer: |
 
 ### Game Park GP32
 
