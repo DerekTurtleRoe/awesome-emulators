@@ -985,12 +985,13 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                                           | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
 |--------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
-| [Clicky](https://github.com/daniel5151/clicky)                     | :orange_book: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Apple iPod       |          |
-| [qemu-ipod-nano](https://github.com/lemonjesus/qemu-ipod-nano)     | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        |          |
-| [qemu-ios](https://github.com/devos50/qemu-ios/tree/ipod_touch_1g) | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        |          |
-| [touchHLE](https://github.com/hikari-no-yume/touchHLE)             | :green_book:  | MPL 2.0          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Apple iOS        |          |
-| [unidbg](https://github.com/zhkl0228/unidbg)                       | :green_book:  | Apache 2.0       | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        |          |
-| [xnu-qemu-arm64](https://github.com/alephsecurity/xnu-qemu-arm64)  | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Apple iOS        |          |
+| [Clicky](https://github.com/daniel5151/clicky)                     | :orange_book: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Apple iPod       | :computer: :penguin:         |
+| [iPod n3g emulator](https://github.com/lemonjesus/iPod-n3g-emulator)                     | :green_book: | GNU GPLv3 | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Apple iPod       | :computer: :penguin: |
+| [qemu-ipod-nano](https://github.com/lemonjesus/qemu-ipod-nano)     | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
+| [qemu-ios](https://github.com/devos50/qemu-ios/tree/ipod_touch_1g) | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
+| [touchHLE](https://github.com/hikari-no-yume/touchHLE)             | :green_book:  | MPL 2.0          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Apple iOS        | :computer: :penguin: :robot:         |
+| [unidbg](https://github.com/zhkl0228/unidbg)                       | :green_book:  | Apache 2.0       | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
+| [xnu-qemu-arm64](https://github.com/alephsecurity/xnu-qemu-arm64)  | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
 
 ### Google Android
 
