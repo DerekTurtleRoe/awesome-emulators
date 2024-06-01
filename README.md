@@ -1021,7 +1021,7 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                              | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
 |-------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
-| [Melange](https://gitlab.com/usernameak/brewemulator) | :orange_book: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | BREW             |          |
+| [Melange](https://gitlab.com/usernameak/brewemulator) | :orange_book: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | BREW             | :robot:         |
 
 ### Mophun
 
