@@ -1027,7 +1027,7 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                         | FOSS         | License   | Free               | Active | Recommended        | Emulated systems | Platform |
 |--------------------------------------------------|--------------|-----------|--------------------|--------|--------------------|------------------|----------|
-| [MoRePhun](https://github.com/Luca1991/MoRePhun) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :x:    | :heavy_check_mark: | Mophun           |          |
+| [MoRePhun](https://github.com/Luca1991/MoRePhun) | :green_book: | GNU GPLv3 | :heavy_check_mark: | :x:    | :heavy_check_mark: | Mophun           | :computer: :penguin:         |
 
 ### Java
 
