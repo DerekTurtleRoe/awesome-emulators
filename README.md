@@ -997,16 +997,16 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                                                    | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems | Platform |
 |-----------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|------------------|----------|
-| [Anbox](https://anbox.io/)                                                  | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Google Android   |          |
-| [Android SDK (includes an emulator)](https://developer.android.com/studio/) | :green_book:  | Apache 2.0  | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   |          |
-| [Android x86](https://www.android-x86.org/)                                 | :green_book:  | Apache 2.0  | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   |          |
-| [BlueStacks](https://www.bluestacks.com/)                                   | :closed_book: | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   |          |
-| [GameLoop](https://www.gameloop.com/)                                       | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   |          |
-| [Google Play Games](https://play.google.com/googleplaygames)                | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   |          |
-| [NoxPlayer](https://www.bignox.com/)                                        | :closed_book: | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   |          |
-| [Plarium Play](https://plarium.com/)                                        | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   |          |
-| [Waydroid](https://github.com/waydroid)                                     | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   |          |
-| [Windows Subsystem for Android](https://github.com/microsoft/WSA)           | :green_book:  | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   |          |
+| [Anbox](https://anbox.io/)                                                  | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Google Android   | :penguin:         |
+| [Android SDK (includes an emulator)](https://developer.android.com/studio/) | :green_book:  | Apache 2.0  | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple: :penguin:         |
+| [Android x86](https://www.android-x86.org/)                                 | :green_book:  | Apache 2.0  | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | Runs on any x86 computer         |
+| [BlueStacks](https://www.bluestacks.com/)                                   | :closed_book: | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple:         |
+| [GameLoop](https://www.gameloop.com/)                                       | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:         |
+| [Google Play Games](https://play.google.com/googleplaygames)                | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:         |
+| [NoxPlayer](https://www.bignox.com/)                                        | :closed_book: | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple:         |
+| [Plarium Play](https://plarium.com/)                                        | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:         |
+| [Waydroid](https://github.com/waydroid)                                     | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :penguin:         |
+| [Windows Subsystem for Android](https://github.com/microsoft/WSA)           | :green_book:  | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:         |
 
 ### N-Gage
 
