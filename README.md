@@ -1076,9 +1076,9 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                                                                 | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems | Platform |
 |------------------------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|------------------|----------|
-| [CaPriCe Forever](https://www.cpc-power.com/cpcarchives/index.php?page=articles&num=445) | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Amstrad CPC      |          |
-| [NO$CPC](https://problemkaputt.github.io/)                                               | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Amstrad CPC      |          |
-| [WinAPE](https://www.winape.net/)                                                        | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Amstrad CPC      |          |
+| [CaPriCe Forever](https://www.cpc-power.com/cpcarchives/index.php?page=articles&num=445) | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Amstrad CPC      | :computer:         |
+| [NO$CPC](https://problemkaputt.github.io/)                                               | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Amstrad CPC      | :computer:         |
+| [WinAPE](http://winape.net/)                                                        | :closed_book: | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Amstrad CPC      | :computer:         |
 
 ### DOS emulators
 
