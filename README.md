@@ -1062,11 +1062,11 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                                            | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
 |---------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
-| [BeebEm](https://github.com/stardot/beebem-mac)                     | :orange_book: | Custom           | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Acorn BBC Micro  |          |
-| [BeebEm (community fork)](https://github.com/CommanderCoder/BeebEm) | :orange_book: | Custom           | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Acorn BBC Micro  |          |
-| [b-em](https://github.com/stardot/b-em)                             | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Acorn BBC Micro  |          |
-| [b2](https://github.com/tom-seddon/b2)                              | :green_book:  | GNU GPLv3        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Acorn BBC Micro  |          |
-| [model-b](http://modelb.bbcmicro.com/)                              | :orange_book: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Acorn BBC Micro  |          |
+| [BeebEm](https://github.com/stardot/beebem-mac)                     | :orange_book: | Custom           | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Acorn BBC Micro  | :apple:         |
+| [BeebEm (community fork)](https://github.com/CommanderCoder/BeebEm) | :orange_book: | Custom           | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Acorn BBC Micro  | :apple:         |
+| [b-em](https://github.com/stardot/b-em)                             | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Acorn BBC Micro  | :computer: :penguin:         |
+| [b2](https://github.com/tom-seddon/b2)                              | :green_book:  | GNU GPLv3        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Acorn BBC Micro  | :computer: :apple: :penguin:         |
+| [model-b](http://modelb.bbcmicro.com/)                              | :orange_book: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Acorn BBC Micro  | :computer:         |
 
 #### Acorn Electron computers
 
