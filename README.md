@@ -1122,8 +1122,8 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                | FOSS         | License          | Free               | Active             | Recommended        | Emulated systems                                         | Platform |
 |-----------------------------------------|--------------|------------------|--------------------|--------------------|--------------------|----------------------------------------------------------|----------|
-| [Hercules](http://www.hercules-390.eu/) | :green_book: | Q public license | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | System/370, ESA/390 architectures, 64-bit z/Architecture |          |
-| [z390](http://www.z390.org/)            | :green_book: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | z390 Portable Mainframe                                  |          |
+| [Hercules](http://www.hercules-390.eu/) | :green_book: | Q public license | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | System/370, ESA/390 architectures, 64-bit z/Architecture | :computer: :apple: :penguin: :imp:         |
+| [z390](http://www.z390.org/)            | :green_book: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | z390 Portable Mainframe                                  | :computer: :apple: :penguin:         |
 
 ### Apple computers
 
