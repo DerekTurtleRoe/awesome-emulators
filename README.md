@@ -72,7 +72,7 @@ Legend:
             2. [Microsoft Xbox 360](#microsoft-xbox-360)
             3. [Microsoft Xbox One](#microsoft-xbox-one)
             4. [Microsoft Xbox Series](#microsoft-xbox-series)
-        8. [NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx](#nec-pc-engineturbografx-16cd-romturbografx-cdsupergrafx)
+        8. [NEC PC Engine/TurboGrafx](#nec-pc-engineturbografx)
         9. [SNK Neo Geo AES/MVS/Neo Geo CD](#snk-neo-geo-aesmvsneo-geo-cd)
         10. [Pong consoles](#pong-consoles)
         11. [Magnavox Odyssey 2](#magnavox-odyssey-2)
@@ -177,17 +177,17 @@ Legend:
         4. [Emulation frontends for Android](#emulation-frontends-for-android)
         5. [Emulation scripts for setting up multiple emulators](#emulation-scripts-for-setting-up-multiple-emulators)
         6. [Game collection managers](#game-collection-managers)
-    11. [👨‍💻 Contributing](#-contributing)
-    12. [💬 Support](#-support)
-    13. [🙏 Special Thanks](#-special-thanks)
+    11. [👨‍💻 Contributing](#👨‍💻-contributing)
+    12. [💬 Support](#💬-support)
+    13. [🙏 Special Thanks](#🙏-special-thanks)
     14. [❓ FAQ](#-faq)
         1. [Where can I download games?](#where-can-i-download-games)
         2. [Can you give me personal help with emulator setup, dumping games and software, or other things?](#can-you-give-me-personal-help-with-emulator-setup-dumping-games-and-software-or-other-things)
-    15. [🐢 Author](#-author)
-    16. [🔗 Links](#-links)
+    15. [🐢 Author](#🐢-author)
+    16. [🔗 Links](#🔗-links)
     17. [Related projects](#related-projects)
     18. [Disclaimer](#disclaimer)
-    19. [📃 License](#-license)
+    19. [📃 License](#📃-license)
 
 ## Home Game Console Emulators
 
@@ -609,7 +609,7 @@ Legend:
 |------------------------------------------------------|------|---------|------|--------|-------------|------------------|----------|
 | There are currently no emulators for this system 😔 | N/A  | N/A     | N/A  | N/A    | N/A         | N/A              | N/A       |
 
-### NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx
+### NEC PC Engine/TurboGrafx
 
 | Emulator                                                                                                                                             | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems                                             | Platform                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|--------------------------------------------------------------|--------------------------------------------|
