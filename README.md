@@ -1217,18 +1217,18 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                                   | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
 |------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
-| [ARAnyM](https://aranym.github.io/)                        | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari computers  |          |
-| [Atari800](https://github.com/atari800/atari800)           | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  |          |
-| [Castaway](https://sourceforge.net/projects/castaway)      | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari computers  |          |
-| [FAST](http://fast.emuunlim.com/download.html)             | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari computers  |          |
-| [Gemulator](http://www.emulators.com/download.htm#ATARIST) | :orange_book: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari computers  |          |
-| [Hatari](https://hatari.tuxfamily.org/)                    | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  |          |
-| [HatariWii](https://github.com/Wiimpathy/HatariWii)        | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari computers  |          |
-| [pce](http://www.hampa.ch/pub/pce/pre/)                    | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  |          |
-| [pce-js](https://github.com/jsdf/pce)                      | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari computers  |          |
-| [SainT](http://leonard.oxg.free.fr/SainT/saint.html)       | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari computers  |          |
-| [Steem](http://steem.atari.st/)                            | :green_book:  | GNU GPLv3        | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari computers  |          |
-| [Steem SSE](https://sourceforge.net/projects/steemsse/)    | :green_book:  | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  |          |
+| [ARAnyM](https://aranym.github.io/)                        | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari computers  | :computer: :apple: :penguin:         |
+| [Atari800](https://github.com/atari800/atari800)           | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  | :computer: :penguin:         |
+| [Castaway](https://sourceforge.net/projects/castaway)      | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari computers  | :computer: :apple: :penguin: :imp:         |
+| [FAST](http://fast.emuunlim.com/download.html)             | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari computers  | :computer: :floppy_disk:         |
+| [Gemulator](http://www.emulators.com/download.htm#ATARIST) | :orange_book: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari computers  | :computer:         |
+| [Hatari](https://hatari.tuxfamily.org/)                    | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  | :computer: :apple: :penguin: :imp:         |
+| [HatariWii](https://github.com/Wiimpathy/HatariWii)        | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari computers  | Nintendo Wii         |
+| [pce](http://www.hampa.ch/pub/pce/pre/)                    | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  | :computer:         |
+| [pce-js](https://github.com/jsdf/pce)                      | :green_book:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari computers  | :globe_with_meridians:         |
+| [SainT](http://leonard.oxg.free.fr/SainT/saint.html)       | :closed_book: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari computers  | :computer:         |
+| [Steem](http://steem.atari.st/)                            | :green_book:  | GNU GPLv3        | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari computers  | :computer: :penguin:         |
+| [Steem SSE](https://sourceforge.net/projects/steemsse/)    | :green_book:  | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  | :computer: :penguin:         |
 
 ### Sinclair
 
@@ -1236,14 +1236,14 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                                                   | FOSS         | License   | Free               | Active             | Recommended        | Emulated systems | Platform |
 |----------------------------------------------------------------------------|--------------|-----------|--------------------|--------------------|--------------------|------------------|----------|
-| [EightyOne](https://sourceforge.net/projects/eightyone-sinclair-emulator/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX81    |          |
+| [EightyOne](https://sourceforge.net/projects/eightyone-sinclair-emulator/) | :green_book: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX81    | :computer:         |
 
 #### Sinclair ZX Spectrum computers
 
 | Emulator                                   | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems     | Platform |
 |--------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|----------------------|----------|
-| [Speccy](https://fms.komkon.org/Speccy/)   | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum |          |
-| [ZXPoly](https://github.com/raydac/zxpoly) | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum |          |
+| [Speccy](https://fms.komkon.org/Speccy/)   | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum | :computer: :penguin: :robot:          |
+| [ZXPoly](https://github.com/raydac/zxpoly) | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum | :computer: :apple: :penguin:         |
 
 ### NEC
 
@@ -1251,9 +1251,9 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                                   | FOSS          | License                                            | Free               | Active             | Recommended        | Emulated systems   | Platform |
 |------------------------------------------------------------|---------------|----------------------------------------------------|--------------------|--------------------|--------------------|--------------------|----------|
-| [PC6001VX](http://eighttails.seesaa.net/)                  | :green_book:  | LGPLv2.1                                           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC 6000 computers |          |
-| [PC6001V](http://papicom.net/p6v/index.html)               | :green_book:  | LGPLv2.1                                           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC 6000 computers |          |
-| [PC6001VW](http://p6ers.net/bernie/develop/pc6001vw3.html) | :orange_book: | I couldn't find the source, but should be LGPLv2.1 | :heavy_check_mark: | :heavy_check_mark: | :x:                | NEC 6000 computers |          |
+| [PC6001VX](http://eighttails.seesaa.net/)                  | :green_book:  | LGPLv2.1                                           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC 6000 computers | :computer: :penguin:         |
+| [PC6001V](http://papicom.net/p6v/index.html)               | :green_book:  | LGPLv2.1                                           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC 6000 computers | :computer: :penguin:         |
+| [PC6001VW](http://p6ers.net/bernie/develop/pc6001vw3.html) | :orange_book: | I couldn't find the source, but should be LGPLv2.1 | :heavy_check_mark: | :heavy_check_mark: | :x:                | NEC 6000 computers | :computer: :penguin:         |
 
 #### NEC 8800 computers
 
