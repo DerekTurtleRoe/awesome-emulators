@@ -16,9 +16,9 @@ Legend:
 
 | Name        | Icon                   | Meaning                            |
 |-------------|------------------------|------------------------------------|
-| Green book  | :heavy_check_mark:           | Open-source project                |
-| Orange book | :heavy_minus_sign:          | Partially open-source, no license, incorrect license, or disputed project license |
-| Red book    | :x:          | Closed-source/proprietary project          |
+| Check mark  | :heavy_check_mark:           | Open-source project                |
+| Minus sign | :heavy_minus_sign:          | Partially open-source, no license, incorrect license, or disputed project license |
+| X    | :x:          | Closed-source/proprietary project          |
 
 ## Platform Support
 
