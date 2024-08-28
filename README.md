@@ -1240,10 +1240,10 @@ See multi-emulators section for "Emma 02 emulator"
 
 #### Sinclair ZX Spectrum computers
 
-| Emulator                                   | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems     | Platform |
-|--------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|----------------------|----------|
-| [Speccy](https://fms.komkon.org/Speccy/)   | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum | :computer: :penguin: :robot:          |
-| [ZXPoly](https://github.com/raydac/zxpoly) | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum | :computer: :apple: :penguin:         |
+| Emulator                                   | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems     | Platform                     |
+|--------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|----------------------|------------------------------|
+| [Speccy](https://fms.komkon.org/Speccy/)   | :closed_book: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum | :computer: :penguin: :robot: |
+| [ZXPoly](https://github.com/raydac/zxpoly) | :green_book:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum | :computer: :apple: :penguin: |
 
 ### NEC
 
