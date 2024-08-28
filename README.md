@@ -1249,11 +1249,11 @@ See multi-emulators section for "Emma 02 emulator"
 
 #### NEC 6000 computers
 
-| Emulator                                                   | FOSS          | License                                            | Free               | Active             | Recommended        | Emulated systems   | Platform |
-|------------------------------------------------------------|---------------|----------------------------------------------------|--------------------|--------------------|--------------------|--------------------|----------|
-| [PC6001VX](http://eighttails.seesaa.net/)                  | :green_book:  | LGPLv2.1                                           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC 6000 computers | :computer: :penguin:         |
-| [PC6001V](http://papicom.net/p6v/index.html)               | :green_book:  | LGPLv2.1                                           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC 6000 computers | :computer: :penguin:         |
-| [PC6001VW](http://p6ers.net/bernie/develop/pc6001vw3.html) | :orange_book: | I couldn't find the source, but should be LGPLv2.1 | :heavy_check_mark: | :heavy_check_mark: | :x:                | NEC 6000 computers | :computer: :penguin:         |
+| Emulator                                                   | FOSS          | License                                            | Free               | Active             | Recommended        | Emulated systems   | Platform             |
+|------------------------------------------------------------|---------------|----------------------------------------------------|--------------------|--------------------|--------------------|--------------------|----------------------|
+| [PC6001VX](http://eighttails.seesaa.net/)                  | :green_book:  | LGPLv2.1                                           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC 6000 computers | :computer: :penguin: |
+| [PC6001V](http://papicom.net/p6v/index.html)               | :green_book:  | LGPLv2.1                                           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC 6000 computers | :computer: :penguin: |
+| [PC6001VW](http://p6ers.net/bernie/develop/pc6001vw3.html) | :orange_book: | I couldn't find the source, but should be LGPLv2.1 | :heavy_check_mark: | :heavy_check_mark: | :x:                | NEC 6000 computers | :computer: :penguin: |
 
 #### NEC 8800 computers
 
