@@ -878,6 +878,7 @@ See multi-emulators section for "Emma 02 emulator"
 | [NeonDS](https://www.zophar.net/ds/neonds.html)                                    | :x: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Nintendo DS      | :computer:         |
 | [NooDS](https://github.com/Hydr8gon/NooDS)                                         | :heavy_check_mark:  | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo DS      | :computer: :apple: :penguin: :robot: Nintendo Wii U Nintendo Switch Sony PlayStation Vita         |
 | [NooDS-Launcher](https://github.com/BlackSheepBoy69/NooDS-Launcher-Vita-)          | :heavy_check_mark:  | GNU GPLv3        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Nintendo DS      | Sony PlayStation Vita         |
+| [yuugen](https://github.com/strayacode/yuugen)          | :heavy_check_mark:  | GNU GPLv3        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Nintendo DS      | :computer: :penguin:         |
 
 #### Nintendo 3DS
 
