@@ -1550,6 +1550,7 @@ See multi-emulators section for "Emma 02 emulator"
 | [Nebula](https://www.emulator-zone.com/doc.php/arcade/nebula.html)                         | :x: | Proprietary                        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Neo Geo AES, CPS1/2, Konami, PolyGameMaster arcade hardware |          |
 | [Mjolnir](http://emu.kulichki.net/arcade/mjolnir/)                                         | :heavy_minus_sign: | Possibly MIT or MAME license?      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Namco System 21, System 22, and Super System 22 hardware    |          |
 | [pfeMAME](https://sourceforge.net/projects/pfemame/files/) | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Multiple arcade systems |  |
+| [geolith](https://gitlab.com/jgemu/geolith) | :heavy_check_mark: | 3-clause BSD  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Neo Geo AES and MVS | :computer: :apple: :penguin: :imp: |
 
 ### Pinball machine emulators
 
