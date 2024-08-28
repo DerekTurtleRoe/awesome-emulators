@@ -14,24 +14,24 @@ Legend:
 
 ## Source Availability
 
-| Name        | Icon                   | Meaning                            |
-|-------------|------------------------|------------------------------------|
-| Check mark  | :heavy_check_mark:           | Open-source project                |
-| Minus sign | :heavy_minus_sign:          | Partially open-source, no license, incorrect license, or disputed project license |
-| X    | :x:          | Closed-source/proprietary project          |
+| Name       | Icon               | Meaning                                                                           |
+|------------|--------------------|-----------------------------------------------------------------------------------|
+| Check mark | :heavy_check_mark: | Open-source project                                                               |
+| Minus sign | :heavy_minus_sign: | Partially open-source, no license, incorrect license, or disputed project license |
+| X          | :x:                | Closed-source/proprietary project                                                 |
 
 ## Platform Support
 
-| Name        | Icon                   | Meaning                            |
-|-------------|------------------------|------------------------------------|
-| Computer    | :computer:             | Runs on Windows                    |
-| Apple       | :apple:                | Runs on macOS                      |
-| Penguin     | :penguin:              | Runs on Linux                      |
-| Imp         | :imp:                  | Runs on BSD                        |
-| Robot       | :robot:                | Runs on Android                    |
-| iPhone      | :iphone:               | Runs on iOS                        |
-| Globe       | :globe_with_meridians: | Runs on the web                    |
-| Floppy Disk | :floppy_disk:          | Runs on DOS                        |
+| Name        | Icon                   | Meaning         |
+|-------------|------------------------|-----------------|
+| Computer    | :computer:             | Runs on Windows |
+| Apple       | :apple:                | Runs on macOS   |
+| Penguin     | :penguin:              | Runs on Linux   |
+| Imp         | :imp:                  | Runs on BSD     |
+| Robot       | :robot:                | Runs on Android |
+| iPhone      | :iphone:               | Runs on iOS     |
+| Globe       | :globe_with_meridians: | Runs on the web |
+| Floppy Disk | :floppy_disk:          | Runs on DOS     |
 
 ## Table of Contents
 
