@@ -236,7 +236,7 @@ Legend:
 
 | Emulator                                                  | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems              | Platform                     |
 |-----------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-------------------------------|------------------------------|
-| [BigPEmu](https://www.richwhitehouse.com/jaguar/)         | :x: | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD | :computer:                   |
+| [BigPEmu](https://www.richwhitehouse.com/jaguar/)         | :x: | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD | :computer: :penguin:                  |
 | [Jaggy](https://www.zophar.net/jaguar/jaggy.html)         | :heavy_check_mark:  | Source available | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  | :computer:                   |
 | [Jagulator](https://www.zophar.net/jaguar/jagulator.html) | :x: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  | :computer:                   |
 | [Project Tempest](http://pt.emuunlim.com/)                | :x: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  | :computer:                   |
