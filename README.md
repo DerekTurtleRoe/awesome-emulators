@@ -816,13 +816,13 @@ See multi-emulators section for "Emma 02 emulator"
 
 #### Nintendo Game And Watch simulators
 
-| Simulator                                                                    | FOSS          | License               | Free               | Active             | Recommended        | Simulated systems                      | Platform |
-|------------------------------------------------------------------------------|---------------|-----------------------|--------------------|--------------------|--------------------|----------------------------------------|---|
-| [Handheld Quake simulations](http://www.emulator3000.org/hq.htm)             | :x: | Proprietary           | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Various handheld systems               | :computer: :penguin: |
-| [lcdgames simulations](https://github.com/BdR76/lcdgame.js)                  | :heavy_minus_sign: | Source available      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Various handheld systems               | :globe_with_meridians: |
+| Simulator                                                                    | FOSS               | License               | Free               | Active             | Recommended        | Simulated systems                      | Platform                                                                                            |
+|------------------------------------------------------------------------------|--------------------|-----------------------|--------------------|--------------------|--------------------|----------------------------------------|-----------------------------------------------------------------------------------------------------|
+| [Handheld Quake simulations](http://www.emulator3000.org/hq.htm)             | :x:                | Proprietary           | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Various handheld systems               | :computer: :penguin:                                                                                |
+| [lcdgames simulations](https://github.com/BdR76/lcdgame.js)                  | :heavy_minus_sign: | Source available      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Various handheld systems               | :globe_with_meridians:                                                                              |
 | [Madrigal simulations](http://www.madrigaldesign.it/sim/index.php)           | :heavy_minus_sign: | Some source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Various handheld systems               | :computer: :penguin: Sony PlayStation Portable Sony PlayStation Vita Nintendo Switch Microsoft Xbox |
-| [Pica Pic simulations (requires Adobe Flash emulator)](http://pica-pic.com/) | :x: | Proprietary           | :heavy_check_mark: | :x:                | :x:                | Various handheld systems               | Adobe Flash (requires an emulator to run) |
-| [RetroFab simulations](https://itizso.itch.io/retrofab)                      | :x: | Proprietary           | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Various handhelds and tabletop systems | :globe_with_meridians: |
+| [Pica Pic simulations (requires Adobe Flash emulator)](http://pica-pic.com/) | :x:                | Proprietary           | :heavy_check_mark: | :x:                | :x:                | Various handheld systems               | Adobe Flash (requires an emulator to run)                                                           |
+| [RetroFab simulations](https://itizso.itch.io/retrofab)                      | :x:                | Proprietary           | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Various handhelds and tabletop systems | :globe_with_meridians:                                                                              |
 
 #### Nintendo Virtual Boy
 
