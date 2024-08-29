@@ -1504,6 +1504,7 @@ See multi-emulators section for "Emma 02 emulator"
 | [EasyRPG](https://easyrpg.org/)         | :heavy_check_mark:  | GNU GPLv3                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RPG Maker                  |          |
 | [JoiPlay](http://joiplay.cyou/)         | :heavy_minus_sign: | No central repo, seems to just be a combination of other projects? | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RPG Maker, Ren'Py, HTML5   |          |
 | [MKXP](https://github.com/Ancurio/mkxp) | :heavy_check_mark:  | GNU GPLv2                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Ruby Game Scripting System |          |
+| [OpenGMK](https://github.com/OpenGMK/OpenGMK) | :heavy_check_mark:  | GNU GPLv2                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Game Maker | :computer: :penguin:         |
 
 ### Nuon emulators
 
