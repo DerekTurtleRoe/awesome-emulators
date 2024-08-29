@@ -639,8 +639,8 @@ Legend:
 
 ### Pong consoles
 
-| Simulator                                                          | FOSS          | License          | Free               | Active | Recommended        | Simulated systems     | Platform   |
-|--------------------------------------------------------------------|---------------|------------------|--------------------|--------|--------------------|-----------------------|------------|
+| Simulator                                                          | FOSS               | License          | Free               | Active | Recommended        | Simulated systems     | Platform   |
+|--------------------------------------------------------------------|--------------------|------------------|--------------------|--------|--------------------|-----------------------|------------|
 | [Pong Consoles Simulation](https://github.com/ThomasVisvader/Pong) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Various pong consoles | :computer: |
 
 ### Magnavox Odyssey 2
