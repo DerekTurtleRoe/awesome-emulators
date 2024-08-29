@@ -466,10 +466,10 @@ Legend:
 
 #### Nintendo Wii
 
-| Emulator                                                | FOSS         | License   | Free               | Active             | Recommended        | Emulated systems                | Platform                              |
-|---------------------------------------------------------|--------------|-----------|--------------------|--------------------|--------------------|---------------------------------|---------------------------------------|
-| [Dolphin](https://dolphin-emu.org/)                     | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin: :robot:  |
-| [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka) | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin:          |
+| Emulator                                                | FOSS               | License   | Free               | Active             | Recommended        | Emulated systems                | Platform                             |
+|---------------------------------------------------------|--------------------|-----------|--------------------|--------------------|--------------------|---------------------------------|--------------------------------------|
+| [Dolphin](https://dolphin-emu.org/)                     | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin: :robot: |
+| [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka) | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin:         |
 
 #### Nintendo Wii U
 
