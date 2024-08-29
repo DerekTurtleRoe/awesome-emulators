@@ -948,17 +948,17 @@ See multi-emulators section for "Emma 02 emulator"
 
 ### Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch
 
-| Emulator                                                                        | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems                           | Platform |
-|---------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|--------------------------------------------|----------|
-| [Cygne](http://cygne.emuunlim.com/)                                             | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer:          |
-| [MiracleMage](https://www.zophar.net/ws/miraclemage.html)                       | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer:         |
-| [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan)                          | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Bandai WonderSwan, Bandai WonderSwan Color | Nintendo DS         |
-| [NewOswan](https://github.com/Godzil/NewOswan)                                  | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :apple: :penguin:         |
-| [Oswan](http://sourceforge.jp/projects/oswan/)                                  | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer: :penguin:         |
-| [Oswan (community fork with some changes)](https://github.com/gameblabla/oswan) | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer: :penguin:         |
-| [StoicGoose](https://github.com/xdanieldzd/StoicGoose/)                         | :heavy_check_mark:  | MIT license      | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer: :penguin:         |
-| [WonderScott](https://www.zophar.net/ws/wonderscott.html)                       | :x: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Bandai WonderSwan, Bandai WonderSwan Color | :computer:         |
-| [WSCamp](https://www.zophar.net/ws/wscamp.html)                                 | :x: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Bandai WonderSwan, Bandai WonderSwan Color | :computer:         |
+| Emulator                                                                        | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems                           | Platform             |
+|---------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|--------------------------------------------|----------------------|
+| [Cygne](http://cygne.emuunlim.com/)                                             | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer:           |
+| [MiracleMage](https://www.zophar.net/ws/miraclemage.html)                       | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer:           |
+| [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan)                          | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Bandai WonderSwan, Bandai WonderSwan Color | Nintendo DS          |
+| [NewOswan](https://github.com/Godzil/NewOswan)                                  | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :apple: :penguin:    |
+| [Oswan](http://sourceforge.jp/projects/oswan/)                                  | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer: :penguin: |
+| [Oswan (community fork with some changes)](https://github.com/gameblabla/oswan) | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer: :penguin: |
+| [StoicGoose](https://github.com/xdanieldzd/StoicGoose/)                         | :heavy_check_mark: | MIT license      | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer: :penguin: |
+| [WonderScott](https://www.zophar.net/ws/wonderscott.html)                       | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Bandai WonderSwan, Bandai WonderSwan Color | :computer:           |
+| [WSCamp](https://www.zophar.net/ws/wscamp.html)                                 | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Bandai WonderSwan, Bandai WonderSwan Color | :computer:           |
 
 ### SNK Neo Geo Pocket/Color
 
