@@ -1216,20 +1216,20 @@ See multi-emulators section for "Emma 02 emulator"
 
 #### Atari 400/800 and ST computers
 
-| Emulator                                                   | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
-|------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
-| [ARAnyM](https://aranym.github.io/)                        | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari computers  | :computer: :apple: :penguin:         |
-| [Atari800](https://github.com/atari800/atari800)           | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  | :computer: :penguin:         |
-| [Castaway](https://sourceforge.net/projects/castaway)      | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari computers  | :computer: :apple: :penguin: :imp:         |
-| [FAST](http://fast.emuunlim.com/download.html)             | :x: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari computers  | :computer: :floppy_disk:         |
-| [Gemulator](http://www.emulators.com/download.htm#ATARIST) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari computers  | :computer:         |
-| [Hatari](https://hatari.tuxfamily.org/)                    | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  | :computer: :apple: :penguin: :imp:         |
-| [HatariWii](https://github.com/Wiimpathy/HatariWii)        | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari computers  | Nintendo Wii         |
-| [pce](http://www.hampa.ch/pub/pce/pre/)                    | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  | :computer:         |
-| [pce-js](https://github.com/jsdf/pce)                      | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari computers  | :globe_with_meridians:         |
-| [SainT](http://leonard.oxg.free.fr/SainT/saint.html)       | :x: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari computers  | :computer:         |
-| [Steem](http://steem.atari.st/)                            | :heavy_check_mark:  | GNU GPLv3        | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari computers  | :computer: :penguin:         |
-| [Steem SSE](https://sourceforge.net/projects/steemsse/)    | :heavy_check_mark:  | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  | :computer: :penguin:         |
+| Emulator                                                   | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform                           |
+|------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|------------------|------------------------------------|
+| [ARAnyM](https://aranym.github.io/)                        | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari computers  | :computer: :apple: :penguin:       |
+| [Atari800](https://github.com/atari800/atari800)           | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  | :computer: :penguin:               |
+| [Castaway](https://sourceforge.net/projects/castaway)      | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari computers  | :computer: :apple: :penguin: :imp: |
+| [FAST](http://fast.emuunlim.com/download.html)             | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari computers  | :computer: :floppy_disk:           |
+| [Gemulator](http://www.emulators.com/download.htm#ATARIST) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari computers  | :computer:                         |
+| [Hatari](https://hatari.tuxfamily.org/)                    | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  | :computer: :apple: :penguin: :imp: |
+| [HatariWii](https://github.com/Wiimpathy/HatariWii)        | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari computers  | Nintendo Wii                       |
+| [pce](http://www.hampa.ch/pub/pce/pre/)                    | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  | :computer:                         |
+| [pce-js](https://github.com/jsdf/pce)                      | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari computers  | :globe_with_meridians:             |
+| [SainT](http://leonard.oxg.free.fr/SainT/saint.html)       | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari computers  | :computer:                         |
+| [Steem](http://steem.atari.st/)                            | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari computers  | :computer: :penguin:               |
+| [Steem SSE](https://sourceforge.net/projects/steemsse/)    | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  | :computer: :penguin:               |
 
 ### Sinclair
 
