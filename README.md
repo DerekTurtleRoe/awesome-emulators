@@ -1075,11 +1075,11 @@ See multi-emulators section for "Emma 02 emulator"
 
 ### Amstrad CPC computers
 
-| Emulator                                                                                 | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems | Platform |
-|------------------------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|------------------|----------|
-| [CaPriCe Forever](https://www.cpc-power.com/cpcarchives/index.php?page=articles&num=445) | :x: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Amstrad CPC      | :computer:         |
-| [NO$CPC](https://problemkaputt.github.io/)                                               | :x: | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Amstrad CPC      | :computer:         |
-| [WinAPE](http://winape.net/)                                                        | :x: | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Amstrad CPC      | :computer:         |
+| Emulator                                                                                 | FOSS | License     | Free               | Active             | Recommended        | Emulated systems | Platform   |
+|------------------------------------------------------------------------------------------|------|-------------|--------------------|--------------------|--------------------|------------------|------------|
+| [CaPriCe Forever](https://www.cpc-power.com/cpcarchives/index.php?page=articles&num=445) | :x:  | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Amstrad CPC      | :computer: |
+| [NO$CPC](https://problemkaputt.github.io/)                                               | :x:  | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Amstrad CPC      | :computer: |
+| [WinAPE](http://winape.net/)                                                             | :x:  | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Amstrad CPC      | :computer: |
 
 ### DOS emulators
 
