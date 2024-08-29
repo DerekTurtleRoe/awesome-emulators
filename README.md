@@ -481,15 +481,15 @@ Legend:
 
 #### Nintendo Switch
 
-| Emulator                                                                                                  | FOSS         | License     | Free               | Active             | Recommended        | Emulated systems | Platform                             |
-|-----------------------------------------------------------------------------------------------------------|--------------|-------------|--------------------|--------------------|--------------------|------------------|--------------------------------------|
-| [CageTheUnicorn](https://github.com/reswitched/CageTheUnicorn)                                            | :heavy_check_mark: | ISC license | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
-| [Mephisto](https://github.com/reswitched/Mephisto)                                                        | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
-| [NSEmu](https://github.com/RKX1209/nsemu)                                                                 | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :penguin:                            |
-| [Ryujinx](https://ryujinx.org/)                                                                           | :heavy_check_mark: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Switch  | :computer: :apple: :penguin:         |
-| [Skyline](https://skyline-emu.one/)                                                                       | :heavy_check_mark: | MPLv2       | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
-| [Strato](https://github.com/strato-emu/strato)                                                            | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
-| [Yuzu](https://web.archive.org/web/20240229075408/https://yuzu-emu.org/)                                  | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
+| Emulator                                                                 | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems | Platform                     |
+|--------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|------------------|------------------------------|
+| [CageTheUnicorn](https://github.com/reswitched/CageTheUnicorn)           | :heavy_check_mark: | ISC license | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin: |
+| [Mephisto](https://github.com/reswitched/Mephisto)                       | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin: |
+| [NSEmu](https://github.com/RKX1209/nsemu)                                | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :penguin:                    |
+| [Ryujinx](https://ryujinx.org/)                                          | :heavy_check_mark: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Switch  | :computer: :apple: :penguin: |
+| [Skyline](https://skyline-emu.one/)                                      | :heavy_check_mark: | MPLv2       | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Switch  | :robot:                      |
+| [Strato](https://github.com/strato-emu/strato)                           | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :robot:                      |
+| [Yuzu](https://web.archive.org/web/20240229075408/https://yuzu-emu.org/) | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot: |
 
 ### Sega
 
