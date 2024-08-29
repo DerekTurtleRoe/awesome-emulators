@@ -1235,25 +1235,25 @@ See multi-emulators section for "Emma 02 emulator"
 
 #### Sinclair ZX81 computers
 
-| Emulator                                                                   | FOSS         | License   | Free               | Active             | Recommended        | Emulated systems | Platform |
-|----------------------------------------------------------------------------|--------------|-----------|--------------------|--------------------|--------------------|------------------|----------|
-| [EightyOne](https://sourceforge.net/projects/eightyone-sinclair-emulator/) | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX81    | :computer:         |
+| Emulator                                                                   | FOSS               | License   | Free               | Active             | Recommended        | Emulated systems | Platform   |
+|----------------------------------------------------------------------------|--------------------|-----------|--------------------|--------------------|--------------------|------------------|------------|
+| [EightyOne](https://sourceforge.net/projects/eightyone-sinclair-emulator/) | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX81    | :computer: |
 
 #### Sinclair ZX Spectrum computers
 
-| Emulator                                   | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems     | Platform                     |
-|--------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|----------------------|------------------------------|
-| [Speccy](https://fms.komkon.org/Speccy/)   | :x: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum | :computer: :penguin: :robot: |
-| [ZXPoly](https://github.com/raydac/zxpoly) | :heavy_check_mark:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum | :computer: :apple: :penguin: |
+| Emulator                                   | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems     | Platform                     |
+|--------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|----------------------|------------------------------|
+| [Speccy](https://fms.komkon.org/Speccy/)   | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum | :computer: :penguin: :robot: |
+| [ZXPoly](https://github.com/raydac/zxpoly) | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum | :computer: :apple: :penguin: |
 
 ### NEC
 
 #### NEC 6000 computers
 
-| Emulator                                                   | FOSS          | License                                            | Free               | Active             | Recommended        | Emulated systems   | Platform             |
-|------------------------------------------------------------|---------------|----------------------------------------------------|--------------------|--------------------|--------------------|--------------------|----------------------|
-| [PC6001VX](http://eighttails.seesaa.net/)                  | :heavy_check_mark:  | LGPLv2.1                                           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC 6000 computers | :computer: :penguin: |
-| [PC6001V](http://papicom.net/p6v/index.html)               | :heavy_check_mark:  | LGPLv2.1                                           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC 6000 computers | :computer: :penguin: |
+| Emulator                                                   | FOSS               | License                                            | Free               | Active             | Recommended        | Emulated systems   | Platform             |
+|------------------------------------------------------------|--------------------|----------------------------------------------------|--------------------|--------------------|--------------------|--------------------|----------------------|
+| [PC6001VX](http://eighttails.seesaa.net/)                  | :heavy_check_mark: | LGPLv2.1                                           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC 6000 computers | :computer: :penguin: |
+| [PC6001V](http://papicom.net/p6v/index.html)               | :heavy_check_mark: | LGPLv2.1                                           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC 6000 computers | :computer: :penguin: |
 | [PC6001VW](http://p6ers.net/bernie/develop/pc6001vw3.html) | :heavy_minus_sign: | I couldn't find the source, but should be LGPLv2.1 | :heavy_check_mark: | :heavy_check_mark: | :x:                | NEC 6000 computers | :computer: :penguin: |
 
 #### NEC 8800 computers
