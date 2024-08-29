@@ -1011,12 +1011,12 @@ See multi-emulators section for "Emma 02 emulator"
 
 ### N-Gage
 
-| Emulator                                     | FOSS         | License    | Free               | Active             | Recommended        | Emulated systems  | Platform |
-|----------------------------------------------|--------------|------------|--------------------|--------------------|--------------------|-------------------|----------|
-| [EKLA21](https://github.com/EKA2L1/EKA2L1/)  | :heavy_check_mark: | GNU GPLv3  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Symbian OS/N-Gage | :computer: :apple: :penguin: :robot:         |
-| [Engemu](https://github.com/mrRosset/Engemu) | :heavy_check_mark: | GNU GPLv3  | :heavy_check_mark: | :x:                | :x:                | Symbian OS/N-Gage | :computer:          |
-| [NGEmu](https://github.com/NGEmu/NGEmu)      | :heavy_check_mark: | Apache 2.0 | :heavy_check_mark: | :x:                | :x:                | N-Gage            | :computer:        |
-| [Nomu](https://github.com/mrRosset/Nomu) | :heavy_minus_sign: | Source available  | :heavy_minus_sign: | :x:                | :x:                | Symbian OS/N-Gage | :computer:         |
+| Emulator                                     | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems  | Platform                             |
+|----------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-------------------|--------------------------------------|
+| [EKLA21](https://github.com/EKA2L1/EKA2L1/)  | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Symbian OS/N-Gage | :computer: :apple: :penguin: :robot: |
+| [Engemu](https://github.com/mrRosset/Engemu) | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :x:                | :x:                | Symbian OS/N-Gage | :computer:                           |
+| [NGEmu](https://github.com/NGEmu/NGEmu)      | :heavy_check_mark: | Apache 2.0       | :heavy_check_mark: | :x:                | :x:                | N-Gage            | :computer:                           |
+| [Nomu](https://github.com/mrRosset/Nomu)     | :heavy_minus_sign: | Source available | :heavy_minus_sign: | :x:                | :x:                | Symbian OS/N-Gage | :computer:                           |
 
 ### BREW
 
