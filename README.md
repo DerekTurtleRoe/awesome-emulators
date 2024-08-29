@@ -1310,39 +1310,39 @@ See multi-emulators section for "Emma 02 emulator"
 
 ### Sharp X1 computers
 
-| Emulator                                                    | FOSS         | License   | Free               | Active             | Recommended        | Emulated systems | Platform |
-|-------------------------------------------------------------|--------------|-----------|--------------------|--------------------|--------------------|------------------|----------|
+| Emulator                                                    | FOSS               | License   | Free               | Active             | Recommended        | Emulated systems | Platform |
+|-------------------------------------------------------------|--------------------|-----------|--------------------|--------------------|--------------------|------------------|----------|
 | [eX1](http://takeda-toshiya.my.coocan.jp/common/index.html) | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Sharp X1         |          |
 
 ### Sharp X68000 computers
 
-| Emulator                                                                                                                        | FOSS          | License                                    | Free               | Active             | Recommended        | Emulated systems | Platform |
-|---------------------------------------------------------------------------------------------------------------------------------|---------------|--------------------------------------------|--------------------|--------------------|--------------------|------------------|----------|
-| [EX68](http://www.ksky.ne.jp/~yamama/emul)                                                                                      | :x: | Proprietary                                | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Sharp X68000     |          |
+| Emulator                                                                                                                        | FOSS               | License                                    | Free               | Active             | Recommended        | Emulated systems | Platform |
+|---------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------------------------------|--------------------|--------------------|--------------------|------------------|----------|
+| [EX68](http://www.ksky.ne.jp/~yamama/emul)                                                                                      | :x:                | Proprietary                                | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Sharp X68000     |          |
 | [px68k](https://github.com/hissorii/px68k)                                                                                      | :heavy_minus_sign: | Source available?                          | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Sharp X68000     |          |
 | [Win68k](http://retropc.net/usalin/)                                                                                            | :heavy_minus_sign: | Source available?                          | :heavy_check_mark: | :x:                | :x:                | Sharp X68000     |          |
-| [Win68k patched in English with some performance tweaks](https://mijet.eludevisibility.org/files/WinX68kHighSpeed_V095_Eng.zip) | :x: | Proprietary, No patches provided           | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Sharp X68000     |          |
+| [Win68k patched in English with some performance tweaks](https://mijet.eludevisibility.org/files/WinX68kHighSpeed_V095_Eng.zip) | :x:                | Proprietary, No patches provided           | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Sharp X68000     |          |
 | [XM6](http://web.archive.org/web/20100718143624/http://ytanaka.vicp.net/x680x0/xm6.html)                                        | :heavy_minus_sign: | Source available                           | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Sharp X68000     |          |
 | [XM6 Pro 68K](http://mijet.eludevisibility.org/XM6%20Pro-68k/XM6%20Pro-68k.html)                                                | :heavy_minus_sign: | Source available                           | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Sharp X68000     |          |
 | [XM6 TypeG](http://retropc.net/gimons/emulators/xm6_typeg_333L20_20220717.zip)                                                  | :heavy_minus_sign: | Proprietary, No source found               | :heavy_check_mark: | :x:                | :x:                | Sharp X68000     |          |
-| [XM6i](http://www.pastel-flower.jp/~isaki/XM6i/archive/XM6i-0.55-win32.zip)                                                     | :x: | Proprietary, No source found               | :heavy_check_mark: | :x:                | :x:                | Sharp X68000     |          |
+| [XM6i](http://www.pastel-flower.jp/~isaki/XM6i/archive/XM6i-0.55-win32.zip)                                                     | :x:                | Proprietary, No source found               | :heavy_check_mark: | :x:                | :x:                | Sharp X68000     |          |
 | [XEiJ](https://stdkmd.net/xeij/)                                                                                                | :heavy_minus_sign: | Dual-licensed under Apache 2.0 and LGPLv3? | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Sharp X68000     |          |
 
 ### Virtualization solutions
 
-| Virtualizer                                                                           | FOSS          | License     | Free               | Active             | Recommended        | Virtualized systems   | Platform |
-|---------------------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|-----------------------|---|
-| [VirtualBox](https://www.virtualbox.org/)                                             | :heavy_check_mark:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | x86 and AMD64/Intel64 |  |
-| [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) | :x: | Proprietary | :x:                | :heavy_check_mark: | :heavy_check_mark: | x86 and AMD64/Intel64 |  |
-| [VMWare](https://www.vmware.com/)                                                     | :x: | Proprietary | :x:                | :heavy_check_mark: | :heavy_check_mark: | x86 and AMD64/Intel64 |  |
+| Virtualizer                                                                           | FOSS               | License     | Free               | Active             | Recommended        | Virtualized systems   | Platform |
+|---------------------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|-----------------------|----------|
+| [VirtualBox](https://www.virtualbox.org/)                                             | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | x86 and AMD64/Intel64 |          |
+| [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_check_mark: | x86 and AMD64/Intel64 |          |
+| [VMWare](https://www.vmware.com/)                                                     | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_check_mark: | x86 and AMD64/Intel64 |          |
 
 ### Interpreters
 
-| Emulator                                               | FOSS         | License   | Free               | Active             | Recommended        | Supported games                                                                                    | Platform |
-|--------------------------------------------------------|--------------|-----------|--------------------|--------------------|--------------------|----------------------------------------------------------------------------------------------------|---|
-| [DreamMM](https://aarongiles.com/dreamm/)              | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | [Supported games](https://aarongiles.com/dreamm/docs/v21/#intro-games)                             |  |
-| [ResidualVM](https://github.com/residualvm/residualvm) | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :x:                | :x:                | [Supported games](https://github.com/residualvm/residualvm#21-which-games-does-residualvm-support) |  |
-| [ScummVM](https://www.scummvm.org/)                    | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Supported games](https://www.scummvm.org/compatibility/)                                          |  |
+| Emulator                                               | FOSS               | License   | Free               | Active             | Recommended        | Supported games                                                                                    | Platform |
+|--------------------------------------------------------|--------------------|-----------|--------------------|--------------------|--------------------|----------------------------------------------------------------------------------------------------|----------|
+| [DreamMM](https://aarongiles.com/dreamm/)              | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | [Supported games](https://aarongiles.com/dreamm/docs/v21/#intro-games)                             |          |
+| [ResidualVM](https://github.com/residualvm/residualvm) | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :x:                | :x:                | [Supported games](https://github.com/residualvm/residualvm#21-which-games-does-residualvm-support) |          |
+| [ScummVM](https://www.scummvm.org/)                    | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Supported games](https://www.scummvm.org/compatibility/)                                          |          |
 
 ## Calculator emulators
 
@@ -1350,168 +1350,168 @@ See multi-emulators section for "Emma 02 emulator"
 
 #### TI-81 series
 
-| Emulator                                                             | FOSS          | License     | Free               | Active | Recommended        | Emulated systems | Platform |
-|----------------------------------------------------------------------|---------------|-------------|--------------------|--------|--------------------|------------------|----------|
-| [Mac-81](https://www.ticalc.org/programming/emulators/software.html) | :x: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-81            |          |
-| [PC-81](https://www.ticalc.org/programming/emulators/software.html)  | :x: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-81            |          |
+| Emulator                                                             | FOSS | License     | Free               | Active | Recommended        | Emulated systems | Platform |
+|----------------------------------------------------------------------|------|-------------|--------------------|--------|--------------------|------------------|----------|
+| [Mac-81](https://www.ticalc.org/programming/emulators/software.html) | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-81            |          |
+| [PC-81](https://www.ticalc.org/programming/emulators/software.html)  | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-81            |          |
 
 #### TI-83 / TI-84 series
 
-| Emulator                                                                                                                                                    | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems                                          | Platform |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-----------------------------------------------------------|----------|
-| [AlmostTI](https://fms.komkon.org/ATI85/)                                                                                                                   | :heavy_check_mark:  | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | TI81, TI82, TI83, TI83+, TI83+SE, TI84+SE, TI85, and TI86 |          |
-| [CalcEm](http://calcem.sourceforge.net/)                                                                                                                    | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI-82 and TI-83                                           |          |
-| [CEmu](https://github.com/CE-Programming/CEmu)                                                                                                              | :heavy_check_mark:  | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | TI-84 Plus CE / TI-83 Premium CE                          |          |
-| [jsTIfied](https://www.cemetech.net/projects/jstified)                                                                                                      | :x: | Proprietary      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Many 70 and 80 series calculators                         |          |
-| [TI SmartView CE for TI-84+ family](https://education.ti.com/en/software/details/en/BE8220257AA241148986628D6EE332E5/ti-smartview-ce-for-ti-84-plus-family) | :x: | Proprietary      | :x:                | :x:                | :heavy_minus_sign: | Ti-84+ family                                             |          |
-| [TI SmartView for the TI-83+](https://education.ti.com/en/software/details/en/67346A88B4AA474A93AF527B56CA84D9/ti-smartview-ti-83-plus-fr)                  | :x: | Proprietary      | :x:                | :x:                | :heavy_minus_sign: | Ti-83+                                                    |          |
-| [TI SmartView for the TI-84+](https://education.ti.com/en/software/details/en/FFEA90EE7F9B4C24A6EC427622C77D09/sda-ti-smartview-ti-84-plus)                 | :x: | Proprietary      | :x:                | :x:                | :heavy_minus_sign: | Ti-84+                                                    |          |
-| [TilEm](http://lpg.ticalc.org/prj_tilem/)                                                                                                                   | :heavy_check_mark:  | GNU GPLv3        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Many 70 and 80 series calculators                         |          |
-| [Wabbitemu](https://github.com/sputt/wabbitemu)                                                                                                             | :heavy_check_mark:  | MIT license      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Z80 TI calculator models                                  |          |
-| [EMU83](https://www.ticalc.org/programming/emulators/software.html)                                                                                         | :x: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI-83                                                     |          |
+| Emulator                                                                                                                                                    | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems                                          | Platform |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-----------------------------------------------------------|----------|
+| [AlmostTI](https://fms.komkon.org/ATI85/)                                                                                                                   | :heavy_check_mark: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | TI81, TI82, TI83, TI83+, TI83+SE, TI84+SE, TI85, and TI86 |          |
+| [CalcEm](http://calcem.sourceforge.net/)                                                                                                                    | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI-82 and TI-83                                           |          |
+| [CEmu](https://github.com/CE-Programming/CEmu)                                                                                                              | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | TI-84 Plus CE / TI-83 Premium CE                          |          |
+| [jsTIfied](https://www.cemetech.net/projects/jstified)                                                                                                      | :x:                | Proprietary      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Many 70 and 80 series calculators                         |          |
+| [TI SmartView CE for TI-84+ family](https://education.ti.com/en/software/details/en/BE8220257AA241148986628D6EE332E5/ti-smartview-ce-for-ti-84-plus-family) | :x:                | Proprietary      | :x:                | :x:                | :heavy_minus_sign: | Ti-84+ family                                             |          |
+| [TI SmartView for the TI-83+](https://education.ti.com/en/software/details/en/67346A88B4AA474A93AF527B56CA84D9/ti-smartview-ti-83-plus-fr)                  | :x:                | Proprietary      | :x:                | :x:                | :heavy_minus_sign: | Ti-83+                                                    |          |
+| [TI SmartView for the TI-84+](https://education.ti.com/en/software/details/en/FFEA90EE7F9B4C24A6EC427622C77D09/sda-ti-smartview-ti-84-plus)                 | :x:                | Proprietary      | :x:                | :x:                | :heavy_minus_sign: | Ti-84+                                                    |          |
+| [TilEm](http://lpg.ticalc.org/prj_tilem/)                                                                                                                   | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Many 70 and 80 series calculators                         |          |
+| [Wabbitemu](https://github.com/sputt/wabbitemu)                                                                                                             | :heavy_check_mark: | MIT license      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Z80 TI calculator models                                  |          |
+| [EMU83](https://www.ticalc.org/programming/emulators/software.html)                                                                                         | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI-83                                                     |          |
 
 #### TI-85 and TI-86 series
 
-| Emulator                                                                                                         | FOSS          | License     | Free               | Active | Recommended        | Emulated systems | Platform |
-|------------------------------------------------------------------------------------------------------------------|---------------|-------------|--------------------|--------|--------------------|------------------|----------|
-| [Emulator86](https://www.ticalc.org/programming/emulators/software.html)                                         | :x: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-86            |          |
-| [TI-85 Emulator](https://www.ticalc.org/programming/emulators/software.html)                                     | :x: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-85            |          |
-| [TI-85 Emulator (different then the above emulator)](https://www.ticalc.org/programming/emulators/software.html) | :x: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-85            |          |
-| [TI-86 Emulator](https://www.ticalc.org/programming/emulators/software.html)                                     | :x: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-86            |          |
-| [TI86EMU](https://www.ticalc.org/programming/emulators/software.html)                                            | :x: | Proprietary | :heavy_check_mark: | :x:    | :x:                | TI-86            |          |
-| [TIGraph](https://www.ticalc.org/programming/emulators/software.html)                                            | :x: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-85            |          |
-| [Virtual 86](https://www.ticalc.org/programming/emulators/software.html)                                         | :x: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-86            |          |
+| Emulator                                                                                                         | FOSS | License     | Free               | Active | Recommended        | Emulated systems | Platform |
+|------------------------------------------------------------------------------------------------------------------|------|-------------|--------------------|--------|--------------------|------------------|----------|
+| [Emulator86](https://www.ticalc.org/programming/emulators/software.html)                                         | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-86            |          |
+| [TI-85 Emulator](https://www.ticalc.org/programming/emulators/software.html)                                     | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-85            |          |
+| [TI-85 Emulator (different then the above emulator)](https://www.ticalc.org/programming/emulators/software.html) | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-85            |          |
+| [TI-86 Emulator](https://www.ticalc.org/programming/emulators/software.html)                                     | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-86            |          |
+| [TI86EMU](https://www.ticalc.org/programming/emulators/software.html)                                            | :x:  | Proprietary | :heavy_check_mark: | :x:    | :x:                | TI-86            |          |
+| [TIGraph](https://www.ticalc.org/programming/emulators/software.html)                                            | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-85            |          |
+| [Virtual 86](https://www.ticalc.org/programming/emulators/software.html)                                         | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-86            |          |
 
 #### TI-89 series
 
-| Emulator                                                                    | FOSS          | License       | Free               | Active             | Recommended        | Emulated systems    | Platform |
-|-----------------------------------------------------------------------------|---------------|---------------|--------------------|--------------------|--------------------|---------------------|----------|
-| [TiEmu](https://sourceforge.net/projects/gtktiemu/)                         | :heavy_check_mark:  | GNU GPLv2     | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI89(ti)/92(+)/V200 |          |
+| Emulator                                                                    | FOSS               | License       | Free               | Active             | Recommended        | Emulated systems    | Platform |
+|-----------------------------------------------------------------------------|--------------------|---------------|--------------------|--------------------|--------------------|---------------------|----------|
+| [TiEmu](https://sourceforge.net/projects/gtktiemu/)                         | :heavy_check_mark: | GNU GPLv2     | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI89(ti)/92(+)/V200 |          |
 | [Virtual TI-89](https://home.adelphi.edu/~mo17502/VirtualTi89.html)         | :heavy_minus_sign: | MAME license? | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Ti-89               |          |
-| [Graph 89](https://play.google.com/store/apps/details?id=com.Bisha.TI89Emu) | :x: | Proprietary   | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | TI-89               |          |
-| [TI89-Simulator](https://ti89-simulator.com/)                               | :x: | Proprietary   | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | TI-89               |          |
+| [Graph 89](https://play.google.com/store/apps/details?id=com.Bisha.TI89Emu) | :x:                | Proprietary   | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | TI-89               |          |
+| [TI89-Simulator](https://ti89-simulator.com/)                               | :x:                | Proprietary   | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | TI-89               |          |
 
 #### TI-90 series
 
-| Emulator                                                               | FOSS          | License     | Free               | Active | Recommended        | Emulated systems | Platform |
-|------------------------------------------------------------------------|---------------|-------------|--------------------|--------|--------------------|------------------|----------|
-| [Emu-92](https://www.ticalc.org/programming/emulators/software.html)   | :x: | Proprietary | :heavy_check_mark: | :x:    | :x:                | TI-92            |          |
-| [MacTiger](https://www.ticalc.org/programming/emulators/software.html) | :x: | Proprietary | :heavy_check_mark: | :x:    | :x:                | TI-92            |          |
-| [Tiger](https://www.ticalc.org/programming/emulators/software.html)    | :heavy_check_mark:  | GNU GPLv2   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-92            |          |
+| Emulator                                                               | FOSS               | License     | Free               | Active | Recommended        | Emulated systems | Platform |
+|------------------------------------------------------------------------|--------------------|-------------|--------------------|--------|--------------------|------------------|----------|
+| [Emu-92](https://www.ticalc.org/programming/emulators/software.html)   | :x:                | Proprietary | :heavy_check_mark: | :x:    | :x:                | TI-92            |          |
+| [MacTiger](https://www.ticalc.org/programming/emulators/software.html) | :x:                | Proprietary | :heavy_check_mark: | :x:    | :x:                | TI-92            |          |
+| [Tiger](https://www.ticalc.org/programming/emulators/software.html)    | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-92            |          |
 
 ### Misc TI calculator emulators
 
-| Emulator                                                                     | FOSS          | License          | Free               | Active | Recommended        | Emulated systems                                                               | Platform |
-|------------------------------------------------------------------------------|---------------|------------------|--------------------|--------|--------------------|--------------------------------------------------------------------------------|----------|
-| [TI-8x Emulator](https://www.ticalc.org/programming/emulators/software.html) | :x: | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-82, TI-83, TI-85, TI-86                                                     |          |
+| Emulator                                                                     | FOSS               | License          | Free               | Active | Recommended        | Emulated systems                                                               | Platform |
+|------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------|--------------------|--------------------------------------------------------------------------------|----------|
+| [TI-8x Emulator](https://www.ticalc.org/programming/emulators/software.html) | :x:                | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-82, TI-83, TI-85, TI-86                                                     |          |
 | [TiEmu](http://lpg.ticalc.org/prj_tiemu/)                                    | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI89, TI89 Titanium, TI92, TI92+, V200PLT                                      |          |
-| [Virtual TI](https://www.ticalc.org/programming/emulators/software.html)     | :x: | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-82, TI-83, TI-83 Plus, TI-85, TI-86, TI-89, TI-92, TI-92 II, and TI-92 Plus |          |
+| [Virtual TI](https://www.ticalc.org/programming/emulators/software.html)     | :x:                | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-82, TI-83, TI-83 Plus, TI-85, TI-86, TI-89, TI-92, TI-92 II, and TI-92 Plus |          |
 
 #### TI-Nspire
 
-| Emulator                                                                                             | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
-|------------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
-| [Firebird](https://github.com/nspire-emus/firebird/)                                                 | :heavy_check_mark:  | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | TI-Nspire        |          |
-| [kArmTI](https://www.omnimaga.org/ti-nspire-projects/karmti-ti-nspire-emulator-with-skin-16585/345/) | :x: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI-Nspire        |          |
-| [nspire_emu](https://github.com/masanchez5000/nspire_emu)                                            | :heavy_check_mark:  | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI-Nspire        |          |
+| Emulator                                                                                             | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
+|------------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
+| [Firebird](https://github.com/nspire-emus/firebird/)                                                 | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | TI-Nspire        |          |
+| [kArmTI](https://www.omnimaga.org/ti-nspire-projects/karmti-ti-nspire-emulator-with-skin-16585/345/) | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI-Nspire        |          |
+| [nspire_emu](https://github.com/masanchez5000/nspire_emu)                                            | :heavy_check_mark: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI-Nspire        |          |
 
 ### Hewlett Packard
 
 #### Hewlett Packard monochrome calculators
 
-| Emulator                                                                  | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems          | Platform |
-|---------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|---------------------------|----------|
-| [Emu48](https://hp.giesselink.com/emu48.htm)                              | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | HP48                      |          |
-| [Emu28](https://hp.giesselink.com/emu28.htm)                              | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | HP18C and HP28C           |          |
-| [Alucin](https://www.hpcalc.org/details/3674)                             | :x: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_check_mark: | HP 48SX/GX                |          |
-| [NeXTStep EM48](https://www.hpcalc.org/details/3680)                      | :heavy_check_mark:  | Source available | :heavy_check_mark: | :x:                | :heavy_check_mark: | 48SX                      |          |
-| [saturn](https://www.hpcalc.org/details/4382)                             | :heavy_check_mark:  | GNU GPLv2+       | :heavy_check_mark: | :x:                | :heavy_minus_sign: | HP 48GX, HP 49, and HP 40 |          |
-| [Droid48](https://play.google.com/store/apps/details?id=org.ab.x48)       | :x: | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | HP 48                     |          |
-| [Power48](https://palmdb.net/app/power48)                                 | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | HP 48sx, 48gx, and 49g    |          |
-| [PSPX48](https://www.brewology.com/downloads/download.php?id=5142&mcid=1) | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_check_mark: | HP48                      |          |
+| Emulator                                                                  | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems          | Platform |
+|---------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|---------------------------|----------|
+| [Emu48](https://hp.giesselink.com/emu48.htm)                              | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | HP48                      |          |
+| [Emu28](https://hp.giesselink.com/emu28.htm)                              | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | HP18C and HP28C           |          |
+| [Alucin](https://www.hpcalc.org/details/3674)                             | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_check_mark: | HP 48SX/GX                |          |
+| [NeXTStep EM48](https://www.hpcalc.org/details/3680)                      | :heavy_check_mark: | Source available | :heavy_check_mark: | :x:                | :heavy_check_mark: | 48SX                      |          |
+| [saturn](https://www.hpcalc.org/details/4382)                             | :heavy_check_mark: | GNU GPLv2+       | :heavy_check_mark: | :x:                | :heavy_minus_sign: | HP 48GX, HP 49, and HP 40 |          |
+| [Droid48](https://play.google.com/store/apps/details?id=org.ab.x48)       | :x:                | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | HP 48                     |          |
+| [Power48](https://palmdb.net/app/power48)                                 | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | HP 48sx, 48gx, and 49g    |          |
+| [PSPX48](https://www.brewology.com/downloads/download.php?id=5142&mcid=1) | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_check_mark: | HP48                      |          |
 
 #### Hewlett Packard Prime calculators
 
-| Emulator                                                                                                                         | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems     | Platform |
-|----------------------------------------------------------------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|----------------------|----------|
-| [HP Prime Virtual Calculator Simulator](https://www.hpcalc.org/details/8939)                                                     | :x: | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | HP Prime calculators |          |
-| [HP Prime Graphing Calculator App (free)](https://www.microsoft.com/store/productId/9NCL1WWGMSSM)                                | :x: | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | HP Prime calculators |          |
-| [HP Prime Graphing Calculator App (paid)](https://www.microsoft.com/store/productId/9NBLGGH5XSL5)                                | :x: | Proprietary | :x:                | :heavy_minus_sign: | :heavy_minus_sign: | HP Prime calculators |          |
-| [HP Prime Graphing Calculator App (free for Android)](https://play.google.com/store/apps/details?id=com.hp.primecalculator.free) | :x: | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | HP Prime calculators |          |
-| [HP Prime Graphing Calculator App (paid for Android)](https://play.google.com/store/apps/details?id=com.hp.primecalculator)      | :x: | Proprietary | :x:                | :heavy_minus_sign: | :heavy_minus_sign: | HP Prime calculators |          |
+| Emulator                                                                                                                         | FOSS | License     | Free               | Active             | Recommended        | Emulated systems     | Platform |
+|----------------------------------------------------------------------------------------------------------------------------------|------|-------------|--------------------|--------------------|--------------------|----------------------|----------|
+| [HP Prime Virtual Calculator Simulator](https://www.hpcalc.org/details/8939)                                                     | :x:  | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | HP Prime calculators |          |
+| [HP Prime Graphing Calculator App (free)](https://www.microsoft.com/store/productId/9NCL1WWGMSSM)                                | :x:  | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | HP Prime calculators |          |
+| [HP Prime Graphing Calculator App (paid)](https://www.microsoft.com/store/productId/9NBLGGH5XSL5)                                | :x:  | Proprietary | :x:                | :heavy_minus_sign: | :heavy_minus_sign: | HP Prime calculators |          |
+| [HP Prime Graphing Calculator App (free for Android)](https://play.google.com/store/apps/details?id=com.hp.primecalculator.free) | :x:  | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | HP Prime calculators |          |
+| [HP Prime Graphing Calculator App (paid for Android)](https://play.google.com/store/apps/details?id=com.hp.primecalculator)      | :x:  | Proprietary | :x:                | :heavy_minus_sign: | :heavy_minus_sign: | HP Prime calculators |          |
 
 #### Hewlett Packard scientific and financial calculators
 
-| Emulator                                                              | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems  | Platform |
-|-----------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-------------------|----------|
-| [Emu28](https://hp.giesselink.com/emu28.htm)                          | :heavy_check_mark:  | Source available | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | HP18C and HP28C   |          |
-| [Free42](https://thomasokken.com/free42/)                             | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | HP-42S            |          |
-| [HP SmartCalc 300s Emulator](https://www.educalc.net/page/2336453/)   | :x: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | HP 300s           |          |
-| [WP-34s emulator](https://sourceforge.net/projects/wp34s/)            | :heavy_check_mark:  | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | HP-20b and HP-30b |          |
-| [HP 12C emulator (official)](https://www.educalc.net/page/2338917/)   | :x: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | HP 12c            |          |
-| [HP 12C emulator (not official)](https://www.hpcalc.org/details/4345) | :x: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | HP 12c            |          |
-| [awp34s](https://github.com/odkq/awp34s)                              | :heavy_check_mark:  | GNU GPLv3        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | WP-34S            |          |
+| Emulator                                                              | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems  | Platform |
+|-----------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-------------------|----------|
+| [Emu28](https://hp.giesselink.com/emu28.htm)                          | :heavy_check_mark: | Source available | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | HP18C and HP28C   |          |
+| [Free42](https://thomasokken.com/free42/)                             | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | HP-42S            |          |
+| [HP SmartCalc 300s Emulator](https://www.educalc.net/page/2336453/)   | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | HP 300s           |          |
+| [WP-34s emulator](https://sourceforge.net/projects/wp34s/)            | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | HP-20b and HP-30b |          |
+| [HP 12C emulator (official)](https://www.educalc.net/page/2338917/)   | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | HP 12c            |          |
+| [HP 12C emulator (not official)](https://www.hpcalc.org/details/4345) | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | HP 12c            |          |
+| [awp34s](https://github.com/odkq/awp34s)                              | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | WP-34S            |          |
 | [WP34S-4NS](https://github.com/zephray/WP34S-4NS)                     | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | WP-34S            |          |
 
 #### Other HP calculator resources
 
-| Emulator                                           | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems        | Platform |
-|----------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-------------------------|----------|
+| Emulator                                           | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems        | Platform |
+|----------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-------------------------|----------|
 | [Emu48](https://www.hpcalc.org/hp48/pc/emulators/) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Multiple HP calculators |          |
 
 ### Casio calculators
 
-| Emulator                                                                                                     | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems          | Platform |
-|--------------------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|---------------------------|----------|
-| [PB-1000 Emulator](https://web.archive.org/web/20210602185841/http://www.pisi.com.pl/piotr433/pb1000ee.htm)  | :heavy_check_mark:  | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | PB-1000                   |          |
-| [PB-2000C Emulator](https://web.archive.org/web/20210602211836/http://www.pisi.com.pl/piotr433/pb2000ee.htm) | :heavy_check_mark:  | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | PB-2000                   |          |
-| [FX-8000G Emulator](https://web.archive.org/web/20210614152627/http://pisi.com.pl/piotr433/fx8000ee.htm)     | :heavy_check_mark:  | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | FX-8000G                  |          |
-| [FX-7500G Emulator](https://web.archive.org/web/20210601194704/http://www.pisi.com.pl/piotr433/fx7500ee.htm) | :heavy_check_mark:  | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: |                           |          |
-| [ClassPad emulators](https://classpad.net/intl/features/)                                                    | :x: | Proprietary      | :x:                | :heavy_minus_sign: | :heavy_minus_sign: | Unknown Casio calculators |          |
-| [Official emulators for most Casio calculators](https://edu.casio.com/softwarelicense/index.php)             | :x: | Proprietary      | :x:                | :heavy_minus_sign: | :heavy_minus_sign: | Casio calculators         |          |
+| Emulator                                                                                                     | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems          | Platform |
+|--------------------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|---------------------------|----------|
+| [PB-1000 Emulator](https://web.archive.org/web/20210602185841/http://www.pisi.com.pl/piotr433/pb1000ee.htm)  | :heavy_check_mark: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | PB-1000                   |          |
+| [PB-2000C Emulator](https://web.archive.org/web/20210602211836/http://www.pisi.com.pl/piotr433/pb2000ee.htm) | :heavy_check_mark: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | PB-2000                   |          |
+| [FX-8000G Emulator](https://web.archive.org/web/20210614152627/http://pisi.com.pl/piotr433/fx8000ee.htm)     | :heavy_check_mark: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | FX-8000G                  |          |
+| [FX-7500G Emulator](https://web.archive.org/web/20210601194704/http://www.pisi.com.pl/piotr433/fx7500ee.htm) | :heavy_check_mark: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: |                           |          |
+| [ClassPad emulators](https://classpad.net/intl/features/)                                                    | :x:                | Proprietary      | :x:                | :heavy_minus_sign: | :heavy_minus_sign: | Unknown Casio calculators |          |
+| [Official emulators for most Casio calculators](https://edu.casio.com/softwarelicense/index.php)             | :x:                | Proprietary      | :x:                | :heavy_minus_sign: | :heavy_minus_sign: | Casio calculators         |          |
 
 ### Sharp calculators
 
-| Simulator                                                                                  | FOSS          | License     | Free               | Active | Recommended        | Emulated systems      | Platform |
-|--------------------------------------------------------------------------------------------|---------------|-------------|--------------------|--------|--------------------|-----------------------|---|
-| [Official Sharp simulators](http://www.sharp-calculators.com/en/id/127-downloads#software) | :x: | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | EL series calculators |  |
+| Simulator                                                                                  | FOSS | License     | Free               | Active | Recommended        | Emulated systems      | Platform |
+|--------------------------------------------------------------------------------------------|------|-------------|--------------------|--------|--------------------|-----------------------|----------|
+| [Official Sharp simulators](http://www.sharp-calculators.com/en/id/127-downloads#software) | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | EL series calculators |          |
 
 ### Elektronika calculators
 
-| Emulator                                                                                                                                     | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems                                                | Platform |
-|----------------------------------------------------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-----------------------------------------------------------------|----------|
-| [Calculators 3000](http://www.emulator3000.org/c3.htm)                                                                                       | :x: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | [List of supported systems](http://www.emulator3000.org/c3.htm) |          |
+| Emulator                                                                                                                                     | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems                                                | Platform |
+|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-----------------------------------------------------------------|----------|
+| [Calculators 3000](http://www.emulator3000.org/c3.htm)                                                                                       | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | [List of supported systems](http://www.emulator3000.org/c3.htm) |          |
 | [MK-90 Emulator](https://web.archive.org/web/20210601061619/http://www.pisi.com.pl/piotr433/mk90emue.htm)                                    | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | MK-90                                                           |          |
-| [MK-85 Emulator (link to Lazarus port not working)](https://web.archive.org/web/20220208142602/http://www.pisi.com.pl/piotr433/mk85emue.htm) | :heavy_check_mark:  | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | MK-85                                                           |          |
+| [MK-85 Emulator (link to Lazarus port not working)](https://web.archive.org/web/20220208142602/http://www.pisi.com.pl/piotr433/mk85emue.htm) | :heavy_check_mark: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | MK-85                                                           |          |
 | [MK-87 Emulator (no links working currently)](https://web.archive.org/web/20220121131143/http://www.pisi.com.pl/piotr433/mk87emue.htm)       | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | MK-87                                                           |          |
-| [eMKatic](https://sourceforge.net/projects/emkatic/)                                                                                         | :heavy_check_mark:  | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | B3-34, MK-52, MK-61                                             |          |
-| [MK 61/54](https://github.com/cax/pmk-android)                                                                                               | :heavy_check_mark:  | GNU GPLv3        | :heavy_check_mark: | :x:                | :heavy_check_mark: | Electronika MK-61 and MK-54                                     |          |
+| [eMKatic](https://sourceforge.net/projects/emkatic/)                                                                                         | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | B3-34, MK-52, MK-61                                             |          |
+| [MK 61/54](https://github.com/cax/pmk-android)                                                                                               | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :x:                | :heavy_check_mark: | Electronika MK-61 and MK-54                                     |          |
 
 ## Other miscellaneous emulators and projects
 
 ### Adobe Flash emulators
 
-| Emulator                                               | FOSS         | License                                                        | Free               | Active             | Recommended        | Emulated systems | Platform |
-|--------------------------------------------------------|--------------|----------------------------------------------------------------|--------------------|--------------------|--------------------|------------------|----------|
+| Emulator                                               | FOSS               | License                                                        | Free               | Active             | Recommended        | Emulated systems | Platform |
+|--------------------------------------------------------|--------------------|----------------------------------------------------------------|--------------------|--------------------|--------------------|------------------|----------|
 | [Ruffle](https://github.com/ruffle-rs/ruffle)          | :heavy_check_mark: | Dual-licensed under the Apache 2.0 license and the MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Adobe Flash      |          |
 | [Gnash](https://github.com/strk/gnash)                 | :heavy_check_mark: | GNU GPLv3                                                      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Adobe Flash      |          |
 | [Lightspark](https://github.com/lightspark/lightspark) | :heavy_check_mark: | GNU GPLv3                                                      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Adobe Flash      |          |
 
 ### Game engine emulators/interpreters
 
-| Emulator                                | FOSS          | License                                                            | Free               | Active             | Recommended        | Emulated systems           | Platform |
-|-----------------------------------------|---------------|--------------------------------------------------------------------|--------------------|--------------------|--------------------|----------------------------|----------|
-| [EasyRPG](https://easyrpg.org/)         | :heavy_check_mark:  | GNU GPLv3                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RPG Maker                  |          |
-| [JoiPlay](http://joiplay.cyou/)         | :heavy_minus_sign: | No central repo, seems to just be a combination of other projects? | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RPG Maker, Ren'Py, HTML5   |          |
-| [MKXP](https://github.com/Ancurio/mkxp) | :heavy_check_mark:  | GNU GPLv2                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Ruby Game Scripting System |          |
-| [OpenGMK](https://github.com/OpenGMK/OpenGMK) | :heavy_check_mark:  | GNU GPLv2                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Game Maker | :computer: :penguin:         |
+| Emulator                                      | FOSS               | License                                                            | Free               | Active             | Recommended        | Emulated systems           | Platform             |
+|-----------------------------------------------|--------------------|--------------------------------------------------------------------|--------------------|--------------------|--------------------|----------------------------|----------------------|
+| [EasyRPG](https://easyrpg.org/)               | :heavy_check_mark: | GNU GPLv3                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RPG Maker                  |                      |
+| [JoiPlay](http://joiplay.cyou/)               | :heavy_minus_sign: | No central repo, seems to just be a combination of other projects? | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RPG Maker, Ren'Py, HTML5   |                      |
+| [MKXP](https://github.com/Ancurio/mkxp)       | :heavy_check_mark: | GNU GPLv2                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Ruby Game Scripting System |                      |
+| [OpenGMK](https://github.com/OpenGMK/OpenGMK) | :heavy_check_mark: | GNU GPLv2                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Game Maker                 | :computer: :penguin: |
 
 ### Nuon emulators
 
-| Emulator                                                                       | FOSS          | License                                   | Free               | Active             | Recommended        | Emulated systems | Platform |
-|--------------------------------------------------------------------------------|---------------|-------------------------------------------|--------------------|--------------------|--------------------|------------------|----------|
-| [Nuance](https://sourceforge.net/projects/nuance-nuon-emulator/)               | :heavy_check_mark:  | 3-clause BSD                              | :heavy_check_mark: | :x:                | :heavy_check_mark: | Nuon             |          |
-| [NuanceResurrection](https://github.com/andkrau/NuanceResurrection)            | :heavy_check_mark:  | 3-clause BSD                              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nuon             |          |
+| Emulator                                                                       | FOSS               | License                                   | Free               | Active             | Recommended        | Emulated systems | Platform |
+|--------------------------------------------------------------------------------|--------------------|-------------------------------------------|--------------------|--------------------|--------------------|------------------|----------|
+| [Nuance](https://sourceforge.net/projects/nuance-nuon-emulator/)               | :heavy_check_mark: | 3-clause BSD                              | :heavy_check_mark: | :x:                | :heavy_check_mark: | Nuon             |          |
+| [NuanceResurrection](https://github.com/andkrau/NuanceResurrection)            | :heavy_check_mark: | 3-clause BSD                              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nuon             |          |
 | [NuonEm (No download link currently)](https://www.nuon-dome.com/download.html) | :heavy_minus_sign: | No license/source available at the moment | :heavy_check_mark: | :x:                | :x:                | Nuon             |          |
 
 ### Game client emulators
