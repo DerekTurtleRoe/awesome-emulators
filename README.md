@@ -1048,10 +1048,10 @@ See multi-emulators section for "Emma 02 emulator"
 
 ### Palm devices
 
-| Emulator                                                          | FOSS          | License                                                              | Free               | Active             | Recommended        | Emulated systems                                                                      | Platform |
-|-------------------------------------------------------------------|---------------|----------------------------------------------------------------------|--------------------|--------------------|--------------------|---------------------------------------------------------------------------------------|----------|
-| [CloudpilotEmu](https://github.com/cloudpilot-emu/cloudpilot-emu) | :heavy_check_mark:  | GNU GPLv3                                                            | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | [Multiple devices](https://github.com/cloudpilot-emu/cloudpilot-emu#emulated-devices) | :computer: :apple: :penguin: :globe_with_meridians:         |
-| [Mu](https://github.com/meepingsnesroms/Mu)                       | :heavy_minus_sign: | Creative Commons Attribution-NonCommercial 3.0 United States License | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Palm OS                                                                               | :computer: :apple: :penguin:         |
+| Emulator                                                          | FOSS               | License                                                              | Free               | Active             | Recommended        | Emulated systems                                                                      | Platform                                            |
+|-------------------------------------------------------------------|--------------------|----------------------------------------------------------------------|--------------------|--------------------|--------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------|
+| [CloudpilotEmu](https://github.com/cloudpilot-emu/cloudpilot-emu) | :heavy_check_mark: | GNU GPLv3                                                            | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | [Multiple devices](https://github.com/cloudpilot-emu/cloudpilot-emu#emulated-devices) | :computer: :apple: :penguin: :globe_with_meridians: |
+| [Mu](https://github.com/meepingsnesroms/Mu)                       | :heavy_minus_sign: | Creative Commons Attribution-NonCommercial 3.0 United States License | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Palm OS                                                                               | :computer: :apple: :penguin:                        |
 
 ## Computer emulators
 
