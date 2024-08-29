@@ -941,10 +941,10 @@ See multi-emulators section for "Emma 02 emulator"
 
 #### Sony PlayStation Vita
 
-| Emulator                                             | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems      | Platform |
-|------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-----------------------|----------|
-| [Vita3K](https://vita3k.org/)                        | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation Vita | :computer: :apple: :penguin: :robot:         |
-| [vitaemu](https://github.com/soywiz-archive/vitaemu) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Vita | :robot:         |
+| Emulator                                             | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems      | Platform                             |
+|------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-----------------------|--------------------------------------|
+| [Vita3K](https://vita3k.org/)                        | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation Vita | :computer: :apple: :penguin: :robot: |
+| [vitaemu](https://github.com/soywiz-archive/vitaemu) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Vita | :robot:                              |
 
 ### Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch
 
