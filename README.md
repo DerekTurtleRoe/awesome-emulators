@@ -996,18 +996,18 @@ See multi-emulators section for "Emma 02 emulator"
 
 ### Google Android
 
-| Emulator                                                                    | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems | Platform |
-|-----------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|------------------|----------|
-| [Anbox](https://anbox.io/)                                                  | :heavy_check_mark:  | GNU GPLv3   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Google Android   | :penguin:         |
-| [Android SDK (includes an emulator)](https://developer.android.com/studio/) | :heavy_check_mark:  | Apache 2.0  | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple: :penguin:         |
-| [Android x86](https://www.android-x86.org/)                                 | :heavy_check_mark:  | Apache 2.0  | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | Runs on any x86 computer         |
-| [BlueStacks](https://www.bluestacks.com/)                                   | :x: | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple:         |
-| [GameLoop](https://www.gameloop.com/)                                       | :x: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:         |
-| [Google Play Games](https://play.google.com/googleplaygames)                | :x: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:         |
-| [NoxPlayer](https://www.bignox.com/)                                        | :x: | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple:         |
-| [Plarium Play](https://plarium.com/)                                        | :x: | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:         |
-| [Waydroid](https://github.com/waydroid)                                     | :heavy_check_mark:  | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :penguin:         |
-| [Windows Subsystem for Android](https://github.com/microsoft/WSA)           | :heavy_check_mark:  | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:         |
+| Emulator                                                                    | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems | Platform                     |
+|-----------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|------------------|------------------------------|
+| [Anbox](https://anbox.io/)                                                  | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Google Android   | :penguin:                    |
+| [Android SDK (includes an emulator)](https://developer.android.com/studio/) | :heavy_check_mark: | Apache 2.0  | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple: :penguin: |
+| [Android x86](https://www.android-x86.org/)                                 | :heavy_check_mark: | Apache 2.0  | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | Runs on any x86 computer     |
+| [BlueStacks](https://www.bluestacks.com/)                                   | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple:           |
+| [GameLoop](https://www.gameloop.com/)                                       | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:                   |
+| [Google Play Games](https://play.google.com/googleplaygames)                | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:                   |
+| [NoxPlayer](https://www.bignox.com/)                                        | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple:           |
+| [Plarium Play](https://plarium.com/)                                        | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:                   |
+| [Waydroid](https://github.com/waydroid)                                     | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :penguin:                    |
+| [Windows Subsystem for Android](https://github.com/microsoft/WSA)           | :heavy_check_mark: | MIT license | :heavy_check_mark: | :x:                | :x:                | Google Android   | :computer:                   |
 
 ### N-Gage
 
