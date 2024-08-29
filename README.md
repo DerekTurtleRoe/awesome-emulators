@@ -1020,15 +1020,15 @@ See multi-emulators section for "Emma 02 emulator"
 
 ### BREW
 
-| Emulator                                              | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
-|-------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
-| [Melange](https://gitlab.com/usernameak/brewemulator) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | BREW             | :robot:         |
+| Emulator                                              | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
+|-------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
+| [Melange](https://gitlab.com/usernameak/brewemulator) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | BREW             | :robot:  |
 
 ### Mophun
 
-| Emulator                                         | FOSS         | License   | Free               | Active | Recommended        | Emulated systems | Platform |
-|--------------------------------------------------|--------------|-----------|--------------------|--------|--------------------|------------------|----------|
-| [MoRePhun](https://github.com/Luca1991/MoRePhun) | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :x:    | :heavy_check_mark: | Mophun           | :computer: :penguin:         |
+| Emulator                                         | FOSS               | License   | Free               | Active | Recommended        | Emulated systems | Platform             |
+|--------------------------------------------------|--------------------|-----------|--------------------|--------|--------------------|------------------|----------------------|
+| [MoRePhun](https://github.com/Luca1991/MoRePhun) | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :x:    | :heavy_check_mark: | Mophun           | :computer: :penguin: |
 
 ### Java
 
