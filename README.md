@@ -962,15 +962,15 @@ See multi-emulators section for "Emma 02 emulator"
 
 ### SNK Neo Geo Pocket/Color
 
-| Emulator                                                                                        | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems         | Platform |
-|-------------------------------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|--------------------------|----------|
-| [BeNeoPocott (NeoPocott ported to BeOS)](https://www.zophar.net/beos/ngpocket/beneopocott.html) | :heavy_minus_sign: | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | BeOS/Haiku         |
-| [Koyote](https://www.zophar.net/ngpocket/koyote.html)                                           | :x: | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer:         |
-| [NeoPop-SDL](https://github.com/nih-at/NeoPop-SDL)                                              | :heavy_check_mark:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer: :penguin:         |
-| [NeoPop](https://www.zophar.net/ngpocket/neopop.html)                                           | :heavy_check_mark:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer:         |
-| [NeoGPC](https://code.google.com/p/neogpc/)                                                     | :heavy_check_mark:  | GNU GPLv3   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer:         |
-| [NeoPocott](http://neopocott.emuunlim.com/index.html)                                           | :x: | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer: :penguin:         |
-| [NGPocket](https://www.zophar.net/ngpocket/ngpocket.html)                                       | :x: | Proprietary | :x:                | :x:                | :x:                | SNK Neo Geo Pocket/Color | :computer:         |
+| Emulator                                                                                        | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems         | Platform             |
+|-------------------------------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|--------------------------|----------------------|
+| [BeNeoPocott (NeoPocott ported to BeOS)](https://www.zophar.net/beos/ngpocket/beneopocott.html) | :heavy_minus_sign: | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | BeOS/Haiku           |
+| [Koyote](https://www.zophar.net/ngpocket/koyote.html)                                           | :x:                | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer:           |
+| [NeoPop-SDL](https://github.com/nih-at/NeoPop-SDL)                                              | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer: :penguin: |
+| [NeoPop](https://www.zophar.net/ngpocket/neopop.html)                                           | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer:           |
+| [NeoGPC](https://code.google.com/p/neogpc/)                                                     | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer:           |
+| [NeoPocott](http://neopocott.emuunlim.com/index.html)                                           | :x:                | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer: :penguin: |
+| [NGPocket](https://www.zophar.net/ngpocket/ngpocket.html)                                       | :x:                | Proprietary | :x:                | :x:                | :x:                | SNK Neo Geo Pocket/Color | :computer:           |
 
 ### Watara SuperVision
 
