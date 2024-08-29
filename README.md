@@ -1206,13 +1206,13 @@ See multi-emulators section for "Emma 02 emulator"
 
 #### Commodore Amiga computers/Commodore Amiga CD32
 
-| Emulator                                           | FOSS         | License   | Free               | Active             | Recommended        | Emulated systems                      | Platform |
-|----------------------------------------------------|--------------|-----------|--------------------|--------------------|--------------------|---------------------------------------|----------|
-| [FS-UAE](https://fs-uae.net/)                      | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Commodore Amiga, Commodore Amiga CD32 | :computer: :apple: :penguin: :imp:         |
-| [UAE](https://www.zophar.net/amiga/uae.html)       | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :x:                | :x:                | Commodore Amiga                       | :computer:         |
-| [vAmiga](https://dirkwhoffmann.github.io/vAmiga/)  | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Commodore Amiga, Commodore Amiga CD32 | :apple:         |
-| [WinFellow](https://github.com/petschau/WinFellow) | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Commodore Amiga                       | :computer:         |
-| [WinUAE](https://www.winuae.net/)                  | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Commodore Amiga, Commodore Amiga CD32 | :computer:         |
+| Emulator                                           | FOSS               | License   | Free               | Active             | Recommended        | Emulated systems                      | Platform                           |
+|----------------------------------------------------|--------------------|-----------|--------------------|--------------------|--------------------|---------------------------------------|------------------------------------|
+| [FS-UAE](https://fs-uae.net/)                      | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Commodore Amiga, Commodore Amiga CD32 | :computer: :apple: :penguin: :imp: |
+| [UAE](https://www.zophar.net/amiga/uae.html)       | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :x:                | :x:                | Commodore Amiga                       | :computer:                         |
+| [vAmiga](https://dirkwhoffmann.github.io/vAmiga/)  | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Commodore Amiga, Commodore Amiga CD32 | :apple:                            |
+| [WinFellow](https://github.com/petschau/WinFellow) | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Commodore Amiga                       | :computer:                         |
+| [WinUAE](https://www.winuae.net/)                  | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Commodore Amiga, Commodore Amiga CD32 | :computer:                         |
 
 #### Atari 400/800 and ST computers
 
