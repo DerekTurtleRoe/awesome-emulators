@@ -327,8 +327,8 @@ Legend:
 
 #### Sony PlayStation 5
 
-| Emulator                                 | FOSS         | License     | Free               | Active             | Recommended | Emulated systems   | Platform   |
-|------------------------------------------|--------------|-------------|--------------------|--------------------|-------------|--------------------|------------|
+| Emulator                                 | FOSS               | License     | Free               | Active             | Recommended | Emulated systems   | Platform   |
+|------------------------------------------|--------------------|-------------|--------------------|--------------------|-------------|--------------------|------------|
 | [Kyty](https://github.com/InoriRus/Kyty) | :heavy_check_mark: | MIT license | :heavy_check_mark: | :heavy_minus_sign: | :x:         | Sony PlayStation 5 | :computer: |
 
 ### Nintendo
