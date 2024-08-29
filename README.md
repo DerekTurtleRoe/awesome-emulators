@@ -933,11 +933,11 @@ See multi-emulators section for "Emma 02 emulator"
 
 #### Sony PocketStation
 
-| Emulator                                                 | FOSS          | License          | Free               | Active | Recommended        | Emulated systems   | Platform |
-|----------------------------------------------------------|---------------|------------------|--------------------|--------|--------------------|--------------------|----------|
-| [PK201](http://drhell.web.fc2.com/pocket/index.html) - [Android version](https://play.google.com/store/apps/details?id=com.dokutajigokusai.pk201)    | :x: | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation | :computer: :robot:         |
-| [PKEmu](https://www.zophar.net/pocketstation/pkemu.html) | :x: | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation | :computer:         |
-| [pockystation](https://github.com/simias/pockystation)   | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation | :computer: :apple: :penguin:         |
+| Emulator                                                                                                                                          | FOSS               | License          | Free               | Active | Recommended        | Emulated systems   | Platform                     |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------|--------------------|--------------------|------------------------------|
+| [PK201](http://drhell.web.fc2.com/pocket/index.html) - [Android version](https://play.google.com/store/apps/details?id=com.dokutajigokusai.pk201) | :x:                | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation | :computer: :robot:           |
+| [PKEmu](https://www.zophar.net/pocketstation/pkemu.html)                                                                                          | :x:                | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation | :computer:                   |
+| [pockystation](https://github.com/simias/pockystation)                                                                                            | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation | :computer: :apple: :penguin: |
 
 #### Sony PlayStation Vita
 
