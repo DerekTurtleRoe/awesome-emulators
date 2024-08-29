@@ -1721,7 +1721,7 @@ For support, open an issue.
 
 Ideally you would dump games and firmware from your legitimately owned hardware. I don't support piracy and I won't engage in discussions of piracy here. This includes (but is not limited to) piracy of emulators, piracy of software for use in emulators, etc. This is not a preference, it is to avoid legal issues.
 
-Keep in mind that piracy and dumping software for your own use are 2 different things. One is legal in most jurisdictions, and the other is not. I am not a lawyer, but there is a difference in definition. Contact your lawyer if you need further information.
+Keep in mind that piracy and dumping software for your own use are two different things. One is legal in most jurisdictions, and the other is not. I am not a lawyer, but there is a difference in definition. Contact your lawyer if you need further information.
 
 ### Can you give me personal help with emulator setup, dumping games and software, or other things?
 
