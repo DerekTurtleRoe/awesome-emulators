@@ -195,63 +195,63 @@ Legend:
 
 #### Atari 2600
 
-| Emulator                                                        | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems | Platform                           |
-|-----------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|------------------|------------------------------------|
+| Emulator                                                        | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform                           |
+|-----------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|------------------|------------------------------------|
 | [A26](https://www.zophar.net/a2600/a26.html)                    | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :floppy_disk:                      |
-| [Gopher2600](https://github.com/JetSetIlly/Gopher2600)          | :heavy_check_mark:  | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Atari 2600       | :computer: :penguin:               |
-| [javatari](https://github.com/ppeccin/javatari.js)              | :heavy_check_mark:  | AGPLv3           | :heavy_check_mark: | :heavy_check_mark: | :x:                | Atari 2600       | :globe_with_meridians:             |
-| [javatari (older version)](https://github.com/ppeccin/javatari) | :heavy_check_mark:  | AGPLv3           | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :globe_with_meridians:             |
-| [NO$2K6](https://problemkaputt.github.io/)                      | :x: | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari 2600       | :computer: :floppy_disk:           |
-| [PC Atari Emulator (PCAE)](https://pcae.vg-network.com/)        | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer: :floppy_disk:           |
-| [pyTari](https://sourceforge.net/projects/pytari/)              | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer: :apple: :penguin: :imp: |
-| [Stella](https://stella-emu.github.io/)                         | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari 2600       | :computer: :apple: :penguin: :imp: |
-| [Stellarator](https://github.com/dpiponi/Stellarator)           | :heavy_check_mark:  | 3-clause BSD     | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer: :apple: :penguin: :imp: |
-| [VCS 2600](https://www.zophar.net/a2600/vcs-2600.html)          | :x: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer:                         |
-| [Virtual 2600](https://www.zophar.net/a2600/virtual-2600.html)  | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :floppy_disk:                      |
-| [Virtual VCS](https://www.zophar.net/a2600/virtual-vcs.html)    | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer:                         |
+| [Gopher2600](https://github.com/JetSetIlly/Gopher2600)          | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Atari 2600       | :computer: :penguin:               |
+| [javatari](https://github.com/ppeccin/javatari.js)              | :heavy_check_mark: | AGPLv3           | :heavy_check_mark: | :heavy_check_mark: | :x:                | Atari 2600       | :globe_with_meridians:             |
+| [javatari (older version)](https://github.com/ppeccin/javatari) | :heavy_check_mark: | AGPLv3           | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :globe_with_meridians:             |
+| [NO$2K6](https://problemkaputt.github.io/)                      | :x:                | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari 2600       | :computer: :floppy_disk:           |
+| [PC Atari Emulator (PCAE)](https://pcae.vg-network.com/)        | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer: :floppy_disk:           |
+| [pyTari](https://sourceforge.net/projects/pytari/)              | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer: :apple: :penguin: :imp: |
+| [Stella](https://stella-emu.github.io/)                         | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari 2600       | :computer: :apple: :penguin: :imp: |
+| [Stellarator](https://github.com/dpiponi/Stellarator)           | :heavy_check_mark: | 3-clause BSD     | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer: :apple: :penguin: :imp: |
+| [VCS 2600](https://www.zophar.net/a2600/vcs-2600.html)          | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer:                         |
+| [Virtual 2600](https://www.zophar.net/a2600/virtual-2600.html)  | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :floppy_disk:                      |
+| [Virtual VCS](https://www.zophar.net/a2600/virtual-vcs.html)    | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :computer:                         |
 
 #### Atari 5200
 
-| Emulator                                                                                                        | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems                  | Platform                      |
-|-----------------------------------------------------------------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-----------------------------------|-------------------------------|
-| [A5200DS](https://github.com/wavemotion-dave/A5200DS/)                                                          | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Atari 5200                        | Nintendo DS                   |
-| [Jum52](https://www.zophar.net/a5200/jum52.html)                                                                | :x: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari 5200                        | :computer:                    |
-| [kat5200](https://kat5200.jillybunch.com/)                                                                      | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari 5200, Atari 8-bit computers | :computer: :apple: :penguin:  |
-| [Rainbow](https://web.archive.org/web/20120914030219/http://www.chrislam.co.uk/rainbow-atari-8bit-emulator.htm) | :x: | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari 5200, Atari 8-bit computers | :computer: :apple:            |
-| [Virtual Super System (VSS)](http://atarihq.com/danb/a5200.shtml#emulator)                                      | :x: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari 5200                        | :floppy_disk:                 |
+| Emulator                                                                                                        | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems                  | Platform                     |
+|-----------------------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-----------------------------------|------------------------------|
+| [A5200DS](https://github.com/wavemotion-dave/A5200DS/)                                                          | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Atari 5200                        | Nintendo DS                  |
+| [Jum52](https://www.zophar.net/a5200/jum52.html)                                                                | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari 5200                        | :computer:                   |
+| [kat5200](https://kat5200.jillybunch.com/)                                                                      | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari 5200, Atari 8-bit computers | :computer: :apple: :penguin: |
+| [Rainbow](https://web.archive.org/web/20120914030219/http://www.chrislam.co.uk/rainbow-atari-8bit-emulator.htm) | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari 5200, Atari 8-bit computers | :computer: :apple:           |
+| [Virtual Super System (VSS)](http://atarihq.com/danb/a5200.shtml#emulator)                                      | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari 5200                        | :floppy_disk:                |
 
 #### Atari 7800
 
-| Emulator                                                | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems | Platform                       |
-|---------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|------------------|--------------------------------|
-| [A7800](https://github.com/7800-devtools/a7800)         | :heavy_check_mark:  | GNU GPLv2   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Atari 7800       | :computer: :apple: :penguin:   |
-| [A7800DS](https://github.com/wavemotion-dave/A7800DS/)  | :heavy_check_mark:  | GNU GPLv2   | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Atari 7800       | Nintendo DS                    |
-| [BupSystem](http://tailchao.com/BupSystem)              | :x: | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Atari 7800       | :computer:                     |
-| [EMU7800](https://www.zophar.net/a7800/emu7800.html)    | :heavy_check_mark:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Atari 7800       | :computer:                     |
-| [ProSystem](https://github.com/gstanton/ProSystem1_3)   | :heavy_check_mark:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari 7800       | :computer:                     |
-| [V7800](https://atarihq.com/danb/a7800.shtml#emulators) | :heavy_check_mark:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Atari 7800       | :computer:                     |
-| [Wii7800](https://github.com/raz0red/wii7800)           | :heavy_check_mark:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Atari 7800       | Nintendo Wii                   |
+| Emulator                                                | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems | Platform                     |
+|---------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|------------------|------------------------------|
+| [A7800](https://github.com/7800-devtools/a7800)         | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Atari 7800       | :computer: :apple: :penguin: |
+| [A7800DS](https://github.com/wavemotion-dave/A7800DS/)  | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Atari 7800       | Nintendo DS                  |
+| [BupSystem](http://tailchao.com/BupSystem)              | :x:                | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Atari 7800       | :computer:                   |
+| [EMU7800](https://www.zophar.net/a7800/emu7800.html)    | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Atari 7800       | :computer:                   |
+| [ProSystem](https://github.com/gstanton/ProSystem1_3)   | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari 7800       | :computer:                   |
+| [V7800](https://atarihq.com/danb/a7800.shtml#emulators) | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Atari 7800       | :computer:                   |
+| [Wii7800](https://github.com/raz0red/wii7800)           | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Atari 7800       | Nintendo Wii                 |
 
 #### Atari Jaguar/Jaguar CD
 
-| Emulator                                                  | FOSS          | License          | Free               | Active             | Recommended        | Emulated systems              | Platform                     |
-|-----------------------------------------------------------|---------------|------------------|--------------------|--------------------|--------------------|-------------------------------|------------------------------|
-| [BigPEmu](https://www.richwhitehouse.com/jaguar/)         | :x: | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD | :computer: :penguin:                  |
-| [Jaggy](https://www.zophar.net/jaguar/jaggy.html)         | :heavy_check_mark:  | Source available | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  | :computer:                   |
-| [Jagulator](https://www.zophar.net/jaguar/jagulator.html) | :x: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  | :computer:                   |
-| [Project Tempest](http://pt.emuunlim.com/)                | :x: | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  | :computer:                   |
-| [Virtual Jaguar](https://www.icculus.org/virtualjaguar/)  | :heavy_check_mark:  | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD | :computer: :apple: :penguin: |
+| Emulator                                                  | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems              | Platform                     |
+|-----------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-------------------------------|------------------------------|
+| [BigPEmu](https://www.richwhitehouse.com/jaguar/)         | :x:                | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD | :computer: :penguin:         |
+| [Jaggy](https://www.zophar.net/jaguar/jaggy.html)         | :heavy_check_mark: | Source available | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  | :computer:                   |
+| [Jagulator](https://www.zophar.net/jaguar/jagulator.html) | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  | :computer:                   |
+| [Project Tempest](http://pt.emuunlim.com/)                | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  | :computer:                   |
+| [Virtual Jaguar](https://www.icculus.org/virtualjaguar/)  | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD | :computer: :apple: :penguin: |
 
 #### Commodore Amiga CD32
 
-| Emulator                                         | FOSS          | License     | Free | Active | Recommended | Emulated systems     | Platform   |
-|--------------------------------------------------|---------------|-------------|------|--------|-------------|----------------------|------------|
-| [Akiko](https://www.zophar.net/amiga/akiko.html) | :x: | Proprietary | :x:  | :x:    | :x:         | Commodore Amiga CD32 | :computer: |
+| Emulator                                         | FOSS | License     | Free | Active | Recommended | Emulated systems     | Platform   |
+|--------------------------------------------------|------|-------------|------|--------|-------------|----------------------|------------|
+| [Akiko](https://www.zophar.net/amiga/akiko.html) | :x:  | Proprietary | :x:  | :x:    | :x:         | Commodore Amiga CD32 | :computer: |
 
 ### LaserDisc systems
 
-| Emulator                                               | FOSS         | License      | Free               | Active             | Recommended        | Emulated systems                    | Platform   |
-|--------------------------------------------------------|--------------|--------------|--------------------|--------------------|--------------------|-------------------------------------|------------|
+| Emulator                                               | FOSS               | License      | Free               | Active             | Recommended        | Emulated systems                    | Platform   |
+|--------------------------------------------------------|--------------------|--------------|--------------------|--------------------|--------------------|-------------------------------------|------------|
 | [DAPHNE](http://www.daphne-emu.com/site3/index_hi.php) | :heavy_check_mark: | GNU GPLv2    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | LaserDisc arcade software           | :computer: |
 | [Dirk Simple](https://github.com/icculus/DirkSimple)   | :heavy_check_mark: | zlib license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Dragon's Lair LaserDisc arcade game | :computer: |
 | [SINGE](https://kangaroopunch.com/software/singe)      | :heavy_check_mark: | GNU GPLv2    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | LaserDisc arcade software           | :computer: |
