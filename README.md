@@ -599,15 +599,15 @@ Legend:
 
 #### Microsoft Xbox One
 
-| Emulator                                             | FOSS | License | Free | Active | Recommended | Emulated systems | Platform |
-|------------------------------------------------------|------|---------|------|--------|-------------|------------------|----------|
-| There are currently no emulators for this system 😔 | N/A  | N/A     | N/A  | N/A    | N/A         | N/A              | N/A       |
+| Emulator                                            | FOSS | License | Free | Active | Recommended | Emulated systems | Platform |
+|-----------------------------------------------------|------|---------|------|--------|-------------|------------------|----------|
+| There are currently no emulators for this system 😔 | N/A  | N/A     | N/A  | N/A    | N/A         | N/A              | N/A      |
 
 #### Microsoft Xbox Series
 
-| Emulator                                             | FOSS | License | Free | Active | Recommended | Emulated systems | Platform |
-|------------------------------------------------------|------|---------|------|--------|-------------|------------------|----------|
-| There are currently no emulators for this system 😔 | N/A  | N/A     | N/A  | N/A    | N/A         | N/A              | N/A       |
+| Emulator                                            | FOSS | License | Free | Active | Recommended | Emulated systems | Platform |
+|-----------------------------------------------------|------|---------|------|--------|-------------|------------------|----------|
+| There are currently no emulators for this system 😔 | N/A  | N/A     | N/A  | N/A    | N/A         | N/A              | N/A      |
 
 ### NEC PC Engine/TurboGrafx
 
