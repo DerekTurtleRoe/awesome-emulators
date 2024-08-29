@@ -304,12 +304,12 @@ Legend:
 
 #### Sony PlayStation 3
 
-| Emulator                                                                                            | FOSS          | License     | Free               | Active             | Recommended        | Emulated systems   | Platform                                 |
-|-----------------------------------------------------------------------------------------------------|---------------|-------------|--------------------|--------------------|--------------------|--------------------|------------------------------------------|
-| [Nucleus](https://github.com/AlexAltea/nucleus)                                                     | :heavy_check_mark:  | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 3 | :computer: :apple: :penguin: :robot: :iphone: |
-| [PS3F](https://web.archive.org/web/20161029044210/http://www.geocities.jp/mj3kj8o5/ps3f/index.html) | :x: | Proprietary | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 3 | :computer:                               |
-| [RPCS3](https://rpcs3.net/)                                                                         | :heavy_check_mark:  | GNU GPLv2   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 3 | :computer: :apple: :penguin: :imp:       |
-| [Short Waves](https://wololo.net/downloads/index.php/download/8128)                                 | :x: | Proprietary | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 3 | :computer:                               |
+| Emulator                                                                                            | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems   | Platform                                      |
+|-----------------------------------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|--------------------|-----------------------------------------------|
+| [Nucleus](https://github.com/AlexAltea/nucleus)                                                     | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 3 | :computer: :apple: :penguin: :robot: :iphone: |
+| [PS3F](https://web.archive.org/web/20161029044210/http://www.geocities.jp/mj3kj8o5/ps3f/index.html) | :x:                | Proprietary | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 3 | :computer:                                    |
+| [RPCS3](https://rpcs3.net/)                                                                         | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation 3 | :computer: :apple: :penguin: :imp:            |
+| [Short Waves](https://wololo.net/downloads/index.php/download/8128)                                 | :x:                | Proprietary | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 3 | :computer:                                    |
 
 #### Sony PlayStation 4
 
