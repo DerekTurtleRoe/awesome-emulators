@@ -645,9 +645,9 @@ Legend:
 
 ### Magnavox Odyssey 2
 
-| Emulator                                       | FOSS         | License          | Free | Active | Recommended        | Emulated systems    | Platform                                   |
-|------------------------------------------------|--------------|------------------|------|--------|--------------------|---------------------|--------------------------------------------|
-| [O2EM](https://sourceforge.net/projects/o2em/) | :heavy_check_mark: | Artistic license | :x:  | :x:    | :heavy_minus_sign: | Odyssey 2/Videopac+ | :computer: :floppy_disk: :penguin: :imp:   |
+| Emulator                                       | FOSS               | License          | Free | Active | Recommended        | Emulated systems    | Platform                                 |
+|------------------------------------------------|--------------------|------------------|------|--------|--------------------|---------------------|------------------------------------------|
+| [O2EM](https://sourceforge.net/projects/o2em/) | :heavy_check_mark: | Artistic license | :x:  | :x:    | :heavy_minus_sign: | Odyssey 2/Videopac+ | :computer: :floppy_disk: :penguin: :imp: |
 
 ### Philips CD-i
 
