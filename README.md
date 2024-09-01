@@ -1278,15 +1278,15 @@ See multi-emulators section for "Emma 02 emulator"
 
 #### NEC 9800 computers
 
-| Emulator                                                | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems   | Platform |
-|---------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|--------------------|----------|
-| [Anex86](https://www.zophar.net/pc98/anex86.html)       | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | NEC 9800 computers |          |
-| [J98](http://akiyuki.boy.jp/android)                    | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | NEC 9800 computers |          |
-| [Neko Project II](http://www.yui.ne.jp/np2)             | :heavy_minus_sign: | Proprietary      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | NEC 9800 computers |          |
-| [NP2kai](https://github.com/AZO234/NP2kai)              | :heavy_check_mark: | MIT license      | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | NEC 9800 computers |          |
-| [Neko Project 21/W](https://simk98.github.io/np21w/)    | :x:                | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | NEC 9800 computers |          |
-| [SL9821](http://www.satotomi.com/sl9821/sl9821_dl.html) | :heavy_check_mark: | Source available | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | NEC 9800 computers |          |
-| [Xnp2](https://github.com/nonakap/xnp2)                 | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | NEC 9800 computers |          |
+| Emulator                                                | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems   | Platform                                      |
+|---------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|--------------------|-----------------------------------------------|
+| [Anex86](https://www.zophar.net/pc98/anex86.html)       | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | NEC 9800 computers | :computer:                                    |
+| [J98](http://akiyuki.boy.jp/android)                    | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | NEC 9800 computers | :robot:                                       |
+| [Neko Project II](http://www.yui.ne.jp/np2)             | :heavy_minus_sign: | Proprietary      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | NEC 9800 computers | :computer: :apple:                            |
+| [NP2kai](https://github.com/AZO234/NP2kai)              | :heavy_check_mark: | MIT license      | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | NEC 9800 computers | :computer: :apple: :penguin: :robot: :iphone: |
+| [Neko Project 21/W](https://simk98.github.io/np21w/)    | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | NEC 9800 computers | :computer: :penguin:                          |
+| [SL9821](http://www.satotomi.com/sl9821/sl9821_dl.html) | :heavy_check_mark: | Source available | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | NEC 9800 computers | :computer: :apple:                            |
+| [Xnp2](https://github.com/nonakap/xnp2)                 | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | NEC 9800 computers | :computer: :penguin:                          |
 
 ### MSX computers
 
