@@ -1523,12 +1523,12 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                                                                             | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
 |------------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
-| [Goldberg Steam Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator)                          | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Steam            |          |
-| [SmartSteamEmu (SSE)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935)                            | :x:                | Proprietary      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Steam            |          |
-| [SmartSteamEmu (decompiled and modified version of SSE)](https://github.com/MAXBURAOT/SmartSteamEmu) | :x:                | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Steam            |          |
-| [SmartSteamEmu Reborn Client](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102)              | :x:                | Proprietary      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Steam            |          |
-| [Anadius](https://anadius.hermietkreeft.site/origin-emulator)                                        | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_check_mark: | Origin/EA        |          |
-| [Uplay-r1-loader](https://github.com/Tron0xHex/uplay-r1-loader)                                      | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :heavy_check_mark: | Ubisoft/Uplay    |          |
+| [Goldberg Steam Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator)                          | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Steam            | :computer: :penguin: SteamOS         |
+| [SmartSteamEmu (SSE)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935)                            | :x:                | Proprietary      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Steam            | :computer:         |
+| [SmartSteamEmu (decompiled and modified version of SSE)](https://github.com/MAXBURAOT/SmartSteamEmu) | :x:                | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Steam            | :computer:         |
+| [SmartSteamEmu Reborn Client](https://cs.rin.ru/forum/viewtopic.php?p=2009102#p2009102)              | :x:                | Proprietary      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Steam            | :computer:         |
+| [Anadius](https://anadius.hermietkreeft.site/origin-emulator)                                        | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_check_mark: | Origin/EA        | :computer:         |
+| [Uplay-r1-loader](https://github.com/Tron0xHex/uplay-r1-loader)                                      | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :heavy_check_mark: | Ubisoft/Uplay    | :computer:         |
 
 ### Arcade machine emulators
 
