@@ -1496,26 +1496,26 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Emulator                                               | FOSS               | License                                                        | Free               | Active             | Recommended        | Emulated systems | Platform |
 |--------------------------------------------------------|--------------------|----------------------------------------------------------------|--------------------|--------------------|--------------------|------------------|----------|
-| [Ruffle](https://github.com/ruffle-rs/ruffle)          | :heavy_check_mark: | Dual-licensed under the Apache 2.0 license and the MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Adobe Flash      |          |
-| [Gnash](https://github.com/strk/gnash)                 | :heavy_check_mark: | GNU GPLv3                                                      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Adobe Flash      |          |
-| [Lightspark](https://github.com/lightspark/lightspark) | :heavy_check_mark: | GNU GPLv3                                                      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Adobe Flash      |          |
+| [Gnash](https://github.com/strk/gnash)                 | :heavy_check_mark: | GNU GPLv3                                                      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Adobe Flash      | :computer: :apple: :penguin: :imp: :globe_with_meridians: Haiku BeOS OS/2 [MANY](https://github.com/strk/gnash/blob/master/README) more        |
+| [Lightspark](https://github.com/lightspark/lightspark) | :heavy_check_mark: | GNU GPLv3                                                      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Adobe Flash      | :computer: :penguin: :globe_with_meridians:        |
+| [Ruffle](https://github.com/ruffle-rs/ruffle)          | :heavy_check_mark: | Dual-licensed under the Apache 2.0 license and the MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Adobe Flash      | :computer: :apple: :penguin: :globe_with_meridians:         |
 
 ### Game engine emulators/interpreters
 
 | Emulator                                      | FOSS               | License                                                            | Free               | Active             | Recommended        | Emulated systems           | Platform             |
 |-----------------------------------------------|--------------------|--------------------------------------------------------------------|--------------------|--------------------|--------------------|----------------------------|----------------------|
-| [EasyRPG](https://easyrpg.org/)               | :heavy_check_mark: | GNU GPLv3                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RPG Maker                  |                      |
-| [JoiPlay](http://joiplay.cyou/)               | :heavy_minus_sign: | No central repo, seems to just be a combination of other projects? | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RPG Maker, Ren'Py, HTML5   |                      |
-| [MKXP](https://github.com/Ancurio/mkxp)       | :heavy_check_mark: | GNU GPLv2                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Ruby Game Scripting System |                      |
+| [EasyRPG](https://easyrpg.org/)               | :heavy_check_mark: | GNU GPLv3                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RPG Maker                  | :computer: :apple: :penguin: :robot: :iphone: :globe_with_meridians: Nintendo Wii Nintendo 3DS Nintendo Switch Sony PlayStation Vita                     |
+| [JoiPlay](https://joiplay.net/)               | :heavy_minus_sign: | No central repo, seems to just be a combination of other projects? | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RPG Maker, Ren'Py, HTML5   | :robot: :globe_with_meridians:                     |
+| [MKXP](https://github.com/Ancurio/mkxp)       | :heavy_check_mark: | GNU GPLv2                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Ruby Game Scripting System | :computer: :apple: :penguin:                     |
 | [OpenGMK](https://github.com/OpenGMK/OpenGMK) | :heavy_check_mark: | GNU GPLv2                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Game Maker                 | :computer: :penguin: |
 
 ### Nuon emulators
 
 | Emulator                                                                       | FOSS               | License                                   | Free               | Active             | Recommended        | Emulated systems | Platform |
 |--------------------------------------------------------------------------------|--------------------|-------------------------------------------|--------------------|--------------------|--------------------|------------------|----------|
-| [Nuance](https://sourceforge.net/projects/nuance-nuon-emulator/)               | :heavy_check_mark: | 3-clause BSD                              | :heavy_check_mark: | :x:                | :heavy_check_mark: | Nuon             |          |
-| [NuanceResurrection](https://github.com/andkrau/NuanceResurrection)            | :heavy_check_mark: | 3-clause BSD                              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nuon             |          |
-| [NuonEm (No download link currently)](https://www.nuon-dome.com/download.html) | :heavy_minus_sign: | No license/source available at the moment | :heavy_check_mark: | :x:                | :x:                | Nuon             |          |
+| [Nuance](https://sourceforge.net/projects/nuance-nuon-emulator/)               | :heavy_check_mark: | 3-clause BSD                              | :heavy_check_mark: | :x:                | :heavy_check_mark: | Nuon             | :computer:         |
+| [NuanceResurrection](https://github.com/andkrau/NuanceResurrection)            | :heavy_check_mark: | 3-clause BSD                              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nuon             | :computer:         |
+| [NuonEm (No download link currently)](https://www.nuon-dome.com/download.html) | :heavy_minus_sign: | No license/source available at the moment | :heavy_check_mark: | :x:                | :x:                | Nuon             | :question:         |
 
 ### Game client emulators
 
