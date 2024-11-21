@@ -476,6 +476,7 @@ Legend:
 | Emulator                                                    | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems | Platform                     |
 |-------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|------------------|------------------------------|
 | [Cemu](https://cemu.info/)                                  | :heavy_check_mark: | MPLv2       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   | :computer: :apple: :penguin: |
+| [Cemu-Android](https://github.com/XForYouX/Cemu-Android/)   | :heavy_check_mark: | MPLv2       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   | :robot:                      |
 | [Decaf](https://github.com/decaf-emu/decaf-emu)             | :heavy_check_mark: | GNU GPLv3+  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   | :computer: :apple: :penguin: |
 | [Kinnay](https://github.com/kinnay/Wii-U-Firmware-Emulator) | :heavy_check_mark: | MIT license | :heavy_check_mark: | :x:                | :x:                | Nintendo Wii U   | :penguin:                    |
 
