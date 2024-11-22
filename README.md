@@ -502,6 +502,7 @@ Legend:
 | [Ryujinx (GreemDev fork)](https://github.com/GreemDev/Ryujinx) | :heavy_check_mark: | MIT license        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin: :robot: |
 | [Skyline](https://skyline-emu.one/)                            | :heavy_check_mark: | MPLv2              | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
 | [Strato](https://github.com/strato-emu/strato)                 | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
+| [Suyu](https://suyu.dev/)                                      | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin: :robot: |
 | [Yuzu](#)                                                      | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
 
 ### Sega
