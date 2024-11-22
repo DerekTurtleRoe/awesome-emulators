@@ -1675,6 +1675,7 @@ See multi-emulators section for "Emma 02 emulator"
 | [Arcadia](https://getarcadia.org/)                                            | :heavy_check_mark: | GNU GPLv3                                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign:  |          |
 | [Lutris](https://lutris.net/)                                                 | :heavy_check_mark: | GNU GPLv3                                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign:  |          |
 | [GameRoom](https://github.com/GameRoomPC/GameRoom)                            | :heavy_minus_sign: | Creative Commons BY-NC-SA 4.0 International | :heavy_check_mark: | :x:                | :x:                | :heavy_minus_sign:  |          |
+| [ProjectArcade](https://github.com/PRO100BYTE/ProjectArcade)                  | :heavy_check_mark: | GNU LGPLv3                                  | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign:  |          |
 
 ### Emulation frontends for Android
 
