@@ -1691,9 +1691,9 @@ See multi-emulators section for "Emma 02 emulator"
 
 | Frontend                                                                         | FOSS               | License     | Free               | Active             | Recommended        | Emulators used                 | Platform |
 |----------------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|--------------------------------|----------|
-| [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid) | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RetroArch                      |          |
-| [Daijishou](https://github.com/TapiocaFox/Daijishou)                             | :heavy_check_mark: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RetroArch, other emulator apps |          |
-| [Dig](https://play.google.com/store/apps/details?id=com.digdroid.alman.dig)      | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Unknown, "supports 83 systems" |          |
+| [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid) | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RetroArch                      | :robot:  |
+| [Daijishou](https://github.com/TapiocaFox/Daijishou)                             | :heavy_check_mark: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RetroArch, other emulator apps | :robot:  |
+| [Dig](https://play.google.com/store/apps/details?id=com.digdroid.alman.dig)      | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Unknown, "supports 83 systems" | :robot:  |
 
 ### Emulation scripts for setting up multiple emulators
 
@@ -1702,9 +1702,9 @@ See multi-emulators section for "Emma 02 emulator"
 | [Marley](https://github.com/beaumanvienna/marley) | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Mednafen, Dolphin, Mupen64Plus, PPSSPP, and PCSX2 | :penguin:         |
 
 ### Emulation services
-| Service                                                                          | FOSS               | License     | Free               | Active             | Recommended        | Emulators used                   | Platform                      |
-|----------------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|----------------------------------|-------------------------------|
-| [Afterplay](https://afterplay.io/)                                               | :x:                | Proprietary | :x:                | :heavy_check_mark: | :x:                | :question: (Possibly RetroArch?) | :globe_with_meridians         |
+| Service                                                                          | FOSS               | License     | Free               | Active             | Recommended        | Emulators used                   | Platform                       |
+|----------------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|----------------------------------|--------------------------------|
+| [Afterplay](https://afterplay.io/)                                               | :x:                | Proprietary | :x:                | :heavy_check_mark: | :x:                | :question: (Possibly RetroArch?) | :globe_with_meridians:         |
 
 ### Game collection managers
 
