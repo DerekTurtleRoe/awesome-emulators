@@ -322,15 +322,17 @@ Legend:
 | [Obliteration](https://github.com/obhq/obliteration)                                                          | :heavy_check_mark: | MIT license                 | :heavy_check_mark: | :heavy_check_mark: | :x:                | Sony PlayStation 4                     | :computer: :apple: :penguin: |
 | [Orbital](https://github.com/AlexAltea/orbital)                                                               | :heavy_check_mark: | MIT license                 | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Sony PlayStation 4                     | :computer: :apple: :penguin: |
 | [PS4Delta](https://github.com/Force67/ps4delta)                                                               | :heavy_check_mark: | GNU GPLv2                   | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 4                     | :computer:                   |
-| [RPCSX](https://github.com/RPCSX/rpcsx)                                                                       | :heavy_check_mark: | GNU GPLv2                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation 4                     | :penguin:                    |
+| [RPCSX](https://github.com/RPCSX/rpcsx)                                                                       | :heavy_check_mark: | GNU GPLv2                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation 4, Sony PlayStation 5 | :penguin:                    |
 | [shadPS4](https://github.com/georgemoralis/shadPS4)                                                           | :heavy_check_mark: | GNU GPLv2                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation 4                     | :computer: :penguin:         |
 | [Spine](https://github.com/devofspine/spine)                                                                  | :x:                | Proprietary                 | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 4                     | :computer:                   |
 
 #### Sony PlayStation 5
 
-| Emulator                                 | FOSS               | License     | Free               | Active             | Recommended | Emulated systems   | Platform   |
-|------------------------------------------|--------------------|-------------|--------------------|--------------------|-------------|--------------------|------------|
-| [Kyty](https://github.com/InoriRus/Kyty) | :heavy_check_mark: | MIT license | :heavy_check_mark: | :heavy_minus_sign: | :x:         | Sony PlayStation 5 | :computer: |
+| Emulator                                 | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems                       | Platform   |
+|------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|----------------------------------------|------------|
+| [Kyty](https://github.com/InoriRus/Kyty) | :heavy_check_mark: | MIT license | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Sony PlayStation 5                     | :computer: |
+| [RPCSX](https://github.com/RPCSX/rpcsx)  | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation 4, Sony PlayStation 5 | :penguin:  |
+
 
 ### Nintendo
 
