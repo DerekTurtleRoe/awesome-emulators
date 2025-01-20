@@ -1,11 +1,17 @@
-name: Markdown Linting
-'on':
+name: Linter
+
+on:
   push:
-    branches:
-      - main
+    branches: [ master ]
   pull_request:
-    branches:
-      - main
+    branches: [ master ]
+
 jobs:
-  - name: Super-Linter
-    uses: super-linter/super-linter@v7.2.1
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Super-Linter
+      uses: docker://github/super-linter:latest
