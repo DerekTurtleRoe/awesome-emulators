@@ -1,13 +1,11 @@
 name: Markdown Linting
-
-on:
+'on':
   push:
     branches:
       - main
   pull_request:
     branches:
       - main
-
 jobs:
-- name: Super-Linter
-  uses: super-linter/super-linter@v7.2.1
+  - name: Super-Linter
+    uses: super-linter/super-linter@v7.2.1
