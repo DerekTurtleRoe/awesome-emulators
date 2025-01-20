@@ -16,8 +16,3 @@ jobs:
   uses: DavidAnson/markdownlint-cli2-action@v19
   with:
     globs: '**/*.md'
-    name: Check out the code
-  name: Lint Markdown
-uses: docker://avtodev/markdown-lint:v1
-with:
-          args: "**/*.md"
