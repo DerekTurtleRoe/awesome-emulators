@@ -1,0 +1,21 @@
+name: Markdown Linting
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  linting:
+    name: "Markdown linting"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        name: Check out the code
+      - name: Lint Markdown
+        uses: docker://avtodev/markdown-lint:v1
+        with:
+          args: "**/*.md"
