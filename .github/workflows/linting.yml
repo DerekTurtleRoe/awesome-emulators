@@ -9,10 +9,5 @@ on:
       - main
 
 jobs:
-  linting:
-    name: "Markdown linting"
-    runs-on: ubuntu-latest
-    steps:
-  uses: DavidAnson/markdownlint-cli2-action@v19
-  with:
-    globs: '**/*.md'
+- name: Super-Linter
+  uses: super-linter/super-linter@v7.2.1
