@@ -13,9 +13,11 @@ jobs:
     name: "Markdown linting"
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-        name: Check out the code
-      - name: Lint Markdown
-        uses: docker://avtodev/markdown-lint:v1
-        with:
+  uses: DavidAnson/markdownlint-cli2-action@v19
+  with:
+    globs: '**/*.md'
+    name: Check out the code
+  name: Lint Markdown
+uses: docker://avtodev/markdown-lint:v1
+with:
           args: "**/*.md"
