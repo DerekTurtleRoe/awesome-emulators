@@ -4,9 +4,9 @@ A list of all the emulators for a particular system. Includes honorable and hist
 
 This list will always be kept as complete and up-to-date as possible, but please open an issue if you have any questions/comments/concerns.
 
-***Official websites and links to the authors will always be used if possible, otherwise mirrors may be used if they are available.***
+**_Official websites and links to the authors will always be used if possible, otherwise mirrors may be used if they are available._**
 
-***Quick note: the recommended column is purely subjective and I only use it as a means of answering the question "should/could/would you use it?" or "is there a viable use case or reason for this emulator to be used instead of another?" Please ask yourself what you are using the emulator for and then make an educated decision based on your own research and  needs.***
+**_Quick note: the recommended column is purely subjective and I only use it as a means of answering the question "should/could/would you use it?" or "is there a viable use case or reason for this emulator to be used instead of another?" Please ask yourself what you are using the emulator for and then make an educated decision based on your own research and needs._**
 
 Now onto the list! 😄
 
@@ -15,7 +15,7 @@ Legend:
 ## Source Availability
 
 | Name       | Icon               | Meaning                                                                           |
-|------------|--------------------|-----------------------------------------------------------------------------------|
+| ---------- | ------------------ | --------------------------------------------------------------------------------- |
 | Check mark | :heavy_check_mark: | Open-source project                                                               |
 | Minus sign | :heavy_minus_sign: | Partially open-source, no license, incorrect license, or disputed project license |
 | X          | :x:                | Closed-source/proprietary project                                                 |
@@ -23,7 +23,7 @@ Legend:
 ## Platform Support
 
 | Name        | Icon                   | Meaning         |
-|-------------|------------------------|-----------------|
+| ----------- | ---------------------- | --------------- |
 | Computer    | :computer:             | Runs on Windows |
 | Apple       | :apple:                | Runs on macOS   |
 | Penguin     | :penguin:              | Runs on Linux   |
@@ -35,159 +35,160 @@ Legend:
 
 ## Table of Contents
 
-1. [Awesome Emulators](#awesome-emulators)
-    1. [Source Availability](#source-availability)
-    2. [Platform Support](#platform-support)
-    3. [Table of Contents](#table-of-contents)
-    4. [Home Game Console Emulators](#home-game-console-emulators)
-        1. [Atari](#atari)
-            1. [Atari 2600](#atari-2600)
-            2. [Atari 5200](#atari-5200)
-            3. [Atari 7800](#atari-7800)
-            4. [Atari Jaguar/Jaguar CD](#atari-jaguarjaguar-cd)
-        2. [Commodore Amiga CD32](#commodore-amiga-cd32)
-        3. [LaserDisc systems](#laserdisc-systems)
-        4. [Sony](#sony)
-            1. [Sony PlayStation 1](#sony-playstation-1)
-            2. [Sony PlayStation 2](#sony-playstation-2)
-            3. [Sony PlayStation 3](#sony-playstation-3)
-            4. [Sony PlayStation 4](#sony-playstation-4)
-            5. [Sony PlayStation 5](#sony-playstation-5)
-        5. [Nintendo](#nintendo)
-            1. [Nintendo Entertainment System/Famicom](#nintendo-entertainment-systemfamicom)
-            2. [Super Nintendo Entertainment System/Super Famicom](#super-nintendo-entertainment-systemsuper-famicom)
-            3. [Nintendo 64](#nintendo-64)
-            4. [Nintendo GameCube](#nintendo-gamecube)
-            5. [Nintendo Wii](#nintendo-wii)
-            6. [Nintendo Wii U](#nintendo-wii-u)
-            7. [Nintendo Switch](#nintendo-switch)
-        6. [Sega](#sega)
-            1. [Sega Master System](#sega-master-system)
-            2. [Sega Genesis/Megadrive and 32X/Sega CD](#sega-genesismegadrive-and-32xsega-cd)
-            3. [Sega Saturn](#sega-saturn)
-            4. [Sega Dreamcast](#sega-dreamcast)
-            5. [Sega Dreamcast VMU](#sega-dreamcast-vmu)
-        7. [Microsoft](#microsoft)
-            1. [Microsoft Xbox](#microsoft-xbox)
-            2. [Microsoft Xbox 360](#microsoft-xbox-360)
-            3. [Microsoft Xbox One](#microsoft-xbox-one)
-            4. [Microsoft Xbox Series](#microsoft-xbox-series)
-        8. [NEC PC Engine/TurboGrafx](#nec-pc-engineturbografx)
-        9. [SNK Neo Geo AES/MVS/Neo Geo CD](#snk-neo-geo-aesmvsneo-geo-cd)
-        10. [Pong consoles](#pong-consoles)
-        11. [Magnavox Odyssey 2](#magnavox-odyssey-2)
-        12. [Philips CD-i](#philips-cd-i)
-        13. [Panasonic](#panasonic)
-            1. [Panasonic 3DO Interactive Multiplayer](#panasonic-3do-interactive-multiplayer)
-            2. [Panasonic 3DO M2](#panasonic-3do-m2)
-        14. [Gemei A330](#gemei-a330)
-        15. [Apple/Bandai Pippin](#applebandai-pippin)
-        16. [Mattel Intellivision](#mattel-intellivision)
-        17. [Coleco ColecoVision](#coleco-colecovision)
-        18. [Chip-8 and related system emulators/interpreters](#chip-8-and-related-system-emulatorsinterpreters)
-        19. [COSMAC VIP/RCA Studio II/Telmac 1800](#cosmac-viprca-studio-iitelmac-1800)
-    5. [Handheld game console emulators](#handheld-game-console-emulators)
-        1. [Nintendo](#nintendo-handhelds)
-            1. [Nintendo Game Boy/Game Boy Color](#nintendo-game-boygame-boy-color)
-            2. [Nintendo Game Boy Advance](#nintendo-game-boy-advance)
-            3. [Nintendo Game And Watch simulators](#nintendo-game-and-watch-simulators)
-            4. [Nintendo Virtual Boy](#nintendo-virtual-boy)
-            5. [Pokemon Mini](#pokemon-mini)
-            6. [Nintendo DS](#nintendo-ds)
-            7. [Nintendo 3DS](#nintendo-3ds)
-        2. [Game Park GP32](#game-park-gp32)
-        3. [Atari Lynx](#atari-lynx)
-        4. [Sega Game Gear](#sega-game-gear)
-        5. [Sony](#sony-handhelds)
-            1. [Sony PlayStation Portable](#sony-playstation-portable)
-            2. [Sony PocketStation](#sony-pocketstation)
-            3. [Sony PlayStation Vita](#sony-playstation-vita)
-        6. [Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch](#bandai-wonderswanwonderswan-colorswancrystalwonderwitch)
-        7. [SNK Neo Geo Pocket/Color](#snk-neo-geo-pocketcolor)
-        8. [Watara SuperVision](#watara-supervision)
-    6. [Phones/PDAs/other mobile devices, etc.](#phonespdasother-mobile-devices-etc)
-        1. [Apple iOS/iPod](#apple-iosipod)
-        2. [Google Android](#google-android)
-        3. [N-Gage](#n-gage)
-        4. [BREW](#brew)
-        5. [Mophun](#mophun)
-        6. [Java](#java)
-        7. [Palm devices](#palm-devices)
-    7. [Computer emulators](#computer-emulators)
-        1. [Acorn](#acorn)
-            1. [Acorn Atom computers](#acorn-atom-computers)
-            2. [Acorn BBC Micro computers](#acorn-bbc-micro-computers)
-            3. [Acorn Electron computers](#acorn-electron-computers)
-            4. [Acorn Archimedes computers](#acorn-archimedes-computers)
-        2. [Amstrad CPC computers](#amstrad-cpc-computers)
-        3. [DOS emulators](#dos-emulators)
-        4. [x86 emulators](#x86-emulators)
-        5. [System/370, ESA/390, z/Architecture](#system370-esa390-zarchitecture)
-        6. [Apple computers](#apple-computers)
-        7. [NeXT computers](#next-computers)
-        8. [Oberon RISC machine](#oberon-risc-machine)
-        9. [SIMH simulators](#simh-simulators)
-        10. [Coleco computers](#coleco-computers)
-        11. [Commodore](#commodore)
-            1. [Commodore computers](#commodore-computers)
-            2. [Commodore Amiga computers/Commodore Amiga CD32](#commodore-amiga-computerscommodore-amiga-cd32)
-        12. [Atari 400/800 and ST computers](#atari-400800-and-st-computers)
-        13. [Sinclair](#sinclair)
-            1. [Sinclair ZX81 computers](#sinclair-zx81-computers)
-            2. [Sinclair ZX Spectrum computers](#sinclair-zx-spectrum-computers)
-        14. [NEC](#nec)
-            1. [NEC 6000 computers](#nec-6000-computers)
-            2. [NEC 8800 computers](#nec-8800-computers)
-            3. [NEC 9800 computers](#nec-9800-computers)
-        15. [MSX computers](#msx-computers)
-        16. [Sharp](sharp)
-            1. [Sharp X1 computers](#sharp-x1-computers)
-            2. [Sharp X68000 computers](#sharp-x68000-computers)
-        17. [Virtualization solutions](#virtualization-solutions)
-        18. [Interpreters](#interpreters)
-    8. [Calculator emulators](#calculator-emulators)
-        1. [Texas Instruments](#texas-instruments)
-            1. [TI-81 series](#ti-81-series)
-            2. [TI-83 / TI-84 series](#ti-83--ti-84-series)
-            3. [TI-85 and TI-86 series](#ti-85-and-ti-86-series)
-            4. [TI-89 series](#ti-89-series)
-            5. [TI-90 series](#ti-90-series)
-            6. [Misc TI calculator emulators](#misc-ti-calculator-emulators)
-            7. [TI-Nspire](#ti-nspire)
-        2. [Hewlett Packard](#hewlett-packard)
-            1. [Hewlett Packard monochrome calculators](#hewlett-packard-monochrome-calculators)
-            2. [Hewlett Packard Prime calculators](#hewlett-packard-prime-calculators)
-            3. [Hewlett Packard scientific and financial calculators](#hewlett-packard-scientific-and-financial-calculators)
-            4. [Other HP calculator resources](#other-hp-calculator-resources)
-        3. [Casio calculators](#casio-calculators)
-        4. [Sharp calculators](#sharp-calculators)
-        5. [Elektronika calculators](#elektronika-calculators)
-    9. [Other miscellaneous emulators and projects:](#other-miscellaneous-emulators-and-projects)
-        1. [Adobe Flash emulators](#adobe-flash-emulators)
-        2. [Game engine emulators/interpreters](#game-engine-emulatorsinterpreters)
-        3. [Nuon emulators](#nuon-emulators)
-        4. [Game client emulators)](#game-client-emulators)
-        5. [Arcade machine emulators](#arcade-machine-emulators)
-        6. [Pinball machine emulators](#pinball-machine-emulators)
-        7. [Multi-system emulators](#multi-system-emulators)
-    10. [Emulation platforms](#emulation-platforms)
-        1. [Emulation operating systems for computers](#emulation-operating-systems-for-computers)
-        2. [Emulation operating systems for single board computers](#emulation-operating-systems-for-single-board-computers)
-        3. [Emulation frontends and launchers for Windows/Linux](#emulation-frontends-and-launchers-for-windowslinux)
-        4. [Emulation frontends for Android](#emulation-frontends-for-android)
-        5. [Emulation scripts for setting up multiple emulators](#emulation-scripts-for-setting-up-multiple-emulators)
-        6. [Game collection managers](#game-collection-managers)
-    11. [👨‍💻 Contributing](#👨‍💻-contributing)
-    12. [💬 Support](#💬-support)
-    13. [🙏 Special Thanks](#🙏-special-thanks)
-    14. [❓ FAQ](#-faq)
-        1. [Where can I download games?](#where-can-i-download-games)
-        2. [Can you give me personal help with emulator setup, dumping games and software, or other things?](#can-you-give-me-personal-help-with-emulator-setup-dumping-games-and-software-or-other-things)
-    15. [🐢 Author](#🐢-author)
-    16. [🔗 Links](#🔗-links)
-    17. [Related projects](#related-projects)
-    18. [Disclaimer](#disclaimer)
-    19. [📃 License](#📃-license)
+- [Awesome Emulators](#awesome-emulators)
+  - [Source Availability](#source-availability)
+  - [Platform Support](#platform-support)
+  - [Table of Contents](#table-of-contents)
+  - [Home Game Console Emulators](#home-game-console-emulators)
+    - [Atari](#atari)
+      - [Atari 2600](#atari-2600)
+      - [Atari 5200](#atari-5200)
+      - [Atari 7800](#atari-7800)
+      - [Atari Jaguar/Jaguar CD](#atari-jaguarjaguar-cd)
+      - [Commodore Amiga CD32](#commodore-amiga-cd32)
+    - [LaserDisc systems](#laserdisc-systems)
+    - [Sony](#sony)
+      - [Sony PlayStation 1](#sony-playstation-1)
+      - [Sony PlayStation 2](#sony-playstation-2)
+      - [Sony PlayStation 3](#sony-playstation-3)
+      - [Sony PlayStation 4](#sony-playstation-4)
+      - [Sony PlayStation 5](#sony-playstation-5)
+    - [Nintendo](#nintendo)
+      - [Nintendo Entertainment System/Famicom](#nintendo-entertainment-systemfamicom)
+      - [Super Nintendo Entertainment System/Super Famicom](#super-nintendo-entertainment-systemsuper-famicom)
+      - [Nintendo 64](#nintendo-64)
+      - [Nintendo GameCube](#nintendo-gamecube)
+      - [Nintendo Wii](#nintendo-wii)
+      - [Nintendo Wii U](#nintendo-wii-u)
+      - [Nintendo Switch](#nintendo-switch)
+    - [Sega](#sega)
+      - [Sega Master System](#sega-master-system)
+      - [Sega Genesis/Megadrive and 32X/Sega CD](#sega-genesismegadrive-and-32xsega-cd)
+      - [Sega Saturn](#sega-saturn)
+      - [Sega Dreamcast](#sega-dreamcast)
+      - [Sega Dreamcast VMU](#sega-dreamcast-vmu)
+    - [Microsoft](#microsoft)
+      - [Microsoft Xbox](#microsoft-xbox)
+      - [Microsoft Xbox 360](#microsoft-xbox-360)
+      - [Microsoft Xbox One](#microsoft-xbox-one)
+      - [Microsoft Xbox Series](#microsoft-xbox-series)
+    - [NEC PC Engine/TurboGrafx](#nec-pc-engineturbografx)
+    - [SNK Neo Geo AES/MVS/Neo Geo CD](#snk-neo-geo-aesmvsneo-geo-cd)
+    - [Pong consoles](#pong-consoles)
+    - [Magnavox Odyssey 2](#magnavox-odyssey-2)
+    - [Philips CD-i](#philips-cd-i)
+    - [Panasonic](#panasonic)
+      - [Panasonic 3DO Interactive Multiplayer](#panasonic-3do-interactive-multiplayer)
+      - [Panasonic 3DO M2](#panasonic-3do-m2)
+    - [Gemei A330](#gemei-a330)
+    - [GCE Vectrex](#gce-vectrex)
+    - [Apple/Bandai Pippin](#applebandai-pippin)
+    - [Mattel Intellivision](#mattel-intellivision)
+    - [Coleco ColecoVision](#coleco-colecovision)
+    - [Chip-8 and related system emulators/interpreters](#chip-8-and-related-system-emulatorsinterpreters)
+    - [COSMAC VIP/RCA Studio II/Telmac 1800](#cosmac-viprca-studio-iitelmac-1800)
+  - [Handheld game console emulators](#handheld-game-console-emulators)
+    - [Nintendo Handhelds](#nintendo-handhelds)
+      - [Nintendo Game Boy/Game Boy Color](#nintendo-game-boygame-boy-color)
+      - [Nintendo Game Boy Advance](#nintendo-game-boy-advance)
+      - [Nintendo Game And Watch simulators](#nintendo-game-and-watch-simulators)
+      - [Nintendo Virtual Boy](#nintendo-virtual-boy)
+    - [Pokemon Mini](#pokemon-mini)
+      - [Nintendo DS](#nintendo-ds)
+      - [Nintendo 3DS](#nintendo-3ds)
+    - [Game Park GP32](#game-park-gp32)
+      - [Atari Lynx](#atari-lynx)
+      - [Sega Game Gear](#sega-game-gear)
+    - [Sony Handhelds](#sony-handhelds)
+      - [Sony PlayStation Portable](#sony-playstation-portable)
+      - [Sony PocketStation](#sony-pocketstation)
+      - [Sony PlayStation Vita](#sony-playstation-vita)
+    - [Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch](#bandai-wonderswanwonderswan-colorswancrystalwonderwitch)
+    - [SNK Neo Geo Pocket/Color](#snk-neo-geo-pocketcolor)
+    - [Watara SuperVision](#watara-supervision)
+  - [Phones/PDAs/other mobile devices, etc](#phonespdasother-mobile-devices-etc)
+    - [Apple iOS/iPod](#apple-iosipod)
+    - [Google Android](#google-android)
+    - [N-Gage](#n-gage)
+    - [BREW](#brew)
+    - [Mophun](#mophun)
+    - [Java](#java)
+    - [Palm devices](#palm-devices)
+  - [Computer emulators](#computer-emulators)
+    - [Acorn](#acorn)
+      - [Acorn Atom computers](#acorn-atom-computers)
+      - [Acorn BBC Micro computers](#acorn-bbc-micro-computers)
+      - [Acorn Electron computers](#acorn-electron-computers)
+      - [Acorn Archimedes computers](#acorn-archimedes-computers)
+    - [Amstrad CPC computers](#amstrad-cpc-computers)
+    - [DOS emulators](#dos-emulators)
+    - [x86 emulators](#x86-emulators)
+    - [System/370, ESA/390, z/Architecture](#system370-esa390-zarchitecture)
+    - [Apple computers](#apple-computers)
+    - [NeXT computers](#next-computers)
+    - [Oberon RISC machine](#oberon-risc-machine)
+    - [SIMH simulators](#simh-simulators)
+    - [Coleco computers](#coleco-computers)
+    - [Commodore](#commodore)
+      - [Commodore computers](#commodore-computers)
+      - [Commodore Amiga computers/Commodore Amiga CD32](#commodore-amiga-computerscommodore-amiga-cd32)
+      - [Atari 400/800 and ST computers](#atari-400800-and-st-computers)
+    - [Sinclair](#sinclair)
+      - [Sinclair ZX81 computers](#sinclair-zx81-computers)
+      - [Sinclair ZX Spectrum computers](#sinclair-zx-spectrum-computers)
+    - [NEC](#nec)
+      - [NEC 6000 computers](#nec-6000-computers)
+      - [NEC 8800 computers](#nec-8800-computers)
+      - [NEC 9800 computers](#nec-9800-computers)
+    - [MSX computers](#msx-computers)
+    - [Sharp X1 computers](#sharp-x1-computers)
+    - [Sharp X68000 computers](#sharp-x68000-computers)
+    - [Virtualization solutions](#virtualization-solutions)
+    - [Interpreters](#interpreters)
+  - [Calculator emulators](#calculator-emulators)
+    - [Texas Instruments](#texas-instruments)
+      - [TI-81 series](#ti-81-series)
+      - [TI-83 / TI-84 series](#ti-83--ti-84-series)
+      - [TI-85 and TI-86 series](#ti-85-and-ti-86-series)
+      - [TI-89 series](#ti-89-series)
+      - [TI-90 series](#ti-90-series)
+    - [Misc TI calculator emulators](#misc-ti-calculator-emulators)
+      - [TI-Nspire](#ti-nspire)
+    - [Hewlett Packard](#hewlett-packard)
+      - [Hewlett Packard monochrome calculators](#hewlett-packard-monochrome-calculators)
+      - [Hewlett Packard Prime calculators](#hewlett-packard-prime-calculators)
+      - [Hewlett Packard scientific and financial calculators](#hewlett-packard-scientific-and-financial-calculators)
+      - [Other HP calculator resources](#other-hp-calculator-resources)
+    - [Casio calculators](#casio-calculators)
+    - [Sharp calculators](#sharp-calculators)
+    - [Elektronika calculators](#elektronika-calculators)
+  - [Other miscellaneous emulators and projects](#other-miscellaneous-emulators-and-projects)
+    - [Adobe Flash emulators](#adobe-flash-emulators)
+    - [Game engine emulators/interpreters](#game-engine-emulatorsinterpreters)
+    - [Nuon emulators](#nuon-emulators)
+    - [Game client emulators](#game-client-emulators)
+    - [Arcade machine emulators](#arcade-machine-emulators)
+    - [Pinball machine emulators](#pinball-machine-emulators)
+    - [Multi-system emulators](#multi-system-emulators)
+  - [Emulation platforms](#emulation-platforms)
+    - [Emulation operating systems for computers](#emulation-operating-systems-for-computers)
+    - [Emulation operating systems for single board computers](#emulation-operating-systems-for-single-board-computers)
+    - [Emulation frontends and launchers for Windows/Linux](#emulation-frontends-and-launchers-for-windowslinux)
+    - [Emulation frontends for Android](#emulation-frontends-for-android)
+    - [Emulation scripts for setting up multiple emulators](#emulation-scripts-for-setting-up-multiple-emulators)
+    - [Emulation services](#emulation-services)
+    - [Game collection managers](#game-collection-managers)
+  - [👨‍💻 Contributing](#-contributing)
+  - [💬 Support](#-support)
+  - [🙏 Special Thanks](#-special-thanks)
+  - [❓ FAQ](#-faq)
+    - [Where can I download games?](#where-can-i-download-games)
+    - [Can you give me personal help with emulator setup, dumping games and software, or other things?](#can-you-give-me-personal-help-with-emulator-setup-dumping-games-and-software-or-other-things)
+  - [🐢 Author](#-author)
+  - [🔗 Links](#-links)
+  - [Related projects](#related-projects)
+  - [Disclaimer](#disclaimer)
+  - [📃 License](#-license)
 
 ## Home Game Console Emulators
 
@@ -196,7 +197,7 @@ Legend:
 #### Atari 2600
 
 | Emulator                                                        | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform                           |
-|-----------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|------------------|------------------------------------|
+| --------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------------- |
 | [A26](https://www.zophar.net/a2600/a26.html)                    | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :x:                | Atari 2600       | :floppy_disk:                      |
 | [Gopher2600](https://github.com/JetSetIlly/Gopher2600)          | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Atari 2600       | :computer: :penguin:               |
 | [javatari](https://github.com/ppeccin/javatari.js)              | :heavy_check_mark: | AGPLv3           | :heavy_check_mark: | :heavy_check_mark: | :x:                | Atari 2600       | :globe_with_meridians:             |
@@ -213,7 +214,7 @@ Legend:
 #### Atari 5200
 
 | Emulator                                                                                                        | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems                  | Platform                     |
-|-----------------------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-----------------------------------|------------------------------|
+| --------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | --------------------------------- | ---------------------------- |
 | [A5200DS](https://github.com/wavemotion-dave/A5200DS/)                                                          | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Atari 5200                        | Nintendo DS                  |
 | [Jum52](https://www.zophar.net/a5200/jum52.html)                                                                | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Atari 5200                        | :computer:                   |
 | [kat5200](https://kat5200.jillybunch.com/)                                                                      | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari 5200, Atari 8-bit computers | :computer: :apple: :penguin: |
@@ -223,7 +224,7 @@ Legend:
 #### Atari 7800
 
 | Emulator                                                | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-|---------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|------------------|------------------------------|
+| ------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
 | [A7800](https://github.com/7800-devtools/a7800)         | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Atari 7800       | :computer: :apple: :penguin: |
 | [A7800DS](https://github.com/wavemotion-dave/A7800DS/)  | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Atari 7800       | Nintendo DS                  |
 | [BupSystem](http://tailchao.com/BupSystem)              | :x:                | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Atari 7800       | :computer:                   |
@@ -235,7 +236,7 @@ Legend:
 #### Atari Jaguar/Jaguar CD
 
 | Emulator                                                  | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems              | Platform                     |
-|-----------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-------------------------------|------------------------------|
+| --------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ----------------------------- | ---------------------------- |
 | [BigPEmu](https://www.richwhitehouse.com/jaguar/)         | :x:                | Proprietary      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari Jaguar, Atari Jaguar CD | :computer: :penguin:         |
 | [Jaggy](https://www.zophar.net/jaguar/jaggy.html)         | :heavy_check_mark: | Source available | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  | :computer:                   |
 | [Jagulator](https://www.zophar.net/jaguar/jagulator.html) | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Atari Jaguar                  | :computer:                   |
@@ -245,13 +246,13 @@ Legend:
 #### Commodore Amiga CD32
 
 | Emulator                                         | FOSS | License     | Free | Active | Recommended | Emulated systems     | Platform   |
-|--------------------------------------------------|------|-------------|------|--------|-------------|----------------------|------------|
+| ------------------------------------------------ | ---- | ----------- | ---- | ------ | ----------- | -------------------- | ---------- |
 | [Akiko](https://www.zophar.net/amiga/akiko.html) | :x:  | Proprietary | :x:  | :x:    | :x:         | Commodore Amiga CD32 | :computer: |
 
 ### LaserDisc systems
 
 | Emulator                                               | FOSS               | License      | Free               | Active             | Recommended        | Emulated systems                    | Platform   |
-|--------------------------------------------------------|--------------------|--------------|--------------------|--------------------|--------------------|-------------------------------------|------------|
+| ------------------------------------------------------ | ------------------ | ------------ | ------------------ | ------------------ | ------------------ | ----------------------------------- | ---------- |
 | [DAPHNE](http://www.daphne-emu.com/site3/index_hi.php) | :heavy_check_mark: | GNU GPLv2    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | LaserDisc arcade software           | :computer: |
 | [Dirk Simple](https://github.com/icculus/DirkSimple)   | :heavy_check_mark: | zlib license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Dragon's Lair LaserDisc arcade game | :computer: |
 | [SINGE](https://kangaroopunch.com/software/singe)      | :heavy_check_mark: | GNU GPLv2    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | LaserDisc arcade software           | :computer: |
@@ -261,7 +262,7 @@ Legend:
 #### Sony PlayStation 1
 
 | Emulator                                                                                                 | FOSS               | License                                                                    | Free                     | Active             | Recommended        | Emulated systems                                  | Platform                     |
-|----------------------------------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------|--------------------------|--------------------|--------------------|---------------------------------------------------|------------------------------|
+| -------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------- | ------------------------ | ------------------ | ------------------ | ------------------------------------------------- | ---------------------------- |
 | [AdriPSX](https://www.emulator-zone.com/doc.php/psx/andripsx.html)                                       | :x:                | Proprietary                                                                | :heavy_check_mark:       | :x:                | :x:                | Sony PlayStation                                  | :computer:                   |
 | [Avocado](https://github.com/JaCzekanski/Avocado)                                                        | :heavy_check_mark: | GNU GPLv2                                                                  | :heavy_check_mark:       | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation                                  | :robot:                      |
 | [Bleem!](https://wikiless.org/wiki/Bleem!?lang=en)                                                       | :x:                | Proprietary                                                                | :x:                      | :x:                | :x:                | Sony PlayStation                                  | :computer:                   |
@@ -295,7 +296,7 @@ Legend:
 #### Sony PlayStation 2
 
 | Emulator                                                                          | FOSS               | License            | Free               | Active             | Recommended        | Emulated systems   | Platform                     |
-|-----------------------------------------------------------------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|------------------------------|
+| --------------------------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ---------------------------- |
 | [AetherSX2](https://www.aethersx2.com/archive/)                                   | :heavy_minus_sign: | Partially          | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 2 | :robot:                      |
 | [AetherSX2 decompile](https://free-git.org/AetherSX2-Revival/AetherSX2-Decompile) | :heavy_minus_sign: | :heavy_minus_sign: | :x:                | :x:                | :x:                | Sony PlayStation 2 | :robot:                      |
 | [ChonkyStation2](https://github.com/liuk7071/ChonkyStation2)                      | :heavy_check_mark: | Source available   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation 2 | :computer: :apple: :penguin: |
@@ -314,7 +315,7 @@ Legend:
 #### Sony PlayStation 3
 
 | Emulator                                                                                            | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems   | Platform                                      |
-|-----------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|--------------------|-----------------------------------------------|
+| --------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ------------------ | --------------------------------------------- |
 | [ChonkyStation3](https://github.com/liuk7071/ChonkyStation3)                                        | :heavy_check_mark: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation 3 | :computer: :apple: :penguin:                  |
 | [Nucleus](https://github.com/AlexAltea/nucleus)                                                     | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 3 | :computer: :apple: :penguin: :robot: :iphone: |
 | [PS3F](https://web.archive.org/web/20161029044210/http://www.geocities.jp/mj3kj8o5/ps3f/index.html) | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation 3 | :computer:                                    |
@@ -324,7 +325,7 @@ Legend:
 #### Sony PlayStation 4
 
 | Emulator                                                                                                                                          | FOSS               | License                     | Free               | Active             | Recommended        | Emulated systems                       | Platform                     |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|-----------------------------|--------------------|--------------------|--------------------|----------------------------------------|------------------------------|
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------- | ------------------ | ------------------ | ------------------ | -------------------------------------- | ---------------------------- |
 | [fpPS4](https://github.com/red-prig/fpPS4) and a [GUI](https://github.com/themitosan/fpPS4-Temmie-s-Launcher)                                     | :heavy_check_mark: | LGPLv2.1 (GUI is GNU GPLv2) | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation 4                     | :computer:                   |
 | [GPCS4](https://github.com/Inori/GPCS4)                                                                                                           | :heavy_check_mark: | GNU GPLv3                   | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Sony PlayStation 4                     | :computer:                   |
 | [Kyty](https://github.com/InoriRus/Kyty)                                                                                                          | :heavy_check_mark: | MIT license                 | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Sony PlayStation 4, Sony PlayStation 5 | :computer:                   |
@@ -341,17 +342,16 @@ Legend:
 #### Sony PlayStation 5
 
 | Emulator                                 | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems                       | Platform   |
-|------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|----------------------------------------|------------|
+| ---------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | -------------------------------------- | ---------- |
 | [Kyty](https://github.com/InoriRus/Kyty) | :heavy_check_mark: | MIT license | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Sony PlayStation 5                     | :computer: |
 | [RPCSX](https://github.com/RPCSX/rpcsx)  | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation 4, Sony PlayStation 5 | :penguin:  |
-
 
 ### Nintendo
 
 #### Nintendo Entertainment System/Famicom
 
 | Emulator                                                                                                                 | FOSS               | License                                           | Free               | Active             | Recommended        | Emulated systems                                                                    | Platform                                                    |
-|--------------------------------------------------------------------------------------------------------------------------|--------------------|---------------------------------------------------|--------------------|--------------------|--------------------|-------------------------------------------------------------------------------------|-------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------------------ | ------------------ | ------------------------------------------------- | ------------------ | ------------------ | ------------------ | ----------------------------------------------------------------------------------- | ----------------------------------------------------------- |
 | [3dSen](http://www.geodstudio.net/)                                                                                      | :x:                | Proprietary                                       | :x:                | :heavy_check_mark: | :heavy_check_mark: | Nintendo Entertainment System/Famicom                                               | :computer: :apple: :penguin:                                |
 | [ANESE](https://github.com/daniel5151/ANESE)                                                                             | :heavy_check_mark: | MIT license                                       | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Nintendo Entertainment System/Famicom                                               | :computer: :apple: :penguin:                                |
 | [FCEUX](https://fceux.com/web/home.html)                                                                                 | :heavy_check_mark: | GNU GPLv2                                         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Entertainment System/Famicom                                               | :computer: :apple: :penguin:                                |
@@ -365,7 +365,7 @@ Legend:
 | [Mesen](https://github.com/SourMesen/Mesen) ([deprecated in favor of Mesen](https://github.com/SourMesen/Mesen2))        | :heavy_check_mark: | GNU GPLv2                                         | :heavy_check_mark: | :x:                | :x:                | Nintendo Entertainment System/Famicom                                               | :computer: :penguin:                                        |
 | [Mesen-X](https://github.com/NovaSquirrel/Mesen-X) ([deprecated in favor of Mesen](https://github.com/SourMesen/Mesen2)) | :heavy_check_mark: | GNU GPLv2                                         | :heavy_check_mark: | :x:                | :x:                | Nintendo Entertainment System/Famicom                                               | :computer: :penguin:                                        |
 | [Nen emulator](https://github.com/Comba92/nen-emulator)                                                                  | :heavy_check_mark: | GNU GPLv3                                         | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Entertainment System/Famicom                                               | :computer:                                                  |
-| [NESC](https://github.com/DenSinH/NESC-)                                                                  | :heavy_check_mark: | GNU GPLv3                                         | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Entertainment System/Famicom                                               | :computer:                                                  |
+| [NESC](https://github.com/DenSinH/NESC-)                                                                                 | :heavy_check_mark: | GNU GPLv3                                         | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Entertainment System/Famicom                                               | :computer:                                                  |
 | [Nestopia](https://sourceforge.net/projects/nestopia/)                                                                   | :heavy_check_mark: | GNU GPLv2                                         | :heavy_check_mark: | :x:                | :x:                | Nintendo Entertainment System/Famicom                                               | :computer:                                                  |
 | [Nestopia Undead Edition](https://github.com/0ldsk00l/nestopia)                                                          | :heavy_check_mark: | GNU GPLv2                                         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Entertainment System/Famicom                                               | :computer: :penguin: :imp:                                  |
 | [nemulator](http://nemulator.com/)                                                                                       | :x:                | Proprietary                                       | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Nintendo Entertainment System/Famicom, Game Boy, Sega Game Gear, Sega Master System | :computer:                                                  |
@@ -385,7 +385,7 @@ Legend:
 #### Super Nintendo Entertainment System/Super Famicom
 
 | Emulator                                                                                                                                                                                                                                                                                                                             | FOSS               | License              | Free               | Active             | Recommended        | Emulated systems                                  | Platform                                                                                                                                   |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|----------------------|--------------------|--------------------|--------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | -------------------- | ------------------ | ------------------ | ------------------ | ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | [bsnes](https://github.com/bsnes-emu/bsnes)                                                                                                                                                                                                                                                                                          | :heavy_check_mark: | GNU GPLv3+           | :heavy_check_mark: | :x:                | :heavy_check_mark: | Super Nintendo Entertainment System/Super Famicom | :computer: :apple: :penguin: :imp:                                                                                                         |
 | [bsnes+](https://github.com/devinacker/bsnes-plus)                                                                                                                                                                                                                                                                                   | :heavy_check_mark: | GNU GPLv3+           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Super Nintendo Entertainment System/Super Famicom | :computer: :apple: :penguin: :imp:                                                                                                         |
 | [bsnes-classic](https://github.com/sharknnth/bsnes-classic/)                                                                                                                                                                                                                                                                         | :heavy_check_mark: | GNU GPLv3+           | :heavy_check_mark: | :x:                | :heavy_check_mark: | Super Nintendo Entertainment System/Super Famicom | :computer: :apple: :penguin: :imp:                                                                                                         |
@@ -400,12 +400,12 @@ Legend:
 | [SNES9x](https://github.com/snes9xgit/snes9x)                                                                                                                                                                                                                                                                                        | :heavy_minus_sign: | Custom license       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Super Nintendo Entertainment System/Super Famicom | :computer: :apple: :penguin: :imp: :globe_with_meridians: :robot: Nintendo GameCube Nintendo Wii Nintendo Switch Sony PlayStation Portable |
 | [SNEeSe](https://sourceforge.net/projects/sneese/)                                                                                                                                                                                                                                                                                   | :heavy_minus_sign: | Artistic License 2.0 | :heavy_check_mark: | :x:                | :x:                | Super Nintendo Entertainment System/Super Famicom | :computer: :penguin: :imp: :floppy_disk:                                                                                                   |
 | [SNESGT](http://gigo.retrogames.com/)                                                                                                                                                                                                                                                                                                | :x:                | Proprietary          | :heavy_check_mark: | :x:                | :x:                | Super Nintendo Entertainment System/Super Famicom | :computer:                                                                                                                                 |
-| [ZSNES - A historic emulator, and it is undergoing a huge rewrite for a new release eventually™](http://zsnes.com/)                                                                                                                                                                                                                  | :heavy_check_mark: | GNU GPLv2            | :heavy_check_mark: | :heavy_check_mark: | :x:                | Super Nintendo Entertainment System/Super Famicom | :computer: :floppy_disk: :penguin:                                                                                                         |
+| [ZSNES - A historic emulator, and it is undergoing a huge rewrite for a new release eventually™](http://zsnes.com/)                                                                                                                                                                                                                 | :heavy_check_mark: | GNU GPLv2            | :heavy_check_mark: | :heavy_check_mark: | :x:                | Super Nintendo Entertainment System/Super Famicom | :computer: :floppy_disk: :penguin:                                                                                                         |
 
 #### Nintendo 64
 
 | Emulator                                                                                                                                                                        | FOSS               | License                                                                                           | Free               | Active             | Recommended        | Emulated systems | Platform                                                    |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------|--------------------|--------------------|--------------------|------------------|-------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ---------------- | ----------------------------------------------------------- |
 | [1964](https://www.emulation64.com/files/info/197/1964.html/)                                                                                                                   | :heavy_check_mark: | GNU GPLv2                                                                                         | :heavy_check_mark: | :x:                | :x:                | Nintendo 64      | :computer:                                                  |
 | [1964.js](https://github.com/schibo/1964js)                                                                                                                                     | :heavy_check_mark: | GNU GPLv2                                                                                         | :heavy_check_mark: | :x:                | :x:                | Nintendo 64      | :globe_with_meridians:                                      |
 | [1964-GEPD](https://github.com/Graslu/1964GEPD)                                                                                                                                 | :heavy_check_mark: | GNU GPLv2                                                                                         | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Nintendo 64      | :computer:                                                  |
@@ -478,7 +478,7 @@ Legend:
 #### Nintendo GameCube
 
 | Emulator                                                         | FOSS               | License           | Free               | Active             | Recommended        | Emulated systems                | Platform                             |
-|------------------------------------------------------------------|--------------------|-------------------|--------------------|--------------------|--------------------|---------------------------------|--------------------------------------|
+| ---------------------------------------------------------------- | ------------------ | ----------------- | ------------------ | ------------------ | ------------------ | ------------------------------- | ------------------------------------ |
 | [Dolphin](https://dolphin-emu.org/)                              | :heavy_check_mark: | GNU GPLv3         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin: :robot: |
 | [DolphiniOS](https://dolphinios.oatmealdome.me/)                 | :heavy_check_mark: | GNU GPLv3         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :iphone:                             |
 | [Dolwin](https://www.emulation64.com/files/info/86/dolwin.html/) | :heavy_minus_sign: | Source available  | :heavy_check_mark: | :x:                | :x:                | Nintendo GameCube               | :computer:                           |
@@ -491,16 +491,16 @@ Legend:
 
 #### Nintendo Wii
 
-| Emulator                                                | FOSS               | License   | Free               | Active             | Recommended        | Emulated systems                | Platform                               |
-|---------------------------------------------------------|--------------------|-----------|--------------------|--------------------|--------------------|---------------------------------|--------------------------------------|
-| [Dolphin](https://dolphin-emu.org/)                     | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin: :robot: |
-| [DolphiniOS](https://github.com/OatmealDome/dolphin-ios)| :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :iphone:                               |
-| [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka) | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :x:                | :x:                | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin:         |
+| Emulator                                                 | FOSS               | License   | Free               | Active             | Recommended        | Emulated systems                | Platform                             |
+| -------------------------------------------------------- | ------------------ | --------- | ------------------ | ------------------ | ------------------ | ------------------------------- | ------------------------------------ |
+| [Dolphin](https://dolphin-emu.org/)                      | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin: :robot: |
+| [DolphiniOS](https://github.com/OatmealDome/dolphin-ios) | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :iphone:                             |
+| [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka)  | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :x:                | :x:                | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin:         |
 
 #### Nintendo Wii U
 
 | Emulator                                                    | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-|-------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|------------------|------------------------------|
+| ----------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
 | [Cemu](https://cemu.info/)                                  | :heavy_check_mark: | MPLv2       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   | :computer: :apple: :penguin: |
 | [Cemu-Android](https://github.com/XForYouX/Cemu-Android/)   | :heavy_check_mark: | MPLv2       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   | :robot:                      |
 | [Decaf](https://github.com/decaf-emu/decaf-emu)             | :heavy_check_mark: | GNU GPLv3+  | :heavy_check_mark: | :x:                | :x:                | Nintendo Wii U   | :computer: :apple: :penguin: |
@@ -508,44 +508,44 @@ Legend:
 
 #### Nintendo Switch
 
-| Emulator                                                               | FOSS               | License            | Free               | Active             | Recommended        | Emulated systems | Platform                             |
-|------------------------------------------------------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|------------------|--------------------------------------|
-| [CageTheUnicorn](https://github.com/reswitched/CageTheUnicorn)         | :heavy_check_mark: | ISC license        | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
-| [Citron](https://git.citron-emu.org/Citron/Citron)                     | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
-| [ctremu](https://github.com/burhanr13/ctremu)                          | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :penguin: :apple:                    |
-| [Mephisto](https://github.com/reswitched/Mephisto)                     | :heavy_check_mark: | GNU GPLv2          | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
-| [Nozomi](https://github.com/noumidev/Nozomi)                           | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :heavy_minus_sign:                   |
-| [NSEmu](https://github.com/RKX1209/nsemu)                              | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :penguin:                            |
-| [NXEmu](https://discord.gg/tA2pg3ZM)                                   | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Nintendo Switch  | :computer:                           |
-| [Pine](https://github.com/Ishan09811/pine)                             | :heavy_check_mark: | MPLv2              | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
-| [Pomelo](https://pomelo-emu.github.io/)                                | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :iphone:                             |
-| [Ryujinx](#)                                                           | :heavy_check_mark: | MIT license        | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin: :robot: |
-| [Ryujinx-mirror](https://git.ryujinx.app/archive/ryujinx-mirror)       | :heavy_check_mark: | MIT license        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin: :robot: |
-| [Ryujinx (KeatonTheBot fork)](https://github.com/Kenji-NX/Kenji-NX)    | :heavy_check_mark: | MIT license        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin:         |
-| [Ryujinx (Ryubing fork)](https://git.ryujinx.app/ryubing/ryujinx)      | :heavy_check_mark: | MIT license        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin:         |
-| [Skyline](https://skyline-emu.one/)                                    | :heavy_check_mark: | MPLv2              | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
-| [Strato](https://github.com/strato-emu/strato)                         | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
-| [Sudachi](https://sudachi.emuplace.app/)                               | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :robot:                   |
-| [Suyu](https://suyu.dev/)                                              | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :x: | :x: | Nintendo Switch  | :computer: :penguin:                 |
-| [Uzuy](https://uzuy-edge.org/)                                         | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :penguin:                 |
-| [Yuzu](#)                                                              | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
+| Emulator                                                            | FOSS               | License            | Free               | Active             | Recommended        | Emulated systems | Platform                             |
+| ------------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ---------------- | ------------------------------------ |
+| [CageTheUnicorn](https://github.com/reswitched/CageTheUnicorn)      | :heavy_check_mark: | ISC license        | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
+| [Citron](https://git.citron-emu.org/Citron/Citron)                  | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
+| [ctremu](https://github.com/burhanr13/ctremu)                       | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :penguin: :apple:                    |
+| [Mephisto](https://github.com/reswitched/Mephisto)                  | :heavy_check_mark: | GNU GPLv2          | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
+| [Nozomi](https://github.com/noumidev/Nozomi)                        | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :heavy_minus_sign:                   |
+| [NSEmu](https://github.com/RKX1209/nsemu)                           | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :penguin:                            |
+| [NXEmu](https://discord.gg/tA2pg3ZM)                                | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Nintendo Switch  | :computer:                           |
+| [Pine](https://github.com/Ishan09811/pine)                          | :heavy_check_mark: | MPLv2              | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
+| [Pomelo](https://pomelo-emu.github.io/)                             | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :iphone:                             |
+| [Ryujinx](#)                                                        | :heavy_check_mark: | MIT license        | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin: :robot: |
+| [Ryujinx-mirror](https://git.ryujinx.app/archive/ryujinx-mirror)    | :heavy_check_mark: | MIT license        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin: :robot: |
+| [Ryujinx (KeatonTheBot fork)](https://github.com/Kenji-NX/Kenji-NX) | :heavy_check_mark: | MIT license        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin:         |
+| [Ryujinx (Ryubing fork)](https://git.ryujinx.app/ryubing/ryujinx)   | :heavy_check_mark: | MIT license        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin:         |
+| [Skyline](https://skyline-emu.one/)                                 | :heavy_check_mark: | MPLv2              | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
+| [Strato](https://github.com/strato-emu/strato)                      | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
+| [Sudachi](https://sudachi.emuplace.app/)                            | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :robot:                   |
+| [Suyu](https://suyu.dev/)                                           | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :penguin:                 |
+| [Uzuy](https://uzuy-edge.org/)                                      | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :penguin:                 |
+| [Yuzu](#)                                                           | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
 
 ### Sega
 
 #### Sega Master System
 
 | Emulator                                              | FOSS               | License              | Free               | Active | Recommended        | Emulated systems                                                                              | Platform                           |
-|-------------------------------------------------------|--------------------|----------------------|--------------------|--------|--------------------|-----------------------------------------------------------------------------------------------|------------------------------------|
+| ----------------------------------------------------- | ------------------ | -------------------- | ------------------ | ------ | ------------------ | --------------------------------------------------------------------------------------------- | ---------------------------------- |
 | [FreezeSMS](http://freezesms.emuunlim.com/index.html) | :x:                | Proprietary          | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sega Master System, Nintendo Entertainment System, Sega Game Gear, Sega SG-1000, ColecoVision | :computer:                         |
 | [SMSPLUS](https://github.com/0ldsk00l/smsplus)        | :heavy_check_mark: | 3-clause BSD license | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sega Master System, Sega Game Gear                                                            | :computer: :apple: :penguin: :imp: |
 
 #### Sega Genesis/Megadrive and 32X/Sega CD
 
 | Emulator                                                                    | FOSS               | License                    | Free               | Active             | Recommended        | Emulated systems                                                                       | Platform                                                                           |
-|-----------------------------------------------------------------------------|--------------------|----------------------------|--------------------|--------------------|--------------------|----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| --------------------------------------------------------------------------- | ------------------ | -------------------------- | ------------------ | ------------------ | ------------------ | -------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
 | [Ages](https://www.emulator-zone.com/doc.php/genesis/ages.html)             | :x:                | Proprietary                | :heavy_check_mark: | :x:                | :x:                | Sega Genesis/Megadrive, Sega CD, Sega 32X, Sega Master System, Sega Game Gear          | :computer:                                                                         |
 | [BlastEm](https://www.retrodev.com/blastem/)                                | :heavy_check_mark: | GNU GPLv3                  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sega Genesis/Megadrive                                                                 | :computer: :apple: :penguin:                                                       |
-| [Cega](https://gitlab.com/jgemu/cega)                                       | :heavy_check_mark: | Mozilla Public License 2.0 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sega Genesis/Megadrive, Sega Master System, Sega Game Gear, SG-1000 | :computer: :apple: :penguin:                                                       |
+| [Cega](https://gitlab.com/jgemu/cega)                                       | :heavy_check_mark: | Mozilla Public License 2.0 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sega Genesis/Megadrive, Sega Master System, Sega Game Gear, SG-1000                    | :computer: :apple: :penguin:                                                       |
 | [DGen](https://dgen.sourceforge.net/)                                       | :heavy_check_mark: | BSD license                | :heavy_check_mark: | :x:                | :x:                | Sega Genesis/Megadrive                                                                 | :computer: :penguin:                                                               |
 | [Exodus](https://www.exodusemulator.com/)                                   | :heavy_check_mark: | 3-clause BSD license       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sega Genesis/Megadrive                                                                 | :computer:                                                                         |
 | [Genesis-Plus-GX](https://github.com/ekeeke/Genesis-Plus-GX)                | :heavy_check_mark: | Custom, source available   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sega Genesis/Megadrive, Sega CD, Sega 32X, Sega Master System, Sega Game Gear, SG-1000 | :computer: :apple: :penguin: :globe_with_meridians: Nintendo GameCube Nintendo Wii |
@@ -561,7 +561,7 @@ Legend:
 #### Sega Saturn
 
 | Emulator                                                                                       | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform                                                                    |
-|------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|------------------|-----------------------------------------------------------------------------|
+| ---------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | --------------------------------------------------------------------------- |
 | [A-SATURN](https://www.zophar.net/saturn/a-saturn.html)                                        | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Sega Saturn      | :computer:                                                                  |
 | [Cassini (patched version of GiriGiri)](https://www.zophar.net/saturn/cassini.html)            | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Sega Saturn      | :computer:                                                                  |
 | [GiriGiri](https://www.zophar.net/saturn/girigiri.html)                                        | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Sega Saturn      | :computer:                                                                  |
@@ -584,7 +584,7 @@ Legend:
 #### Sega Dreamcast
 
 | Emulator                                                                                                    | FOSS               | License              | Free               | Active             | Recommended        | Emulated systems | Platform                                                               |
-|-------------------------------------------------------------------------------------------------------------|--------------------|----------------------|--------------------|--------------------|--------------------|------------------|------------------------------------------------------------------------|
+| ----------------------------------------------------------------------------------------------------------- | ------------------ | -------------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------------------------------------------------- |
 | [castingDreams](https://github.com/javaemus/castingDreams)                                                  | :heavy_check_mark: | GNU GPLv3            | :heavy_check_mark: | :x:                | :x:                | Sega Dreamcast   | :computer: :apple: :penguin:                                           |
 | [Chankast](https://www.zophar.net/dreamcast/chankast.html)                                                  | :x:                | Proprietary          | :heavy_check_mark: | :x:                | :x:                | Sega Dreamcast   | :computer:                                                             |
 | [DEmul](http://demul.emulation64.com/)                                                                      | :x:                | Proprietary          | :heavy_check_mark: | :x:                | :x:                | Sega Dreamcast   | :computer:                                                             |
@@ -609,7 +609,7 @@ Legend:
 #### Sega Dreamcast VMU
 
 | Emulator                                                                        | FOSS               | License          | Free               | Active | Recommended        | Emulated systems   | Platform                                           |
-|---------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------|--------------------|--------------------|----------------------------------------------------|
+| ------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------ | ------------------ | ------------------ | -------------------------------------------------- |
 | [DirectVMS](https://www.zophar.net/vms/directvms.html)                          | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:    | :x:                | Sega Dreamcast VMU | :computer:                                         |
 | [DreamVMU](https://web.archive.org/web/20040415081512/http://xega.emucamp.com/) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:    | :x:                | Sega Dreamcast VMU | :computer:                                         |
 | [ElysianVMU](http://evmu.elysianshadows.com/)                                   | :x:                | Proprietary      | :heavy_check_mark: | :x:    | :heavy_check_mark: | Sega Dreamcast VMU | :computer: :apple: :penguin:                       |
@@ -620,7 +620,7 @@ Legend:
 #### Microsoft Xbox
 
 | Emulator                                                                                                    | FOSS               | License              | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-|-------------------------------------------------------------------------------------------------------------|--------------------|----------------------|--------------------|--------------------|--------------------|------------------|------------------------------|
+| ----------------------------------------------------------------------------------------------------------- | ------------------ | -------------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
 | [Cxbx](https://github.com/Echelon9/cxbx-shogun)                                                             | :heavy_check_mark: | GNU GPLv2            | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   | :computer: :penguin:         |
 | [Cxbx-Reloaded](https://cxbx-reloaded.co.uk/)                                                               | :heavy_check_mark: | GNU GPLv2            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox   | :computer:                   |
 | [Dxbx](http://sourceforge.net/projects/dxbx)                                                                | :heavy_check_mark: | GNU GPLv2            | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   | :computer:                   |
@@ -634,14 +634,14 @@ Legend:
 #### Microsoft Xbox 360
 
 | Emulator                                               | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems   | Platform   |
-|--------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|--------------------|------------|
+| ------------------------------------------------------ | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ------------------ | ---------- |
 | [cs360emu](https://github.com/soywiz-archive/cs360emu) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox 360 | :computer: |
 | [Xenia](https://xenia.jp)                              | :heavy_check_mark: | MIT license      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox 360 | :computer: |
 
 #### Microsoft Xbox One
 
 | Emulator                                                       | FOSS               | License            | Free               | Active             | Recommended        | Emulated systems   | Platform   |
-|----------------------------------------------------------------|--------------------|--------------------|--------------------|--------------------|--------------------|--------------------|------------|
+| -------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ---------- |
 | [Spasha](#)                                                    | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | Microsoft Xbox One | :computer: |
 | [WinDurango](https://github.com/WinDurango-project/WinDurango) | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark  | :heavy_check_mark: | :heavy_minus_sign  | Microsoft Xbox One | :computer: |
 | [WinEra](#)                                                    | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | Microsoft Xbox One | :computer: |
@@ -650,13 +650,13 @@ Legend:
 #### Microsoft Xbox Series
 
 | Emulator                                            | FOSS | License | Free | Active | Recommended | Emulated systems | Platform |
-|-----------------------------------------------------|------|---------|------|--------|-------------|------------------|----------|
+| --------------------------------------------------- | ---- | ------- | ---- | ------ | ----------- | ---------------- | -------- |
 | There are currently no emulators for this system 😔 | N/A  | N/A     | N/A  | N/A    | N/A         | N/A              | N/A      |
 
 ### NEC PC Engine/TurboGrafx
 
 | Emulator                                                                                                                                             | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems                                             | Platform                                 |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|--------------------------------------------------------------|------------------------------------------|
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ------------------------------------------------------------ | ---------------------------------------- |
 | [ePCEngine](http://takeda-toshiya.my.coocan.jp/)                                                                                                     | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer:                               |
 | [Hu-Go!](https://zeograd.com/)                                                                                                                       | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer: :penguin: :imp: :floppy_disk: |
 | [MagicEngine](http://www.magicengine.com/)                                                                                                           | :x:                | Proprietary      | :x:                | :x:                | :x:                | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer: :floppy_disk: :apple:         |
@@ -668,7 +668,7 @@ Legend:
 ### SNK Neo Geo AES/MVS/Neo Geo CD
 
 | Emulator                                                                    | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems            | Platform                                               |
-|-----------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-----------------------------|--------------------------------------------------------|
+| --------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | --------------------------- | ------------------------------------------------------ |
 | [Gekko](https://www.zophar.net/ngeo/gekko.html)                             | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | SNK Neo Geo AES             | :computer:                                             |
 | [GnGeo](https://github.com/linuxlinks/gngeo)                                | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | SNK Neo Geo AES             | :penguin:                                              |
 | [geolith](https://gitlab.com/jgemu/geolith)                                 | :heavy_check_mark: | 3-clause BSD     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Neo Geo AES and MVS         | :computer: :apple: :penguin: :imp:                     |
@@ -685,19 +685,19 @@ Legend:
 ### Pong consoles
 
 | Simulator                                                          | FOSS               | License          | Free               | Active | Recommended        | Simulated systems     | Platform   |
-|--------------------------------------------------------------------|--------------------|------------------|--------------------|--------|--------------------|-----------------------|------------|
+| ------------------------------------------------------------------ | ------------------ | ---------------- | ------------------ | ------ | ------------------ | --------------------- | ---------- |
 | [Pong Consoles Simulation](https://github.com/ThomasVisvader/Pong) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Various pong consoles | :computer: |
 
 ### Magnavox Odyssey 2
 
 | Emulator                                       | FOSS               | License          | Free | Active | Recommended        | Emulated systems    | Platform                                 |
-|------------------------------------------------|--------------------|------------------|------|--------|--------------------|---------------------|------------------------------------------|
+| ---------------------------------------------- | ------------------ | ---------------- | ---- | ------ | ------------------ | ------------------- | ---------------------------------------- |
 | [O2EM](https://sourceforge.net/projects/o2em/) | :heavy_check_mark: | Artistic license | :x:  | :x:    | :heavy_minus_sign: | Odyssey 2/Videopac+ | :computer: :floppy_disk: :penguin: :imp: |
 
 ### Philips CD-i
 
 | Emulator                                                        | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-|-----------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|------------------|------------------------------|
+| --------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
 | [CD-iCE](https://www.zophar.net/cd-i/cd-ice.html)               | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Philips CD-i     | :computer:                   |
 | [CD-i Emulator](http://www.cdiemu.org/)                         | :x:                | Proprietary      | :x:                | :heavy_minus_sign: | :heavy_check_mark: | Philips CD-i     | :computer:                   |
 | [CeDImu](https://github.com/Stovent/CeDImu)                     | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Philips CD-i     | :computer: :apple: :penguin: |
@@ -709,7 +709,7 @@ Legend:
 #### Panasonic 3DO Interactive Multiplayer
 
 | Emulator                                       | FOSS               | License     | Free               | Active | Recommended        | Emulated systems | Platform           |
-|------------------------------------------------|--------------------|-------------|--------------------|--------|--------------------|------------------|--------------------|
+| ---------------------------------------------- | ------------------ | ----------- | ------------------ | ------ | ------------------ | ---------------- | ------------------ |
 | [3d'oh](https://code.google.com/p/3doh/)       | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Panasonic 3DO    | :penguin:          |
 | [4DO](https://sourceforge.net/projects/fourdo) | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Panasonic 3DO    | :computer:         |
 | [FreeDO](https://www.freedo.org/)              | :x:                | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Panasonic 3DO    | :computer: :apple: |
@@ -717,33 +717,32 @@ Legend:
 #### Panasonic 3DO M2
 
 | Emulator                                            | FOSS | License | Free | Active | Recommended | Emulated systems | Platform |
-|-----------------------------------------------------|------|---------|------|--------|-------------|------------------|----------|
+| --------------------------------------------------- | ---- | ------- | ---- | ------ | ----------- | ---------------- | -------- |
 | There are currently no emulators for this system 😔 | N/A  | N/A     | N/A  | N/A    | N/A         | N/A              | N/A      |
 
 ### Gemei A330
 
 | Emulator                                                              | FOSS               | License          | Free               | Active | Recommended        | Emulated systems | Platform                     |
-|-----------------------------------------------------------------------|--------------------|------------------|--------------------|--------|--------------------|------------------|------------------------------|
+| --------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------ | ------------------ | ---------------- | ---------------------------- |
 | [Gemei A330 libretro core](https://github.com/minexew/GA330-libretro) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:    | :heavy_check_mark: | Gemei A330       | :computer: :apple: :penguin: |
 
 ### GCE Vectrex
 
-| Emulator                                                              | FOSS               | License          | Free               | Active | Recommended        | Emulated systems | Platform                     |
-|-----------------------------------------------------------------------|--------------------|------------------|--------------------|--------|--------------------|------------------|------------------------------|
-| [Vecx JG](https://gitlab.com/jgemu/vecx) | :heavy_check_mark: | MIT license | :heavy_check_mark: | :heavy_check_mark:    | :heavy_check_mark: | GCE Vectrex       | :computer: :apple: :penguin: |
-
+| Emulator                                 | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems | Platform                     |
+| ---------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
+| [Vecx JG](https://gitlab.com/jgemu/vecx) | :heavy_check_mark: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | GCE Vectrex      | :computer: :apple: :penguin: |
 
 ### Apple/Bandai Pippin
 
 | Emulator                                                                          | FOSS               | License   | Free               | Active             | Recommendation     | Emulated systems    | Platform                           |
-|-----------------------------------------------------------------------------------|--------------------|-----------|--------------------|--------------------|--------------------|---------------------|------------------------------------|
+| --------------------------------------------------------------------------------- | ------------------ | --------- | ------------------ | ------------------ | ------------------ | ------------------- | ---------------------------------- |
 | [SheepShaver](https://github.com/cebix/macemu)                                    | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Apple/Bandai Pippin | :computer: :apple: :penguin: :imp: |
 | [SheepShaver (community maintained fork)](https://github.com/kanjitalk755/macemu) | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Apple/Bandai Pippin | :computer: :apple: :penguin: :imp: |
 
 ### Mattel Intellivision
 
 | Emulator                                                                    | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems     | Platform                                             |
-|-----------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|----------------------|------------------------------------------------------|
+| --------------------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | -------------------- | ---------------------------------------------------- |
 | [Bliss](https://github.com/jeremiah-sypult/BlissEmu)                        | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer:                                           |
 | [Bliss32](https://www.arcadeathome.com/ivision.phtml?H)                     | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer:                                           |
 | [BlissX](https://www.arcadeathome.com/ivision.phtml?H)                      | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Mattel Intellivision | :computer: :apple: :penguin: :imp:                   |
@@ -764,7 +763,7 @@ Legend:
 ### Coleco ColecoVision
 
 | Emulator                                                                                                    | FOSS               | License              | Free               | Active             | Recommended        | Emulated systems    | Platform                                  |
-|-------------------------------------------------------------------------------------------------------------|--------------------|----------------------|--------------------|--------------------|--------------------|---------------------|-------------------------------------------|
+| ----------------------------------------------------------------------------------------------------------- | ------------------ | -------------------- | ------------------ | ------------------ | ------------------ | ------------------- | ----------------------------------------- |
 | [Bee](https://web.archive.org/web/20180903061210/http://thebeehive.ws/download/)                            | :heavy_check_mark: | GNU LGPLv2           | :heavy_check_mark: | :x:                | :x:                | Coleco ColecoVision | :computer: :apple: :penguin:              |
 | [CULT](https://www.zophar.net/coleco/cult.html)                                                             | :x:                | Proprietary          | :heavy_check_mark: | :x:                | :x:                | Coleco ColecoVision | :computer:                                |
 | [ColEm](https://fms.komkon.org/ColEm/)                                                                      | :x:                | Proprietary          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Coleco ColecoVision | :computer: :penguin: :robot: Nintendo Wii |
@@ -777,7 +776,7 @@ Legend:
 ### Chip-8 and related system emulators/interpreters
 
 | Emulator                                                                                                                  | FOSS               | License                                                                                                                              | Free               | Active                    | Recommended        | Emulated systems | Platform                                            |
-|---------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------------|---------------------------|--------------------|------------------|-----------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------ | ------------------------- | ------------------ | ---------------- | --------------------------------------------------- |
 | [cheap8](https://github.com/iliasizmaylov/cheap8)                                                                         | :heavy_minus_sign: | Source available                                                                                                                     | :heavy_check_mark: | :x:                       | :x:                | Chip-8           | :computer: :apple: :penguin:                        |
 | [Chip 8 Emulator](https://github.com/sarbajitsaha/Chip-8-Emulator)                                                        | :heavy_check_mark: | GNU GPLv3+                                                                                                                           | :heavy_check_mark: | :x:                       | :heavy_minus_sign: | Chip-8           | :computer: :apple: :penguin:                        |
 | [Chip-3DS](http://www.mediafire.com/?y94yjhzf70fsfsi)                                                                     | :x:                | Proprietary                                                                                                                          | :heavy_check_mark: | :x:                       | :heavy_minus_sign: | Chip-8           | Nintendo 3DS                                        |
@@ -823,7 +822,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### Nintendo Game Boy/Game Boy Color
 
 | Emulator                                                                       | FOSS               | License                                                        | Free               | Active             | Recommendation     | Emulated systems                                                        | Platform                                                                                                                  |
-|--------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------|--------------------|--------------------|--------------------|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------------------------------------------------------ | ------------------ | -------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | [Acolyte Hand PIC'd 32](https://github.com/stevenchadburrow/AcolyteHandPICd32) | :heavy_check_mark: | MIT License                                                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Game Boy, Nintendo Game Boy Color, Nintendo Super Game Boy     | PIC32MZ2048EFH144 microcontroller                                                                                         |
 | [BGB](http://bgb.bircd.org/)                                                   | :x:                | Proprietary                                                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Game Boy, Nintendo Game Boy Color, Nintendo Super Game Boy     | :computer:                                                                                                                |
 | [Boycott](https://www.zophar.net/gb/boycott.html)                              | :x:                | Proprietary                                                    | :heavy_check_mark: | :x:                | :x:                | Nintendo Game Boy, Nintendo Game Boy Color                              | :computer:                                                                                                                |
@@ -857,10 +856,10 @@ See multi-emulators section for "Emma 02 emulator"
 
 #### Nintendo Game Boy Advance
 
-- :exclamation: = *WARNING: This emulator is no longer maintained and has security vulnerabilities. This is here for completeness, but use alternatives or at the bare minimum please exercise caution when using these emulators.*
+- :exclamation: = _WARNING: This emulator is no longer maintained and has security vulnerabilities. This is here for completeness, but use alternatives or at the bare minimum please exercise caution when using these emulators._
 
 | Emulator                                                                               | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems                                                      | Platform                                                                                     |
-|----------------------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|-----------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| -------------------------------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
 | [44VBA](https://gba.44670.org/)                                                        | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Nintendo Game Boy Advance                                             | :computer: :globe_with_meridians: Nintendo Switch                                            |
 | [BoycottAdvance](https://www.zophar.net/gba/boycott-advance.html)                      | :x:                | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Game Boy Advance                                             | :computer:                                                                                   |
 | [DSHBA](https://github.com/DenSinH/DSHBA)                                              | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Game Boy Advance                                             | :computer:                                                                                   |
@@ -882,7 +881,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### Nintendo Game And Watch simulators
 
 | Simulator                                                                    | FOSS               | License               | Free               | Active             | Recommended        | Simulated systems                      | Platform                                                                                            |
-|------------------------------------------------------------------------------|--------------------|-----------------------|--------------------|--------------------|--------------------|----------------------------------------|-----------------------------------------------------------------------------------------------------|
+| ---------------------------------------------------------------------------- | ------------------ | --------------------- | ------------------ | ------------------ | ------------------ | -------------------------------------- | --------------------------------------------------------------------------------------------------- |
 | [Handheld Quake simulations](http://www.emulator3000.org/hq.htm)             | :x:                | Proprietary           | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Various handheld systems               | :computer: :penguin:                                                                                |
 | [lcdgames simulations](https://github.com/BdR76/lcdgame.js)                  | :heavy_minus_sign: | Source available      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Various handheld systems               | :globe_with_meridians:                                                                              |
 | [Madrigal simulations](http://www.madrigaldesign.it/sim/index.php)           | :heavy_minus_sign: | Some source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Various handheld systems               | :computer: :penguin: Sony PlayStation Portable Sony PlayStation Vita Nintendo Switch Microsoft Xbox |
@@ -892,7 +891,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### Nintendo Virtual Boy
 
 | Emulator                                                                                                                      | FOSS               | License                                                        | Free               | Active             | Recommended        | Emulated systems     | Platform                  |
-|-------------------------------------------------------------------------------------------------------------------------------|--------------------|----------------------------------------------------------------|--------------------|--------------------|--------------------|----------------------|---------------------------|
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | -------------------- | ------------------------- |
 | [Planet Virtual Boy emulator (AKA PVBEmu)](https://web.archive.org/web/20221102095224/https://git.virtual-boy.com/PVB/pvbemu) | :heavy_check_mark: | MIT license                                                    | :heavy_check_mark: | :x:                | :x:                | Nintendo Virtual Boy | :penguin:                 |
 | [r3Ddragon](https://github.com/mrdanielps/r3Ddragon)                                                                          | :heavy_check_mark: | MIT license with custom license exceptions                     | :heavy_check_mark: | :x:                | :heavy_check_mark: | Nintendo Virtual Boy | Nintendo 3DS              |
 | [Reality Boy (formerly VBEmu98)](http://www.goliathindustries.com/vb/)                                                        | :heavy_check_mark: | Custom                                                         | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Virtual Boy | :computer:                |
@@ -914,7 +913,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Pokemon Mini
 
 | Emulator                                                         | FOSS               | License     | Free               | Active | Recommended        | Emulated systems | Platform                                                                  |
-|------------------------------------------------------------------|--------------------|-------------|--------------------|--------|--------------------|------------------|---------------------------------------------------------------------------|
+| ---------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------ | ------------------ | ---------------- | ------------------------------------------------------------------------- |
 | [minimon](https://www.sublab.net/projects/minimon/)              | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Pokemon Mini     | :computer:                                                                |
 | [PokeKaMini](http://www.emu-france.com/?wpfb_dl=2298)            | :x:                | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Pokemon Mini     | :computer:                                                                |
 | [PokeMini](https://sourceforge.net/projects/pokemini)            | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Pokemon Mini     | :computer: :penguin: Nintendo DS Sony PlayStation Portable Sega Dreamcast |
@@ -923,7 +922,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### Nintendo DS
 
 | Emulator                                                                           | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform                                                                                  |
-|------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|------------------|-------------------------------------------------------------------------------------------|
+| ---------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | ----------------------------------------------------------------------------------------- |
 | [CorgiDS](https://github.com/PSI-Rockin/CorgiDS)                                   | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo DS      | :computer: :apple: :penguin:                                                              |
 | [DeeS](https://github.com/DeeSEmu/DeeS)                                            | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :x:                | :x:                | Nintendo DS      | :computer: :apple: :penguin: :robot: Nintendo Wii U Nintendo Switch Sony PlayStation Vita |
 | [DeSmuME 3DS](https://github.com/masterfeizz/DeSmuME)                              | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo DS      | Nintendo 3DS                                                                              |
@@ -955,7 +954,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### Nintendo 3DS
 
 | Emulator                                                                   | FOSS               | License                                                              | Free               | Active             | Recommended        | Emulated systems | Platform                             |
-|----------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------|--------------------|--------------------|--------------------|------------------|--------------------------------------|
+| -------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ---------------- | ------------------------------------ |
 | [3dmoo](https://github.com/plutooo/3dmoo)                                  | :heavy_minus_sign: | Source available                                                     | :heavy_check_mark: | :x:                | :x:                | Nintendo 3DS     | :computer: :penguin:                 |
 | [Azahar](https://github.com/azahar-emu/azahar)                             | :heavy_check_mark: | GNU GPLv2                                                            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo 3DS     | :computer: :penguin: :robot:         |
 | [Borked3DS](https://github.com/Borked3DS/Borked3DS)                        | :heavy_check_mark: | GNU GPLv2                                                            | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo 3DS     | :computer: :apple: :penguin: :robot: |
@@ -975,20 +974,20 @@ See multi-emulators section for "Emma 02 emulator"
 ### Game Park GP32
 
 | Emulator                                              | FOSS | License     | Free               | Active | Recommended        | Emulated systems | Platform   |
-|-------------------------------------------------------|------|-------------|--------------------|--------|--------------------|------------------|------------|
+| ----------------------------------------------------- | ---- | ----------- | ------------------ | ------ | ------------------ | ---------------- | ---------- |
 | [GeePee32](https://www.zophar.net/gp32/geepee32.html) | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Game Park GP32   | :computer: |
 
 #### Atari Lynx
 
 | Emulator                                        | FOSS               | License      | Free               | Active             | Recommended        | Emulated systems | Platform                                   |
-|-------------------------------------------------|--------------------|--------------|--------------------|--------------------|--------------------|------------------|--------------------------------------------|
+| ----------------------------------------------- | ------------------ | ------------ | ------------------ | ------------------ | ------------------ | ---------------- | ------------------------------------------ |
 | [Felix](https://github.com/laoo/Felix/)         | :heavy_check_mark: | MIT license  | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari Lynx       | :computer:                                 |
 | [Handy](http://sourceforge.net/projects/handy/) | :heavy_check_mark: | zlib license | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari Lynx       | :computer: :apple: :penguin: :imp: :robot: |
 
 #### Sega Game Gear
 
 | Emulator                                              | FOSS               | License                                                    | Free                        | Active             | Recommended        | Emulated systems                                                                           | Platform                                         |
-|-------------------------------------------------------|--------------------|------------------------------------------------------------|-----------------------------|--------------------|--------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------|
+| ----------------------------------------------------- | ------------------ | ---------------------------------------------------------- | --------------------------- | ------------------ | ------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------ |
 | [Gearsystem](https://github.com/drhelius/Gearsystem/) | :heavy_check_mark: | GNU GPLv3                                                  | :heavy_check_mark:          | :heavy_check_mark: | :heavy_check_mark: | Sega Mark III/Sega Master System, Sega Game Gear, Sega SG-1000, Othello Multivision        | :computer: :apple: :penguin: :imp: :robot:       |
 | [MasterGear](https://fms.komkon.org/MG/)              | :x:                | Proprietary, developer says you can contact him for source | No, Android version is paid | :heavy_check_mark: | :heavy_check_mark: | Sega Mark III/Sega Master System, Sega Game Gear, Sega SG-1000, Sega SC-3000, Sega SF-7000 | :computer: :penguin: :imp: :robot: :floppy_disk: |
 
@@ -997,7 +996,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### Sony PlayStation Portable
 
 | Emulator                                                            | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems          | Platform                                      |
-|---------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|---------------------------|-----------------------------------------------|
+| ------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ------------------------- | --------------------------------------------- |
 | [cspspemu](https://github.com/cspspemu/cspspemu)                    | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
 | [JPCSP](https://jpcsp.org/)                                         | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation Portable | :computer: :apple: :penguin:                  |
 | [JPCSP2C](https://github.com/georgemoralis/jpcsp2c)                 | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
@@ -1014,7 +1013,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### Sony PocketStation
 
 | Emulator                                                                                                                                          | FOSS               | License          | Free               | Active | Recommended        | Emulated systems   | Platform                     |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------|--------------------|--------------------|------------------------------|
+| ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------ | ------------------ | ------------------ | ---------------------------- |
 | [PK201](http://drhell.web.fc2.com/pocket/index.html) - [Android version](https://play.google.com/store/apps/details?id=com.dokutajigokusai.pk201) | :x:                | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation | :computer: :robot:           |
 | [PKEmu](https://www.zophar.net/pocketstation/pkemu.html)                                                                                          | :x:                | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation | :computer:                   |
 | [pockystation](https://github.com/simias/pockystation)                                                                                            | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Sony PocketStation | :computer: :apple: :penguin: |
@@ -1022,14 +1021,14 @@ See multi-emulators section for "Emma 02 emulator"
 #### Sony PlayStation Vita
 
 | Emulator                                             | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems      | Platform                             |
-|------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-----------------------|--------------------------------------|
+| ---------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | --------------------- | ------------------------------------ |
 | [Vita3K](https://vita3k.org/)                        | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation Vita | :computer: :apple: :penguin: :robot: |
 | [vitaemu](https://github.com/soywiz-archive/vitaemu) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Vita | :robot:                              |
 
 ### Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch
 
 | Emulator                                                                        | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems                           | Platform             |
-|---------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|--------------------------------------------|----------------------|
+| ------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ------------------------------------------ | -------------------- |
 | [Cygne](http://cygne.emuunlim.com/)                                             | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer:           |
 | [MiracleMage](https://www.zophar.net/ws/miraclemage.html)                       | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Bandai WonderSwan, Bandai WonderSwan Color | :computer:           |
 | [NitroSwan](https://github.com/FluBBaOfWard/NitroSwan)                          | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Bandai WonderSwan, Bandai WonderSwan Color | Nintendo DS          |
@@ -1043,7 +1042,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### SNK Neo Geo Pocket/Color
 
 | Emulator                                                                                        | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems         | Platform             |
-|-------------------------------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|--------------------------|----------------------|
+| ----------------------------------------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | ------------------------ | -------------------- |
 | [BeNeoPocott (NeoPocott ported to BeOS)](https://www.zophar.net/beos/ngpocket/beneopocott.html) | :heavy_minus_sign: | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | BeOS/Haiku           |
 | [Koyote](https://www.zophar.net/ngpocket/koyote.html)                                           | :x:                | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer:           |
 | [NeoPop-SDL](https://github.com/nih-at/NeoPop-SDL)                                              | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | SNK Neo Geo Pocket/Color | :computer: :penguin: |
@@ -1055,7 +1054,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Watara SuperVision
 
 | Emulator                                                         | FOSS               | License                                                                                                                          | Free               | Active             | Recommended        | Emulated systems   | Platform                                                                   |
-|------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------|--------------------|--------------------|----------------------------------------------------------------------------|
+| ---------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | -------------------------------------------------------------------------- |
 | [Potator (legacy)](https://www.zophar.net/wsvision/potator.html) | :heavy_minus_sign: | Source available                                                                                                                 | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Watara SuperVision | :computer: :penguin: GP32 OpenDingux                                       |
 | [Potator (SDL2 fork)](https://github.com/infval/potator)         | :heavy_minus_sign: | The original license was only source available, so this should technically be the same, but the license in the repo is Unlicense | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Watara SuperVision | :computer: :penguin: Nintendo DS OpenDingux GP32 Sony PlayStation Portable |
 | [Wataroo](http://tailchao.com/Wataroo/index.php)                 | :x:                | Proprietary                                                                                                                      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Watara SuperVision | :computer:                                                                 |
@@ -1065,7 +1064,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Apple iOS/iPod
 
 | Emulator                                                             | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-|----------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|------------------|------------------------------|
+| -------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
 | [Clicky](https://github.com/daniel5151/clicky)                       | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Apple iPod       | :computer: :penguin:         |
 | [iPod n3g emulator](https://github.com/lemonjesus/iPod-n3g-emulator) | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Apple iPod       | :computer: :penguin:         |
 | [qemu-ipod-nano](https://github.com/lemonjesus/qemu-ipod-nano)       | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
@@ -1077,7 +1076,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Google Android
 
 | Emulator                                                                    | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-|-----------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|------------------|------------------------------|
+| --------------------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
 | [Anbox](https://anbox.io/)                                                  | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Google Android   | :penguin:                    |
 | [Android SDK (includes an emulator)](https://developer.android.com/studio/) | :heavy_check_mark: | Apache 2.0  | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple: :penguin: |
 | [Android x86](https://www.android-x86.org/)                                 | :heavy_check_mark: | Apache 2.0  | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | Runs on any x86 computer     |
@@ -1092,7 +1091,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### N-Gage
 
 | Emulator                                     | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems  | Platform                             |
-|----------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-------------------|--------------------------------------|
+| -------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ----------------- | ------------------------------------ |
 | [EKLA21](https://github.com/EKA2L1/EKA2L1/)  | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Symbian OS/N-Gage | :computer: :apple: :penguin: :robot: |
 | [Engemu](https://github.com/mrRosset/Engemu) | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :x:                | :x:                | Symbian OS/N-Gage | :computer:                           |
 | [NGEmu](https://github.com/NGEmu/NGEmu)      | :heavy_check_mark: | Apache 2.0       | :heavy_check_mark: | :x:                | :x:                | N-Gage            | :computer:                           |
@@ -1101,19 +1100,19 @@ See multi-emulators section for "Emma 02 emulator"
 ### BREW
 
 | Emulator                                              | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
-|-------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
+| ----------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | -------- |
 | [Melange](https://gitlab.com/usernameak/brewemulator) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | BREW             | :robot:  |
 
 ### Mophun
 
 | Emulator                                         | FOSS               | License   | Free               | Active | Recommended        | Emulated systems | Platform             |
-|--------------------------------------------------|--------------------|-----------|--------------------|--------|--------------------|------------------|----------------------|
+| ------------------------------------------------ | ------------------ | --------- | ------------------ | ------ | ------------------ | ---------------- | -------------------- |
 | [MoRePhun](https://github.com/Luca1991/MoRePhun) | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :x:    | :heavy_check_mark: | Mophun           | :computer: :penguin: |
 
 ### Java
 
 | Emulator                                                                    | FOSS               | License                                                                          | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-|-----------------------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------|--------------------|--------------------|--------------------|------------------|------------------------------|
+| --------------------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
 | [FreeJ2ME](https://github.com/hex007/freej2me/)                             | :heavy_check_mark: | GNU GPLv3+                                                                       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | J2ME             | :computer: :apple: :penguin: |
 | [J2ME-Loader](https://github.com/nikita36078/J2ME-Loader/)                  | :heavy_check_mark: | Apache 2.0                                                                       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | J2ME             | :robot:                      |
 | [Jademula](https://github.com/RobDangerous/Jademula)                        | :heavy_check_mark: | GNU GPLv3                                                                        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | J2ME             | :computer:                   |
@@ -1129,7 +1128,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Palm devices
 
 | Emulator                                                          | FOSS               | License                                                              | Free               | Active             | Recommended        | Emulated systems                                                                      | Platform                                            |
-|-------------------------------------------------------------------|--------------------|----------------------------------------------------------------------|--------------------|--------------------|--------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------|
+| ----------------------------------------------------------------- | ------------------ | -------------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------------------------------------------------------------------------- | --------------------------------------------------- |
 | [CloudpilotEmu](https://github.com/cloudpilot-emu/cloudpilot-emu) | :heavy_check_mark: | GNU GPLv3                                                            | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | [Multiple devices](https://github.com/cloudpilot-emu/cloudpilot-emu#emulated-devices) | :computer: :apple: :penguin: :globe_with_meridians: |
 | [Mu](https://github.com/meepingsnesroms/Mu)                       | :heavy_minus_sign: | Creative Commons Attribution-NonCommercial 3.0 United States License | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Palm OS                                                                               | :computer: :apple: :penguin:                        |
 
@@ -1142,7 +1141,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### Acorn BBC Micro computers
 
 | Emulator                                                            | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-|---------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|------------------|------------------------------|
+| ------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
 | [BeebEm](https://github.com/stardot/beebem-mac)                     | :heavy_minus_sign: | Custom           | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Acorn BBC Micro  | :apple:                      |
 | [BeebEm (community fork)](https://github.com/CommanderCoder/BeebEm) | :heavy_minus_sign: | Custom           | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Acorn BBC Micro  | :apple:                      |
 | [b-em](https://github.com/stardot/b-em)                             | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Acorn BBC Micro  | :computer: :penguin:         |
@@ -1156,7 +1155,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Amstrad CPC computers
 
 | Emulator                                                                                 | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems | Platform        |
-|------------------------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|------------------|-----------------|
+| ---------------------------------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | ---------------- | --------------- |
 | [CaPriCe Forever](https://www.cpc-power.com/cpcarchives/index.php?page=articles&num=445) | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Amstrad CPC      | :computer:      |
 | [NO$CPC](https://problemkaputt.github.io/)                                               | :x:                | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Amstrad CPC      | :computer:      |
 | [WinAPE](http://winape.net/)                                                             | :x:                | Proprietary | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Amstrad CPC      | :computer:      |
@@ -1165,7 +1164,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### DOS emulators
 
 | Emulator                                                                          | FOSS               | License                                                                           | Free               | Active             | Recommended        | Emulated systems | Platform                                   |
-|-----------------------------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------------|--------------------|--------------------|--------------------|------------------|--------------------------------------------|
+| --------------------------------------------------------------------------------- | ------------------ | --------------------------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ---------------- | ------------------------------------------ |
 | [DOSBox](http://www.dosbox.com/)                                                  | :heavy_check_mark: | GNU GPLv2                                                                         | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | DOS              | :computer: :apple: :penguin: :imp:         |
 | [DOSBox Enhanced Community Edition](https://yesterplay.net/dosboxece/)            | :heavy_check_mark: | GNU GPLv2                                                                         | :heavy_check_mark: | :x:                | :x:                | DOS              | :computer: :penguin:                       |
 | [DOSBox-Pure](https://github.com/schellingb/dosbox-pure/)                         | :heavy_check_mark: | GNU GPLv2                                                                         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | DOS              | :computer: :apple: :penguin:               |
@@ -1177,7 +1176,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### x86 emulators
 
 | Emulator                                                               | FOSS               | License                                                                     | Free               | Active             | Recommended        | Emulated systems                      | Platform                                                                                    |
-|------------------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------|--------------------|--------------------|--------------------|---------------------------------------|---------------------------------------------------------------------------------------------|
+| ---------------------------------------------------------------------- | ------------------ | --------------------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------------------------- | ------------------------------------------------------------------------------------------- |
 | [86Box](https://github.com/86Box/86Box/)                               | :heavy_check_mark: | GNU GPLv2                                                                   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | x86                                   | :computer: :apple: :penguin:                                                                |
 | [Bochs](https://github.com/bochs-emu/Bochs)                            | :heavy_check_mark: | LGPLv2.1                                                                    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | x86                                   | :computer: :apple: :penguin: :imp:                                                          |
 | [Box86](https://github.com/ptitSeb/box86)                              | :heavy_check_mark: | MIT license                                                                 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | x86                                   | :robot: Raspberry Pi [Others](https://github.com/ptitSeb/box86/blob/master/docs/COMPILE.md) |
@@ -1203,14 +1202,14 @@ See multi-emulators section for "Emma 02 emulator"
 ### System/370, ESA/390, z/Architecture
 
 | Emulator                                | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems                                         | Platform                           |
-|-----------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|----------------------------------------------------------|------------------------------------|
+| --------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | -------------------------------------------------------- | ---------------------------------- |
 | [Hercules](http://www.hercules-390.eu/) | :heavy_check_mark: | Q public license | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | System/370, ESA/390 architectures, 64-bit z/Architecture | :computer: :apple: :penguin: :imp: |
 | [z390](http://www.z390.org/)            | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | z390 Portable Mainframe                                  | :computer: :apple: :penguin:       |
 
 ### Apple computers
 
 | Emulator                                                                                                     | FOSS               | License                                                       | Free                                                    | Active             | Recommended        | Emulated systems             | Platform                                                |
-|--------------------------------------------------------------------------------------------------------------|--------------------|---------------------------------------------------------------|---------------------------------------------------------|--------------------|--------------------|------------------------------|---------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------ | ------------------ | ------------------------------------------------------------- | ------------------------------------------------------- | ------------------ | ------------------ | ---------------------------- | ------------------------------------------------------- |
 | [Agat](http://sourceforge.net/projects/agatemulator/)                                                        | :heavy_check_mark: | GNU GPLv2                                                     | :heavy_check_mark:                                      | :heavy_check_mark: | :heavy_minus_sign: | Apple computers and the Agat | :computer:                                              |
 | [Apple II Oasis](https://www.zophar.net/apple2/apple-ii-oasis.html)                                          | :x:                | Proprietary                                                   | :x:                                                     | :x:                | :x:                | Apple computers              | :computer:                                              |
 | [Apple2000e (Apple II/IIe emulator for Amiga)](http://www.emucamp.com/apple_ii.html)                         | :heavy_minus_sign: | Source available                                              | :heavy_check_mark:                                      | :x:                | :heavy_minus_sign: | Apple computers              | Commodore Amiga                                         |
@@ -1247,19 +1246,19 @@ See multi-emulators section for "Emma 02 emulator"
 ### NeXT computers
 
 | Emulator                                            | FOSS               | License   | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-|-----------------------------------------------------|--------------------|-----------|--------------------|--------------------|--------------------|------------------|------------------------------|
+| --------------------------------------------------- | ------------------ | --------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
 | [Previous](http://previous.alternative-system.com/) | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NeXT computers   | :computer: :apple: :penguin: |
 
 ### Oberon RISC machine
 
 | Emulator                                                            | FOSS               | License     | Free               | Active | Recommended        | Emulated systems    | Platform                     |
-|---------------------------------------------------------------------|--------------------|-------------|--------------------|--------|--------------------|---------------------|------------------------------|
+| ------------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------ | ------------------ | ------------------- | ---------------------------- |
 | [Oberon RISC Emulator](https://github.com/pdewacht/oberon-risc-emu) | :heavy_check_mark: | MIT license | :heavy_check_mark: | :x:    | :heavy_check_mark: | Oberon RISC machine | :computer: :apple: :penguin: |
 
 ### SIMH simulators
 
 | Simulator                                                | FOSS               | License     | Free               | Active             | Recommendation     | Simulated systems | Platform                     |
-|----------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|-------------------|------------------------------|
+| -------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | ----------------- | ---------------------------- |
 | [Open SIMH simulators](https://opensimh.org/simulators/) | :heavy_check_mark: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | SIMH computers    | :computer: :apple: :penguin: |
 
 ### Coleco computers
@@ -1269,7 +1268,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### Commodore computers
 
 | Emulator                                                                                       | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems                                                                                             | Platform                                                               |
-|------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| ---------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
 | [CCS64](http://www.ccs64.com/)                                                                 | :x:                | Proprietary      | :x: (not anymore?) | :x:                | :heavy_minus_sign: | Commodore 64                                                                                                 | :computer: :penguin: :floppy_disk:                                     |
 | [Come Back 64](https://www.zophar.net/c64/come-back-64.html)                                   | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :x:                | Commodore 64                                                                                                 | :computer:                                                             |
 | [Dream64](https://www.zophar.net/c64/dream64.html)                                             | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Commodore 64                                                                                                 | :computer:                                                             |
@@ -1288,7 +1287,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### Commodore Amiga computers/Commodore Amiga CD32
 
 | Emulator                                           | FOSS               | License   | Free               | Active             | Recommended        | Emulated systems                      | Platform                                                            |
-|----------------------------------------------------|--------------------|-----------|--------------------|--------------------|--------------------|---------------------------------------|---------------------------------------------------------------------|
+| -------------------------------------------------- | ------------------ | --------- | ------------------ | ------------------ | ------------------ | ------------------------------------- | ------------------------------------------------------------------- |
 | [FS-UAE](https://fs-uae.net/)                      | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Commodore Amiga, Commodore Amiga CD32 | :computer: :apple: :penguin: :imp:                                  |
 | [UAE](https://www.zophar.net/amiga/uae.html)       | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :x:                | :x:                | Commodore Amiga                       | :computer:                                                          |
 | [uae4all](https://github.com/zear/uae4all)         | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Commodore Amiga                       | :computer: :apple: :penguin: :imp: :floppy_disk: BeOS NeXTStep OS/2 |
@@ -1299,7 +1298,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### Atari 400/800 and ST computers
 
 | Emulator                                                   | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform                           |
-|------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|------------------|------------------------------------|
+| ---------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------------- |
 | [ARAnyM](https://aranym.github.io/)                        | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari computers  | :computer: :apple: :penguin:       |
 | [Atari800](https://github.com/atari800/atari800)           | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Atari computers  | :computer: :penguin:               |
 | [Castaway](https://sourceforge.net/projects/castaway)      | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Atari computers  | :computer: :apple: :penguin: :imp: |
@@ -1318,13 +1317,13 @@ See multi-emulators section for "Emma 02 emulator"
 #### Sinclair ZX81 computers
 
 | Emulator                                                                   | FOSS               | License   | Free               | Active             | Recommended        | Emulated systems | Platform   |
-|----------------------------------------------------------------------------|--------------------|-----------|--------------------|--------------------|--------------------|------------------|------------|
+| -------------------------------------------------------------------------- | ------------------ | --------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------- |
 | [EightyOne](https://sourceforge.net/projects/eightyone-sinclair-emulator/) | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX81    | :computer: |
 
 #### Sinclair ZX Spectrum computers
 
 | Emulator                                   | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems     | Platform                     |
-|--------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|----------------------|------------------------------|
+| ------------------------------------------ | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | -------------------- | ---------------------------- |
 | [Speccy](https://fms.komkon.org/Speccy/)   | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum | :computer: :penguin: :robot: |
 | [ZXPoly](https://github.com/raydac/zxpoly) | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sinclair ZX Spectrum | :computer: :apple: :penguin: |
 
@@ -1333,7 +1332,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### NEC 6000 computers
 
 | Emulator                                                   | FOSS               | License                                            | Free               | Active             | Recommended        | Emulated systems   | Platform             |
-|------------------------------------------------------------|--------------------|----------------------------------------------------|--------------------|--------------------|--------------------|--------------------|----------------------|
+| ---------------------------------------------------------- | ------------------ | -------------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | -------------------- |
 | [PC6001VX](http://eighttails.seesaa.net/)                  | :heavy_check_mark: | LGPLv2.1                                           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC 6000 computers | :computer: :penguin: |
 | [PC6001V](http://papicom.net/p6v/index.html)               | :heavy_check_mark: | LGPLv2.1                                           | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC 6000 computers | :computer: :penguin: |
 | [PC6001VW](http://p6ers.net/bernie/develop/pc6001vw3.html) | :heavy_minus_sign: | I couldn't find the source, but should be LGPLv2.1 | :heavy_check_mark: | :heavy_check_mark: | :x:                | NEC 6000 computers | :computer: :penguin: |
@@ -1341,7 +1340,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### NEC 8800 computers
 
 | Emulator                                                                                                               | FOSS               | License                                                                                   | Free               | Active             | Recommended        | Emulated systems   | Platform                           |
-|------------------------------------------------------------------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------|--------------------|--------------------|--------------------|--------------------|------------------------------------|
+| ---------------------------------------------------------------------------------------------------------------------- | ------------------ | ----------------------------------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ---------------------------------- |
 | [ePC8801MA Kai SE](http://nenecchi.kirara.st/)                                                                         | :x:                | Proprietary (source code is in a password-protected 7z file and I haven't cracked it yet) | :heavy_check_mark: | :heavy_minus_sign: | :x:                | NEC 8800 computers | :computer:                         |
 | [Excite88 (website is down)](http://www.emu-france.com/emulateurs/10-ordinateurs/153-nec-pc-8801/7425-excite88/)       | :heavy_minus_sign: | Proprietary                                                                               | :heavy_check_mark: | :x:                | :heavy_minus_sign: | NEC 8800 computers | :computer:                         |
 | [M88](http://retropc.net/cisc/m88/)                                                                                    | :x:                | Proprietary                                                                               | :heavy_check_mark: | :x:                | :x:                | NEC 8800 computers | :computer:                         |
@@ -1358,7 +1357,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### NEC 9800 computers
 
 | Emulator                                                | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems   | Platform                                      |
-|---------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|--------------------|-----------------------------------------------|
+| ------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ------------------ | --------------------------------------------- |
 | [Anex86](https://www.zophar.net/pc98/anex86.html)       | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | NEC 9800 computers | :computer:                                    |
 | [J98](http://akiyuki.boy.jp/android)                    | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | NEC 9800 computers | :robot:                                       |
 | [Neko Project II](http://www.yui.ne.jp/np2)             | :heavy_minus_sign: | Proprietary      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | NEC 9800 computers | :computer: :apple:                            |
@@ -1370,7 +1369,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### MSX computers
 
 | Emulator                                                                  | FOSS               | License                                                       | Free                                                   | Active             | Recommended        | Emulated systems                                        | Platform                                                                                                              |
-|---------------------------------------------------------------------------|--------------------|---------------------------------------------------------------|--------------------------------------------------------|--------------------|--------------------|---------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| ------------------------------------------------------------------------- | ------------------ | ------------------------------------------------------------- | ------------------------------------------------------ | ------------------ | ------------------ | ------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | [blueMSX](http://bluemsx.msxblue.com/index.htm)                           | :heavy_check_mark: | Dual-licensed under the zlib/libpng license and the GNU GPLv2 | :heavy_check_mark:                                     | :heavy_minus_sign: | :heavy_check_mark: | MSX computers, ColecoVision, SV-318/SV-328, Sega SG1000 | :computer:                                                                                                            |
 | [BrMSX](https://www.zophar.net/msx/brmsx.html)                            | :heavy_minus_sign: | Source available                                              | :heavy_check_mark:                                     | :x:                | :heavy_minus_sign: | MSX computers                                           | :computer:                                                                                                            |
 | [CJS MSX Emulator](https://www.zophar.net/msx/cjs-msx-emulator.html)      | :x:                | Proprietary                                                   | :x: (mentions shareware and registering in the README) | :x:                | :x:                | MSX computers                                           | :computer:                                                                                                            |
@@ -1393,13 +1392,13 @@ See multi-emulators section for "Emma 02 emulator"
 ### Sharp X1 computers
 
 | Emulator                                                    | FOSS               | License   | Free               | Active             | Recommended        | Emulated systems | Platform   |
-|-------------------------------------------------------------|--------------------|-----------|--------------------|--------------------|--------------------|------------------|------------|
+| ----------------------------------------------------------- | ------------------ | --------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------- |
 | [eX1](http://takeda-toshiya.my.coocan.jp/common/index.html) | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Sharp X1         | :computer: |
 
 ### Sharp X68000 computers
 
 | Emulator                                                                                                                        | FOSS               | License                                    | Free               | Active             | Recommended        | Emulated systems | Platform                                                      |
-|---------------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------------------------------|--------------------|--------------------|--------------------|------------------|---------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------ | ------------------ | ------------------ | ------------------ | ---------------- | ------------------------------------------------------------- |
 | [EX68](http://www.ksky.ne.jp/~yamama/emul)                                                                                      | :x:                | Proprietary                                | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Sharp X68000     | :computer:                                                    |
 | [px68k](https://github.com/hissorii/px68k)                                                                                      | :heavy_minus_sign: | Source available?                          | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Sharp X68000     | :computer: :apple: :robot: :iphone: Sony PlayStation Portable |
 | [Win68k](http://retropc.net/usalin/)                                                                                            | :heavy_minus_sign: | Source available?                          | :heavy_check_mark: | :x:                | :x:                | Sharp X68000     | :computer:                                                    |
@@ -1413,7 +1412,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Virtualization solutions
 
 | Virtualization solution                                                               | FOSS               | License     | Free               | Active             | Recommended        | Virtualized systems   | Platform                     |
-|---------------------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|-----------------------|------------------------------|
+| ------------------------------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | --------------------- | ---------------------------- |
 | [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_check_mark: | x86 and AMD64/Intel64 | :computer:                   |
 | [VirtualBox](https://www.virtualbox.org/)                                             | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | x86 and AMD64/Intel64 | :computer: :apple: :penguin: |
 | [VMWare](https://www.vmware.com/)                                                     | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_check_mark: | x86 and AMD64/Intel64 | :computer: :apple: :penguin: |
@@ -1421,7 +1420,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Interpreters
 
 | Emulator                                               | FOSS               | License   | Free               | Active             | Recommended        | Supported games                                                                                    | Platform                                                                                                                                                                                              |
-|--------------------------------------------------------|--------------------|-----------|--------------------|--------------------|--------------------|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------------------------------ | ------------------ | --------- | ------------------ | ------------------ | ------------------ | -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [DreamMM](https://aarongiles.com/dreamm/)              | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | [Supported games](https://aarongiles.com/dreamm/docs/v21/#intro-games)                             | :computer: :apple: :penguin:                                                                                                                                                                          |
 | [ResidualVM](https://github.com/residualvm/residualvm) | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :x:                | :x:                | [Supported games](https://github.com/residualvm/residualvm#21-which-games-does-residualvm-support) | :computer: :apple: :penguin:                                                                                                                                                                          |
 | [ScummVM](https://www.scummvm.org/)                    | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Supported games](https://www.scummvm.org/compatibility/)                                          | :computer: :apple: :penguin: :imp: :robot: :iphone: Sony PlayStation 3 Sony PlayStation Portable Sony PlayStation Vita Sega Dreamcast Nintendo DS Nintendo 3DS Nintendo Wii Nintendo Switch MANY more |
@@ -1433,14 +1432,14 @@ See multi-emulators section for "Emma 02 emulator"
 #### TI-81 series
 
 | Emulator                                                             | FOSS | License     | Free               | Active | Recommended        | Emulated systems | Platform   |
-|----------------------------------------------------------------------|------|-------------|--------------------|--------|--------------------|------------------|------------|
+| -------------------------------------------------------------------- | ---- | ----------- | ------------------ | ------ | ------------------ | ---------------- | ---------- |
 | [Mac-81](https://www.ticalc.org/programming/emulators/software.html) | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-81            | :apple:    |
 | [PC-81](https://www.ticalc.org/programming/emulators/software.html)  | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-81            | :computer: |
 
 #### TI-83 / TI-84 series
 
 | Emulator                                                                                                                                                    | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems                                          | Platform |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-----------------------------------------------------------|----------|
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | --------------------------------------------------------- | -------- |
 | [AlmostTI](https://fms.komkon.org/ATI85/)                                                                                                                   | :heavy_check_mark: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | TI81, TI82, TI83, TI83+, TI83+SE, TI84+SE, TI85, and TI86 |          |
 | [CalcEm](http://calcem.sourceforge.net/)                                                                                                                    | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI-82 and TI-83                                           |          |
 | [CEmu](https://github.com/CE-Programming/CEmu)                                                                                                              | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | TI-84 Plus CE / TI-83 Premium CE                          |          |
@@ -1455,7 +1454,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### TI-85 and TI-86 series
 
 | Emulator                                                                                                         | FOSS | License     | Free               | Active | Recommended        | Emulated systems | Platform |
-|------------------------------------------------------------------------------------------------------------------|------|-------------|--------------------|--------|--------------------|------------------|----------|
+| ---------------------------------------------------------------------------------------------------------------- | ---- | ----------- | ------------------ | ------ | ------------------ | ---------------- | -------- |
 | [Emulator86](https://www.ticalc.org/programming/emulators/software.html)                                         | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-86            |          |
 | [TI-85 Emulator](https://www.ticalc.org/programming/emulators/software.html)                                     | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-85            |          |
 | [TI-85 Emulator (different then the above emulator)](https://www.ticalc.org/programming/emulators/software.html) | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-85            |          |
@@ -1467,7 +1466,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### TI-89 series
 
 | Emulator                                                                    | FOSS               | License       | Free               | Active             | Recommended        | Emulated systems    | Platform |
-|-----------------------------------------------------------------------------|--------------------|---------------|--------------------|--------------------|--------------------|---------------------|----------|
+| --------------------------------------------------------------------------- | ------------------ | ------------- | ------------------ | ------------------ | ------------------ | ------------------- | -------- |
 | [TiEmu](https://sourceforge.net/projects/gtktiemu/)                         | :heavy_check_mark: | GNU GPLv2     | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI89(ti)/92(+)/V200 |          |
 | [Virtual TI-89](https://home.adelphi.edu/~mo17502/VirtualTi89.html)         | :heavy_minus_sign: | MAME license? | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Ti-89               |          |
 | [Graph 89](https://play.google.com/store/apps/details?id=com.Bisha.TI89Emu) | :x:                | Proprietary   | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | TI-89               |          |
@@ -1476,7 +1475,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### TI-90 series
 
 | Emulator                                                               | FOSS               | License     | Free               | Active | Recommended        | Emulated systems | Platform |
-|------------------------------------------------------------------------|--------------------|-------------|--------------------|--------|--------------------|------------------|----------|
+| ---------------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------ | ------------------ | ---------------- | -------- |
 | [Emu-92](https://www.ticalc.org/programming/emulators/software.html)   | :x:                | Proprietary | :heavy_check_mark: | :x:    | :x:                | TI-92            |          |
 | [MacTiger](https://www.ticalc.org/programming/emulators/software.html) | :x:                | Proprietary | :heavy_check_mark: | :x:    | :x:                | TI-92            |          |
 | [Tiger](https://www.ticalc.org/programming/emulators/software.html)    | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-92            |          |
@@ -1484,7 +1483,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Misc TI calculator emulators
 
 | Emulator                                                                     | FOSS               | License          | Free               | Active | Recommended        | Emulated systems                                                               | Platform |
-|------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------|--------------------|--------------------------------------------------------------------------------|----------|
+| ---------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------ | ------------------ | ------------------------------------------------------------------------------ | -------- |
 | [TI-8x Emulator](https://www.ticalc.org/programming/emulators/software.html) | :x:                | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-82, TI-83, TI-85, TI-86                                                     |          |
 | [TiEmu](http://lpg.ticalc.org/prj_tiemu/)                                    | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI89, TI89 Titanium, TI92, TI92+, V200PLT                                      |          |
 | [Virtual TI](https://www.ticalc.org/programming/emulators/software.html)     | :x:                | Proprietary      | :heavy_check_mark: | :x:    | :heavy_minus_sign: | TI-82, TI-83, TI-83 Plus, TI-85, TI-86, TI-89, TI-92, TI-92 II, and TI-92 Plus |          |
@@ -1492,7 +1491,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### TI-Nspire
 
 | Emulator                                                                                             | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
-|------------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|------------------|----------|
+| ---------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | -------- |
 | [Firebird](https://github.com/nspire-emus/firebird/)                                                 | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | TI-Nspire        |          |
 | [kArmTI](https://www.omnimaga.org/ti-nspire-projects/karmti-ti-nspire-emulator-with-skin-16585/345/) | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI-Nspire        |          |
 | [nspire_emu](https://github.com/masanchez5000/nspire_emu)                                            | :heavy_check_mark: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | TI-Nspire        |          |
@@ -1502,7 +1501,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### Hewlett Packard monochrome calculators
 
 | Emulator                                                                  | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems          | Platform |
-|---------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|---------------------------|----------|
+| ------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ------------------------- | -------- |
 | [Emu48](https://hp.giesselink.com/emu48.htm)                              | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | HP48                      |          |
 | [Emu28](https://hp.giesselink.com/emu28.htm)                              | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | HP18C and HP28C           |          |
 | [Alucin](https://www.hpcalc.org/details/3674)                             | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_check_mark: | HP 48SX/GX                |          |
@@ -1515,7 +1514,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### Hewlett Packard Prime calculators
 
 | Emulator                                                                                                                         | FOSS | License     | Free               | Active             | Recommended        | Emulated systems     | Platform |
-|----------------------------------------------------------------------------------------------------------------------------------|------|-------------|--------------------|--------------------|--------------------|----------------------|----------|
+| -------------------------------------------------------------------------------------------------------------------------------- | ---- | ----------- | ------------------ | ------------------ | ------------------ | -------------------- | -------- |
 | [HP Prime Virtual Calculator Simulator](https://www.hpcalc.org/details/8939)                                                     | :x:  | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | HP Prime calculators |          |
 | [HP Prime Graphing Calculator App (free)](https://www.microsoft.com/store/productId/9NCL1WWGMSSM)                                | :x:  | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | HP Prime calculators |          |
 | [HP Prime Graphing Calculator App (paid)](https://www.microsoft.com/store/productId/9NBLGGH5XSL5)                                | :x:  | Proprietary | :x:                | :heavy_minus_sign: | :heavy_minus_sign: | HP Prime calculators |          |
@@ -1525,7 +1524,7 @@ See multi-emulators section for "Emma 02 emulator"
 #### Hewlett Packard scientific and financial calculators
 
 | Emulator                                                              | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems  | Platform |
-|-----------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-------------------|----------|
+| --------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ----------------- | -------- |
 | [Emu28](https://hp.giesselink.com/emu28.htm)                          | :heavy_check_mark: | Source available | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | HP18C and HP28C   |          |
 | [Free42](https://thomasokken.com/free42/)                             | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | HP-42S            |          |
 | [HP SmartCalc 300s Emulator](https://www.educalc.net/page/2336453/)   | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | HP 300s           |          |
@@ -1538,13 +1537,13 @@ See multi-emulators section for "Emma 02 emulator"
 #### Other HP calculator resources
 
 | Emulator                                           | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems        | Platform   |
-|----------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-------------------------|------------|
+| -------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ----------------------- | ---------- |
 | [Emu48](https://www.hpcalc.org/hp48/pc/emulators/) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Multiple HP calculators | :computer: |
 
 ### Casio calculators
 
 | Emulator                                                                                                     | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems          | Platform |
-|--------------------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|---------------------------|----------|
+| ------------------------------------------------------------------------------------------------------------ | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ------------------------- | -------- |
 | [PB-1000 Emulator](https://web.archive.org/web/20210602185841/http://www.pisi.com.pl/piotr433/pb1000ee.htm)  | :heavy_check_mark: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | PB-1000                   |          |
 | [PB-2000C Emulator](https://web.archive.org/web/20210602211836/http://www.pisi.com.pl/piotr433/pb2000ee.htm) | :heavy_check_mark: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | PB-2000                   |          |
 | [FX-8000G Emulator](https://web.archive.org/web/20210614152627/http://pisi.com.pl/piotr433/fx8000ee.htm)     | :heavy_check_mark: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | FX-8000G                  |          |
@@ -1555,13 +1554,13 @@ See multi-emulators section for "Emma 02 emulator"
 ### Sharp calculators
 
 | Simulator                                                                        | FOSS | License     | Free               | Active             | Recommended        | Emulated systems      | Platform   |
-|----------------------------------------------------------------------------------|------|-------------|--------------------|--------------------|--------------------|-----------------------|------------|
+| -------------------------------------------------------------------------------- | ---- | ----------- | ------------------ | ------------------ | ------------------ | --------------------- | ---------- |
 | [Official Sharp simulators](https://www.sharp-calculators.com/support/software/) | :x:  | Proprietary | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | EL series calculators | :computer: |
 
 ### Elektronika calculators
 
 | Emulator                                                                                                                                     | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems                                                | Platform |
-|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|-----------------------------------------------------------------|----------|
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | --------------------------------------------------------------- | -------- |
 | [Calculators 3000](http://www.emulator3000.org/c3.htm)                                                                                       | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | [List of supported systems](http://www.emulator3000.org/c3.htm) |          |
 | [MK-90 Emulator](https://web.archive.org/web/20210601061619/http://www.pisi.com.pl/piotr433/mk90emue.htm)                                    | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | MK-90                                                           |          |
 | [MK-85 Emulator (link to Lazarus port not working)](https://web.archive.org/web/20220208142602/http://www.pisi.com.pl/piotr433/mk85emue.htm) | :heavy_check_mark: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | MK-85                                                           |          |
@@ -1574,7 +1573,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Adobe Flash emulators
 
 | Emulator                                               | FOSS               | License                                                        | Free               | Active             | Recommended        | Emulated systems | Platform                                                                                                                                |
-|--------------------------------------------------------|--------------------|----------------------------------------------------------------|--------------------|--------------------|--------------------|------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------------------------------------------ | ------------------ | -------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | [Gnash](https://github.com/strk/gnash)                 | :heavy_check_mark: | GNU GPLv3                                                      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Adobe Flash      | :computer: :apple: :penguin: :imp: :globe_with_meridians: Haiku BeOS OS/2 [MANY](https://github.com/strk/gnash/blob/master/README) more |
 | [Lightspark](https://github.com/lightspark/lightspark) | :heavy_check_mark: | GNU GPLv3                                                      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Adobe Flash      | :computer: :penguin: :globe_with_meridians:                                                                                             |
 | [Ruffle](https://github.com/ruffle-rs/ruffle)          | :heavy_check_mark: | Dual-licensed under the Apache 2.0 license and the MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Adobe Flash      | :computer: :apple: :penguin: :globe_with_meridians:                                                                                     |
@@ -1582,7 +1581,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Game engine emulators/interpreters
 
 | Emulator                                      | FOSS               | License                                                            | Free               | Active             | Recommended        | Emulated systems           | Platform                                                                                                                             |
-|-----------------------------------------------|--------------------|--------------------------------------------------------------------|--------------------|--------------------|--------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| --------------------------------------------- | ------------------ | ------------------------------------------------------------------ | ------------------ | ------------------ | ------------------ | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
 | [EasyRPG](https://easyrpg.org/)               | :heavy_check_mark: | GNU GPLv3                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RPG Maker                  | :computer: :apple: :penguin: :robot: :iphone: :globe_with_meridians: Nintendo Wii Nintendo 3DS Nintendo Switch Sony PlayStation Vita |
 | [JoiPlay](https://joiplay.net/)               | :heavy_minus_sign: | No central repo, seems to just be a combination of other projects? | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RPG Maker, Ren'Py, HTML5   | :robot: :globe_with_meridians:                                                                                                       |
 | [MKXP](https://github.com/Ancurio/mkxp)       | :heavy_check_mark: | GNU GPLv2                                                          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Ruby Game Scripting System | :computer: :apple: :penguin:                                                                                                         |
@@ -1591,17 +1590,17 @@ See multi-emulators section for "Emma 02 emulator"
 ### Nuon emulators
 
 | Emulator                                                                       | FOSS               | License                                   | Free               | Active             | Recommended        | Emulated systems | Platform   |
-|--------------------------------------------------------------------------------|--------------------|-------------------------------------------|--------------------|--------------------|--------------------|------------------|------------|
+| ------------------------------------------------------------------------------ | ------------------ | ----------------------------------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------- |
 | [Nuance](https://sourceforge.net/projects/nuance-nuon-emulator/)               | :heavy_check_mark: | 3-clause BSD                              | :heavy_check_mark: | :x:                | :heavy_check_mark: | Nuon             | :computer: |
 | [NuanceResurrection](https://github.com/andkrau/NuanceResurrection)            | :heavy_check_mark: | 3-clause BSD                              | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nuon             | :computer: |
 | [NuonEm (No download link currently)](https://www.nuon-dome.com/download.html) | :heavy_minus_sign: | No license/source available at the moment | :heavy_check_mark: | :x:                | :x:                | Nuon             | :question: |
 
 ### Game client emulators
 
-*Disclaimer: These tools are listed for preservation of games that are either no longer playable without them or incredibly difficult to get playable via their original downloads or media, these tools are ****not**** listed for enabling piracy or otherwise illegal means.*
+_Disclaimer: These tools are listed for preservation of games that are either no longer playable without them or incredibly difficult to get playable via their original downloads or media, these tools are \***\*not\*\*** listed for enabling piracy or otherwise illegal means._
 
 | Emulator                                                                                             | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-|------------------------------------------------------------------------------------------------------|--------------------|------------------|--------------------|--------------------|--------------------|------------------|------------------------------|
+| ---------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
 | [Goldberg Steam Emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator)                          | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Steam            | :computer: :penguin: SteamOS |
 | [SmartSteamEmu (SSE)](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935)                            | :x:                | Proprietary      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Steam            | :computer:                   |
 | [SmartSteamEmu (decompiled and modified version of SSE)](https://github.com/MAXBURAOT/SmartSteamEmu) | :x:                | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Steam            | :computer:                   |
@@ -1612,7 +1611,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Arcade machine emulators
 
 | Emulator                                                                                     | FOSS               | License                            | Free               | Active             | Recommended        | Emulated systems                                            | Platform                                                                                                                                             |
-|----------------------------------------------------------------------------------------------|--------------------|------------------------------------|--------------------|--------------------|--------------------|-------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -------------------------------------------------------------------------------------------- | ------------------ | ---------------------------------- | ------------------ | ------------------ | ------------------ | ----------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [Final Burn](https://www.zophar.net/fba/final-burn.html)                                     | :heavy_check_mark: | Custom license                     | :heavy_check_mark: | :x:                | :x:                | Multiple arcade systems                                     | :computer: :apple: :penguin: :robot:                                                                                                                 |
 | [Final Burn Alpha (AKA FB Alpha or FBA)](#)                                                  | :heavy_check_mark: | Custom license                     | :heavy_check_mark: | :x:                | :x:                | Multiple arcade systems                                     | :computer: :apple: :penguin: :robot: Raspberry Pi Nintendo Switch                                                                                    |
 | [Final Burn Alpha Rerecording](https://www.zophar.net/fba/final-burn-alpha-rerecording.html) | :heavy_check_mark: | Custom license                     | :heavy_check_mark: | :x:                | :x:                | Multiple arcade systems                                     | :computer: :apple: :penguin:                                                                                                                         |
@@ -1637,7 +1636,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Pinball machine emulators
 
 | Emulator                                                                                                                                    | FOSS               | License                               | Free               | Active             | Recommended        | Emulated systems                                               | Platform                                                   |
-|---------------------------------------------------------------------------------------------------------------------------------------------|--------------------|---------------------------------------|--------------------|--------------------|--------------------|----------------------------------------------------------------|------------------------------------------------------------|
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------- | ------------------ | ------------------ | ------------------ | -------------------------------------------------------------- | ---------------------------------------------------------- |
 | [PinMAME](https://github.com/vpinball/pinmame/)                                                                                             | :heavy_check_mark: | MAME license and 3-clause BSD license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Check [README](https://github.com/vpinball/pinmame#what-is-it) | :computer: :apple: :penguin: :robot: :iphone: Raspberry Pi |
 | [Visual Pinball](https://github.com/vpinball/vpinball/)                                                                                     | :heavy_check_mark: | MAME license and 3-clause BSD license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Everything PinMAME supports                                    | :computer:                                                 |
 | [Future Pinball (direct link to latest installer)](http://members.iinet.net.au/~cleathley/downloads/FuturePinballSetup_v1.9.1.20101231.exe) | :x:                | Proprietary                           | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Various pinball machines                                       | :computer:                                                 |
@@ -1645,7 +1644,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Multi-system emulators
 
 | Emulator                                                                                                                   | FOSS               | License                                    | Free               | Active             | Recommended        | Emulated systems                                                                                                                                        | Platform                                                                                             |
-|----------------------------------------------------------------------------------------------------------------------------|--------------------|--------------------------------------------|--------------------|--------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| -------------------------------------------------------------------------------------------------------------------------- | ------------------ | ------------------------------------------ | ------------------ | ------------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [ares](https://ares-emu.net/)                                                                                              | :heavy_check_mark: | ISC license                                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Emulated systems](https://ares-emu.net/compatibility)                                                                                                  | :computer: :apple: :penguin: :imp:                                                                   |
 | [byuu](https://web.archive.org/web/20200717154940/github.com/byuu/byuu)                                                    | :heavy_check_mark: | ISC license                                | :heavy_check_mark: | :x:                | :heavy_minus_sign: | See higan's supported systems                                                                                                                           | :computer: :apple: :penguin: :imp:                                                                   |
 | [higan](https://github.com/higan-emu/higan)                                                                                | :heavy_check_mark: | GNU GPLv3                                  | :heavy_check_mark: | :x:                | :heavy_check_mark: | [Emulated systems](https://github.com/higan-emu/higan)                                                                                                  | :computer: :apple: :penguin: :imp:                                                                   |
@@ -1690,7 +1689,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Emulation operating systems for computers
 
 | Operating system                                 | FOSS               | License                                                                          | Free               | Active             | Recommended        | Emulators used                                          | Platform |
-|--------------------------------------------------|--------------------|----------------------------------------------------------------------------------|--------------------|--------------------|--------------------|---------------------------------------------------------|----------|
+| ------------------------------------------------ | ------------------ | -------------------------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------------------------------------------- | -------- |
 | [Batocera](https://batocera.org/)                | :heavy_check_mark: | GNU GPLv2                                                                        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Compatibility](https://batocera.org/compatibility.php) |          |
 | [Lakka](https://www.lakka.tv/)                   | :heavy_check_mark: | [Multiple](https://github.com/libretro/Lakka-LibreELEC/tree/Lakka-v5.x/licenses) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RetroArch                                               |          |
 | [Recalbox](https://gitlab.com/recalbox/recalbox) | :heavy_check_mark: | GNU GPLv2                                                                        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign:                                      |          |
@@ -1698,7 +1697,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Emulation operating systems for single board computers
 
 | Operating system                                 | FOSS               | License                                                                          | Free               | Active             | Recommended        | Emulators used                                              | Platform |
-|--------------------------------------------------|--------------------|----------------------------------------------------------------------------------|--------------------|--------------------|--------------------|-------------------------------------------------------------|----------|
+| ------------------------------------------------ | ------------------ | -------------------------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ----------------------------------------------------------- | -------- |
 | [RetroPie](https://retropie.org.uk/)             | :heavy_check_mark: | GNU GPLv3                                                                        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Supported systems](https://retropie.org.uk/about/systems/) |          |
 | [Lakka](https://www.lakka.tv/)                   | :heavy_check_mark: | [Multiple](https://github.com/libretro/Lakka-LibreELEC/tree/Lakka-v5.x/licenses) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RetroArch                                                   |          |
 | [Recalbox](https://gitlab.com/recalbox/recalbox) | :heavy_check_mark: | GNU GPLv2                                                                        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign:                                          |          |
@@ -1709,7 +1708,7 @@ See multi-emulators section for "Emma 02 emulator"
 ### Emulation frontends and launchers for Windows/Linux
 
 | Emulator                                                                      | FOSS               | License                                     | Free               | Active             | Recommended        | Emulators supported | Platform |
-|-------------------------------------------------------------------------------|--------------------|---------------------------------------------|--------------------|--------------------|--------------------|---------------------|----------|
+| ----------------------------------------------------------------------------- | ------------------ | ------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------- | -------- |
 | [LaunchBox](https://www.launchbox-app.com/)                                   | :x:                | Proprietary                                 | :x:                | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  |          |
 | [Playnite](https://playnite.link/)                                            | :heavy_check_mark: | MIT license                                 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  |          |
 | [RetroBat](https://www.retrobat.org/)                                         | :heavy_check_mark: | LGPLv3                                      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:  |          |
@@ -1744,26 +1743,27 @@ See multi-emulators section for "Emma 02 emulator"
 ### Emulation frontends for Android
 
 | Frontend                                                                         | FOSS               | License     | Free               | Active             | Recommended        | Emulators used                 | Platform |
-|----------------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|--------------------------------|----------|
+| -------------------------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | ------------------------------ | -------- |
 | [Lemuroid](https://play.google.com/store/apps/details?id=com.swordfish.lemuroid) | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RetroArch                      | :robot:  |
 | [Daijishou](https://github.com/TapiocaFox/Daijishou)                             | :heavy_check_mark: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | RetroArch, other emulator apps | :robot:  |
 | [Dig](https://play.google.com/store/apps/details?id=com.digdroid.alman.dig)      | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Unknown, "supports 83 systems" | :robot:  |
 
 ### Emulation scripts for setting up multiple emulators
 
-| Script                                            | FOSS               | License   | Free               | Active | Recommended        | Emulators used                                    | Platform          |
-|---------------------------------------------------|--------------------|-----------|--------------------|--------|--------------------|---------------------------------------------------|-------------------|
-| [Marley](https://github.com/beaumanvienna/marley) | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Mednafen, Dolphin, Mupen64Plus, PPSSPP, and PCSX2 | :penguin:         |
+| Script                                            | FOSS               | License   | Free               | Active | Recommended        | Emulators used                                    | Platform  |
+| ------------------------------------------------- | ------------------ | --------- | ------------------ | ------ | ------------------ | ------------------------------------------------- | --------- |
+| [Marley](https://github.com/beaumanvienna/marley) | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Mednafen, Dolphin, Mupen64Plus, PPSSPP, and PCSX2 | :penguin: |
 
 ### Emulation services
-| Service                                                                          | FOSS               | License     | Free               | Active             | Recommended        | Emulators used                   | Platform                       |
-|----------------------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|----------------------------------|--------------------------------|
-| [Afterplay](https://afterplay.io/)                                               | :x:                | Proprietary | :x:                | :heavy_check_mark: | :x:                | :question: (Possibly RetroArch?) | :globe_with_meridians:         |
+
+| Service                            | FOSS | License     | Free | Active             | Recommended | Emulators used                   | Platform               |
+| ---------------------------------- | ---- | ----------- | ---- | ------------------ | ----------- | -------------------------------- | ---------------------- |
+| [Afterplay](https://afterplay.io/) | :x:  | Proprietary | :x:  | :heavy_check_mark: | :x:         | :question: (Possibly RetroArch?) | :globe_with_meridians: |
 
 ### Game collection managers
 
 | Manager                                                               | FOSS               | License     | Free               | Active             | Recommended        | Targeted systems | Platform |
-|-----------------------------------------------------------------------|--------------------|-------------|--------------------|--------------------|--------------------|------------------|----------|
+| --------------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | ---------------- | -------- |
 | [Igir](https://github.com/emmercm/igir)                               | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Multiple         |          |
 | [Clrmamepro](https://mamedev.emulab.it/clrmamepro/)                   | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Arcade systems   |          |
 | [RomVault](https://www.romvault.com/)                                 | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Multiple         |          |
