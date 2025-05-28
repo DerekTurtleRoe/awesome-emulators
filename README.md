@@ -716,28 +716,28 @@ Legend:
 
 #### Panasonic 3DO M2
 
-| Emulator                                            | FOSS | License | Free | Active | Recommended | Emulated systems | Platform |
+| Emulator                                            | FOSS | License | Paid | Active | Recommended | Emulated systems | Platform |
 | --------------------------------------------------- | ---- | ------- | ---- | ------ | ----------- | ---------------- | -------- |
 | There are currently no emulators for this system 😔 | N/A  | N/A     | N/A  | N/A    | N/A         | N/A              | N/A      |
 
 ### Gemei A330
 
-| Emulator                                                              | FOSS               | License          | Free               | Active | Recommended        | Emulated systems | Platform                     |
-| --------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------ | ------------------ | ---------------- | ---------------------------- |
-| [Gemei A330 libretro core](https://github.com/minexew/GA330-libretro) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:    | :heavy_check_mark: | Gemei A330       | :computer: :apple: :penguin: |
+| Emulator                                                              | FOSS               | License          | Paid | Active | Recommended        | Emulated systems | Platform                     |
+| --------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------ | ------------------ | ---------------- | ---------------------------- |
+| [Gemei A330 libretro core](https://github.com/minexew/GA330-libretro) | :heavy_minus_sign: | Source available | :x:  | :x:    | :heavy_check_mark: | Gemei A330       | :computer: :apple: :penguin: |
 
 ### GCE Vectrex
 
-| Emulator                                 | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-| ---------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
-| [Vecx JG](https://gitlab.com/jgemu/vecx) | :heavy_check_mark: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | GCE Vectrex      | :computer: :apple: :penguin: |
+| Emulator                                 | FOSS               | License     | Paid | Active             | Recommended        | Emulated systems | Platform                     |
+| ---------------------------------------- | ------------------ | ----------- | ---- | ------------------ | ------------------ | ---------------- | ---------------------------- |
+| [Vecx JG](https://gitlab.com/jgemu/vecx) | :heavy_check_mark: | MIT license | :x:  | :heavy_check_mark: | :heavy_check_mark: | GCE Vectrex      | :computer: :apple: :penguin: |
 
 ### Apple/Bandai Pippin
 
-| Emulator                                                                          | FOSS               | License   | Free               | Active             | Recommendation     | Emulated systems    | Platform                           |
-| --------------------------------------------------------------------------------- | ------------------ | --------- | ------------------ | ------------------ | ------------------ | ------------------- | ---------------------------------- |
-| [SheepShaver](https://github.com/cebix/macemu)                                    | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Apple/Bandai Pippin | :computer: :apple: :penguin: :imp: |
-| [SheepShaver (community maintained fork)](https://github.com/kanjitalk755/macemu) | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Apple/Bandai Pippin | :computer: :apple: :penguin: :imp: |
+| Emulator                                                                          | FOSS               | License   | Paid | Active             | Recommendation     | Emulated systems    | Platform                           |
+| --------------------------------------------------------------------------------- | ------------------ | --------- | ---- | ------------------ | ------------------ | ------------------- | ---------------------------------- |
+| [SheepShaver](https://github.com/cebix/macemu)                                    | :heavy_check_mark: | GNU GPLv2 | :x:  | :heavy_check_mark: | :heavy_check_mark: | Apple/Bandai Pippin | :computer: :apple: :penguin: :imp: |
+| [SheepShaver (community maintained fork)](https://github.com/kanjitalk755/macemu) | :heavy_check_mark: | GNU GPLv2 | :x:  | :heavy_check_mark: | :heavy_check_mark: | Apple/Bandai Pippin | :computer: :apple: :penguin: :imp: |
 
 ### Mattel Intellivision
 
