@@ -508,27 +508,27 @@ Legend:
 
 #### Nintendo Switch
 
-| Emulator                                                            | FOSS               | License            | Free               | Active             | Recommended        | Emulated systems | Platform                             |
-| ------------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ---------------- | ------------------------------------ |
-| [CageTheUnicorn](https://github.com/reswitched/CageTheUnicorn)      | :heavy_check_mark: | ISC license        | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
-| [Citron](https://git.citron-emu.org/Citron/Citron)                  | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
-| [ctremu](https://github.com/burhanr13/ctremu)                       | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :penguin: :apple:                    |
-| [Mephisto](https://github.com/reswitched/Mephisto)                  | :heavy_check_mark: | GNU GPLv2          | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
-| [Nozomi](https://github.com/noumidev/Nozomi)                        | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :heavy_minus_sign:                   |
-| [NSEmu](https://github.com/RKX1209/nsemu)                           | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :penguin:                            |
-| [NXEmu](https://discord.gg/tA2pg3ZM)                                | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Nintendo Switch  | :computer:                           |
-| [Pine](https://github.com/Ishan09811/pine)                          | :heavy_check_mark: | MPLv2              | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
-| [Pomelo](https://pomelo-emu.github.io/)                             | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :iphone:                             |
-| [Ryujinx](#)                                                        | :heavy_check_mark: | MIT license        | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin: :robot: |
-| [Ryujinx-mirror](https://git.ryujinx.app/archive/ryujinx-mirror)    | :heavy_check_mark: | MIT license        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin: :robot: |
-| [Ryujinx (KeatonTheBot fork)](https://github.com/Kenji-NX/Kenji-NX) | :heavy_check_mark: | MIT license        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin:         |
-| [Ryujinx (Ryubing fork)](https://git.ryujinx.app/ryubing/ryujinx)   | :heavy_check_mark: | MIT license        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin:         |
-| [Skyline](https://skyline-emu.one/)                                 | :heavy_check_mark: | MPLv2              | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
-| [Strato](https://github.com/strato-emu/strato)                      | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
-| [Sudachi](https://sudachi.emuplace.app/)                            | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :robot:                   |
-| [Suyu](https://suyu.dev/)                                           | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :penguin:                 |
-| [Uzuy](https://uzuy-edge.org/)                                      | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :x:                | :x:                | Nintendo Switch  | :computer: :penguin:                 |
-| [Yuzu](#)                                                           | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
+| Emulator                                                          | FOSS               | License            | Paid | Active             | Recommended        | Emulated systems | Platform                             |
+| ----------------------------------------------------------------- | ------------------ | ------------------ | ---- | ------------------ | ------------------ | ---------------- | ------------------------------------ |
+| [CageTheUnicorn](https://github.com/reswitched/CageTheUnicorn)    | :heavy_check_mark: | ISC license        | :x:  | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
+| [Citron](https://git.citron-emu.org/Citron/Citron)                | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
+| [ctremu](https://github.com/burhanr13/ctremu)                     | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :penguin: :apple:                    |
+| [Kenji-NX](https://github.com/Kenji-NX/Kenji-NX)                  | :heavy_check_mark: | MIT license        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin:         |
+| [Mephisto](https://github.com/reswitched/Mephisto)                | :heavy_check_mark: | GNU GPLv2          | :x:  | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
+| [Nozomi](https://github.com/noumidev/Nozomi)                      | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :heavy_minus_sign:                   |
+| [NSEmu](https://github.com/RKX1209/nsemu)                         | :heavy_check_mark: | GNU GPLv3          | :x:  | :x:                | :x:                | Nintendo Switch  | :penguin:                            |
+| [NXEmu](https://discord.gg/tA2pg3ZM)                              | :heavy_minus_sign: | :heavy_minus_sign: | :x:  | :heavy_minus_sign: | :x:                | Nintendo Switch  | :computer:                           |
+| [Pine](https://github.com/Ishan09811/pine)                        | :heavy_check_mark: | MPLv2              | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
+| [Pomelo](https://pomelo-emu.github.io/)                           | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :iphone:                             |
+| [Ryujinx (Ryubing fork)](https://git.ryujinx.app/ryubing/ryujinx) | :heavy_check_mark: | MIT license        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin:         |
+| [Ryujinx-mirror](https://git.ryujinx.app/archive/ryujinx-mirror)  | :heavy_check_mark: | MIT license        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin: :robot: |
+| [Ryujinx](#)                                                      | :heavy_check_mark: | MIT license        | :x:  | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin: :robot: |
+| [Skyline](https://skyline-emu.one/)                               | :heavy_check_mark: | MPLv2              | :x:  | :x:                | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
+| [Strato](https://github.com/strato-emu/strato)                    | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_minus_sign: | :heavy_minus_sign: | Nintendo Switch  | :robot:                              |
+| [Sudachi](https://sudachi.emuplace.app/)                          | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :robot:                   |
+| [Suyu](https://suyu.dev/)                                         | :heavy_check_mark: | GNU GPLv3          | :x:  | :x:                | :x:                | Nintendo Switch  | :computer: :penguin:                 |
+| [Uzuy](https://uzuy-edge.org/)                                    | :heavy_check_mark: | GNU GPLv3          | :x:  | :x:                | :x:                | Nintendo Switch  | :computer: :penguin:                 |
+| [Yuzu](#)                                                         | :heavy_check_mark: | GNU GPLv3          | :x:  | :x:                | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
 
 ### Sega
 
