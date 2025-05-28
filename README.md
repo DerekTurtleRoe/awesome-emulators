@@ -696,7 +696,7 @@ Legend:
 
 ### Philips CD-i
 
-| Emulator                                                        | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform                     |
+| Emulator                                                        | FOSS               | License          | Paid               | Active             | Recommended        | Emulated systems | Platform                     |
 | --------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
 | [CD-iCE](https://www.zophar.net/cd-i/cd-ice.html)               | :x:                | Proprietary      | :x:                | :x:                | :x:                | Philips CD-i     | :computer:                   |
 | [CD-i Emulator](http://www.cdiemu.org/)                         | :x:                | Proprietary      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Philips CD-i     | :computer:                   |
