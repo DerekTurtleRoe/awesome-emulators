@@ -341,10 +341,10 @@ Legend:
 
 #### Sony PlayStation 5
 
-| Emulator                                 | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems                       | Platform   |
-| ---------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | -------------------------------------- | ---------- |
-| [Kyty](https://github.com/InoriRus/Kyty) | :heavy_check_mark: | MIT license | :heavy_check_mark: | :heavy_minus_sign: | :x:                | Sony PlayStation 5                     | :computer: |
-| [RPCSX](https://github.com/RPCSX/rpcsx)  | :heavy_check_mark: | GNU GPLv2   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation 4, Sony PlayStation 5 | :penguin:  |
+| Emulator                                 | FOSS               | License     | Paid | Active             | Recommended        | Emulated systems                       | Platform   |
+| ---------------------------------------- | ------------------ | ----------- | ---- | ------------------ | ------------------ | -------------------------------------- | ---------- |
+| [Kyty](https://github.com/InoriRus/Kyty) | :heavy_check_mark: | MIT license | :x:  | :heavy_minus_sign: | :x:                | Sony PlayStation 5                     | :computer: |
+| [RPCSX](https://github.com/RPCSX/rpcsx)  | :heavy_check_mark: | GNU GPLv2   | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation 4, Sony PlayStation 5 | :penguin:  |
 
 ### Nintendo
 
