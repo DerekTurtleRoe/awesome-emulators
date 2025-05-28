@@ -608,62 +608,62 @@ Legend:
 
 #### Sega Dreamcast VMU
 
-| Emulator                                                                        | FOSS               | License          | Free               | Active | Recommended        | Emulated systems   | Platform                                           |
-| ------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------ | ------------------ | ------------------ | -------------------------------------------------- |
-| [DirectVMS](https://www.zophar.net/vms/directvms.html)                          | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:    | :x:                | Sega Dreamcast VMU | :computer:                                         |
-| [DreamVMU](https://web.archive.org/web/20040415081512/http://xega.emucamp.com/) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:    | :x:                | Sega Dreamcast VMU | :computer:                                         |
-| [ElysianVMU](http://evmu.elysianshadows.com/)                                   | :x:                | Proprietary      | :heavy_check_mark: | :x:    | :heavy_check_mark: | Sega Dreamcast VMU | :computer: :apple: :penguin:                       |
-| [SoftVMS](https://mc.pp.se/dc/sw.html)                                          | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:    | :x:                | Sega Dreamcast VMU | :computer: :penguin: :floppy_disk: Amiga Dreamcast |
+| Emulator                                                                        | FOSS               | License          | Paid | Active | Recommended        | Emulated systems   | Platform                                           |
+| ------------------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------ | ------------------ | ------------------ | -------------------------------------------------- |
+| [DirectVMS](https://www.zophar.net/vms/directvms.html)                          | :heavy_minus_sign: | Source available | :x:  | :x:    | :x:                | Sega Dreamcast VMU | :computer:                                         |
+| [DreamVMU](https://web.archive.org/web/20040415081512/http://xega.emucamp.com/) | :heavy_minus_sign: | Source available | :x:  | :x:    | :x:                | Sega Dreamcast VMU | :computer:                                         |
+| [ElysianVMU](http://evmu.elysianshadows.com/)                                   | :x:                | Proprietary      | :x:  | :x:    | :heavy_check_mark: | Sega Dreamcast VMU | :computer: :apple: :penguin:                       |
+| [SoftVMS](https://mc.pp.se/dc/sw.html)                                          | :heavy_minus_sign: | Source available | :x:  | :x:    | :x:                | Sega Dreamcast VMU | :computer: :penguin: :floppy_disk: Amiga Dreamcast |
 
 ### Microsoft
 
 #### Microsoft Xbox
 
-| Emulator                                                                                                    | FOSS               | License              | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-| ----------------------------------------------------------------------------------------------------------- | ------------------ | -------------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
-| [Cxbx](https://github.com/Echelon9/cxbx-shogun)                                                             | :heavy_check_mark: | GNU GPLv2            | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   | :computer: :penguin:         |
-| [Cxbx-Reloaded](https://cxbx-reloaded.co.uk/)                                                               | :heavy_check_mark: | GNU GPLv2            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox   | :computer:                   |
-| [Dxbx](http://sourceforge.net/projects/dxbx)                                                                | :heavy_check_mark: | GNU GPLv2            | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   | :computer:                   |
-| [OpenXBOX](https://github.com/mborgerson/OpenXBOX/tree/master)                                              | :heavy_minus_sign: | Source available     | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   | :computer: :penguin:         |
-| [StrikeBox](https://github.com/StrikerX3/StrikeBox)                                                         | :heavy_check_mark: | 2-clause BSD license | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   | :computer: :penguin:         |
-| [XQEMU](https://github.com/xqemu/xqemu)                                                                     | :heavy_check_mark: | GNU GPLv2            | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Microsoft Xbox   | :computer: :apple: :penguin: |
-| [Xemu](https://xemu.app/)                                                                                   | :heavy_check_mark: | GNU GPLv2            | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox   | :computer: :apple: :penguin: |
-| [Xeon](https://www.emulator-zone.com/doc.php/xbox/xeon.html)                                                | :x:                | Proprietary          | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   | :computer:                   |
-| [Xenoborg](https://xenoborg-emu.blogspot.com/) - [Source here](https://code.google.com/archive/p/xenoborg/) | :heavy_check_mark: | GNU GPLv3            | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox   | :computer:                   |
+| Emulator                                                                                                    | FOSS               | License              | Paid | Active             | Recommended        | Emulated systems | Platform                     |
+| ----------------------------------------------------------------------------------------------------------- | ------------------ | -------------------- | ---- | ------------------ | ------------------ | ---------------- | ---------------------------- |
+| [Cxbx](https://github.com/Echelon9/cxbx-shogun)                                                             | :heavy_check_mark: | GNU GPLv2            | :x:  | :x:                | :x:                | Microsoft Xbox   | :computer: :penguin:         |
+| [Cxbx-Reloaded](https://cxbx-reloaded.co.uk/)                                                               | :heavy_check_mark: | GNU GPLv2            | :x:  | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox   | :computer:                   |
+| [Dxbx](http://sourceforge.net/projects/dxbx)                                                                | :heavy_check_mark: | GNU GPLv2            | :x:  | :x:                | :x:                | Microsoft Xbox   | :computer:                   |
+| [OpenXBOX](https://github.com/mborgerson/OpenXBOX/tree/master)                                              | :heavy_minus_sign: | Source available     | :x:  | :x:                | :x:                | Microsoft Xbox   | :computer: :penguin:         |
+| [StrikeBox](https://github.com/StrikerX3/StrikeBox)                                                         | :heavy_check_mark: | 2-clause BSD license | :x:  | :x:                | :x:                | Microsoft Xbox   | :computer: :penguin:         |
+| [XQEMU](https://github.com/xqemu/xqemu)                                                                     | :heavy_check_mark: | GNU GPLv2            | :x:  | :x:                | :heavy_minus_sign: | Microsoft Xbox   | :computer: :apple: :penguin: |
+| [Xemu](https://xemu.app/)                                                                                   | :heavy_check_mark: | GNU GPLv2            | :x:  | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox   | :computer: :apple: :penguin: |
+| [Xeon](https://www.emulator-zone.com/doc.php/xbox/xeon.html)                                                | :x:                | Proprietary          | :x:  | :x:                | :x:                | Microsoft Xbox   | :computer:                   |
+| [Xenoborg](https://xenoborg-emu.blogspot.com/) - [Source here](https://code.google.com/archive/p/xenoborg/) | :heavy_check_mark: | GNU GPLv3            | :x:  | :x:                | :x:                | Microsoft Xbox   | :computer:                   |
 
 #### Microsoft Xbox 360
 
-| Emulator                                               | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems   | Platform   |
-| ------------------------------------------------------ | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ------------------ | ---------- |
-| [cs360emu](https://github.com/soywiz-archive/cs360emu) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :x:                | Microsoft Xbox 360 | :computer: |
-| [Xenia](https://xenia.jp)                              | :heavy_check_mark: | MIT license      | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox 360 | :computer: |
+| Emulator                                               | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems   | Platform   |
+| ------------------------------------------------------ | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ------------------ | ---------- |
+| [cs360emu](https://github.com/soywiz-archive/cs360emu) | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Microsoft Xbox 360 | :computer: |
+| [Xenia](https://xenia.jp)                              | :heavy_check_mark: | MIT license      | :x:  | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox 360 | :computer: |
 
 #### Microsoft Xbox One
 
-| Emulator                                                       | FOSS               | License            | Free               | Active             | Recommended        | Emulated systems   | Platform   |
+| Emulator                                                       | FOSS               | License            | Paid               | Active             | Recommended        | Emulated systems   | Platform   |
 | -------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ---------- |
 | [Spasha](#)                                                    | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | Microsoft Xbox One | :computer: |
-| [WinDurango](https://github.com/WinDurango-project/WinDurango) | :heavy_check_mark: | GNU GPLv3          | :heavy_check_mark  | :heavy_check_mark: | :heavy_minus_sign  | Microsoft Xbox One | :computer: |
+| [WinDurango](https://github.com/WinDurango-project/WinDurango) | :heavy_check_mark: | GNU GPLv3          | :x:                | :heavy_check_mark: | :heavy_minus_sign  | Microsoft Xbox One | :computer: |
 | [WinEra](#)                                                    | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | Microsoft Xbox One | :computer: |
 | [XWine1](#)                                                    | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | Microsoft Xbox One | :computer: |
 
 #### Microsoft Xbox Series
 
-| Emulator                                            | FOSS | License | Free | Active | Recommended | Emulated systems | Platform |
+| Emulator                                            | FOSS | License | Paid | Active | Recommended | Emulated systems | Platform |
 | --------------------------------------------------- | ---- | ------- | ---- | ------ | ----------- | ---------------- | -------- |
 | There are currently no emulators for this system 😔 | N/A  | N/A     | N/A  | N/A    | N/A         | N/A              | N/A      |
 
 ### NEC PC Engine/TurboGrafx
 
-| Emulator                                                                                                                                             | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems                                             | Platform                                 |
+| Emulator                                                                                                                                             | FOSS               | License          | Paid               | Active             | Recommended        | Emulated systems                                             | Platform                                 |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ------------------------------------------------------------ | ---------------------------------------- |
-| [ePCEngine](http://takeda-toshiya.my.coocan.jp/)                                                                                                     | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer:                               |
-| [Hu-Go!](https://zeograd.com/)                                                                                                                       | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer: :penguin: :imp: :floppy_disk: |
-| [MagicEngine](http://www.magicengine.com/)                                                                                                           | :x:                | Proprietary      | :x:                | :x:                | :x:                | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer: :floppy_disk: :apple:         |
-| [Neco (only the archived official web page had downloads and info)](https://web.archive.org/web/20061018021833/http://www.miracleworld.net:80/neco/) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :x:                | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer: :penguin:                     |
-| [Ootake](https://www.ouma.jp/ootake/)                                                                                                                | :heavy_check_mark: | GNU GPLv2+       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer:                               |
-| [pcejin](https://github.com/TASVideos/pcejin)                                                                                                        | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer:                               |
-| [Turbo Engine](http://aamirm.hacking-cult.org/www/turbo.html)                                                                                        | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer:                               |
+| [ePCEngine](http://takeda-toshiya.my.coocan.jp/)                                                                                                     | :heavy_check_mark: | GNU GPLv2        | :x:                | :heavy_check_mark: | :heavy_minus_sign: | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer:                               |
+| [Hu-Go!](https://zeograd.com/)                                                                                                                       | :heavy_check_mark: | GNU GPLv2        | :x:                | :heavy_minus_sign: | :heavy_check_mark: | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer: :penguin: :imp: :floppy_disk: |
+| [MagicEngine](http://www.magicengine.com/)                                                                                                           | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer: :floppy_disk: :apple:         |
+| [Neco (only the archived official web page had downloads and info)](https://web.archive.org/web/20061018021833/http://www.miracleworld.net:80/neco/) | :heavy_minus_sign: | Source available | :x:                | :x:                | :x:                | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer: :penguin:                     |
+| [Ootake](https://www.ouma.jp/ootake/)                                                                                                                | :heavy_check_mark: | GNU GPLv2+       | :x:                | :heavy_check_mark: | :heavy_check_mark: | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer:                               |
+| [pcejin](https://github.com/TASVideos/pcejin)                                                                                                        | :heavy_check_mark: | GNU GPLv2        | :x:                | :x:                | :x:                | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer:                               |
+| [Turbo Engine](http://aamirm.hacking-cult.org/www/turbo.html)                                                                                        | :x:                | Proprietary      | :x:                | :x:                | :x:                | NEC PC Engine/TurboGrafx-16/CD-ROM²/TurboGrafx-CD/SuperGrafx | :computer:                               |
 
 ### SNK Neo Geo AES/MVS/Neo Geo CD
 
