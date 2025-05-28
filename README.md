@@ -477,34 +477,34 @@ Legend:
 
 #### Nintendo GameCube
 
-| Emulator                                                         | FOSS               | License           | Free               | Active             | Recommended        | Emulated systems                | Platform                             |
-| ---------------------------------------------------------------- | ------------------ | ----------------- | ------------------ | ------------------ | ------------------ | ------------------------------- | ------------------------------------ |
-| [Dolphin](https://dolphin-emu.org/)                              | :heavy_check_mark: | GNU GPLv3         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin: :robot: |
-| [DolphiniOS](https://dolphinios.oatmealdome.me/)                 | :heavy_check_mark: | GNU GPLv3         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :iphone:                             |
-| [Dolwin](https://www.emulation64.com/files/info/86/dolwin.html/) | :heavy_minus_sign: | Source available  | :heavy_check_mark: | :x:                | :x:                | Nintendo GameCube               | :computer:                           |
-| [GCEmu](https://sourceforge.net/projects/gcemu-project/)         | :heavy_minus_sign: | Source available  | :heavy_check_mark: | :x:                | :x:                | Nintendo GameCube               | :computer:                           |
-| [Gcube](https://www.zophar.net/gc/gcube.html)                    | :heavy_check_mark: | GNU GPLv2         | :heavy_check_mark: | :x:                | :x:                | Nintendo GameCube               | :computer:                           |
-| [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka)          | :heavy_check_mark: | GNU GPLv3         | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin:         |
-| [Pureikyubu](https://github.com/emu-russia/pureikyubu)           | :heavy_check_mark: | CC0 1.0 Universal | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Nintendo GameCube               | :computer: :penguin:                 |
-| [SuperGCube](https://www.zophar.net/gc/supergcube.html)          | :heavy_check_mark: | GNU GPLv2         | :heavy_check_mark: | :x:                | :x:                | Nintendo GameCube               | :computer:                           |
-| [WhineCube](http://whinecube.emulation64.com/)                   | :heavy_check_mark: | GNU GPLv2         | :heavy_check_mark: | :x:                | :x:                | Nintendo GameCube               | :computer:                           |
+| Emulator                                                         | FOSS               | License           | Paid | Active             | Recommended        | Emulated systems                | Platform                             |
+| ---------------------------------------------------------------- | ------------------ | ----------------- | ---- | ------------------ | ------------------ | ------------------------------- | ------------------------------------ |
+| [Dolphin](https://dolphin-emu.org/)                              | :heavy_check_mark: | GNU GPLv3         | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin: :robot: |
+| [DolphiniOS](https://dolphinios.oatmealdome.me/)                 | :heavy_check_mark: | GNU GPLv3         | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :iphone:                             |
+| [Dolwin](https://www.emulation64.com/files/info/86/dolwin.html/) | :heavy_minus_sign: | Source available  | :x:  | :x:                | :x:                | Nintendo GameCube               | :computer:                           |
+| [GCEmu](https://sourceforge.net/projects/gcemu-project/)         | :heavy_minus_sign: | Source available  | :x:  | :x:                | :x:                | Nintendo GameCube               | :computer:                           |
+| [Gcube](https://www.zophar.net/gc/gcube.html)                    | :heavy_check_mark: | GNU GPLv2         | :x:  | :x:                | :x:                | Nintendo GameCube               | :computer:                           |
+| [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka)          | :heavy_check_mark: | GNU GPLv3         | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin:         |
+| [Pureikyubu](https://github.com/emu-russia/pureikyubu)           | :heavy_check_mark: | CC0 1.0 Universal | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo GameCube               | :computer: :penguin:                 |
+| [SuperGCube](https://www.zophar.net/gc/supergcube.html)          | :heavy_check_mark: | GNU GPLv2         | :x:  | :x:                | :x:                | Nintendo GameCube               | :computer:                           |
+| [WhineCube](http://whinecube.emulation64.com/)                   | :heavy_check_mark: | GNU GPLv2         | :x:  | :x:                | :x:                | Nintendo GameCube               | :computer:                           |
 
 #### Nintendo Wii
 
-| Emulator                                                 | FOSS               | License   | Free               | Active             | Recommended        | Emulated systems                | Platform                             |
-| -------------------------------------------------------- | ------------------ | --------- | ------------------ | ------------------ | ------------------ | ------------------------------- | ------------------------------------ |
-| [Dolphin](https://dolphin-emu.org/)                      | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin: :robot: |
-| [DolphiniOS](https://github.com/OatmealDome/dolphin-ios) | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :iphone:                             |
-| [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka)  | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :x:                | :x:                | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin:         |
+| Emulator                                                 | FOSS               | License   | Paid | Active             | Recommended        | Emulated systems                | Platform                             |
+| -------------------------------------------------------- | ------------------ | --------- | ---- | ------------------ | ------------------ | ------------------------------- | ------------------------------------ |
+| [Dolphin](https://dolphin-emu.org/)                      | :heavy_check_mark: | GNU GPLv3 | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin: :robot: |
+| [DolphiniOS](https://github.com/OatmealDome/dolphin-ios) | :heavy_check_mark: | GNU GPLv3 | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo GameCube, Nintendo Wii | :iphone:                             |
+| [Ishiiruka-Dolphin](https://github.com/Tinob/Ishiiruka)  | :heavy_check_mark: | GNU GPLv3 | :x:  | :x:                | :x:                | Nintendo GameCube, Nintendo Wii | :computer: :apple: :penguin:         |
 
 #### Nintendo Wii U
 
-| Emulator                                                    | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-| ----------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
-| [Cemu](https://cemu.info/)                                  | :heavy_check_mark: | MPLv2       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   | :computer: :apple: :penguin: |
-| [Cemu-Android](https://github.com/XForYouX/Cemu-Android/)   | :heavy_check_mark: | MPLv2       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   | :robot:                      |
-| [Decaf](https://github.com/decaf-emu/decaf-emu)             | :heavy_check_mark: | GNU GPLv3+  | :heavy_check_mark: | :x:                | :x:                | Nintendo Wii U   | :computer: :apple: :penguin: |
-| [Kinnay](https://github.com/kinnay/Wii-U-Firmware-Emulator) | :heavy_check_mark: | MIT license | :heavy_check_mark: | :x:                | :x:                | Nintendo Wii U   | :penguin:                    |
+| Emulator                                                    | FOSS               | License     | Paid | Active             | Recommended        | Emulated systems | Platform                     |
+| ----------------------------------------------------------- | ------------------ | ----------- | ---- | ------------------ | ------------------ | ---------------- | ---------------------------- |
+| [Cemu](https://cemu.info/)                                  | :heavy_check_mark: | MPLv2       | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   | :computer: :apple: :penguin: |
+| [Cemu-Android](https://github.com/XForYouX/Cemu-Android/)   | :heavy_check_mark: | MPLv2       | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo Wii U   | :robot:                      |
+| [Decaf](https://github.com/decaf-emu/decaf-emu)             | :heavy_check_mark: | GNU GPLv3+  | :x:  | :x:                | :x:                | Nintendo Wii U   | :computer: :apple: :penguin: |
+| [Kinnay](https://github.com/kinnay/Wii-U-Firmware-Emulator) | :heavy_check_mark: | MIT license | :x:  | :x:                | :x:                | Nintendo Wii U   | :penguin:                    |
 
 #### Nintendo Switch
 
