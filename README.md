@@ -667,30 +667,30 @@ Legend:
 
 ### SNK Neo Geo AES/MVS/Neo Geo CD
 
-| Emulator                                                                    | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems            | Platform                                               |
-| --------------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | --------------------------- | ------------------------------------------------------ |
-| [Gekko](https://www.zophar.net/ngeo/gekko.html)                             | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | SNK Neo Geo AES             | :computer:                                             |
-| [GnGeo](https://github.com/linuxlinks/gngeo)                                | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | SNK Neo Geo AES             | :penguin:                                              |
-| [geolith](https://gitlab.com/jgemu/geolith)                                 | :heavy_check_mark: | 3-clause BSD     | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Neo Geo AES and MVS         | :computer: :apple: :penguin: :imp:                     |
-| [Kawaks](https://cps2shock.emu-france.info/download.html)                   | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Neo Geo AES, CPS-2          | :computer:                                             |
-| [Neo-RAGEx](https://www.zophar.net/ngeo/neo-ragex.html)                     | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Neo Geo AES                 | :computer: :floppy_disk:                               |
-| [NeoDanji](https://www.zophar.net/ngeo/neodanji.html)                       | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Neo Geo AES                 | :floppy_disk:                                          |
-| [NEOGem](https://www.zophar.net/ngeo/neogem.html)                           | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Neo Geo AES                 | :computer: :floppy_disk:                               |
-| ['NeoGeo CD Emulator'](https://www.zophar.net/ngeo/neogeo-cd-emulator.html) | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Neo Geo CD                  | :computer:                                             |
-| [NeoCD](https://www.zophar.net/ngeo/neocd.html)                             | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Neo Geo CD                  | :computer:                                             |
-| [NeoCD/SDL](http://pacifi3d.retrogames.com/neocdsdl/)                       | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Neo Geo CD                  | :computer: :penguin: Dreamcast Sony PlayStation 2 Xbox |
-| [NeoRAINE](https://www.zophar.net/ngcd/neoraine.html)                       | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Neo Geo AES/MVS, Neo Geo CD | :computer:                                             |
-| [RAINE](https://github.com/zelurker/raine)                                  | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Neo Geo AES/MVS, Neo Geo CD | :computer: :penguin: :imp:                             |
+| Emulator                                                                    | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems            | Platform                                               |
+| --------------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | --------------------------- | ------------------------------------------------------ |
+| [Gekko](https://www.zophar.net/ngeo/gekko.html)                             | :x:                | Proprietary      | :x:  | :x:                | :x:                | SNK Neo Geo AES             | :computer:                                             |
+| [GnGeo](https://github.com/linuxlinks/gngeo)                                | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :x:                | SNK Neo Geo AES             | :penguin:                                              |
+| [geolith](https://gitlab.com/jgemu/geolith)                                 | :heavy_check_mark: | 3-clause BSD     | :x:  | :heavy_check_mark: | :heavy_check_mark: | Neo Geo AES and MVS         | :computer: :apple: :penguin: :imp:                     |
+| [Kawaks](https://cps2shock.emu-france.info/download.html)                   | :x:                | Proprietary      | :x:  | :x:                | :x:                | Neo Geo AES, CPS-2          | :computer:                                             |
+| [Neo-RAGEx](https://www.zophar.net/ngeo/neo-ragex.html)                     | :x:                | Proprietary      | :x:  | :x:                | :x:                | Neo Geo AES                 | :computer: :floppy_disk:                               |
+| [NeoDanji](https://www.zophar.net/ngeo/neodanji.html)                       | :x:                | Proprietary      | :x:  | :x:                | :x:                | Neo Geo AES                 | :floppy_disk:                                          |
+| [NEOGem](https://www.zophar.net/ngeo/neogem.html)                           | :x:                | Proprietary      | :x:  | :x:                | :x:                | Neo Geo AES                 | :computer: :floppy_disk:                               |
+| ['NeoGeo CD Emulator'](https://www.zophar.net/ngeo/neogeo-cd-emulator.html) | :x:                | Proprietary      | :x:  | :x:                | :x:                | Neo Geo CD                  | :computer:                                             |
+| [NeoCD](https://www.zophar.net/ngeo/neocd.html)                             | :heavy_minus_sign: | Source available | :x:  | :x:                | :heavy_minus_sign: | Neo Geo CD                  | :computer:                                             |
+| [NeoCD/SDL](http://pacifi3d.retrogames.com/neocdsdl/)                       | :heavy_minus_sign: | Source available | :x:  | :x:                | :heavy_minus_sign: | Neo Geo CD                  | :computer: :penguin: Dreamcast Sony PlayStation 2 Xbox |
+| [NeoRAINE](https://www.zophar.net/ngcd/neoraine.html)                       | :x:                | Proprietary      | :x:  | :x:                | :heavy_minus_sign: | Neo Geo AES/MVS, Neo Geo CD | :computer:                                             |
+| [RAINE](https://github.com/zelurker/raine)                                  | :heavy_minus_sign: | Source available | :x:  | :x:                | :heavy_minus_sign: | Neo Geo AES/MVS, Neo Geo CD | :computer: :penguin: :imp:                             |
 
 ### Pong consoles
 
-| Simulator                                                          | FOSS               | License          | Free               | Active | Recommended        | Simulated systems     | Platform   |
-| ------------------------------------------------------------------ | ------------------ | ---------------- | ------------------ | ------ | ------------------ | --------------------- | ---------- |
-| [Pong Consoles Simulation](https://github.com/ThomasVisvader/Pong) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Various pong consoles | :computer: |
+| Simulator                                                          | FOSS               | License          | Paid | Active | Recommended        | Simulated systems     | Platform   |
+| ------------------------------------------------------------------ | ------------------ | ---------------- | ---- | ------ | ------------------ | --------------------- | ---------- |
+| [Pong Consoles Simulation](https://github.com/ThomasVisvader/Pong) | :heavy_minus_sign: | Source available | :x:  | :x:    | :heavy_minus_sign: | Various pong consoles | :computer: |
 
 ### Magnavox Odyssey 2
 
-| Emulator                                       | FOSS               | License          | Free | Active | Recommended        | Emulated systems    | Platform                                 |
+| Emulator                                       | FOSS               | License          | Paid | Active | Recommended        | Emulated systems    | Platform                                 |
 | ---------------------------------------------- | ------------------ | ---------------- | ---- | ------ | ------------------ | ------------------- | ---------------------------------------- |
 | [O2EM](https://sourceforge.net/projects/o2em/) | :heavy_check_mark: | Artistic license | :x:  | :x:    | :heavy_minus_sign: | Odyssey 2/Videopac+ | :computer: :floppy_disk: :penguin: :imp: |
 
@@ -698,11 +698,11 @@ Legend:
 
 | Emulator                                                        | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform                     |
 | --------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
-| [CD-iCE](https://www.zophar.net/cd-i/cd-ice.html)               | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Philips CD-i     | :computer:                   |
-| [CD-i Emulator](http://www.cdiemu.org/)                         | :x:                | Proprietary      | :x:                | :heavy_minus_sign: | :heavy_check_mark: | Philips CD-i     | :computer:                   |
-| [CeDImu](https://github.com/Stovent/CeDImu)                     | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Philips CD-i     | :computer: :apple: :penguin: |
-| [Same CDi](https://docs.libretro.com/library/same_cdi/)         | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Philips CD-i     | :computer: :apple: :penguin: |
-| [TinyCDi](https://www.aep-emu.de/Emus-file-emus_detail-id-1440) | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Philips CD-i     | :computer:                   |
+| [CD-iCE](https://www.zophar.net/cd-i/cd-ice.html)               | :x:                | Proprietary      | :x:                | :x:                | :x:                | Philips CD-i     | :computer:                   |
+| [CD-i Emulator](http://www.cdiemu.org/)                         | :x:                | Proprietary      | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Philips CD-i     | :computer:                   |
+| [CeDImu](https://github.com/Stovent/CeDImu)                     | :heavy_minus_sign: | Source available | :x:                | :heavy_check_mark: | :heavy_check_mark: | Philips CD-i     | :computer: :apple: :penguin: |
+| [Same CDi](https://docs.libretro.com/library/same_cdi/)         | :heavy_check_mark: | GNU GPLv2        | :x:                | :heavy_minus_sign: | :heavy_check_mark: | Philips CD-i     | :computer: :apple: :penguin: |
+| [TinyCDi](https://www.aep-emu.de/Emus-file-emus_detail-id-1440) | :heavy_check_mark: | GNU GPLv2        | :x:                | :x:                | :heavy_minus_sign: | Philips CD-i     | :computer:                   |
 
 ### Panasonic
 
