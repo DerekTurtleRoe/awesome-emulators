@@ -1063,30 +1063,30 @@ See multi-emulators section for "Emma 02 emulator"
 
 ### Apple iOS/iPod
 
-| Emulator                                                             | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-| -------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
-| [Clicky](https://github.com/daniel5151/clicky)                       | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Apple iPod       | :computer: :penguin:         |
-| [iPod n3g emulator](https://github.com/lemonjesus/iPod-n3g-emulator) | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Apple iPod       | :computer: :penguin:         |
-| [qemu-ipod-nano](https://github.com/lemonjesus/qemu-ipod-nano)       | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
-| [qemu-ios](https://github.com/devos50/qemu-ios/tree/ipod_touch_1g)   | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
-| [touchHLE](https://github.com/hikari-no-yume/touchHLE)               | :heavy_check_mark: | MPL 2.0          | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Apple iOS        | :computer: :penguin: :robot: |
-| [unidbg](https://github.com/zhkl0228/unidbg)                         | :heavy_check_mark: | Apache 2.0       | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
-| [xnu-qemu-arm64](https://github.com/alephsecurity/xnu-qemu-arm64)    | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
+| Emulator                                                             | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems | Platform                     |
+| -------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ---------------- | ---------------------------- |
+| [Clicky](https://github.com/daniel5151/clicky)                       | :heavy_minus_sign: | Source available | :x:  | :x:                | :heavy_minus_sign: | Apple iPod       | :computer: :penguin:         |
+| [iPod n3g emulator](https://github.com/lemonjesus/iPod-n3g-emulator) | :heavy_check_mark: | GNU GPLv3        | :x:  | :x:                | :heavy_minus_sign: | Apple iPod       | :computer: :penguin:         |
+| [qemu-ipod-nano](https://github.com/lemonjesus/qemu-ipod-nano)       | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
+| [qemu-ios](https://github.com/devos50/qemu-ios/tree/ipod_touch_1g)   | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
+| [touchHLE](https://github.com/hikari-no-yume/touchHLE)               | :heavy_check_mark: | MPL 2.0          | :x:  | :heavy_check_mark: | :heavy_check_mark: | Apple iOS        | :computer: :penguin: :robot: |
+| [unidbg](https://github.com/zhkl0228/unidbg)                         | :heavy_check_mark: | Apache 2.0       | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
+| [xnu-qemu-arm64](https://github.com/alephsecurity/xnu-qemu-arm64)    | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :heavy_minus_sign: | Apple iOS        | :computer: :penguin:         |
 
 ### Google Android
 
-| Emulator                                                                    | FOSS               | License     | Free               | Active             | Recommended        | Emulated systems | Platform                     |
+| Emulator                                                                    | FOSS               | License     | Paid               | Active             | Recommended        | Emulated systems | Platform                     |
 | --------------------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
-| [Anbox](https://anbox.io/)                                                  | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Google Android   | :penguin:                    |
-| [Android SDK (includes an emulator)](https://developer.android.com/studio/) | :heavy_check_mark: | Apache 2.0  | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple: :penguin: |
-| [Android x86](https://www.android-x86.org/)                                 | :heavy_check_mark: | Apache 2.0  | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | Runs on any x86 computer     |
-| [BlueStacks](https://www.bluestacks.com/)                                   | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple:           |
-| [GameLoop](https://www.gameloop.com/)                                       | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:                   |
-| [Google Play Games](https://play.google.com/googleplaygames)                | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:                   |
-| [NoxPlayer](https://www.bignox.com/)                                        | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple:           |
-| [Plarium Play](https://plarium.com/)                                        | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:                   |
-| [Waydroid](https://github.com/waydroid)                                     | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :penguin:                    |
-| [Windows Subsystem for Android](https://github.com/microsoft/WSA)           | :heavy_check_mark: | MIT license | :heavy_check_mark: | :x:                | :x:                | Google Android   | :computer:                   |
+| [Anbox](https://anbox.io/)                                                  | :heavy_check_mark: | GNU GPLv3   | :x:                | :x:                | :heavy_minus_sign: | Google Android   | :penguin:                    |
+| [Android SDK (includes an emulator)](https://developer.android.com/studio/) | :heavy_check_mark: | Apache 2.0  | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple: :penguin: |
+| [Android x86](https://www.android-x86.org/)                                 | :heavy_check_mark: | Apache 2.0  | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | Runs on any x86 computer     |
+| [BlueStacks](https://www.bluestacks.com/)                                   | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple:           |
+| [GameLoop](https://www.gameloop.com/)                                       | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:                   |
+| [Google Play Games](https://play.google.com/googleplaygames)                | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:                   |
+| [NoxPlayer](https://www.bignox.com/)                                        | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer: :apple:           |
+| [Plarium Play](https://plarium.com/)                                        | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :computer:                   |
+| [Waydroid](https://github.com/waydroid)                                     | :heavy_check_mark: | GNU GPLv3   | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Google Android   | :penguin:                    |
+| [Windows Subsystem for Android](https://github.com/microsoft/WSA)           | :heavy_check_mark: | MIT license | :x:                | :x:                | :x:                | Google Android   | :computer:                   |
 
 ### N-Gage
 
