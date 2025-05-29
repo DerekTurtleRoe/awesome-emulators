@@ -995,20 +995,20 @@ See multi-emulators section for "Emma 02 emulator"
 
 #### Sony PlayStation Portable
 
-| Emulator                                                            | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems          | Platform                                      |
-| ------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ------------------------- | --------------------------------------------- |
-| [cspspemu](https://github.com/cspspemu/cspspemu)                    | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
-| [JPCSP](https://jpcsp.org/)                                         | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation Portable | :computer: :apple: :penguin:                  |
-| [JPCSP2C](https://github.com/georgemoralis/jpcsp2c)                 | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
-| [jspspemu](https://github.com/jspspemu/jspspemu)                    | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Portable | :computer: :apple: :penguin:                  |
-| [mfzpsp](https://code.google.com/archive/p/mfzpsp/)                 | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
-| [PCSP](https://www.emulator-zone.com/doc.php/psp/pcsp.html)         | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
-| [Potemkin](https://www.emulator-zone.com/doc.php/psp/potemkin.html) | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
-| [PPSSPP](https://ppsspp.org/)                                       | :heavy_check_mark: | GNU GPLv2+       | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation Portable | :computer: :apple: :penguin: :robot: :iphone: |
-| [PSPE](https://www.emulator-zone.com/doc.php/psp/pspe.html)         | :x:                | Proprietary      | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
-| [pspemu](https://github.com/soywiz-archive/pspemu)                  | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
-| [pspplayer](https://code.google.com/archive/p/pspplayer/)           | :heavy_check_mark: | GNU LGPLv2       | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
-| [Sam](https://www.zophar.net/psp/sam.html)                          | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
+| Emulator                                                            | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems          | Platform                                      |
+| ------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ------------------------- | --------------------------------------------- |
+| [cspspemu](https://github.com/cspspemu/cspspemu)                    | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
+| [JPCSP](https://jpcsp.org/)                                         | :heavy_check_mark: | GNU GPLv3        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Sony PlayStation Portable | :computer: :apple: :penguin:                  |
+| [JPCSP2C](https://github.com/georgemoralis/jpcsp2c)                 | :heavy_check_mark: | GNU GPLv3        | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
+| [jspspemu](https://github.com/jspspemu/jspspemu)                    | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer: :apple: :penguin:                  |
+| [mfzpsp](https://code.google.com/archive/p/mfzpsp/)                 | :heavy_check_mark: | GNU GPLv3        | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
+| [PCSP](https://www.emulator-zone.com/doc.php/psp/pcsp.html)         | :x:                | Proprietary      | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
+| [Potemkin](https://www.emulator-zone.com/doc.php/psp/potemkin.html) | :heavy_check_mark: | GNU GPLv2        | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
+| [PPSSPP](https://ppsspp.org/)                                       | :heavy_check_mark: | GNU GPLv2+       | :x:  | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation Portable | :computer: :apple: :penguin: :robot: :iphone: |
+| [PSPE](https://www.emulator-zone.com/doc.php/psp/pspe.html)         | :x:                | Proprietary      | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
+| [pspemu](https://github.com/soywiz-archive/pspemu)                  | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
+| [pspplayer](https://code.google.com/archive/p/pspplayer/)           | :heavy_check_mark: | GNU LGPLv2       | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
+| [Sam](https://www.zophar.net/psp/sam.html)                          | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Sony PlayStation Portable | :computer:                                    |
 
 #### Sony PocketStation
 
