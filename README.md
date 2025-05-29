@@ -973,23 +973,23 @@ See multi-emulators section for "Emma 02 emulator"
 
 ### Game Park GP32
 
-| Emulator                                              | FOSS | License     | Free               | Active | Recommended        | Emulated systems | Platform   |
-| ----------------------------------------------------- | ---- | ----------- | ------------------ | ------ | ------------------ | ---------------- | ---------- |
-| [GeePee32](https://www.zophar.net/gp32/geepee32.html) | :x:  | Proprietary | :heavy_check_mark: | :x:    | :heavy_minus_sign: | Game Park GP32   | :computer: |
+| Emulator                                              | FOSS | License     | Paid | Active | Recommended        | Emulated systems | Platform   |
+| ----------------------------------------------------- | ---- | ----------- | ---- | ------ | ------------------ | ---------------- | ---------- |
+| [GeePee32](https://www.zophar.net/gp32/geepee32.html) | :x:  | Proprietary | :x:  | :x:    | :heavy_minus_sign: | Game Park GP32   | :computer: |
 
 #### Atari Lynx
 
-| Emulator                                        | FOSS               | License      | Free               | Active             | Recommended        | Emulated systems | Platform                                   |
-| ----------------------------------------------- | ------------------ | ------------ | ------------------ | ------------------ | ------------------ | ---------------- | ------------------------------------------ |
-| [Felix](https://github.com/laoo/Felix/)         | :heavy_check_mark: | MIT license  | :heavy_check_mark: | :heavy_minus_sign: | :heavy_check_mark: | Atari Lynx       | :computer:                                 |
-| [Handy](http://sourceforge.net/projects/handy/) | :heavy_check_mark: | zlib license | :heavy_check_mark: | :x:                | :heavy_check_mark: | Atari Lynx       | :computer: :apple: :penguin: :imp: :robot: |
+| Emulator                                        | FOSS               | License      | Paid | Active             | Recommended        | Emulated systems | Platform                                   |
+| ----------------------------------------------- | ------------------ | ------------ | ---- | ------------------ | ------------------ | ---------------- | ------------------------------------------ |
+| [Felix](https://github.com/laoo/Felix/)         | :heavy_check_mark: | MIT license  | :x:  | :heavy_minus_sign: | :heavy_check_mark: | Atari Lynx       | :computer:                                 |
+| [Handy](http://sourceforge.net/projects/handy/) | :heavy_check_mark: | zlib license | :x:  | :x:                | :heavy_check_mark: | Atari Lynx       | :computer: :apple: :penguin: :imp: :robot: |
 
 #### Sega Game Gear
 
-| Emulator                                              | FOSS               | License                                                    | Free                        | Active             | Recommended        | Emulated systems                                                                           | Platform                                         |
-| ----------------------------------------------------- | ------------------ | ---------------------------------------------------------- | --------------------------- | ------------------ | ------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------ |
-| [Gearsystem](https://github.com/drhelius/Gearsystem/) | :heavy_check_mark: | GNU GPLv3                                                  | :heavy_check_mark:          | :heavy_check_mark: | :heavy_check_mark: | Sega Mark III/Sega Master System, Sega Game Gear, Sega SG-1000, Othello Multivision        | :computer: :apple: :penguin: :imp: :robot:       |
-| [MasterGear](https://fms.komkon.org/MG/)              | :x:                | Proprietary, developer says you can contact him for source | No, Android version is paid | :heavy_check_mark: | :heavy_check_mark: | Sega Mark III/Sega Master System, Sega Game Gear, Sega SG-1000, Sega SC-3000, Sega SF-7000 | :computer: :penguin: :imp: :robot: :floppy_disk: |
+| Emulator                                              | FOSS               | License                                                    | Paid                         | Active             | Recommended        | Emulated systems                                                                           | Platform                                         |
+| ----------------------------------------------------- | ------------------ | ---------------------------------------------------------- | ---------------------------- | ------------------ | ------------------ | ------------------------------------------------------------------------------------------ | ------------------------------------------------ |
+| [Gearsystem](https://github.com/drhelius/Gearsystem/) | :heavy_check_mark: | GNU GPLv3                                                  | :x:                          | :heavy_check_mark: | :heavy_check_mark: | Sega Mark III/Sega Master System, Sega Game Gear, Sega SG-1000, Othello Multivision        | :computer: :apple: :penguin: :imp: :robot:       |
+| [MasterGear](https://fms.komkon.org/MG/)              | :x:                | Proprietary, developer says you can contact him for source | Yes, Android version is paid | :heavy_check_mark: | :heavy_check_mark: | Sega Mark III/Sega Master System, Sega Game Gear, Sega SG-1000, Sega SC-3000, Sega SF-7000 | :computer: :penguin: :imp: :robot: :floppy_disk: |
 
 ### Sony Handhelds
 
