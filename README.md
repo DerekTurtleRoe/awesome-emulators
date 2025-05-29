@@ -1415,11 +1415,11 @@ See multi-emulators section for "Emma 02 emulator"
 
 ### Virtualization solutions
 
-| Virtualization solution                                                               | FOSS               | License     | Free               | Active             | Recommended        | Virtualized systems   | Platform                     |
+| Virtualization solution                                                               | FOSS               | License     | Paid               | Active             | Recommended        | Virtualized systems   | Platform                     |
 | ------------------------------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | --------------------- | ---------------------------- |
-| [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_check_mark: | x86 and AMD64/Intel64 | :computer:                   |
-| [VirtualBox](https://www.virtualbox.org/)                                             | :heavy_check_mark: | GNU GPLv3   | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | x86 and AMD64/Intel64 | :computer: :apple: :penguin: |
-| [VMWare](https://www.vmware.com/)                                                     | :x:                | Proprietary | :x:                | :heavy_check_mark: | :heavy_check_mark: | x86 and AMD64/Intel64 | :computer: :apple: :penguin: |
+| [Hyper-V](https://learn.microsoft.com/en-us/virtualization/hyper-v-on-windows/about/) | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | x86 and AMD64/Intel64 | :computer:                   |
+| [VirtualBox](https://www.virtualbox.org/)                                             | :heavy_check_mark: | GNU GPLv3   | :x:                | :heavy_check_mark: | :heavy_check_mark: | x86 and AMD64/Intel64 | :computer: :apple: :penguin: |
+| [VMWare](https://www.vmware.com/)                                                     | :x:                | Proprietary | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | x86 and AMD64/Intel64 | :computer: :apple: :penguin: |
 
 ### Interpreters
 
