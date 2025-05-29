@@ -643,7 +643,7 @@ Legend:
 | Emulator                                                       | FOSS               | License            | Paid               | Active             | Recommended        | Emulated systems   | Platform   |
 | -------------------------------------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ | ---------- |
 | [Spasha](#)                                                    | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | Microsoft Xbox One | :computer: |
-| [WinDurango](https://github.com/WinDurango-project/WinDurango) | :heavy_check_mark: | GNU GPLv3          | :x:                | :heavy_check_mark: | :heavy_minus_sign  | Microsoft Xbox One | :computer: |
+| [WinDurango](https://github.com/WinDurango-project/WinDurango) | :heavy_check_mark: | GNU GPLv3          | :x:                | :heavy_check_mark: | :heavy_minus_sign: | Microsoft Xbox One | :computer: |
 | [WinEra](#)                                                    | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | Microsoft Xbox One | :computer: |
 | [XWine1](#)                                                    | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | :heavy_minus_sign: | Microsoft Xbox One | :computer: |
 
