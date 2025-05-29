@@ -1247,21 +1247,21 @@ See multi-emulators section for "Emma 02 emulator"
 
 ### NeXT computers
 
-| Emulator                                            | FOSS               | License   | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-| --------------------------------------------------- | ------------------ | --------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
-| [Previous](http://previous.alternative-system.com/) | :heavy_check_mark: | GNU GPLv2 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | NeXT computers   | :computer: :apple: :penguin: |
+| Emulator                                            | FOSS               | License   | Paid | Active             | Recommended        | Emulated systems | Platform                     |
+| --------------------------------------------------- | ------------------ | --------- | ---- | ------------------ | ------------------ | ---------------- | ---------------------------- |
+| [Previous](http://previous.alternative-system.com/) | :heavy_check_mark: | GNU GPLv2 | :x:  | :heavy_check_mark: | :heavy_check_mark: | NeXT computers   | :computer: :apple: :penguin: |
 
 ### Oberon RISC machine
 
-| Emulator                                                            | FOSS               | License     | Free               | Active | Recommended        | Emulated systems    | Platform                     |
-| ------------------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------ | ------------------ | ------------------- | ---------------------------- |
-| [Oberon RISC Emulator](https://github.com/pdewacht/oberon-risc-emu) | :heavy_check_mark: | MIT license | :heavy_check_mark: | :x:    | :heavy_check_mark: | Oberon RISC machine | :computer: :apple: :penguin: |
+| Emulator                                                            | FOSS               | License     | Paid | Active | Recommended        | Emulated systems    | Platform                     |
+| ------------------------------------------------------------------- | ------------------ | ----------- | ---- | ------ | ------------------ | ------------------- | ---------------------------- |
+| [Oberon RISC Emulator](https://github.com/pdewacht/oberon-risc-emu) | :heavy_check_mark: | MIT license | :x:  | :x:    | :heavy_check_mark: | Oberon RISC machine | :computer: :apple: :penguin: |
 
 ### SIMH simulators
 
-| Simulator                                                | FOSS               | License     | Free               | Active             | Recommendation     | Simulated systems | Platform                     |
-| -------------------------------------------------------- | ------------------ | ----------- | ------------------ | ------------------ | ------------------ | ----------------- | ---------------------------- |
-| [Open SIMH simulators](https://opensimh.org/simulators/) | :heavy_check_mark: | MIT license | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | SIMH computers    | :computer: :apple: :penguin: |
+| Simulator                                                | FOSS               | License     | Paid | Active             | Recommendation     | Simulated systems | Platform                     |
+| -------------------------------------------------------- | ------------------ | ----------- | ---- | ------------------ | ------------------ | ----------------- | ---------------------------- |
+| [Open SIMH simulators](https://opensimh.org/simulators/) | :heavy_check_mark: | MIT license | :x:  | :heavy_check_mark: | :heavy_check_mark: | SIMH computers    | :computer: :apple: :penguin: |
 
 ### Coleco computers
 
