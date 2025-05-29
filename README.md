@@ -1140,13 +1140,13 @@ See multi-emulators section for "Emma 02 emulator"
 
 #### Acorn BBC Micro computers
 
-| Emulator                                                            | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform                     |
-| ------------------------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | ---------------------------- |
-| [BeebEm](https://github.com/stardot/beebem-mac)                     | :heavy_minus_sign: | Custom           | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Acorn BBC Micro  | :apple:                      |
-| [BeebEm (community fork)](https://github.com/CommanderCoder/BeebEm) | :heavy_minus_sign: | Custom           | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Acorn BBC Micro  | :apple:                      |
-| [b-em](https://github.com/stardot/b-em)                             | :heavy_check_mark: | GNU GPLv2        | :heavy_check_mark: | :heavy_check_mark: | :heavy_minus_sign: | Acorn BBC Micro  | :computer: :penguin:         |
-| [b2](https://github.com/tom-seddon/b2)                              | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_minus_sign: | :heavy_minus_sign: | Acorn BBC Micro  | :computer: :apple: :penguin: |
-| [model-b](http://modelb.bbcmicro.com/)                              | :heavy_minus_sign: | Source available | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Acorn BBC Micro  | :computer:                   |
+| Emulator                                                            | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems | Platform                     |
+| ------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ---------------- | ---------------------------- |
+| [BeebEm](https://github.com/stardot/beebem-mac)                     | :heavy_minus_sign: | Custom           | :x:  | :x:                | :heavy_minus_sign: | Acorn BBC Micro  | :apple:                      |
+| [BeebEm (community fork)](https://github.com/CommanderCoder/BeebEm) | :heavy_minus_sign: | Custom           | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Acorn BBC Micro  | :apple:                      |
+| [b-em](https://github.com/stardot/b-em)                             | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Acorn BBC Micro  | :computer: :penguin:         |
+| [b2](https://github.com/tom-seddon/b2)                              | :heavy_check_mark: | GNU GPLv3        | :x:  | :heavy_minus_sign: | :heavy_minus_sign: | Acorn BBC Micro  | :computer: :apple: :penguin: |
+| [model-b](http://modelb.bbcmicro.com/)                              | :heavy_minus_sign: | Source available | :x:  | :x:                | :heavy_minus_sign: | Acorn BBC Micro  | :computer:                   |
 
 #### Acorn Electron computers
 
