@@ -1090,24 +1090,24 @@ See multi-emulators section for "Emma 02 emulator"
 
 ### N-Gage
 
-| Emulator                                     | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems  | Platform                             |
+| Emulator                                     | FOSS               | License          | Paid               | Active             | Recommended        | Emulated systems  | Platform                             |
 | -------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ----------------- | ------------------------------------ |
-| [EKLA21](https://github.com/EKA2L1/EKA2L1/)  | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Symbian OS/N-Gage | :computer: :apple: :penguin: :robot: |
-| [Engemu](https://github.com/mrRosset/Engemu) | :heavy_check_mark: | GNU GPLv3        | :heavy_check_mark: | :x:                | :x:                | Symbian OS/N-Gage | :computer:                           |
-| [NGEmu](https://github.com/NGEmu/NGEmu)      | :heavy_check_mark: | Apache 2.0       | :heavy_check_mark: | :x:                | :x:                | N-Gage            | :computer:                           |
+| [EKLA21](https://github.com/EKA2L1/EKA2L1/)  | :heavy_check_mark: | GNU GPLv3        | :x:                | :heavy_check_mark: | :heavy_check_mark: | Symbian OS/N-Gage | :computer: :apple: :penguin: :robot: |
+| [Engemu](https://github.com/mrRosset/Engemu) | :heavy_check_mark: | GNU GPLv3        | :x:                | :x:                | :x:                | Symbian OS/N-Gage | :computer:                           |
+| [NGEmu](https://github.com/NGEmu/NGEmu)      | :heavy_check_mark: | Apache 2.0       | :x:                | :x:                | :x:                | N-Gage            | :computer:                           |
 | [Nomu](https://github.com/mrRosset/Nomu)     | :heavy_minus_sign: | Source available | :heavy_minus_sign: | :x:                | :x:                | Symbian OS/N-Gage | :computer:                           |
 
 ### BREW
 
-| Emulator                                              | FOSS               | License          | Free               | Active             | Recommended        | Emulated systems | Platform |
-| ----------------------------------------------------- | ------------------ | ---------------- | ------------------ | ------------------ | ------------------ | ---------------- | -------- |
-| [Melange](https://gitlab.com/usernameak/brewemulator) | :heavy_minus_sign: | Source available | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | BREW             | :robot:  |
+| Emulator                                              | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems | Platform |
+| ----------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ---------------- | -------- |
+| [Melange](https://gitlab.com/usernameak/brewemulator) | :heavy_minus_sign: | Source available | :x:  | :heavy_check_mark: | :heavy_check_mark: | BREW             | :robot:  |
 
 ### Mophun
 
-| Emulator                                         | FOSS               | License   | Free               | Active | Recommended        | Emulated systems | Platform             |
-| ------------------------------------------------ | ------------------ | --------- | ------------------ | ------ | ------------------ | ---------------- | -------------------- |
-| [MoRePhun](https://github.com/Luca1991/MoRePhun) | :heavy_check_mark: | GNU GPLv3 | :heavy_check_mark: | :x:    | :heavy_check_mark: | Mophun           | :computer: :penguin: |
+| Emulator                                         | FOSS               | License   | Paid | Active | Recommended        | Emulated systems | Platform             |
+| ------------------------------------------------ | ------------------ | --------- | ---- | ------ | ------------------ | ---------------- | -------------------- |
+| [MoRePhun](https://github.com/Luca1991/MoRePhun) | :heavy_check_mark: | GNU GPLv3 | :x:  | :x:    | :heavy_check_mark: | Mophun           | :computer: :penguin: |
 
 ### Java
 
