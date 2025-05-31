@@ -530,6 +530,9 @@ Legend:
 | [Uzuy](https://uzuy-edge.org/)                                    | :heavy_check_mark: | GNU GPLv3          | :x:  | :x:                | :x:                | Nintendo Switch  | :computer: :penguin:                 |
 | [Yuzu](#)                                                         | :heavy_check_mark: | GNU GPLv3          | :x:  | :x:                | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
 
+> [!CAUTION]
+> Since RyuJinx and Yuzu have been shut down, any data collection, telemetry, and analytics should be shut off as a precaution, otherwise the data could be sent to Nintendo or other 3rd parties and the data could be collected, stored, or used for any purpose without user consent.
+
 ### Sega
 
 #### Sega Master System
