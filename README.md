@@ -1099,8 +1099,10 @@ See multi-emulators section for "Emma 02 emulator"
 
 > [!WARNING]
 > Android emulators are in a weird place. A lot of them have had or do have sketchy or weird beginnings or origins. Some of them are essentially wrappers for VirtualBox or Android-x86, or other hypervisor/virtualization software. It is advised you take the usual precautions when dealing with software you've never used or heard of before. Please keep your operating system and software up to date, make sure to have active and updated malware protection and a decent firewall, and don't use cracked or modified versions of the software. Some examples are included below.
-> NoxPlayer: Affected by a supply-chain attack where attackers replaced legitimate update files with malware, leading to reconnaissance activities and potential infections with other malware.
-> BlueStacks: Contained vulnerabilities that allowed remote code execution and unauthorized APK installations, affecting versions 4.80 and below.
+
+NoxPlayer: Affected by a supply-chain attack where attackers replaced legitimate update files with malware, leading to reconnaissance activities and potential infections with other malware.
+
+BlueStacks: Contained vulnerabilities that allowed remote code execution and unauthorized APK installations, affecting versions 4.80 and below.
 
 ### N-Gage
 
