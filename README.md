@@ -878,7 +878,7 @@ See multi-emulators section for "Emma 02 emulator"
 | [My Boy! Lite](https://play.google.com/store/apps/details?id=com.fastemulator.gbafree)   | :x:                | Proprietary | :x:                | :x:                | :x:                | Nintendo Game Boy Advance                                             | :robot:                                                                                      |
 | [Pizza Boy Pro](https://play.google.com/store/apps/details?id=it.dbtecno.pizzaboygbapro) | :x:                | Proprietary | :x:                | :x:                | :x:                | Nintendo Game Boy Color, Nintendo Game Boy Advance                    | :robot:                                                                                      |
 
-> [!WARNING]  
+> [!WARNING]
 > A security issue was found in the code base that makes all VBA forks and derivatives vulnerable. Please only use these emulators on fully updated and secure machines with updated and active malware protection and firewalls, or offline and secure computers. The only emulator not affected by this is VBA-M as far as my testing has shown, as well as what I've been told by others.
 
 #### Nintendo Game And Watch simulators
