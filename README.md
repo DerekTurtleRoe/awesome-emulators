@@ -475,6 +475,9 @@ Legend:
 | [Wii64](https://code.google.com/archive/p/mupen64gc/)                                                                                                                           | :heavy_check_mark: | GNU GPLv3                                                                                         | :x:                | :x:                | :heavy_minus_sign: | Nintendo 64      | Nintendo Wii                                                |
 | [Wii64-PS3](https://github.com/emukidid/wii64-ps3)                                                                                                                              | :heavy_minus_sign: | Should be GNU GPLv3, but no license present in the repository                                     | :heavy_check_mark: | :x:                | :heavy_minus_sign: | Nintendo 64      | Sony PlayStation 3                                          |
 
+> [!WARNING]
+> Older versions of Mupen64Plus (versions prior to [this](https://github.com/mupen64plus/mupen64plus-core/commit/5340dafcc0f5e8284057ab931dd5c66222d3d49e) commit) and Project64 (1.6.1 and below) have known security vulnerabilities, so please keep your emulators updated!
+
 #### Nintendo GameCube
 
 | Emulator                                                         | FOSS               | License           | Paid | Active             | Recommended        | Emulated systems                | Platform                             |
