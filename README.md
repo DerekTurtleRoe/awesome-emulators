@@ -541,6 +541,17 @@ Legend:
 > [!CAUTION]
 > Since RyuJinx and Yuzu have been shut down, any data collection, telemetry, and analytics should be shut off as a precaution, otherwise the data could be sent to Nintendo or other 3rd parties and the data could be collected, stored, or used for any purpose without user consent.
 
+#### Nintendo Switch 2
+
+| Emulator                                                          | FOSS               | License            | Paid | Active             | Recommended        | Emulated systems   | Platform                             |
+| ----------------------------------------------------------------- | ------------------ | ------------------ | ---- | ------------------ | ------------------ | ------------------ | ------------------------------------ |
+| [Oboromi](https://github.com/Nikilites/oboromi)                   | :heavy_check_mark: | MPLv2              | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch 2  | :computer: :apple: :penguin:         |
+| [Pound](https://github.com/OwnedByWuigi/pound)                    | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch 2  | :computer: :apple: :penguin:         |
+
+> [!CAUTION]
+> The Switch 2 is a very new console, please be VERY cautious when trying out these emulators. Also worth noting, the Switch 2 isn't fully hacked yet, so making an emulator will be very difficult without dumps of the system files, etc. being available. Basically, just be careful and use common sense.
+
+
 ### Sega
 
 #### Sega Master System
