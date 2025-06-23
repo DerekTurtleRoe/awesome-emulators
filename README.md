@@ -85,6 +85,7 @@ Legend:
     - [Apple/Bandai Pippin](#applebandai-pippin)
     - [Mattel Intellivision](#mattel-intellivision)
     - [Coleco ColecoVision](#coleco-colecovision)
+    - [VTech V.Smile](#vtech-vsmile)
     - [Chip-8 and related system emulators/interpreters](#chip-8-and-related-system-emulatorsinterpreters)
     - [COSMAC VIP/RCA Studio II/Telmac 1800](#cosmac-viprca-studio-iitelmac-1800)
   - [Handheld game console emulators](#handheld-game-console-emulators)
@@ -796,6 +797,12 @@ Legend:
 | [jollycv](https://gitlab.com/jgemu/jollycv)                                                                 | :heavy_check_mark: | 3-clause BSD license | :x:  | :heavy_check_mark: | :heavy_check_mark: | Coleco ColecoVision | :computer: :apple: :penguin:              |
 | [Mugrat](https://www.bannister.org/software/mugrat.htm)                                                     | :x:                | Proprietary          | :x:  | :x:                | :heavy_minus_sign: | Coleco ColecoVision | :apple:                                   |
 | [Virtual ColecoVision (AKA Colem97)](https://www.zophar.net/coleco/virtual-colecovision.html)               | :x:                | Proprietary          | :x:  | :x:                | :heavy_minus_sign: | Coleco ColecoVision | :computer:                                |
+
+### VTech V.Smile
+
+| Emulator                                    | FOSS               | License     | Paid | Active             | Recommended        | Emulated systems | Platform                                      |
+| ------------------------------------------- | ------------------ | ----------- | ---- | ------------------ | ------------------ | ---------------- | ---------------------------------- |
+| [veesem](https://github.com/sp1187/veesem)  | :heavy_check_mark: | ISC license | :x:  | :heavy_check_mark: | :heavy_minus_sign: | VTech V.Smile    | :computer: :apple: :penguin: :imp: |
 
 ### Chip-8 and related system emulators/interpreters
 
