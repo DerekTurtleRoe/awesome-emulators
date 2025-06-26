@@ -524,6 +524,7 @@ Legend:
 | [CageTheUnicorn](https://github.com/reswitched/CageTheUnicorn)    | :heavy_check_mark: | ISC license        | :x:  | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
 | [Citron](https://git.citron-emu.org/Citron/Citron)                | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
 | [ctremu](https://github.com/burhanr13/ctremu)                     | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :penguin: :apple:                    |
+| [Eden](https://eden-emu.dev/)                                     | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
 | [Kenji-NX](https://github.com/Kenji-NX/Kenji-NX)                  | :heavy_check_mark: | MIT license        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin:         |
 | [Mephisto](https://github.com/reswitched/Mephisto)                | :heavy_check_mark: | GNU GPLv2          | :x:  | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
 | [Nozomi](https://github.com/noumidev/Nozomi)                      | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :heavy_minus_sign:                   |
