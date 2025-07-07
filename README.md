@@ -1001,6 +1001,7 @@ See multi-emulators section for "Emma 02 emulator"
 | [Azahar](https://github.com/azahar-emu/azahar)                             | :heavy_check_mark: | GNU GPLv2                                                            | :x:  | :heavy_check_mark: | :heavy_check_mark: | Nintendo 3DS     | :computer: :penguin: :robot:         |
 | [Borked3DS](https://github.com/Borked3DS/Borked3DS)                        | :heavy_check_mark: | GNU GPLv2                                                            | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo 3DS     | :computer: :apple: :penguin: :robot: |
 | [Citra](https://web.archive.org/web/20240828100818/https://citra-emu.org/) | :heavy_check_mark: | GNU GPLv2                                                            | :x:  | :x:                | :heavy_minus_sign: | Nintendo 3DS     | :computer: :apple: :penguin: :robot: |
+| [CitraPlus](https://github.com/AzaharPlus/CitraPlus/)                      | :heavy_check_mark: | GNU GPLv2                                                            | :x:  | :x:                | :heavy_minus_sign: | Nintendo 3DS     | :computer: :apple: :penguin: :robot: |
 | [Citra MMJ](https://github.com/weihuoya/citra)                             | :heavy_check_mark: | GNU GPLv2                                                            | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo 3DS     | :robot:                              |
 | [Corgi3DS](https://github.com/PSI-Rockin/Corgi3DS)                         | :heavy_check_mark: | GNU GPLv3                                                            | :x:  | :x:                | :x:                | Nintendo 3DS     | :computer: :apple: :penguin:         |
 | [LemonLime](https://github.com/ItsKaitlyn03/LemonLime/)                    | :heavy_minus_sign: | Source available                                                     | :x:  | :x:                | :x:                | Nintendo 3DS     | :computer:                           |
@@ -1062,10 +1063,11 @@ See multi-emulators section for "Emma 02 emulator"
 
 #### Sony PlayStation Vita
 
-| Emulator                                             | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems      | Platform                             |
-| ---------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | --------------------- | ------------------------------------ |
-| [Vita3K](https://vita3k.org/)                        | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation Vita | :computer: :apple: :penguin: :robot: |
-| [vitaemu](https://github.com/soywiz-archive/vitaemu) | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Sony PlayStation Vita | :robot:                              |
+| Emulator                                                      | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems      | Platform                             |
+| ------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | --------------------- | ------------------------------------ |
+| [Vita3K](https://vita3k.org/)                                 | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation Vita | :computer: :apple: :penguin: :robot: |
+| [Vita3K-Android](https://github.com/ikhoeyZX/Vita3K-Android/) | :heavy_check_mark: | GNU GPLv2        | :x:  | :heavy_check_mark: | :heavy_check_mark: | Sony PlayStation Vita | :robot:                              |
+| [vitaemu](https://github.com/soywiz-archive/vitaemu)          | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Sony PlayStation Vita | :robot:                              |
 
 ### Bandai WonderSwan/WonderSwan Color/SwanCrystal/WonderWitch
 
