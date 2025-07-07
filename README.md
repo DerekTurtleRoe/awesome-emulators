@@ -530,6 +530,7 @@ Legend:
 | [Eden](https://eden-emu.dev/)                                     | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :penguin: :robot:         |
 | [Hydra](https://github.com/SamoZ256/hydra)                        | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :apple:                              |
 | [Kenji-NX](https://github.com/Kenji-NX/Kenji-NX)                  | :heavy_check_mark: | MIT license        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :computer: :apple: :penguin:         |
+| [MeloNX](https://git.743378673.xyz/MeloNX/MeloNX/)                | :heavy_check_mark: | MIT license        | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :iphone:                             |
 | [Mephisto](https://github.com/reswitched/Mephisto)                | :heavy_check_mark: | GNU GPLv2          | :x:  | :x:                | :x:                | Nintendo Switch  | :computer: :apple: :penguin:         |
 | [Nozomi](https://github.com/noumidev/Nozomi)                      | :heavy_check_mark: | GNU GPLv3          | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Nintendo Switch  | :heavy_minus_sign:                   |
 | [NSEmu](https://github.com/RKX1209/nsemu)                         | :heavy_check_mark: | GNU GPLv3          | :x:  | :x:                | :x:                | Nintendo Switch  | :penguin:                            |
