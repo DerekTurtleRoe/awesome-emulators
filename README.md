@@ -664,10 +664,11 @@ Legend:
 
 #### Microsoft Xbox 360
 
-| Emulator                                               | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems   | Platform   |
-| ------------------------------------------------------ | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ------------------ | ---------- |
-| [cs360emu](https://github.com/soywiz-archive/cs360emu) | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Microsoft Xbox 360 | :computer: |
-| [Xenia](https://xenia.jp)                              | :heavy_check_mark: | MIT license      | :x:  | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox 360 | :computer: |
+| Emulator                                                                         | FOSS               | License          | Paid | Active             | Recommended        | Emulated systems   | Platform             |
+| -------------------------------------------------------------------------------- | ------------------ | ---------------- | ---- | ------------------ | ------------------ | ------------------ | -------------------- |
+| [cs360emu](https://github.com/soywiz-archive/cs360emu)                           | :heavy_minus_sign: | Source available | :x:  | :x:                | :x:                | Microsoft Xbox 360 | :computer:           |
+| [Xenia](https://xenia.jp)                                                        | :heavy_check_mark: | MIT license      | :x:  | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox 360 | :computer: :penguin: |
+| [Xenia Canary](https://github.com/xenia-canary/xenia-canary)                     | :heavy_check_mark: | MIT license      | :x:  | :heavy_check_mark: | :heavy_check_mark: | Microsoft Xbox 360 | :computer: :penguin: |
 
 #### Microsoft Xbox One
 
