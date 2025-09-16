@@ -1841,6 +1841,12 @@ _Disclaimer: These tools are listed for preservation of games that are either no
 | [Daijishou](https://github.com/TapiocaFox/Daijishou)                             | :heavy_check_mark: | MIT license | :x:  | :heavy_check_mark: | :heavy_check_mark: | RetroArch, other emulator apps | :robot:  |
 | [Dig](https://play.google.com/store/apps/details?id=com.digdroid.alman.dig)      | :x:                | Proprietary | :x:  | :heavy_check_mark: | :heavy_minus_sign: | Unknown, "supports 83 systems" | :robot:  |
 
+### Game client frontends for mobile
+
+| Frontend                                      | FOSS               | License   | Paid | Active             | Recommended        | Client frontend | Platform |
+|-----------------------------------------------|--------------------|-----------|------|--------------------|--------------------|-----------------|----------|
+| [Pluvia](https://github.com/oxters168/Pluvia) | :heavy_check_mark: | GNU GPLv3 | :x:  | :heavy_check_mark: | :heavy_check_mark: | Steam client    | :robot:  |
+
 ### Emulation scripts for setting up multiple emulators
 
 | Script                                            | FOSS               | License   | Paid | Active | Recommended        | Emulators used                                    | Platform  |
