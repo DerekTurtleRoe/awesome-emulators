@@ -17,7 +17,7 @@ Legend:
 | Name       | Icon               | Meaning                                                                           |
 | ---------- | ------------------ | --------------------------------------------------------------------------------- |
 | Check mark | :heavy_check_mark: | Open-source project                                                               |
-| Minus sign | :heavy_minus_sign: | Partially open-source, no license, incorrect license, or disputed project license |
+| Minus sign | :heavy_minus_sign: | Source available, other                                                           |
 | X          | :x:                | Closed-source/proprietary project                                                 |
 
 ## Platform Support
