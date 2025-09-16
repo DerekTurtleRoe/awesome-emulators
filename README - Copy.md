@@ -1903,6 +1903,26 @@ For support, open an issue.
 - All the incredible, hard working, and talented developers who work on all these emulators for free and in their spare time, thank you!
 - You for reading this! 😄
 
+## ❓ FAQ
+
+### Where can I download games?
+
+Ideally you would dump games and firmware from your legitimately owned hardware. I don't support piracy and I won't engage in discussions of piracy here. This includes (but is not limited to) piracy of emulators, piracy of software for use in emulators, etc. This is not a preference, it is to avoid legal issues.
+
+Keep in mind that piracy and dumping software for your own use are two different things. One is legal in most jurisdictions, and the other is not. I am not a lawyer, but there is a difference in definition. Contact your lawyer if you need further information.
+
+### Can you give me personal help with emulator setup, dumping games and software, or other things?
+
+I am always willing to help people in need if I have the knowledge and experience to help. However, I spend a lot of time/energy on various projects and helping people with sometimes very technical things for free in my spare time. I am currently unemployed and have been for several years. I'm not here to tell you my life story or anything, but since I take a lot of time out of my own personal free time to create educational resources and work on community projects, it would be nice if you could to either send me a little tip or at the very least spread the word about my resources and projects.
+
+I intend on making YouTube videos to help people with setting up emulators and other things at some point. When that happens, I will add relevant links here.
+
+Also, to help people trying to help you, please at least show you put in some effort to try and fix your issues like searching around the internet and reading documentation/official websites/etc before asking for help, and please provide as much information as you can before trying to get assistance.
+
+Please do not open issues for anything other than issues with the project itself. If it is deemed off-topic or unrelated, they will be locked and closed.
+
+Thank you. 😄
+
 ## 🐢 Author
 
 [@DerekTurtleRoe](https://www.github.com/DerekTurtleRoe)
