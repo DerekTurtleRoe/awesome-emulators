@@ -1871,6 +1871,7 @@ _Disclaimer: These tools are listed for preservation of games that are either no
 | [Romulus ROM Manager](https://romulus.dats.site/)                     | :x:                | Proprietary | :x:  | :heavy_check_mark: | :heavy_check_mark: | Multiple         |          |
 | [ArcadeManager](https://github.com/cosmo0/arcade-manager)             | :heavy_check_mark: | MIT license | :x:  | :heavy_check_mark: | :heavy_check_mark: | Arcade systems   |          |
 | [Steam ROM Manager](https://github.com/SteamGridDB/steam-rom-manager) | :heavy_check_mark: | GNU GPLv3   | :x:  | :heavy_check_mark: | :heavy_check_mark: | Multiple systems |          |
+| [n01d-timemachine](https://github.com/bad-antics/n01d-timemachine)       | :heavy_check_mark: | MIT license | :x:  | :heavy_check_mark: | :heavy_check_mark: | Multiple         |          |
 | [MAME Miner](https://github.com/longjoel/MameMiner)                   | :heavy_check_mark: | MIT license | :x:  | :x:                | :x:                | Arcade systems   |          |
 
 ## 👨‍💻 Contributing
