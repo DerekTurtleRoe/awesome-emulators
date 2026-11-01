@@ -716,6 +716,7 @@ Legend:
 | [NeoCD/SDL](http://pacifi3d.retrogames.com/neocdsdl/)                       | :heavy_minus_sign: | Source available | :x:  | :x:                | :heavy_minus_sign: | Neo Geo CD                  | :computer: :penguin: Dreamcast PS2 Xbox |
 | [NeoRAINE](https://www.zophar.net/ngcd/neoraine.html)                       | :x:                | Proprietary      | :x:  | :x:                | :heavy_minus_sign: | Neo Geo AES/MVS, CD | :computer:                                             |
 | [RAINE](https://github.com/zelurker/raine)                                  | :heavy_minus_sign: | Source available | :x:  | :x:                | :heavy_minus_sign: | Neo Geo AES/MVS, CD | :computer: :penguin: :imp:                             |
+| [NeoBox](https://neo-box.app)                                  | :x: | Proprietary | :heavy_check_mark:  | :heavy_check_mark:                | :x: | Neo Geo AES/MVS | :apple: :iphone:   
 
 ### Pong consoles
 
