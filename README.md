@@ -1,5 +1,7 @@
 # Awesome Emulators
 
+[![AI contributions not accepted](https://img.shields.io/badge/AI%20contributions-not%20accepted-red)](CONTRIBUTING.md#ai-generated-contributions)
+
 A list of all the emulators for a particular system. Includes honorable and historical mentions as well!
 
 This list will always be kept as complete and up-to-date as possible, but please open an issue if you have any questions/comments/concerns.

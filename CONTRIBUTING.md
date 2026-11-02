@@ -2,6 +2,10 @@
 
 Thanks for helping keep this list complete and up to date! You can open an issue using the "New or updated emulator" template, or submit a pull request.
 
+## AI-generated contributions
+
+We do not accept contributions generated in whole or in part by AI tools. Contributions must be authored by a human contributor.
+
 ## Adding or updating an entry
 
 1. Find the section for the system (or add one, and add it to the Table of Contents).
