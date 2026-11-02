@@ -1,0 +1,74 @@
+name: New or updated emulator
+description: Suggest adding an emulator or correcting an existing entry
+labels: ["emulator"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Emulator name
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Official website or repository
+      description: Use mirrors only if no official link exists.
+    validations:
+      required: true
+  - type: input
+    id: systems
+    attributes:
+      label: Emulated systems
+    validations:
+      required: true
+  - type: dropdown
+    id: foss
+    attributes:
+      label: Source availability
+      options:
+        - Open-source
+        - Source available, other
+        - Closed-source/proprietary
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License
+      placeholder: GPLv3, MIT, Proprietary...
+  - type: dropdown
+    id: paid
+    attributes:
+      label: Is it paid?
+      options:
+        - "No"
+        - "Yes"
+    validations:
+      required: true
+  - type: dropdown
+    id: active
+    attributes:
+      label: Is it actively developed?
+      options:
+        - "Yes"
+        - "No"
+    validations:
+      required: true
+  - type: checkboxes
+    id: platforms
+    attributes:
+      label: Platforms
+      options:
+        - label: Windows
+        - label: macOS
+        - label: Linux
+        - label: BSD
+        - label: Android
+        - label: iOS
+        - label: Web
+        - label: DOS
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything else, such as whether you personally recommend it and why.

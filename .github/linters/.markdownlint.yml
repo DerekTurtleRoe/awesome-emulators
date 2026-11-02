@@ -1,0 +1,14 @@
+default: true
+
+# Tables and long link lists make line-length limits impractical
+MD013: false
+# The README uses inline emoji shortcodes and occasional HTML
+MD033: false
+# Section names such as "Nintendo 64" repeat under different parent headings
+MD024: false
+# The intro uses bold italic text as a callout
+MD036: false
+# Templates and some entries intentionally start without an H1 or use placeholder links
+MD041: false
+MD042: false
+MD059: false
